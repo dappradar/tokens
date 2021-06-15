@@ -1,0 +1,8 @@
+{
+    "symbol": "vVSP",
+    "name": "vVSP pool (PoS)",
+    "decimals": 18,
+    "address": "0xf2c1b3b6eb00a3fe46478fc2e7a5e04997feba22",
+    "mintable": false,
+    "ethereum_address": "0xba4cfe5741b357fa371b506e5db0774abfecf8fc"
+}
