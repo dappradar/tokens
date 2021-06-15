@@ -1,0 +1,6 @@
+{
+    "symbol": "unicDAI",
+    "name": "UniswapCompoundDai",
+    "decimals": 18,
+    "address": "0x34e89740adf97c3a9d3f63cc2ce4a914382c230b"
+}
