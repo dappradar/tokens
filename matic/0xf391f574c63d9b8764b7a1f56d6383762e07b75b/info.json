@@ -1,0 +1,8 @@
+{
+    "symbol": "FEG",
+    "name": "FEGtoken (PoS)",
+    "decimals": 9,
+    "address": "0xf391f574c63d9b8764b7a1f56d6383762e07b75b",
+    "mintable": false,
+    "ethereum_address": "0x389999216860ab8e0175387a0c90e5c52522c945"
+}
