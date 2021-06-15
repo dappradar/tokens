@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% JOYWHA-20 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xd3afa2319bc613bdad758416e45b7a33d1a8d553",
+    "tokens": [
+        "0xeb89e0bc1cebc13d7b9196de0877715d8c981323",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
