@@ -1,0 +1,8 @@
+{
+    "symbol": "OXT",
+    "name": "Orchid (PoS)",
+    "decimals": 18,
+    "address": "0x9880e3dda13c8e7d4804691a45160102d31f6060",
+    "mintable": false,
+    "ethereum_address": "0x4575f41308ec1483f3d399aa9a2826d74da13deb"
+}
