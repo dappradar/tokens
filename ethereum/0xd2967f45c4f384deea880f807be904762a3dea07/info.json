@@ -1,0 +1,6 @@
+{
+    "symbol": "gusdCRV",
+    "name": "Curve.fi GUSD/DAI/USDC/USDT",
+    "decimals": 18,
+    "address": "0xd2967f45c4f384deea880f807be904762a3dea07"
+}
