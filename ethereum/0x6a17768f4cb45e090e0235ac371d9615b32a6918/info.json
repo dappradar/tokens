@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% LUMANE-75 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x6a17768f4cb45e090e0235ac371d9615b32a6918",
+    "tokens": [
+        "0x7dde3aa7b1a29eb8b4c6d7b37f4b5a3e0ccad3d4",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
