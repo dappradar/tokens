@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% CAUBAR-24 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xf38d873c50acc772c433d90658e6f0276eab3c83",
+    "tokens": [
+        "0xbe5cf6a4ffa76fffc22b02844894b172c9592463",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
