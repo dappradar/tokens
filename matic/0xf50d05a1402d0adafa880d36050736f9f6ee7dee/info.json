@@ -1,0 +1,8 @@
+{
+    "symbol": "INST",
+    "name": "Instadapp (PoS)",
+    "decimals": 18,
+    "address": "0xf50d05a1402d0adafa880d36050736f9f6ee7dee",
+    "mintable": false,
+    "ethereum_address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb"
+}
