@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2LINKETH",
+    "name": "UniswapV2LINKETH",
+    "decimals": 18,
+    "address": "0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974",
+    "tokens": [
+        "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    ]
+}
