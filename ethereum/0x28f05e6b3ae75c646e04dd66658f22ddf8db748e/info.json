@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% LACSWO-23 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x28f05e6b3ae75c646e04dd66658f22ddf8db748e",
+    "tokens": [
+        "0x05bcdbcd2f3a1bfc980566f2b7d29d7a55ee2f1e",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
