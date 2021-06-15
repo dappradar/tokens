@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% USDC + 50% CREAM Pool",
+    "decimals": 18,
+    "address": "0x4fd2d9d6ef05e13bf0b167509151a4ec3d4d4b93",
+    "tokens": [
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "0x2ba592f78db6436527729929aaf6c908497cb200"
+    ]
+}
