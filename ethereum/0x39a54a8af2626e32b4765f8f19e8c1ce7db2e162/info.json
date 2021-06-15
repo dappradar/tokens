@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% INTSEA-61 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x39a54a8af2626e32b4765f8f19e8c1ce7db2e162",
+    "tokens": [
+        "0x7edf9091453b7cf45c488bf3b89e1dee9e214816",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
