@@ -1,0 +1,8 @@
+{
+    "symbol": "SAK3",
+    "name": "Sake (PoS)",
+    "decimals": 18,
+    "address": "0xeee92219b7c4dc9b8aa31da1c071bc4932e6ce99",
+    "mintable": false,
+    "ethereum_address": "0xe9f84de264e91529af07fa2c746e934397810334"
+}
