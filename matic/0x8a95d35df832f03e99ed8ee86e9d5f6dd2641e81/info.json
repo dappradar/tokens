@@ -1,0 +1,8 @@
+{
+    "symbol": "XPL",
+    "name": "ExoPlanets (PoS)",
+    "decimals": 18,
+    "address": "0x8a95d35df832f03e99ed8ee86e9d5f6dd2641e81",
+    "mintable": false,
+    "ethereum_address": "0xb12e260275bcd28e6f8820666ba02c67c9600843"
+}
