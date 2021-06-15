@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% PERCOD-10 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x767820dd0636ea9fa6b26a5be71b93b9f5ed79eb",
+    "tokens": [
+        "0xd97769340c9135d36a26c8c4da02111b76868d3e",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
