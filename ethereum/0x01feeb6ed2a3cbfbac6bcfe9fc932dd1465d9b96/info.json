@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% INCCOR-16 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x01feeb6ed2a3cbfbac6bcfe9fc932dd1465d9b96",
+    "tokens": [
+        "0x0d535c79fda3a261bea9404223ed32ba382e5993",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
