@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% VORBAR-1 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xd44c270d3c89dc7fed49d4757d11017d6c855883",
+    "tokens": [
+        "0x28fda553d07c6a208db44f73a3c1ad805ebb18c6",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
