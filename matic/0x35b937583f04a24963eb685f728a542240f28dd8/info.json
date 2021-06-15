@@ -1,0 +1,8 @@
+{
+    "symbol": "SFI",
+    "name": "Spice (PoS)",
+    "decimals": 18,
+    "address": "0x35b937583f04a24963eb685f728a542240f28dd8",
+    "mintable": false,
+    "ethereum_address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c"
+}
