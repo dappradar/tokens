@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% REBCLA-72 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xde800b1e8e129eb73eefdb49dbee4be7e48383f4",
+    "tokens": [
+        "0xb93c88a9c76714b8ff26b33de2b7dfe8074d0252",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
