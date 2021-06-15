@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 60% SNTVT + 40% USDC Pool",
+    "decimals": 18,
+    "address": "0xcce6977a4762522f6c3a58846ff346eb056f5407",
+    "tokens": [
+        "0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    ]
+}
