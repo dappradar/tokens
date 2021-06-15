@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% MORSHE-52 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x77f51634fc7f565b76dfd8a365b6ba2f619e85ac",
+    "tokens": [
+        "0x512b43141d302bc8dfaa8634bd68406d01d941dc",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
