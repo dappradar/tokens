@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 80% DAI + 20% VALUE Pool",
+    "decimals": 18,
+    "address": "0x7b065a771d6e5bfbd67d8e8b15640feed06fe075",
+    "tokens": [
+        "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "0x49e833337ece7afe375e44f4e3e8481029218e5c"
+    ]
+}
