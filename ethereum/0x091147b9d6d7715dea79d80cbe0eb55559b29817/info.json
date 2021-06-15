@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% CLEEEL-83 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x091147b9d6d7715dea79d80cbe0eb55559b29817",
+    "tokens": [
+        "0x8b0acaa0cdc89f0a76acd246177dd75b9614af43",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
