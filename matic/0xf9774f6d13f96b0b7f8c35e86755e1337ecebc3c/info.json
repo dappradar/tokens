@@ -1,0 +1,8 @@
+{
+    "symbol": "HPAY",
+    "name": "HappyPay (PoS)",
+    "decimals": 18,
+    "address": "0xf9774f6d13f96b0b7f8c35e86755e1337ecebc3c",
+    "mintable": false,
+    "ethereum_address": "0xeee690aaa67d1ee33365c02c3bf477a93867052f"
+}
