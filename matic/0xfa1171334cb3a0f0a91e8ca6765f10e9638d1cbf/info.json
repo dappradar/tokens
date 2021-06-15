@@ -1,0 +1,8 @@
+{
+    "symbol": "FSN",
+    "name": "Fusion Token (PoS)",
+    "decimals": 18,
+    "address": "0xfa1171334cb3a0f0a91e8ca6765f10e9638d1cbf",
+    "mintable": false,
+    "ethereum_address": "0xd0352a019e9ab9d757776f532377aaebd36fd541"
+}
