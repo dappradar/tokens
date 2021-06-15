@@ -1,0 +1,8 @@
+{
+    "symbol": "CRO",
+    "name": "CRO (PoS)",
+    "decimals": 8,
+    "address": "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c",
+    "mintable": false,
+    "ethereum_address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+}
