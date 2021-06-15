@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% RISPEL-91 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xdf816bbb6d78f69e817a3a3fe2a6c43492559c1f",
+    "tokens": [
+        "0x02088f1e1d088a8d1d5d888c34b2fd3073d950c1",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
