@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% ANIPEL-20 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x93acc313f1fb07d10d9f238d37ac472fca62e387",
+    "tokens": [
+        "0x6ff3fe62ac95a605ef01e7e00b404a566fcc3f93",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
