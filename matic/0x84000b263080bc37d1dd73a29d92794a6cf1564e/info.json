@@ -1,0 +1,8 @@
+{
+    "symbol": "MNE",
+    "name": "Mireneum token",
+    "decimals": 8,
+    "address": "0x84000b263080bc37d1dd73a29d92794a6cf1564e",
+    "mintable": false,
+    "ethereum_address": "0x426ca1ea2406c07d75db9585f22781c096e3d0e0"
+}
