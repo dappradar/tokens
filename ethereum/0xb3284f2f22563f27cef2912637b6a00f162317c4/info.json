@@ -1,0 +1,10 @@
+{
+    "symbol": "CRPT",
+    "name": "Cream 50% crYETH + 50% crYYCRV Pool",
+    "decimals": 18,
+    "address": "0xb3284f2f22563f27cef2912637b6a00f162317c4",
+    "tokens": [
+        "0x01da76dea59703578040012357b81ffe62015c2d",
+        "0x4ee15f44c6f0d8d1136c83efd2e8e4ac768954c6"
+    ]
+}
