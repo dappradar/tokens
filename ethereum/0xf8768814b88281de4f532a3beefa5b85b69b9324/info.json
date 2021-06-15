@@ -1,0 +1,6 @@
+{
+    "symbol": "yvCurve-TUSD",
+    "name": "Curve TUSD Pool yVault",
+    "decimals": 18,
+    "address": "0xf8768814b88281de4f532a3beefa5b85b69b9324"
+}
