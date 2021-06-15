@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% LUMSTA-42 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xad67f7a72ba2ca971390b2a1dd907303bd577a4f",
+    "tokens": [
+        "0xa2b8b3ac4207cfccbde4ac7fa40214fd00a2ba71",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
