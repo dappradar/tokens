@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% TURCOR-86 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xc49ba70588430cca11aa8ac6d523754e4ddd6527",
+    "tokens": [
+        "0x7e783a8e9e11602909de9eacd57c3e5639fb028c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
