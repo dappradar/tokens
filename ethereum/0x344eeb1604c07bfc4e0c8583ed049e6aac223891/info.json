@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% MARRAY-61 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x344eeb1604c07bfc4e0c8583ed049e6aac223891",
+    "tokens": [
+        "0x7c0d0dc5bcacedf8121047c34bfb0abeb00d4b19",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
