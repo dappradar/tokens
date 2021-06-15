@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% MENPOR-76 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x97b65a16d6d0dfbc00275a8077d870526777c41f",
+    "tokens": [
+        "0x889ef0acdf490e52eff8899ede39b90108c165a3",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
