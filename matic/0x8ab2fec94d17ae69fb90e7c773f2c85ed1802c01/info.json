@@ -1,0 +1,8 @@
+{
+    "symbol": "LQTY",
+    "name": "LQTY (PoS)",
+    "decimals": 18,
+    "address": "0x8ab2fec94d17ae69fb90e7c773f2c85ed1802c01",
+    "mintable": false,
+    "ethereum_address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d"
+}
