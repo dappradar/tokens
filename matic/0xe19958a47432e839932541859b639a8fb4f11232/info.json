@@ -1,0 +1,8 @@
+{
+    "symbol": "EWIT",
+    "name": "eWit (PoS)",
+    "decimals": 9,
+    "address": "0xe19958a47432e839932541859b639a8fb4f11232",
+    "mintable": false,
+    "ethereum_address": "0x56ee175fe37cd461486ce3c3166e0cafccd9843f"
+}
