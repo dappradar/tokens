@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% SPACRA-99 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x84682d3b5f187e23f94c9c55833b793b358210c7",
+    "tokens": [
+        "0x3aa75ecb387294d3f6420b19e8b47793b62b67e1",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
