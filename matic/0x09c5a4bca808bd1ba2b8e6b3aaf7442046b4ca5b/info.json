@@ -1,0 +1,8 @@
+{
+    "symbol": "VSP",
+    "name": "VesperToken (PoS)",
+    "decimals": 18,
+    "address": "0x09c5a4bca808bd1ba2b8e6b3aaf7442046b4ca5b",
+    "mintable": false,
+    "ethereum_address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421"
+}
