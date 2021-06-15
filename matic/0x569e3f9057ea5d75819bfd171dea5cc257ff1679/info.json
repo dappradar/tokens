@@ -1,0 +1,8 @@
+{
+    "symbol": "REVV",
+    "name": "REVV (PoS)",
+    "decimals": 18,
+    "address": "0x569e3f9057ea5d75819bfd171dea5cc257ff1679",
+    "mintable": false,
+    "ethereum_address": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca"
+}
