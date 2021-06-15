@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% STUSHR-2 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x512a2dd77b5f42a1ef0e742f27b28b0cff1a82eb",
+    "tokens": [
+        "0xa68b7033ffef08a8c74db2336825dc6d0facbf11",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
