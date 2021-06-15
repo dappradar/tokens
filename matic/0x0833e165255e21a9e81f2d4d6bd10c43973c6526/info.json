@@ -1,0 +1,8 @@
+{
+    "symbol": "CPTE",
+    "name": "Crypto puzzles (PoS)",
+    "decimals": 18,
+    "address": "0x0833e165255e21a9e81f2d4d6bd10c43973c6526",
+    "mintable": false,
+    "ethereum_address": "0xe0bdfe2ce51f44556309665d59818ccb541ff067"
+}
