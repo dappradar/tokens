@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% JUDHER-79 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xa989f85207b737059e495416a01ae669ca40bd6f",
+    "tokens": [
+        "0xef8d5d99a1f73b7d4a73a85808a6facee8ff215a",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
