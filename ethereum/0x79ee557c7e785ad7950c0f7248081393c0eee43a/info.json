@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% VALUE + 50% TRY Pool",
+    "decimals": 18,
+    "address": "0x79ee557c7e785ad7950c0f7248081393c0eee43a",
+    "tokens": [
+        "0x49e833337ece7afe375e44f4e3e8481029218e5c",
+        "0xc12ecee46ed65d970ee5c899fcc7ae133aff9b03"
+    ]
+}
