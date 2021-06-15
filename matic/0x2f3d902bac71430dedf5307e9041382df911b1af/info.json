@@ -1,0 +1,8 @@
+{
+    "symbol": "eMax",
+    "name": "EthereumMax (PoS)",
+    "decimals": 18,
+    "address": "0x2f3d902bac71430dedf5307e9041382df911b1af",
+    "mintable": false,
+    "ethereum_address": "0x15874d65e649880c2614e7a480cb7c9a55787ff6"
+}
