@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% PLAHER-3 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xfb3471d803acb77c4d8552b45e282dd1f8be6e31",
+    "tokens": [
+        "0xe0a7816eadd023fa5be3384b046a56039cd2b4dd",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
