@@ -1,0 +1,8 @@
+{
+    "symbol": "MOCA",
+    "name": "Museum of Crypto Art (PoS)",
+    "decimals": 18,
+    "address": "0xce899f26928a2b21c6a2fddd393ef37c61dba918",
+    "mintable": true,
+    "ethereum_address": "0x9ac07635ddbde5db18648c360defb00f5f22537e"
+}
