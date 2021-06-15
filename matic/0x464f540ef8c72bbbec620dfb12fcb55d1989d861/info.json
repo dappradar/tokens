@@ -1,0 +1,8 @@
+{
+    "symbol": "BIRD",
+    "name": "Bird.Money (PoS)",
+    "decimals": 18,
+    "address": "0x464f540ef8c72bbbec620dfb12fcb55d1989d861",
+    "mintable": false,
+    "ethereum_address": "0x70401dfd142a16dc7031c56e862fc88cb9537ce0"
+}
