@@ -1,0 +1,8 @@
+{
+    "symbol": "RTRD",
+    "name": "Highly Regarded Token (PoS)",
+    "decimals": 18,
+    "address": "0x5b0c10270ae2ee3dc1003bb1e5cb63e93306131c",
+    "mintable": false,
+    "ethereum_address": "0x5aaddb423d184b4f84b1c07022a1ba1168f83575"
+}
