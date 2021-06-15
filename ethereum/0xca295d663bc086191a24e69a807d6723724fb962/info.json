@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% TREOYS-32 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xca295d663bc086191a24e69a807d6723724fb962",
+    "tokens": [
+        "0x0c0102b6d68886c2b9c5d9aa6d62bd0db532d884",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
