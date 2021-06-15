@@ -1,0 +1,8 @@
+{
+    "symbol": "PLA",
+    "name": "PlayDapp Token (PoS)",
+    "decimals": 18,
+    "address": "0x8765f05adce126d70bcdf1b0a48db573316662eb",
+    "mintable": false,
+    "ethereum_address": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430"
+}
