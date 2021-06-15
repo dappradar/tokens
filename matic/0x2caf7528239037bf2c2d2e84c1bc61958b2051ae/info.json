@@ -1,0 +1,8 @@
+{
+    "symbol": "FLUX",
+    "name": "VidyaFLUX (PoS)",
+    "decimals": 18,
+    "address": "0x2caf7528239037bf2c2d2e84c1bc61958b2051ae",
+    "mintable": false,
+    "ethereum_address": "0x34317e2da45fec7c525aca8dabf22cbc877128a3"
+}
