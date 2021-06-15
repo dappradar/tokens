@@ -2,5 +2,9 @@
     "symbol": "UNI-V2",
     "name": "Uniswap V2",
     "decimals": 18,
-    "address": "0x59f96b8571e3b11f859a09eaf5a790a138fc64d0"
+    "address": "0x59f96b8571e3b11f859a09eaf5a790a138fc64d0",
+    "tokens": [
+        "0xa7de087329bfcda5639247f96140f9dabe3deed1",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    ]
 }
