@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% BRIBAR-90 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x0cf5a2775de7f4e915f79b26b72cb6115153a31d",
+    "tokens": [
+        "0xbeb652a6cdc6cb3f237ff6d7d63d536889e0000a",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
