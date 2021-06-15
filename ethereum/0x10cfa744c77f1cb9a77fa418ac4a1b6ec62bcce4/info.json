@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2MCBETH",
+    "name": "UniswapV2MCBETH",
+    "decimals": 18,
+    "address": "0x10cfa744c77f1cb9a77fa418ac4a1b6ec62bcce4",
+    "tokens": [
+        "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    ]
+}
