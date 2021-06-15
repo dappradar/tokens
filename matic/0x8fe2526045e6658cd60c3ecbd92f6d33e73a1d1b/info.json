@@ -1,0 +1,8 @@
+{
+    "symbol": "bXIOT",
+    "name": "bXIOT Token (PoS)",
+    "decimals": 6,
+    "address": "0x8fe2526045e6658cd60c3ecbd92f6d33e73a1d1b",
+    "mintable": false,
+    "ethereum_address": "0x5c4ac68aac56ebe098d621cd8ce9f43270aaa355"
+}
