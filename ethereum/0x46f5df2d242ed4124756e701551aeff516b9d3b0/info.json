@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% BOOTUR-29 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x46f5df2d242ed4124756e701551aeff516b9d3b0",
+    "tokens": [
+        "0xba8bfd02327c8a826f57294d8b38c5fc7c43755d",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
