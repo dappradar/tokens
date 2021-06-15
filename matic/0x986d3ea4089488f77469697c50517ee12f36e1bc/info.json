@@ -1,0 +1,8 @@
+{
+    "symbol": "DEFI+S",
+    "name": "PieDAO DEFI Small Cap (PoS)",
+    "decimals": 18,
+    "address": "0x986d3ea4089488f77469697c50517ee12f36e1bc",
+    "mintable": false,
+    "ethereum_address": "0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c"
+}
