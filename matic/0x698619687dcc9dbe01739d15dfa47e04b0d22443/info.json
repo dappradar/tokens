@@ -1,0 +1,8 @@
+{
+    "symbol": "ZOOT",
+    "name": "Zoo Token (PoS)",
+    "decimals": 9,
+    "address": "0x698619687dcc9dbe01739d15dfa47e04b0d22443",
+    "mintable": false,
+    "ethereum_address": "0x1341a2257fa7b770420ef70616f888056f90926c"
+}
