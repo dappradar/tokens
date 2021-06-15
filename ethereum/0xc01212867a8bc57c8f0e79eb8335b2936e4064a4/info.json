@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% CHACOD-81 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xc01212867a8bc57c8f0e79eb8335b2936e4064a4",
+    "tokens": [
+        "0x9322aa125920b7c07560bb2aaa760254737acd1c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
