@@ -1,0 +1,8 @@
+{
+    "symbol": "OCTT",
+    "name": "Octett (PoS)",
+    "decimals": 18,
+    "address": "0x37b5f741371abf2207d236b6309d7d2015bd64e9",
+    "mintable": false,
+    "ethereum_address": "0x06da6213683a01201b38ee1b39f56090a3cc5703"
+}
