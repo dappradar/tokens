@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% PETHAD-37 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x2c6011ef82b2afa2dde17f35ce85211848967be3",
+    "tokens": [
+        "0x196c10816cde1834aca53a89c9b0bc88fad79f54",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
