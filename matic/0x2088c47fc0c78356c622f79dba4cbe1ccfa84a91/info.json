@@ -1,0 +1,8 @@
+{
+    "symbol": "HUSD",
+    "name": "HUSD (PoS)",
+    "decimals": 8,
+    "address": "0x2088c47fc0c78356c622f79dba4cbe1ccfa84a91",
+    "mintable": false,
+    "ethereum_address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1"
+}
