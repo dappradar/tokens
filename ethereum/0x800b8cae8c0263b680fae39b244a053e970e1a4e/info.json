@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% DIDNAR-63 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x800b8cae8c0263b680fae39b244a053e970e1a4e",
+    "tokens": [
+        "0xd604468b78d26ce28e826f089b73f80b6958aedf",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
