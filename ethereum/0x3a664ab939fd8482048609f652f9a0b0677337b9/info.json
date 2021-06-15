@@ -1,0 +1,6 @@
+{
+    "symbol": "dusdCRV",
+    "name": "Curve.fi DUSD/DAI/USDC/USDT",
+    "decimals": 18,
+    "address": "0x3a664ab939fd8482048609f652f9a0b0677337b9"
+}
