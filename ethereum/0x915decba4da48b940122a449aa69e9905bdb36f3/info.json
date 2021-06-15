@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% MERFUG-75 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x915decba4da48b940122a449aa69e9905bdb36f3",
+    "tokens": [
+        "0x8051aa230923da0e4a6574f341bdbd2f27c5979c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
