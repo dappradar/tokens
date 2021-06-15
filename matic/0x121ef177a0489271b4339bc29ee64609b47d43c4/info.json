@@ -1,0 +1,8 @@
+{
+    "symbol": "pBTC",
+    "name": "pTokens BTC (PoS)",
+    "decimals": 18,
+    "address": "0x121ef177a0489271b4339bc29ee64609b47d43c4",
+    "mintable": false,
+    "ethereum_address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b"
+}
