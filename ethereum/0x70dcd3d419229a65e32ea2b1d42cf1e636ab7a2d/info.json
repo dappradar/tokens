@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% AMBFIS-34 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x70dcd3d419229a65e32ea2b1d42cf1e636ab7a2d",
+    "tokens": [
+        "0xecd0bcfeb134ce6f3027804f576de742d39edb3a",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
