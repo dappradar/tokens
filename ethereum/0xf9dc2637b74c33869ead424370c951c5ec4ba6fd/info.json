@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% DEFSHA-52 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xf9dc2637b74c33869ead424370c951c5ec4ba6fd",
+    "tokens": [
+        "0xee00e05e986c726c48633c77236a277f159991bb",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
