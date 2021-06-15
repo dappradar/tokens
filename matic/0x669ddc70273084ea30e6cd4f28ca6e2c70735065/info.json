@@ -1,0 +1,8 @@
+{
+    "symbol": "AGAc",
+    "name": "AGA Carbon Credit (PoS)",
+    "decimals": 18,
+    "address": "0x669ddc70273084ea30e6cd4f28ca6e2c70735065",
+    "mintable": false,
+    "ethereum_address": "0xf2032813aa3c8feef7973e44a92e68ab11ee8021"
+}
