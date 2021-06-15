@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% FANCOD-90 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xb5a3aa6d9a801f7b4849088d794651c89f221970",
+    "tokens": [
+        "0x93183030b18b2f0e2a3869a0dd594324e0ea523a",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
