@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% PARANG-57 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x281fd2b2a74d39ab555241fd59d0b9d8f28856fc",
+    "tokens": [
+        "0x19820fc643eb3b3b0de3ce402991c59e16b500f1",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
