@@ -1,0 +1,8 @@
+{
+    "symbol": "SMI",
+    "name": "SafeMoon Inu (PoS)",
+    "decimals": 8,
+    "address": "0x196de3b89083adcad83fe49a308de24a96194731",
+    "mintable": false,
+    "ethereum_address": "0xcd7492db29e2ab436e819b249452ee1bbdf52214"
+}
