@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% TASTUR-70 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xb3a200a8e60442abf91069ec25b8248296a75192",
+    "tokens": [
+        "0xb916162e78b70488d25e79d65c4f1e5db2fda31f",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
