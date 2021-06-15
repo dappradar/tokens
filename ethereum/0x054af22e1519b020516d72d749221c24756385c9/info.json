@@ -1,0 +1,6 @@
+{
+    "symbol": "yvCurve-HUSD",
+    "name": "Curve HUSD Pool yVault",
+    "decimals": 18,
+    "address": "0x054af22e1519b020516d72d749221c24756385c9"
+}
