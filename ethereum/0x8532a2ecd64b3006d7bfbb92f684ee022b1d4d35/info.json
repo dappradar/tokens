@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% WETH + 50% MEE Pool",
+    "decimals": 18,
+    "address": "0x8532a2ecd64b3006d7bfbb92f684ee022b1d4d35",
+    "tokens": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106"
+    ]
+}
