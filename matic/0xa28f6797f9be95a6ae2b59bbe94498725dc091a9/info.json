@@ -1,0 +1,8 @@
+{
+    "symbol": "ZARP",
+    "name": "ZARP (Rand Reserve) (PoS)",
+    "decimals": 2,
+    "address": "0xa28f6797f9be95a6ae2b59bbe94498725dc091a9",
+    "mintable": false,
+    "ethereum_address": "0x2f085edec7113e54a1747bd9572b213e662c6165"
+}
