@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% crYFI + 50% crCREAM Pool",
+    "decimals": 18,
+    "address": "0xa65405e0dd378c65308deae51da9e3bcebb81261",
+    "tokens": [
+        "0xcbae0a83f4f9926997c8339545fb8ee32edc6b76",
+        "0x892b14321a4fcba80669ae30bd0cd99a7ecf6ac0"
+    ]
+}
