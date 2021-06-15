@@ -1,0 +1,8 @@
+{
+    "symbol": "MUTT",
+    "name": "Mutt Coin (PoS)",
+    "decimals": 18,
+    "address": "0x3b538469d94cda1387c473f408c833c2208bced7",
+    "mintable": false,
+    "ethereum_address": "0x766b0f271b6bf2a424259e19e155d6d24ea1c0b1"
+}
