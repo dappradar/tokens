@@ -1,0 +1,8 @@
+{
+    "symbol": "ROYA",
+    "name": "Royale (PoS)",
+    "decimals": 18,
+    "address": "0x0bd820ad2d7ab7305b5c9538ba824c9b9beb0561",
+    "mintable": false,
+    "ethereum_address": "0x7eaf9c89037e4814dc0d9952ac7f888c784548db"
+}
