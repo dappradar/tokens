@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% LUMFUG-76 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xcb0e9a623b6f4a6806b82a3e689939a82c00fbde",
+    "tokens": [
+        "0x762bad0a28033a9e46f4ef5fd5d3dca5344e3e3f",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
