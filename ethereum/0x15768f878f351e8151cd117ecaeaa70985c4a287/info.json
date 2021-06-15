@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% QUENAU-12 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x15768f878f351e8151cd117ecaeaa70985c4a287",
+    "tokens": [
+        "0xe6b1d1dfe405891b5aaba4844c8099def0c9bcd1",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
