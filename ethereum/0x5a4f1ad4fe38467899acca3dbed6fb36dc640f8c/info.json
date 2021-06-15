@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% LOQBAR-89 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x5a4f1ad4fe38467899acca3dbed6fb36dc640f8c",
+    "tokens": [
+        "0x0f5b491ff05f5720f2cf7e5ed8ad73af779caf4c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
