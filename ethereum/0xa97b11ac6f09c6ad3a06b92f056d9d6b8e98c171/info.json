@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% DOWPRA-17 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xa97b11ac6f09c6ad3a06b92f056d9d6b8e98c171",
+    "tokens": [
+        "0x0c924af5c316aa5b21ac88ef451ea218cabe33c3",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
