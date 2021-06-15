@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% COMSTA-26 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x5cd8fb523e23190c78adafd4c536c9bd6db1b612",
+    "tokens": [
+        "0x59bdc11f7cde8ff747e85139f7085a786318cdd6",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
