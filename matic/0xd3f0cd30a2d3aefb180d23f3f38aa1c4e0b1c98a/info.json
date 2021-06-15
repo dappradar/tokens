@@ -1,0 +1,8 @@
+{
+    "symbol": "YPIE",
+    "name": "Yearn Ecosystem Pie (PoS)",
+    "decimals": 18,
+    "address": "0xd3f0cd30a2d3aefb180d23f3f38aa1c4e0b1c98a",
+    "mintable": false,
+    "ethereum_address": "0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31"
+}
