@@ -1,0 +1,8 @@
+{
+    "symbol": "DEFI+L",
+    "name": "PieDAO DEFI Large Cap (PoS)",
+    "decimals": 18,
+    "address": "0xe90777bd6c84bf4762565ed83bc5784cc9faf8c4",
+    "mintable": false,
+    "ethereum_address": "0x78f225869c08d478c34e5f645d07a87d3fe8eb78"
+}
