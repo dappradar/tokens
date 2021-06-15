@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% KINOYS-36 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x1ece0a488b468a0d9106ad2b9807cb2337a84856",
+    "tokens": [
+        "0x03b7aed0c1892d55740c6895c93a291e9d97d73c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
