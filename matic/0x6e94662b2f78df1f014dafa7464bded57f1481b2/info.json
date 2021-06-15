@@ -1,0 +1,8 @@
+{
+    "symbol": "KOJI",
+    "name": "Koji (PoS)",
+    "decimals": 18,
+    "address": "0x6e94662b2f78df1f014dafa7464bded57f1481b2",
+    "mintable": false,
+    "ethereum_address": "0x1c8266a4369af6d80df2659ba47b3c98f35cb8be"
+}
