@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% COMWHA-1 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x2e156795503a0cee429f30fa5095c23ab5192085",
+    "tokens": [
+        "0xc2b604fc7ddbd29a4de56acb7fd1436a4e22f062",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
