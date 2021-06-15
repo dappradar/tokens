@@ -1,0 +1,8 @@
+{
+    "symbol": "FLAP",
+    "name": "FLAPP (PoS)",
+    "decimals": 18,
+    "address": "0x594f9d6f09a17f9caf2dc3c8705a487433412f69",
+    "mintable": false,
+    "ethereum_address": "0xcfb72ed3647cc8e7fa52e4f121ecdabefc305e7f"
+}
