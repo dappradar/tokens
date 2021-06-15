@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% DEDPOR-69 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x7adcd8db841478e68e1cc48bfdd172223f9e4fe1",
+    "tokens": [
+        "0xba4ef99fe170d0adda2e2487a6cb3e9de0f60450",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
