@@ -1,0 +1,8 @@
+{
+    "symbol": "PIZZA",
+    "name": "pizza (PoS)",
+    "decimals": 18,
+    "address": "0x541f3ded0b7b6dcd5ac1f44ad2f2fd99ba8e667d",
+    "mintable": false,
+    "ethereum_address": "0x183fb2d55120d75af601fb714f2fadda61fed49e"
+}
