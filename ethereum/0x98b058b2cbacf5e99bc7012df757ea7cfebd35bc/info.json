@@ -1,0 +1,6 @@
+{
+    "symbol": "yvCurve-EURS",
+    "name": "Curve EURS Pool yVault",
+    "decimals": 18,
+    "address": "0x98b058b2cbacf5e99bc7012df757ea7cfebd35bc"
+}
