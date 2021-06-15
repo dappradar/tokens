@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% JUILOB-15 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xf0dcf786ee29e662215d263434940d6ec5643dd8",
+    "tokens": [
+        "0x003af2cdcd9b0bfb56db4166abea7c860f0cdfdc",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
