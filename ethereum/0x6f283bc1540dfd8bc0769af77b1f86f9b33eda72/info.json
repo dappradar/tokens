@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% PENHER-28 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x6f283bc1540dfd8bc0769af77b1f86f9b33eda72",
+    "tokens": [
+        "0x9e0634fc502d80910ce5a17aeaf4a9248fc7f977",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
