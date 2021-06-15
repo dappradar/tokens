@@ -1,0 +1,8 @@
+{
+    "symbol": "FSW",
+    "name": "FalconSwap Token (PoS)",
+    "decimals": 18,
+    "address": "0xad5dc12e88c6534eea8cfe2265851d9d4a1472ad",
+    "mintable": false,
+    "ethereum_address": "0xfffffffff15abf397da76f1dcc1a1604f45126db"
+}
