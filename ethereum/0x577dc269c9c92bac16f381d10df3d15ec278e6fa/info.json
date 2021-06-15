@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% HEUPLA-13 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x577dc269c9c92bac16f381d10df3d15ec278e6fa",
+    "tokens": [
+        "0xd7c1c36adb4b238408353961f00b0a3e4c0f293c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
