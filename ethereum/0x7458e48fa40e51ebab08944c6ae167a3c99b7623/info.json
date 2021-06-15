@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% TREPLA-80 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x7458e48fa40e51ebab08944c6ae167a3c99b7623",
+    "tokens": [
+        "0x970745b662a799dce691a386abb7cd07c26a7528",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
