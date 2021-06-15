@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% DELANC-48 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x4e629faaab2dda60defef22e0e3e2f823d6bad11",
+    "tokens": [
+        "0x927b74f8ba9c602602abf17d2de9f3c70f2ed4ea",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
