@@ -1,0 +1,11 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 44% WETH + 6% WBTC + 11% USDC + 10% DAI + 10% USDT + 16% PACA Pool",
+    "decimals": 18,
+    "address": "0xccfe5696b853f4b77878919bba83e1867378c93a",
+    "tokens": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "0x580b2ebfb318613f89ec7668e79fae45dbdbe4bf",
+        "0x6b175474e89094c44da98b954eedeac495271d0f"
+    ]
+}
