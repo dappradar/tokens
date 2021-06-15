@@ -1,0 +1,8 @@
+{
+    "symbol": "VUSD",
+    "name": "VUSD (PoS)",
+    "decimals": 18,
+    "address": "0x28f4f063c2405922d8792b04ff24983d6ee7a4b4",
+    "mintable": false,
+    "ethereum_address": "0x677ddbd918637e5f2c79e164d402454de7da8619"
+}
