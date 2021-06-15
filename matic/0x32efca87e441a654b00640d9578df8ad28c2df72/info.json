@@ -1,0 +1,8 @@
+{
+    "symbol": "CAT",
+    "name": "Cat Token (PoS)",
+    "decimals": 18,
+    "address": "0x32efca87e441a654b00640d9578df8ad28c2df72",
+    "mintable": false,
+    "ethereum_address": "0x56015bbe3c01fe05bc30a8a9a9fd9a88917e7db3"
+}
