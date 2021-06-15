@@ -1,0 +1,6 @@
+{
+    "symbol": "yvCurve-HBTC",
+    "name": "Curve HBTC Pool yVault",
+    "decimals": 18,
+    "address": "0x46afc2dfbd1ea0c0760cad8262a5838e803a37e5"
+}
