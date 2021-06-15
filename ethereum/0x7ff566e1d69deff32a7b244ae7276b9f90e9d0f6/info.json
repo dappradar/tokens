@@ -1,0 +1,6 @@
+{
+    "symbol": "ycrvRenWSBTC",
+    "name": "yearn Curve.fi renBTC/wBTC/sBTC",
+    "decimals": 18,
+    "address": "0x7ff566e1d69deff32a7b244ae7276b9f90e9d0f6"
+}
