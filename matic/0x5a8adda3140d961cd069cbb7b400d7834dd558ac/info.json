@@ -1,0 +1,8 @@
+{
+    "symbol": "oDOGE",
+    "name": "BoringDAO DOGE (PoS)",
+    "decimals": 18,
+    "address": "0x5a8adda3140d961cd069cbb7b400d7834dd558ac",
+    "mintable": false,
+    "ethereum_address": "0x9c306a78b1a904e83115c05ac67c1ef07c653651"
+}
