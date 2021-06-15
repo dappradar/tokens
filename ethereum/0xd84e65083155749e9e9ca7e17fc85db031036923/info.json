@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% DAZSTA-33 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xd84e65083155749e9e9ca7e17fc85db031036923",
+    "tokens": [
+        "0xc41b42fd66bb8ab0bbf728c92e956b1380148520",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
