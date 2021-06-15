@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% TURWHA-71 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xf77cc9d9e60c20a8f24ac979c73e4f08cf9e7b23",
+    "tokens": [
+        "0xe8a0f13666a3b0d921146e94e49acedd6e7bc333",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
