@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2XORETH",
+    "name": "UniswapV2XORETH",
+    "decimals": 18,
+    "address": "0x01962144d41415cca072900fe87bbe2992a99f10",
+    "tokens": [
+        "0x40fd72257597aa14c7231a7b1aaa29fce868f677",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    ]
+}
