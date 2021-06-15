@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% SPAEEL-37 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xd8b36323c0cdb9c5d35d54d81f7698a8c0b5e7ac",
+    "tokens": [
+        "0xb67113dcc35b2812a3d70a02a146a5c4c655297c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
