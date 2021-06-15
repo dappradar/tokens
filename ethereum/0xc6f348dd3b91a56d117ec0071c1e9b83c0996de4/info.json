@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2ETHZRX",
+    "name": "UniswapV2ETHZRX",
+    "decimals": 18,
+    "address": "0xc6f348dd3b91a56d117ec0071c1e9b83c0996de4",
+    "tokens": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "0xe41d2489571d322189246dafa5ebde1f4699f498"
+    ]
+}
