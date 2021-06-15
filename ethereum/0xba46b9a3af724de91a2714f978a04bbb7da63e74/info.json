@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% REDDOL-54 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xba46b9a3af724de91a2714f978a04bbb7da63e74",
+    "tokens": [
+        "0x88035684dccd4d4df10e26437bf15fad13e4f08f",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
