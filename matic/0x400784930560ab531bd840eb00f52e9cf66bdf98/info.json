@@ -1,0 +1,8 @@
+{
+    "symbol": "DEXTF",
+    "name": "DEXTF Token (PoS)",
+    "decimals": 18,
+    "address": "0x400784930560ab531bd840eb00f52e9cf66bdf98",
+    "mintable": false,
+    "ethereum_address": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0"
+}
