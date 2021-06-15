@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2DZARETH",
+    "name": "UniswapV2DZARETH",
+    "decimals": 18,
+    "address": "0xc5a788f63e5d9cf2c324621eed51a98f85ae373b",
+    "tokens": [
+        "0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    ]
+}
