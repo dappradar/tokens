@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% CREWHA-91 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xdd32e83cb5e441d52dd16d437449afd291c0688d",
+    "tokens": [
+        "0x571961bb26eb742e8071d7c9beae72d56959ed56",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
