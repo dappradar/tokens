@@ -1,0 +1,8 @@
+{
+    "symbol": "kiMATIC",
+    "name": "kittenMATIC (PoS)",
+    "decimals": 18,
+    "address": "0xaba7d7454175d549a21a6318831fde7f5046c303",
+    "mintable": true,
+    "ethereum_address": "0x4313d2669b73987433c82aa8df318a39da9e3209"
+}
