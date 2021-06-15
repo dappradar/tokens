@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% WITCOD-10 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xb9dcf5577984f1287227bd5683980cb977105993",
+    "tokens": [
+        "0x2498f08d2e1b7e8a181987a65b666fc85ec3f56d",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
