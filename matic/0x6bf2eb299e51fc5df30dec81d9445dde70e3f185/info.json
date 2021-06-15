@@ -1,0 +1,8 @@
+{
+    "symbol": "SRM",
+    "name": "Serum (PoS)",
+    "decimals": 6,
+    "address": "0x6bf2eb299e51fc5df30dec81d9445dde70e3f185",
+    "mintable": false,
+    "ethereum_address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff"
+}
