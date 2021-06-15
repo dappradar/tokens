@@ -1,0 +1,11 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 84% WETH + 2% MEE + 14% GOF Pool",
+    "decimals": 18,
+    "address": "0x3ba80ee3b02a2f1804aad705ab97eeb5b4b9f075",
+    "tokens": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106",
+        "0x488e0369f9bc5c40c002ea7c1fe4fd01a198801c"
+    ]
+}
