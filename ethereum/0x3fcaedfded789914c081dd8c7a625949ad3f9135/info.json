@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% INVBAR-60 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x3fcaedfded789914c081dd8c7a625949ad3f9135",
+    "tokens": [
+        "0xfc0a26a1c205fb0608ebde4da1ab968cc80ffe3d",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
