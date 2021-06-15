@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2HEXETH",
+    "name": "UniswapV2HEXETH",
+    "decimals": 18,
+    "address": "0x55d5c232d921b9eaa6b37b5845e439acd04b4dba",
+    "tokens": [
+        "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    ]
+}
