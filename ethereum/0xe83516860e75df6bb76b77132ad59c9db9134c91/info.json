@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% DELOYS-70 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xe83516860e75df6bb76b77132ad59c9db9134c91",
+    "tokens": [
+        "0x2a1be410439eb7866a8c0557416aee8c99eef84d",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
