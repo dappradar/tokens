@@ -1,0 +1,8 @@
+{
+    "symbol": "aDAI",
+    "name": "Aave interest bearing DAI (PoS)",
+    "decimals": 18,
+    "address": "0x329434fe066ac71d5fb93489f955a6959658097b",
+    "mintable": false,
+    "ethereum_address": "0x028171bca77440897b824ca71d1c56cac55b68a3"
+}
