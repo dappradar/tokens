@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% MOTFIS-14 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x2b1eb95f7a1558d9586c900f44bcd987886b3c90",
+    "tokens": [
+        "0x1006df380d79297a9d74277ba58df6e67e90a8ea",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
