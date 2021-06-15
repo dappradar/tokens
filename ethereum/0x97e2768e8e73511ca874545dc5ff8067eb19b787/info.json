@@ -1,0 +1,6 @@
+{
+    "symbol": "usdkCRV",
+    "name": "Curve.fi USDK/DAI/USDC/USDT",
+    "decimals": 18,
+    "address": "0x97e2768e8e73511ca874545dc5ff8067eb19b787"
+}
