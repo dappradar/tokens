@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% STRDOL-44 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xe13ecbe18440ad471c3c0b095d87a212d5c7edcb",
+    "tokens": [
+        "0xfcb258f7084d2e075270c0d4b1e79a3113e11837",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
