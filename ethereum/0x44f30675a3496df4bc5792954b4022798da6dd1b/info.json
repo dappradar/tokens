@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 97% VALUE + 3% SUSAFE Pool",
+    "decimals": 18,
+    "address": "0x44f30675a3496df4bc5792954b4022798da6dd1b",
+    "tokens": [
+        "0x49e833337ece7afe375e44f4e3e8481029218e5c",
+        "0xb5eb2247cd16166d86925dccfa5b3d083daa0e5c"
+    ]
+}
