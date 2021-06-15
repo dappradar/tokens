@@ -1,0 +1,8 @@
+{
+    "symbol": "DEFI++",
+    "name": "PieDAO DEFI++ (PoS)",
+    "decimals": 18,
+    "address": "0x5b6ab5078bd2bbf1a215fffba16a94b7df7f639d",
+    "mintable": false,
+    "ethereum_address": "0x8d1ce361eb68e9e05573443c407d4a3bed23b033"
+}
