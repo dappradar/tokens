@@ -1,0 +1,6 @@
+{
+    "symbol": "aWETH",
+    "name": "Aave interest bearing WETH",
+    "decimals": 18,
+    "address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e"
+}
