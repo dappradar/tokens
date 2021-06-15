@@ -1,0 +1,8 @@
+{
+    "symbol": "WPR",
+    "name": "WePower Token",
+    "decimals": 18,
+    "address": "0xcbab27b2d5b468eea509bd430100922341bc3f1a",
+    "mintable": false,
+    "ethereum_address": "0x4cf488387f035ff08c371515562cba712f9015d4"
+}
