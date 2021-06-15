@@ -1,0 +1,8 @@
+{
+    "symbol": "COMBO",
+    "name": "Furucombo (PoS)",
+    "decimals": 18,
+    "address": "0x6ddb31002abc64e1479fc439692f7ea061e78165",
+    "mintable": false,
+    "ethereum_address": "0xffffffff2ba8f66d4e51811c5190992176930278"
+}
