@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% PETLIN-67 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x54d80cb2234a12e2c3f753937641f5bd15002096",
+    "tokens": [
+        "0x0cd2d2e62bae0272a1cd7452d2b47bd85c2d22d9",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
