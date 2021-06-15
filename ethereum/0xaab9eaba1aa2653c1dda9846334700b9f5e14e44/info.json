@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% QUICRA-0 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xaab9eaba1aa2653c1dda9846334700b9f5e14e44",
+    "tokens": [
+        "0x7bce67697ed2858d0683c631dde7af823b7eea38",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
