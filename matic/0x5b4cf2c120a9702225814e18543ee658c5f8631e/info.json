@@ -1,0 +1,8 @@
+{
+    "symbol": "UFT",
+    "name": "UniLend Finance Token",
+    "decimals": 18,
+    "address": "0x5b4cf2c120a9702225814e18543ee658c5f8631e",
+    "mintable": false,
+    "ethereum_address": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1"
+}
