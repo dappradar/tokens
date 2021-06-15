@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% FASCOR-64 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x3d037aacd5cdf9f7c84e981207ac63e5d1359ae8",
+    "tokens": [
+        "0x3fc62c835b07a765cde9a23e377e5615ea895d92",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
