@@ -1,0 +1,8 @@
+{
+    "symbol": "ROOK",
+    "name": "ROOK (PoS)",
+    "decimals": 18,
+    "address": "0xf92501c8213da1d6c74a76372ccc720dc8818407",
+    "mintable": false,
+    "ethereum_address": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a"
+}
