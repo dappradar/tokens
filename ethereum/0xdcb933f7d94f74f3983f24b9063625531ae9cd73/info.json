@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% DEDRAY-64 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xdcb933f7d94f74f3983f24b9063625531ae9cd73",
+    "tokens": [
+        "0x3e33b7e17f47ecb570c5d5f78919e1d7f9ff3043",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
