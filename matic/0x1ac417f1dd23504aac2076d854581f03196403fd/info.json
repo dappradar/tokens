@@ -1,0 +1,8 @@
+{
+    "symbol": "EDR",
+    "name": "Endor Protocol Token (PoS)",
+    "decimals": 18,
+    "address": "0x1ac417f1dd23504aac2076d854581f03196403fd",
+    "mintable": false,
+    "ethereum_address": "0xc528c28fec0a90c083328bc45f587ee215760a0f"
+}
