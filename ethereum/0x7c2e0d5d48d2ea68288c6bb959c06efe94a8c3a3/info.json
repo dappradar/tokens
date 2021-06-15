@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% TASANC-99 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x7c2e0d5d48d2ea68288c6bb959c06efe94a8c3a3",
+    "tokens": [
+        "0x524a85c11c9dd14d86ed31024c49e45277435049",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
