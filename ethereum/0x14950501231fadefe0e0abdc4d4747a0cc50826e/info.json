@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% RUMOTT-4 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x14950501231fadefe0e0abdc4d4747a0cc50826e",
+    "tokens": [
+        "0x250cec4c2a68e9a19bb97bba8bd04ae0dc6f2e5d",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
