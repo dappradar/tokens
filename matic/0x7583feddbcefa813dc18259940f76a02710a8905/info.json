@@ -1,0 +1,8 @@
+{
+    "symbol": "FET",
+    "name": "Fetch (PoS)",
+    "decimals": 18,
+    "address": "0x7583feddbcefa813dc18259940f76a02710a8905",
+    "mintable": false,
+    "ethereum_address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85"
+}
