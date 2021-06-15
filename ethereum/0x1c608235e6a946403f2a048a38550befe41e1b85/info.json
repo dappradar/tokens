@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2ETHPAMP",
+    "name": "UniswapV2ETHPAMP",
+    "decimals": 18,
+    "address": "0x1c608235e6a946403f2a048a38550befe41e1b85",
+    "tokens": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1"
+    ]
+}
