@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% VOLSWO-19 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x28016c0309616015481a23833dc66284772422fd",
+    "tokens": [
+        "0xe5e23d51ef0ea0bcae1a5f943f48468171b2de98",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
