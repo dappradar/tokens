@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% PASPRA-42 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x355137b1a1c2ae5427cc45d617e59366090e1fe3",
+    "tokens": [
+        "0x8ba02a1ddfb35ced7d9452af49cffd71f0aee672",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
