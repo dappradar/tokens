@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% ZEALOB-69 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xc5b0af3df12486744cef42be34084cdec28632a2",
+    "tokens": [
+        "0x04875b2549e29b35b27d324b60f5ad2c85b4bea5",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
