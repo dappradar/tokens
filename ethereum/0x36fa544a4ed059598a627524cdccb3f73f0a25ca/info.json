@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% AMBPLA-92 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x36fa544a4ed059598a627524cdccb3f73f0a25ca",
+    "tokens": [
+        "0x73ae4250a5185ecc966cfcb46f447023398b0ae8",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
