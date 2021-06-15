@@ -1,0 +1,8 @@
+{
+    "symbol": "ALBT",
+    "name": "AllianceBlock Token (PoS)",
+    "decimals": 18,
+    "address": "0x60098a09fe0436ea7099f0444f05a36beb71cb09",
+    "mintable": false,
+    "ethereum_address": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0"
+}
