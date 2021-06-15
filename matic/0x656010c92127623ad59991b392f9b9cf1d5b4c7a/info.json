@@ -1,0 +1,8 @@
+{
+    "symbol": "FIGHT",
+    "name": "Fight Token (PoS)",
+    "decimals": 18,
+    "address": "0x656010c92127623ad59991b392f9b9cf1d5b4c7a",
+    "mintable": false,
+    "ethereum_address": "0x2ba55a162a86c005b900c9cc63be0336e2bb8305"
+}
