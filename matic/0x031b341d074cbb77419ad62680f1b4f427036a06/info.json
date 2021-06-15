@@ -1,0 +1,8 @@
+{
+    "symbol": "DFYN",
+    "name": "Dfyn Network (PoS)",
+    "decimals": 18,
+    "address": "0x031b341d074cbb77419ad62680f1b4f427036a06",
+    "mintable": false,
+    "ethereum_address": "0x64bd8ca0d2603955dc7af63dba4899968848a121"
+}
