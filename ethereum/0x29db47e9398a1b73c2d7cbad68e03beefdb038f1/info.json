@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% TACCOR-99 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x29db47e9398a1b73c2d7cbad68e03beefdb038f1",
+    "tokens": [
+        "0x8ebb2d1e90ce1b26d8261ae41010f2936e52edf3",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
