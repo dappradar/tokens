@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% VALUE + 50% SNTVT Pool",
+    "decimals": 18,
+    "address": "0x7df0b0dbd00d06203a0d2232282e33a5d2e5d5b0",
+    "tokens": [
+        "0x49e833337ece7afe375e44f4e3e8481029218e5c",
+        "0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8"
+    ]
+}
