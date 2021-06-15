@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% FRISEA-34 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x7df82428913f6d27a0e125acc9085a465f18f98e",
+    "tokens": [
+        "0x2745eb5492fbd9d4b1bfe18d436b1b32ea55ec4c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
