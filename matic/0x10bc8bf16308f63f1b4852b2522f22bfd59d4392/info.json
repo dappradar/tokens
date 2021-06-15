@@ -1,0 +1,8 @@
+{
+    "symbol": "TRISM",
+    "name": "Trism (PoS)",
+    "decimals": 18,
+    "address": "0x10bc8bf16308f63f1b4852b2522f22bfd59d4392",
+    "mintable": false,
+    "ethereum_address": "0x56b4f8c39e07d4d5d91692acf9d0f6d4d3493763"
+}
