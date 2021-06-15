@@ -1,0 +1,8 @@
+{
+    "symbol": "mBTM",
+    "name": "Bytom minted (PoS)",
+    "decimals": 8,
+    "address": "0xa16eba3b7562fc92597579a80fe53a92dcab7122",
+    "mintable": false,
+    "ethereum_address": "0x9288a57d6c5644b25569e9d1d5e9e328228d26c6"
+}
