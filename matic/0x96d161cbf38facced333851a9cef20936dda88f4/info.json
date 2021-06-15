@@ -1,0 +1,8 @@
+{
+    "symbol": "pUSDC",
+    "name": "Pod USD Coin (PoS)",
+    "decimals": 6,
+    "address": "0x96d161cbf38facced333851a9cef20936dda88f4",
+    "mintable": false,
+    "ethereum_address": "0x386eb78f2ee79adde8bdb0a0e27292755ebfea58"
+}
