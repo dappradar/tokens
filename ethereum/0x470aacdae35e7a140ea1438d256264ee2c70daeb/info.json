@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% WONKRI-42 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x470aacdae35e7a140ea1438d256264ee2c70daeb",
+    "tokens": [
+        "0x21fc0deeeb21b7a9deb1965db0cf7688f17f56cd",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
