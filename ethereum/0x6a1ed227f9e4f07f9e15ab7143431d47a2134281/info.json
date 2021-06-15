@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% MORMAN-10 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x6a1ed227f9e4f07f9e15ab7143431d47a2134281",
+    "tokens": [
+        "0x2bf0a33b15e244710c38c5de6d146faa844ea372",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
