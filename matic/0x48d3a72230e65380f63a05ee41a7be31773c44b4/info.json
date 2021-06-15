@@ -1,0 +1,8 @@
+{
+    "symbol": "FRY",
+    "name": "Foundry Logistics Token (PoS)",
+    "decimals": 18,
+    "address": "0x48d3a72230e65380f63a05ee41a7be31773c44b4",
+    "mintable": false,
+    "ethereum_address": "0x6c972b70c533e2e045f333ee28b9ffb8d717be69"
+}
