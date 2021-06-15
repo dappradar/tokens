@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% MANCLO-96 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x8b830fee573eb76d61289a0729dc49f32a27b2cc",
+    "tokens": [
+        "0xdfdc25ca415dbfc3df9ae5465811df3faf6f075c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
