@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% RUMNAR-48 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x8e1396e219900b8920e0d047af7a88e5426287e8",
+    "tokens": [
+        "0xbbf03b7fb0336ced9dda4d8282acab6f3a013655",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
