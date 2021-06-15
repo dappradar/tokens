@@ -1,0 +1,8 @@
+{
+    "symbol": "SAMOZ",
+    "name": "SamoSwap (PoS)",
+    "decimals": 18,
+    "address": "0x7d3fa4bad8220d927a23f29aa70866ea97bbf313",
+    "mintable": false,
+    "ethereum_address": "0x7be4060fff13360301e0123d676a2705149964d7"
+}
