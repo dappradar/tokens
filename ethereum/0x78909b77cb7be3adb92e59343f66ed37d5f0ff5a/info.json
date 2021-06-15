@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% ASTANC-38 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x78909b77cb7be3adb92e59343f66ed37d5f0ff5a",
+    "tokens": [
+        "0x5927f57e97561a2b04c882bb3ba64a4f9244229c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
