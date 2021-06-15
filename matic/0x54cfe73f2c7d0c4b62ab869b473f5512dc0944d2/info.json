@@ -1,0 +1,8 @@
+{
+    "symbol": "BZRX",
+    "name": "bZx Protocol Token (PoS)",
+    "decimals": 18,
+    "address": "0x54cfe73f2c7d0c4b62ab869b473f5512dc0944d2",
+    "mintable": false,
+    "ethereum_address": "0x56d811088235f11c8920698a204a5010a788f4b3"
+}
