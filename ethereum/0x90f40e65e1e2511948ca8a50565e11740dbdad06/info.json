@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% RUMMAC-98 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x90f40e65e1e2511948ca8a50565e11740dbdad06",
+    "tokens": [
+        "0xaee232fbf07cb6a517a8e9d1477a6979fc358696",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
