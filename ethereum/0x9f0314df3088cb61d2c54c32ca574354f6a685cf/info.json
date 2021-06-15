@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% FECNAU-20 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x9f0314df3088cb61d2c54c32ca574354f6a685cf",
+    "tokens": [
+        "0x6ee6f092229e32c708569f98ad0e6a7206371e94",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
