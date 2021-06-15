@@ -1,0 +1,8 @@
+{
+    "symbol": "BPT",
+    "name": "BlackPool Token (PoS)",
+    "decimals": 18,
+    "address": "0x6863bd30c9e313b264657b107352ba246f8af8e0",
+    "mintable": false,
+    "ethereum_address": "0x0ec9f76202a7061eb9b3a7d6b59d36215a7e37da"
+}
