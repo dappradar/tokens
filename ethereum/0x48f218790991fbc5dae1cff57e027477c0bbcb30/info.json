@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% BLILOB-9 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x48f218790991fbc5dae1cff57e027477c0bbcb30",
+    "tokens": [
+        "0x43c758db6179546957dfbb3edcdcbd2d9068d695",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
