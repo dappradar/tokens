@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% QUIFUG-93 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x4ad89f05b06f44fba7b4b5d7f2770dd2d26a1167",
+    "tokens": [
+        "0x2b8866deb993e8aca05698422679a1e6bae8676c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
