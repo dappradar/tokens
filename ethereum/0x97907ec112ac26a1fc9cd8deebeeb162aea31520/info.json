@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% GARSEA-84 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x97907ec112ac26a1fc9cd8deebeeb162aea31520",
+    "tokens": [
+        "0x38e70f23fe53659506116a43f54d8352d3c0c37c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
