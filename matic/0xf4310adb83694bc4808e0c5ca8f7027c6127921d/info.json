@@ -1,0 +1,8 @@
+{
+    "symbol": "ORAI",
+    "name": "Oraichain Token (PoS)",
+    "decimals": 18,
+    "address": "0xf4310adb83694bc4808e0c5ca8f7027c6127921d",
+    "mintable": false,
+    "ethereum_address": "0x4c11249814f11b9346808179cf06e71ac328c1b5"
+}
