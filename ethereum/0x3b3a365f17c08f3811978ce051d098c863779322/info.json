@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% VOLCOR-68 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x3b3a365f17c08f3811978ce051d098c863779322",
+    "tokens": [
+        "0x6343552c4fb954176b4c1ca38bf4f5f0fac92861",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
