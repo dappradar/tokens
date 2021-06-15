@@ -1,0 +1,8 @@
+{
+    "symbol": "SISMO",
+    "name": "DeFi SISMO (PoS)",
+    "decimals": 18,
+    "address": "0x6681fe034ae21917fac759b087684de5335efd3a",
+    "mintable": false,
+    "ethereum_address": "0x686ddececc39e1ff33eadfb4bfd059a44cc700ca"
+}
