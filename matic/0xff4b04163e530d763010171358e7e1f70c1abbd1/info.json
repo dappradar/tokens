@@ -1,0 +1,8 @@
+{
+    "symbol": "COOS",
+    "name": "COOS (PoS)",
+    "decimals": 18,
+    "address": "0xff4b04163e530d763010171358e7e1f70c1abbd1",
+    "mintable": false,
+    "ethereum_address": "0x24ebfc20bb2e1daadd98d28341ab37d0c154f4cb"
+}
