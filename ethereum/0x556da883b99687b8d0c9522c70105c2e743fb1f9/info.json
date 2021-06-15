@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% NOXMAC-76 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x556da883b99687b8d0c9522c70105c2e743fb1f9",
+    "tokens": [
+        "0x18ca3cf7fb97b413f26b82364cab49059cc05cb9",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
