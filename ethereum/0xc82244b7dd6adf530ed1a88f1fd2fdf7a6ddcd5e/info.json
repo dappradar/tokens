@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% CHAMAN-66 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xc82244b7dd6adf530ed1a88f1fd2fdf7a6ddcd5e",
+    "tokens": [
+        "0x976ac0dc86c2c2c7f8cef04d5d024490d1d3e67c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
