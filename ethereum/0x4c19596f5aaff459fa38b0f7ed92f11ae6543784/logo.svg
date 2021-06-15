@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Token / TRU</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="12.5" cy="12.5" r="12.5"></circle>
+    </defs>
+    <g id="Token-/-TRU" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Oval" fill="#265DF6" xlink:href="#path-1"></use>
+        <g id="trulogowhite.c0cf146e" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="nonzero">
+            <g transform="translate(3.000000, 7.000000)" id="Path">
+                <path d="M10.929,12 L7.59998,10.1297 L13.0269,0.942188 C13.367,0.360938 13.9993,0 14.6891,0 L19,0 L19,3.75 L15.7907,3.75 L10.929,12 Z"></path>
+                <path d="M3.32899,12 L0,10.1297 L5.42697,0.942188 C5.76706,0.360938 6.39933,0 7.08908,0 L11.4,0 L11.4,3.75 L8.19076,3.75 L3.32899,12 Z"></path>
+                <path d="M0,0 L0,3.75 C2.0995,3.75 3.8,2.07188 3.8,0 L0,0 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
