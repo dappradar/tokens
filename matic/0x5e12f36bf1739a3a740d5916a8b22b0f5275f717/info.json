@@ -1,0 +1,8 @@
+{
+    "symbol": "PIE",
+    "name": "DeFiPIE Token (PoS)",
+    "decimals": 18,
+    "address": "0x5e12f36bf1739a3a740d5916a8b22b0f5275f717",
+    "mintable": false,
+    "ethereum_address": "0x607c794cda77efb21f8848b7910ecf27451ae842"
+}
