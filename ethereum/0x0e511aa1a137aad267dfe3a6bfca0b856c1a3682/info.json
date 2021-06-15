@@ -1,0 +1,13 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer Pool Token",
+    "decimals": 18,
+    "address": "0x0e511aa1a137aad267dfe3a6bfca0b856c1a3682",
+    "tokens": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "0xa7de087329bfcda5639247f96140f9dabe3deed1"
+    ]
+}
