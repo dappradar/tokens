@@ -1,0 +1,8 @@
+{
+    "symbol": "TRB",
+    "name": "Tellor Tributes",
+    "decimals": 18,
+    "address": "0xe3322702bedaaed36cddab233360b939775ae5f1",
+    "mintable": false,
+    "ethereum_address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0"
+}
