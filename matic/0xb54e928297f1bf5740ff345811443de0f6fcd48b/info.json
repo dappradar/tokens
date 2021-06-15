@@ -1,0 +1,8 @@
+{
+    "symbol": "HEGIC",
+    "name": "Hegic (PoS)",
+    "decimals": 18,
+    "address": "0xb54e928297f1bf5740ff345811443de0f6fcd48b",
+    "mintable": false,
+    "ethereum_address": "0x584bc13c7d411c00c01a62e8019472de68768430"
+}
