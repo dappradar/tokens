@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 98% REN + 2% VALUE Pool",
+    "decimals": 18,
+    "address": "0x67bd2de54333ade68e5032199d05b6abfd25a57f",
+    "tokens": [
+        "0x408e41876cccdc0f92210600ef50372656052a38",
+        "0x49e833337ece7afe375e44f4e3e8481029218e5c"
+    ]
+}
