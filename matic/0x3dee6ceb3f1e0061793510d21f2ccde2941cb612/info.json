@@ -1,0 +1,8 @@
+{
+    "symbol": "PHA",
+    "name": "Phala (PoS)",
+    "decimals": 18,
+    "address": "0x3dee6ceb3f1e0061793510d21f2ccde2941cb612",
+    "mintable": false,
+    "ethereum_address": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e"
+}
