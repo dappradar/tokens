@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% PUCPOR-18 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xf794127d753013455b2e4a79543a63de0e9f5d2d",
+    "tokens": [
+        "0xa2c2a45da05ecbed89495815a0267d77edd8d2b7",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
