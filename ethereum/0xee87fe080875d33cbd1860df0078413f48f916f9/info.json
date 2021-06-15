@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% TREKRI-71 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xee87fe080875d33cbd1860df0078413f48f916f9",
+    "tokens": [
+        "0x581f2d15d128f8fd1cc1ef230399d26de217dccd",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
