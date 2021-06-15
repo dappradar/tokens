@@ -1,0 +1,8 @@
+{
+    "symbol": "PENKY",
+    "name": "Penky (PoS)",
+    "decimals": 18,
+    "address": "0x3a35e98cc7390a15d458bb85f9a12823e2ef25ed",
+    "mintable": false,
+    "ethereum_address": "0xf8939164a46fbe9fc923f837221eb541e3c7e7b0"
+}
