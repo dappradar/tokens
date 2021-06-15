@@ -1,0 +1,8 @@
+{
+    "symbol": "CBK",
+    "name": "CBK (PoS)",
+    "decimals": 18,
+    "address": "0x53f8036e43b2ef39cfcd0c5f26c1257a85d5a3b2",
+    "mintable": false,
+    "ethereum_address": "0x87761e886399ef8e1624cb0db3230b075a322c88"
+}
