@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% TENANE-68 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x98d5abbee7cb728dfea608e10e005e7e10b29cb1",
+    "tokens": [
+        "0x7025e43d8d667b4577e9990b7059c82690d2ed59",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
