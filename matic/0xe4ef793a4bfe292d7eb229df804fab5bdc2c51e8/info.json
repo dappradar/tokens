@@ -1,0 +1,8 @@
+{
+    "symbol": "NTVRK",
+    "name": "NETVRK (PoS)",
+    "decimals": 18,
+    "address": "0xe4ef793a4bfe292d7eb229df804fab5bdc2c51e8",
+    "mintable": false,
+    "ethereum_address": "0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a"
+}
