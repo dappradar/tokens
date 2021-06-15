@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% SERSQU-65 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xe3cfd726d9d6f8ae92d772125c48b6da22f0f55e",
+    "tokens": [
+        "0xe6301836d885fc65afbfb643162fc6050781f95e",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
