@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% VORHAD-7 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x8202dfbef85218aef9e145f191973b666ddaa39f",
+    "tokens": [
+        "0x0c5e88aad9cdeafd61e1ad94b11f5d4823e3305b",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
