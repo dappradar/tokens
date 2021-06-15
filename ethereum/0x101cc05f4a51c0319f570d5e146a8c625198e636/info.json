@@ -1,0 +1,6 @@
+{
+    "symbol": "aTUSD",
+    "name": "Aave interest bearing TUSD",
+    "decimals": 18,
+    "address": "0x101cc05f4a51c0319f570d5e146a8c625198e636"
+}
