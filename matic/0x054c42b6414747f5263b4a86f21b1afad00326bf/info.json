@@ -1,0 +1,8 @@
+{
+    "symbol": "VGX",
+    "name": "Voyager (PoS)",
+    "decimals": 8,
+    "address": "0x054c42b6414747f5263b4a86f21b1afad00326bf",
+    "mintable": false,
+    "ethereum_address": "0x5af2be193a6abca9c8817001f45744777db30756"
+}
