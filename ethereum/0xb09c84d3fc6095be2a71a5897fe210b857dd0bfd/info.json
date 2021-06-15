@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% SMAPRA-24 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xb09c84d3fc6095be2a71a5897fe210b857dd0bfd",
+    "tokens": [
+        "0x6427b21dfb619468e8e1cea8ce047b818602b15a",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
