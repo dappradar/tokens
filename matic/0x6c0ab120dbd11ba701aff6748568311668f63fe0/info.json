@@ -1,0 +1,8 @@
+{
+    "symbol": "APW",
+    "name": "APWine Token (PoS)",
+    "decimals": 18,
+    "address": "0x6c0ab120dbd11ba701aff6748568311668f63fe0",
+    "mintable": false,
+    "ethereum_address": "0x4104b135dbc9609fc1a9490e61369036497660c8"
+}
