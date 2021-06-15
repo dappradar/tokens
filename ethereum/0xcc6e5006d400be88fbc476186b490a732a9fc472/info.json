@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% MINNAU-95 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xcc6e5006d400be88fbc476186b490a732a9fc472",
+    "tokens": [
+        "0x3cea3612ea153a6b8ce269e6a93e797ee73214f1",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
