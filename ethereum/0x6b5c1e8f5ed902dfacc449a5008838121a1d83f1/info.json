@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% LOVORC-53 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x6b5c1e8f5ed902dfacc449a5008838121a1d83f1",
+    "tokens": [
+        "0x816507e87db641035d9278fd0b964666fe286d7b",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
