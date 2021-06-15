@@ -1,0 +1,8 @@
+{
+    "symbol": "SCC",
+    "name": "StartCY (PoS)",
+    "decimals": 18,
+    "address": "0xcf5f435eef6e4f9136fa3449aca7576740817e5d",
+    "mintable": false,
+    "ethereum_address": "0xb3101bf50762237d55cc9a7acad88b76f7248684"
+}
