@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% TASPLA-12 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x1064ac0be79c5634e82bd8e7c7ce1d4cefa1664d",
+    "tokens": [
+        "0x261d7821fe0957355a05507bc7851ba39e76e145",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
