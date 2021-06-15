@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% WHESHE-90 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xb40eb824a792ad8fb05afb57ce9d0802a664c1b7",
+    "tokens": [
+        "0xa842da422b61500685dc60b17e82093302e48c6d",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
