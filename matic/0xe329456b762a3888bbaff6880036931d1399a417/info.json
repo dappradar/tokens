@@ -1,0 +1,8 @@
+{
+    "symbol": "LTI",
+    "name": "Layer 2 Index (PoS)",
+    "decimals": 18,
+    "address": "0xe329456b762a3888bbaff6880036931d1399a417",
+    "mintable": false,
+    "ethereum_address": "0x693391144d1e079e20cc64f795e9450c94966171"
+}
