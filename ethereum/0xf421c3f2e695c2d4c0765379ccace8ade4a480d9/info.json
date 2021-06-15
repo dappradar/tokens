@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2BANDETH",
+    "name": "UniswapV2BANDETH",
+    "decimals": 18,
+    "address": "0xf421c3f2e695c2d4c0765379ccace8ade4a480d9",
+    "tokens": [
+        "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    ]
+}
