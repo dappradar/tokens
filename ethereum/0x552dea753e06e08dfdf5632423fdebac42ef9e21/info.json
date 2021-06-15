@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% POWHER-6 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x552dea753e06e08dfdf5632423fdebac42ef9e21",
+    "tokens": [
+        "0xa2cafa40085935fc9345bd650c1331ccc1290f30",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
