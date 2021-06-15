@@ -1,0 +1,8 @@
+{
+    "symbol": "GLM",
+    "name": "Golem Network Token (PoS)",
+    "decimals": 18,
+    "address": "0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf",
+    "mintable": false,
+    "ethereum_address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429"
+}
