@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% PUCMAN-4 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xf0dc46d87086f49b3b4119a07b368f8568e3dd69",
+    "tokens": [
+        "0x5ab307be9aa7f66b53826e18b5bae408e86be3ab",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
