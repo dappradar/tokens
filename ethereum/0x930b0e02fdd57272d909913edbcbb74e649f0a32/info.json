@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 25% UNI-V2 + 75% AC Pool",
+    "decimals": 18,
+    "address": "0x930b0e02fdd57272d909913edbcbb74e649f0a32",
+    "tokens": [
+        "0x5e4a41ff7f50f2cdc51e61af7d812d9c46efb6df",
+        "0xb46ab66c039ca553bc25ea74b92dfea91a080f07"
+    ]
+}
