@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% MENCLA-52 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xbe6dc6e6fa8c33bcf5d0bfa4dbc15a15f6f06aa3",
+    "tokens": [
+        "0xd4dd7f5a182ddaa45d0ae2976ff7b71c69ae0536",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
