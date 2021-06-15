@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% UXOOCT-68 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xce9c6cc6898fd9e95e34719e14dd6918ac676fd7",
+    "tokens": [
+        "0x8f59525e2492ae98ba0116cf06a2afdecaf7a426",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
