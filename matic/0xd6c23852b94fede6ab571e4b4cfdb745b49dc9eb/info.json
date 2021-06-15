@@ -1,0 +1,8 @@
+{
+    "symbol": "renBTC",
+    "name": "renBTC (PoS)",
+    "decimals": 8,
+    "address": "0xd6c23852b94fede6ab571e4b4cfdb745b49dc9eb",
+    "mintable": false,
+    "ethereum_address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d"
+}
