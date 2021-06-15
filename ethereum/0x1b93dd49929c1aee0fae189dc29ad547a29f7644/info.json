@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% DAI + 50% yTrump Pool",
+    "decimals": 18,
+    "address": "0x1b93dd49929c1aee0fae189dc29ad547a29f7644",
+    "tokens": [
+        "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "0x3af375d9f77ddd4f16f86a5d51a9386b7b4493fa"
+    ]
+}
