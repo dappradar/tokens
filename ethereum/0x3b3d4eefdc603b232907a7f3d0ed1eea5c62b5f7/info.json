@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2STAKEETH",
+    "name": "UniswapV2STAKEETH",
+    "decimals": 18,
+    "address": "0x3b3d4eefdc603b232907a7f3d0ed1eea5c62b5f7",
+    "tokens": [
+        "0x0ae055097c6d159879521c384f1d2123d1f195e6",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    ]
+}
