@@ -1,0 +1,8 @@
+{
+    "symbol": "PANDA",
+    "name": "PANDA (PoS)",
+    "decimals": 18,
+    "address": "0xcd7ecb53e78564c09e024beeac51f611ad92c618",
+    "mintable": false,
+    "ethereum_address": "0x73efe5e41f70bdcde2b88bda860c98f996884246"
+}
