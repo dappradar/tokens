@@ -1,0 +1,8 @@
+{
+    "symbol": "MFI",
+    "name": "MarginSwap (PoS)",
+    "decimals": 18,
+    "address": "0x7bc429a2fa7d71c4693424fdcab5a2521b9fd343",
+    "mintable": false,
+    "ethereum_address": "0xaa4e3edb11afa93c41db59842b29de64b72e355b"
+}
