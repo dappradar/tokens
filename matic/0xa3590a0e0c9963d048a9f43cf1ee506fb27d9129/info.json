@@ -1,0 +1,8 @@
+{
+    "symbol": "HORD",
+    "name": "HORD Token (PoS)",
+    "decimals": 18,
+    "address": "0xa3590a0e0c9963d048a9f43cf1ee506fb27d9129",
+    "mintable": false,
+    "ethereum_address": "0x43a96962254855f16b925556f9e97be436a43448"
+}
