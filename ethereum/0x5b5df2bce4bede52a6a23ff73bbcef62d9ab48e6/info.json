@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% PARSTA-31 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x5b5df2bce4bede52a6a23ff73bbcef62d9ab48e6",
+    "tokens": [
+        "0xc4d0f1ae16823805811bc70356c439d004b60e14",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
