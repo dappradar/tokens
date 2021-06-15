@@ -1,0 +1,6 @@
+{
+    "symbol": "ybCRV",
+    "name": "yearn Curve.fi yDAI/yUSDC/yUSDT/yBUSD",
+    "decimals": 18,
+    "address": "0x2994529c0652d127b7842094103715ec5299bbed"
+}
