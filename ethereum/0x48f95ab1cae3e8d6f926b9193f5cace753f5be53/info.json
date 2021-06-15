@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% PLECLA-17 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x48f95ab1cae3e8d6f926b9193f5cace753f5be53",
+    "tokens": [
+        "0xed7b0d9f723fe7adf35ceda4a594d8653e1f370a",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
