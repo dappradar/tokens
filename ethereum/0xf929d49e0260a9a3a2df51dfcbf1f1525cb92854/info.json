@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% STRWAL-40 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xf929d49e0260a9a3a2df51dfcbf1f1525cb92854",
+    "tokens": [
+        "0x487914534852cb86d8a1252d0e3b05ad91220f7c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
