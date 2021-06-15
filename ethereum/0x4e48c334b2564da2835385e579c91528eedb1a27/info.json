@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% JUDSEA-10 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x4e48c334b2564da2835385e579c91528eedb1a27",
+    "tokens": [
+        "0x1d21e86d78077d39a40116745ddd29d58ec61883",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
