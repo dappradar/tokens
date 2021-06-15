@@ -1,0 +1,8 @@
+{
+    "symbol": "FCAT",
+    "name": "Fortune Cat Coin (PoS)",
+    "decimals": 18,
+    "address": "0x0f4044f4475b7ec4bde170146ad02a9cd3ad4853",
+    "mintable": false,
+    "ethereum_address": "0xb1525e3dbb9f70da3cf6880839de62d75e3ce529"
+}
