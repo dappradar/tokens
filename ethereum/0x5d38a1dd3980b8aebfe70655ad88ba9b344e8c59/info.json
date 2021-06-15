@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% KINKRI-60 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x5d38a1dd3980b8aebfe70655ad88ba9b344e8c59",
+    "tokens": [
+        "0xb421fa07d2692aeaf0d6d219a97c37dc050e6095",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
