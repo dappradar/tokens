@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% BRECLO-50 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x84468a756cc3261d9b12de19894b975fc22c20e8",
+    "tokens": [
+        "0x076fa82ab4b495ecf86107e525f9813853c721f5",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
