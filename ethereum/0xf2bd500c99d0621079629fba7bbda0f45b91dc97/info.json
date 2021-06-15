@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% MARPRA-88 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xf2bd500c99d0621079629fba7bbda0f45b91dc97",
+    "tokens": [
+        "0xdee8b3a678494957591ab58a34fbd2df944060e8",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
