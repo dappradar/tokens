@@ -1,0 +1,8 @@
+{
+    "symbol": "pDAI",
+    "name": "Pod Dai Stablecoin (PoS)",
+    "decimals": 18,
+    "address": "0x18c4315847cf73d5028c8a98ead16e862450e618",
+    "mintable": false,
+    "ethereum_address": "0x2f994e2e4f3395649eee8a89092e63ca526da829"
+}
