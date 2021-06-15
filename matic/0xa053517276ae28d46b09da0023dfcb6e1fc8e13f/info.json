@@ -1,0 +1,8 @@
+{
+    "symbol": "PT",
+    "name": "Panda Token (PoS)",
+    "decimals": 18,
+    "address": "0xa053517276ae28d46b09da0023dfcb6e1fc8e13f",
+    "mintable": false,
+    "ethereum_address": "0xd8164b8d21d2e97484de89bfff787d792c95ef2d"
+}
