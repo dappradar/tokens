@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% CREHAD-36 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x5a29a400b5dda8b3223de45f1bd73d7c85adec82",
+    "tokens": [
+        "0x6f012501af13d2ab2bb1737ba896eec4cae13649",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
