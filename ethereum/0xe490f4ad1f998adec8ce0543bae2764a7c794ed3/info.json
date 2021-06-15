@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% TASOYS-12 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xe490f4ad1f998adec8ce0543bae2764a7c794ed3",
+    "tokens": [
+        "0x3aed2d5f089b215ce1a8e7f535240acaab200271",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
