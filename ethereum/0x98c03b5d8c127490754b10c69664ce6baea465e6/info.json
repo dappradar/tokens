@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% JOCPEN-92 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x98c03b5d8c127490754b10c69664ce6baea465e6",
+    "tokens": [
+        "0x405e1ab56c7af9ae5e0a0efe43bf781ae8f34659",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
