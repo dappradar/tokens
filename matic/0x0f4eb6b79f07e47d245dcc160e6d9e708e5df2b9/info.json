@@ -1,0 +1,8 @@
+{
+    "symbol": "SCA",
+    "name": "ScaleSwapToken (PoS)",
+    "decimals": 18,
+    "address": "0x0f4eb6b79f07e47d245dcc160e6d9e708e5df2b9",
+    "mintable": false,
+    "ethereum_address": "0x4791143576c375919d086c35d989feff61d2c390"
+}
