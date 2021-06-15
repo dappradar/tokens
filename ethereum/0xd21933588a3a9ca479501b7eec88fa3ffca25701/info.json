@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% ARTOTT-92 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xd21933588a3a9ca479501b7eec88fa3ffca25701",
+    "tokens": [
+        "0x72b83db03917315474984c087b5d9568d9e2137a",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
