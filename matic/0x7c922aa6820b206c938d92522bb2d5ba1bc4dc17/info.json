@@ -1,0 +1,8 @@
+{
+    "symbol": "CenX",
+    "name": "Centralex Token (PoS)",
+    "decimals": 18,
+    "address": "0x7c922aa6820b206c938d92522bb2d5ba1bc4dc17",
+    "mintable": false,
+    "ethereum_address": "0x504cde95dbc5d90d09b802f43b371971adbecf79"
+}
