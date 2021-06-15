@@ -1,0 +1,8 @@
+{
+    "symbol": "ELAND",
+    "name": "Etherland (PoS)",
+    "decimals": 18,
+    "address": "0xb0f61c597bbcc29f3f38396b01f9c0f0c2e8bff0",
+    "mintable": false,
+    "ethereum_address": "0x33e07f5055173cf8febede8b21b12d1e2b523205"
+}
