@@ -1,0 +1,8 @@
+{
+    "symbol": "EPAY",
+    "name": "EthereumPay (PoS)",
+    "decimals": 18,
+    "address": "0xef8480105b325d4bb7df87fc9a665cf9bfc3807b",
+    "mintable": false,
+    "ethereum_address": "0x2b5ca2f9510cf1e3595ff219f24d75d4244585ea"
+}
