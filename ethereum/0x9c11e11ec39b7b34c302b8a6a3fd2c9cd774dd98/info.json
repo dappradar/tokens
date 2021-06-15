@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% SERRAY-63 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x9c11e11ec39b7b34c302b8a6a3fd2c9cd774dd98",
+    "tokens": [
+        "0x0f5a4c51dd71c7fb8d5d61e5b56c996681e4302f",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
