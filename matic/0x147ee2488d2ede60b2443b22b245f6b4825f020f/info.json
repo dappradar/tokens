@@ -1,0 +1,8 @@
+{
+    "symbol": "MUTE",
+    "name": "Mute.io (PoS)",
+    "decimals": 18,
+    "address": "0x147ee2488d2ede60b2443b22b245f6b4825f020f",
+    "mintable": false,
+    "ethereum_address": "0xa49d7499271ae71cd8ab9ac515e6694c755d400c"
+}
