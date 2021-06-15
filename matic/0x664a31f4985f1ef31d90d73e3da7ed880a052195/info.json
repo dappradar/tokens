@@ -1,0 +1,8 @@
+{
+    "symbol": "LINA",
+    "name": "Linear Token (PoS)",
+    "decimals": 18,
+    "address": "0x664a31f4985f1ef31d90d73e3da7ed880a052195",
+    "mintable": false,
+    "ethereum_address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937"
+}
