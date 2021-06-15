@@ -1,0 +1,11 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 49% renBTC + 49% WBTC + 2% VALUE Pool",
+    "decimals": 18,
+    "address": "0xa3479245da5ced9aae2b0b0c37c7e32b92287a61",
+    "tokens": [
+        "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "0x49e833337ece7afe375e44f4e3e8481029218e5c"
+    ]
+}
