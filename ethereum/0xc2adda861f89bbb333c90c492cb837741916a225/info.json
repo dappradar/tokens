@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2MKRETH",
+    "name": "UniswapV2MKRETH",
+    "decimals": 18,
+    "address": "0xc2adda861f89bbb333c90c492cb837741916a225",
+    "tokens": [
+        "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    ]
+}
