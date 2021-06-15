@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% JUISHE-81 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xba4bbfa2c9e5de1450440c0b2689122e9810ecba",
+    "tokens": [
+        "0x7fe355abf7f65e05a204d91187d7aa81a923cb6c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
