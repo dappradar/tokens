@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% CHASWO-34 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x35cb95bd0f1ff0a84d7871972948ea7843660223",
+    "tokens": [
+        "0x79338bd59eef16ef9dab31f774ae3271852eeb08",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
