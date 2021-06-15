@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% MARLIN-57 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x8a50b5cc88af886378261cd6ec60f0a45c02b63a",
+    "tokens": [
+        "0x9d4c46bbf07bcf7e159b9f9d519921d7f49e890c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
