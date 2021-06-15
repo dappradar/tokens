@@ -1,0 +1,8 @@
+{
+    "symbol": "RUNE",
+    "name": "THORChain ETH.RUNE (PoS)",
+    "decimals": 18,
+    "address": "0x722eb54cd20d13938df8e792a5849a2391c8463f",
+    "mintable": false,
+    "ethereum_address": "0x3155ba85d5f96b2d030a4966af206230e46849cb"
+}
