@@ -1,0 +1,8 @@
+{
+    "symbol": "RIOT",
+    "name": "RIOT (PoS)",
+    "decimals": 18,
+    "address": "0x4ff0b68abc2b9e4e1401e9b691dba7d66b264ac8",
+    "mintable": false,
+    "ethereum_address": "0xf56408077487cb879c992909c5b5c66d68c02eb4"
+}
