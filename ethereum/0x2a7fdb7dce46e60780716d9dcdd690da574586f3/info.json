@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% PASTUR-82 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x2a7fdb7dce46e60780716d9dcdd690da574586f3",
+    "tokens": [
+        "0x85715d04ac0a595268326fbd3206fc3e60fbf9f6",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
