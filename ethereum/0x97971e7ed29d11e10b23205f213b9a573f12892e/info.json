@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% INSSQU-62 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x97971e7ed29d11e10b23205f213b9a573f12892e",
+    "tokens": [
+        "0xa9547c1933b3f7116fa86f49c3ca0924aa45476e",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
