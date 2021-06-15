@@ -1,0 +1,8 @@
+{
+    "symbol": "wCUSD",
+    "name": "Wrapped Celo USD (PoS)",
+    "decimals": 18,
+    "address": "0x9fa22bda93a0ecef300928c0358003b63647c5d8",
+    "mintable": false,
+    "ethereum_address": "0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195"
+}
