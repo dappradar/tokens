@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% OPTOCT-48 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x1c4682ebacf69c962f9699d90d7e7e55fea536cd",
+    "tokens": [
+        "0xef152d1c4f9171e45cedaf3f06bfb01831246cce",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
