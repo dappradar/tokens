@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% BRICUT-64 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x4775fb4ba34cd5f9f28d4c2ed28180dbc4b8f63f",
+    "tokens": [
+        "0x38eaf167b2700f6f8c08641ed7f36990c0c5f1d5",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
