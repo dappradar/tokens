@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% JOYNAU-30 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x9b8235cbd35e2568d0952547eba0a8f68a40ec5c",
+    "tokens": [
+        "0x56e0c8e9fff2ae0c618500abaef1cdb8eda5dcc7",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
