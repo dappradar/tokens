@@ -1,0 +1,8 @@
+{
+    "symbol": "TNG",
+    "name": "TNodeGreen (PoS)",
+    "decimals": 8,
+    "address": "0x0f38db64e04bcd5373dcdf941fd909d8436f4fdb",
+    "mintable": false,
+    "ethereum_address": "0xa0e2a28fd7b1e4e7e5cced5c5bb00f7d24a5c282"
+}
