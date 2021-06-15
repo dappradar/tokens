@@ -1,0 +1,8 @@
+{
+    "symbol": "SI",
+    "name": "SIREN (PoS)",
+    "decimals": 18,
+    "address": "0x54585aac4353ac2b30022797915ef81d152d5223",
+    "mintable": false,
+    "ethereum_address": "0xd23ac27148af6a2f339bd82d0e3cff380b5093de"
+}
