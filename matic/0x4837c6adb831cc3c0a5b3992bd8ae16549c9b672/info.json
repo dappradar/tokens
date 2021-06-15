@@ -1,0 +1,8 @@
+{
+    "symbol": "DES",
+    "name": "DeSpace Protocol (PoS)",
+    "decimals": 18,
+    "address": "0x4837c6adb831cc3c0a5b3992bd8ae16549c9b672",
+    "mintable": false,
+    "ethereum_address": "0x634239cfa331df0291653139d1a6083b9cf705e3"
+}
