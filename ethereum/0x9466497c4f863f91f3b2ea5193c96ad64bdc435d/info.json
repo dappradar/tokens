@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% WETH + 50% YTRU Pool",
+    "decimals": 18,
+    "address": "0x9466497c4f863f91f3b2ea5193c96ad64bdc435d",
+    "tokens": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "0xb11e578e40ad1ee39132eb3717aabb3053c13eff"
+    ]
+}
