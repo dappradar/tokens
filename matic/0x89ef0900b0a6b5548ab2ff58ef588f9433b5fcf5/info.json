@@ -1,0 +1,8 @@
+{
+    "symbol": "CRBN",
+    "name": "Carbon (PoS)",
+    "decimals": 18,
+    "address": "0x89ef0900b0a6b5548ab2ff58ef588f9433b5fcf5",
+    "mintable": false,
+    "ethereum_address": "0xcdeee767bed58c5325f68500115d4b722b3724ee"
+}
