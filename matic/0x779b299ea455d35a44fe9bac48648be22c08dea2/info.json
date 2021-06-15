@@ -1,0 +1,8 @@
+{
+    "symbol": "STC",
+    "name": "Student Coin (PoS)",
+    "decimals": 18,
+    "address": "0x779b299ea455d35a44fe9bac48648be22c08dea2",
+    "mintable": false,
+    "ethereum_address": "0x15b543e986b8c34074dfc9901136d9355a537e7e"
+}
