@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% LIFI + 10% WETH Pool",
+    "decimals": 18,
+    "address": "0x0295423b34dc213c70d24eba16b6f05eaddec366",
+    "tokens": [
+        "0xb3bc4549dbb5d02fa2d78d4dab1ae8281ff93ea0",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    ]
+}
