@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% FABRAY-11 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x7b535ad6a0f1c655d5ff804e5b4c3847cc678c9b",
+    "tokens": [
+        "0x08f87aa198db1556a7060b8fe39610299c8b91db",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
