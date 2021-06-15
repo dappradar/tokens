@@ -1,0 +1,8 @@
+{
+    "symbol": "GER",
+    "name": "Germoney (PoS)",
+    "decimals": 2,
+    "address": "0x03a68f78107d102d26353e5476733b067950bab6",
+    "mintable": false,
+    "ethereum_address": "0x844af22fbec4d1bb9c062f33d29e4ad8d0efc01d"
+}
