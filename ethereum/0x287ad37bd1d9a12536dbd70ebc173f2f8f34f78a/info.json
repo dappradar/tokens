@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% MOTSHE-88 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x287ad37bd1d9a12536dbd70ebc173f2f8f34f78a",
+    "tokens": [
+        "0x5884d4a3cf5d53a10f95887b5d3678e2b9ab2acb",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
