@@ -1,0 +1,8 @@
+{
+    "symbol": "TITAN",
+    "name": "Titan Token (PoS)",
+    "decimals": 18,
+    "address": "0x76d383e8c97b2e01ef6d24108f655c9727df4a54",
+    "mintable": false,
+    "ethereum_address": "0x983c059d1be984f8f06c2559351c5ab1cb1dcdb7"
+}
