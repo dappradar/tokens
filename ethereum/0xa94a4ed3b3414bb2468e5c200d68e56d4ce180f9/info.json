@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% MERMAN-13 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xa94a4ed3b3414bb2468e5c200d68e56d4ce180f9",
+    "tokens": [
+        "0x650b84c304087c5500408d2b1f91d1990186829c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
