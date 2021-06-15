@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% REAP + 50% USDC Pool",
+    "decimals": 18,
+    "address": "0xd98e78700a3c6e7e52bf377a9c81cf18448eae52",
+    "tokens": [
+        "0x99486de830ecfcbc49ff57720620cc6ee9bebc30",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    ]
+}
