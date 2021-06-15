@@ -1,0 +1,6 @@
+{
+    "symbol": "usdnCRV",
+    "name": "Curve.fi USDN/DAI/USDC/USDT",
+    "decimals": 18,
+    "address": "0x4f3e8f405cf5afc05d68142f3783bdfe13811522"
+}
