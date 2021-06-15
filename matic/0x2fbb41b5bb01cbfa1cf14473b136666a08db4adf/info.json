@@ -1,0 +1,8 @@
+{
+    "symbol": "vETH2",
+    "name": "validator-Eth2 (PoS)",
+    "decimals": 18,
+    "address": "0x2fbb41b5bb01cbfa1cf14473b136666a08db4adf",
+    "mintable": false,
+    "ethereum_address": "0x898bad2774eb97cf6b94605677f43b41871410b1"
+}
