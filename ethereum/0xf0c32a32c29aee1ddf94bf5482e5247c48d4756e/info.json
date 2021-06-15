@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 98% KNC + 2% VALUE Pool",
+    "decimals": 18,
+    "address": "0xf0c32a32c29aee1ddf94bf5482e5247c48d4756e",
+    "tokens": [
+        "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+        "0x49e833337ece7afe375e44f4e3e8481029218e5c"
+    ]
+}
