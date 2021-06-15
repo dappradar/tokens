@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 20% BNI + 80% WBTC Pool",
+    "decimals": 18,
+    "address": "0x56d950f1100e116917cf489149cb4cd6322cc476",
+    "tokens": [
+        "0x4981553e8ccf6df916b36a2d6b6f8fc567628a51",
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+    ]
+}
