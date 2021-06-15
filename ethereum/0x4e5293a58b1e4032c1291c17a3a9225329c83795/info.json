@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% STUTUR-23 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x4e5293a58b1e4032c1291c17a3a9225329c83795",
+    "tokens": [
+        "0x312d24de83610e351a1977eba8851cea8d020e1b",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
