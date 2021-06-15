@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% TRESHE-60 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x441780bb38d8c372f85d3ef15db60e2faa3e72cd",
+    "tokens": [
+        "0x0e56c49d3013aca0d6ee2afdf5642c80f642d741",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
