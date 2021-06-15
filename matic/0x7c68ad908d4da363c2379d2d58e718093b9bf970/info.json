@@ -1,0 +1,8 @@
+{
+    "symbol": "COLL",
+    "name": "Collateral (PoS)",
+    "decimals": 18,
+    "address": "0x7c68ad908d4da363c2379d2d58e718093b9bf970",
+    "mintable": false,
+    "ethereum_address": "0x957891c11616d3e0b0a76a76fb42724c382e0ef3"
+}
