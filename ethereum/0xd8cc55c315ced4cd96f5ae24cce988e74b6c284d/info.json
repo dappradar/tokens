@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% EFFOTT-8 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xd8cc55c315ced4cd96f5ae24cce988e74b6c284d",
+    "tokens": [
+        "0x52e9d273b9b21eb08b58a4e7f7f4fb5a10366c4f",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
