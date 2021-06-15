@@ -1,0 +1,8 @@
+{
+    "symbol": "MMC",
+    "name": "Memecoin (PoS)",
+    "decimals": 18,
+    "address": "0x33f24fe72acdb46a90b71ca4ac21dd3d3ffe1f2a",
+    "mintable": false,
+    "ethereum_address": "0x33f24fe72acdb46a90b71ca4ac21dd3d3ffe1f2a"
+}
