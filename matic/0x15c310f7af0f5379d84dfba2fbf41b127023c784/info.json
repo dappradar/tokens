@@ -1,0 +1,8 @@
+{
+    "symbol": "ARCH",
+    "name": "Archer DAO Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0x15c310f7af0f5379d84dfba2fbf41b127023c784",
+    "mintable": false,
+    "ethereum_address": "0x1f3f9d3068568f8040775be2e8c03c103c61f3af"
+}
