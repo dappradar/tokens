@@ -1,0 +1,8 @@
+{
+    "symbol": "MLT",
+    "name": "Media Licensing Token (PoS)",
+    "decimals": 18,
+    "address": "0x078f0cd6ec0bed408e9244eece9fac05bb4052a7",
+    "mintable": false,
+    "ethereum_address": "0x9506d37f70eb4c3d79c398d326c871abbf10521d"
+}
