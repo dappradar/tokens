@@ -1,0 +1,8 @@
+{
+    "symbol": "SURE",
+    "name": "inSure (PoS)",
+    "decimals": 18,
+    "address": "0x269b47b64182accb6233c279001c0519ac0fca2c",
+    "mintable": false,
+    "ethereum_address": "0xb5a4ac5b04e777230ba3381195eff6a60c3934f2"
+}
