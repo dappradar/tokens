@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% UNI + 50% CREAM Pool",
+    "decimals": 18,
+    "address": "0x408e75c26e6182476940ece5b0ba6491b4f13359",
+    "tokens": [
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+        "0x2ba592f78db6436527729929aaf6c908497cb200"
+    ]
+}
