@@ -1,0 +1,8 @@
+{
+    "symbol": "BTSG",
+    "name": "BitSong (PoS)",
+    "decimals": 18,
+    "address": "0xc5946f0c9b521f72658b658fc1260d04ea7fbe73",
+    "mintable": false,
+    "ethereum_address": "0x05079687d35b93538cbd59fe5596380cae9054a9"
+}
