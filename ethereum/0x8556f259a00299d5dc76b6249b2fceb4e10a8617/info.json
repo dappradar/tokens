@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% EQUSEA-17 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x8556f259a00299d5dc76b6249b2fceb4e10a8617",
+    "tokens": [
+        "0xe520bf153c85a3c5f37de47e65620307e36a53dd",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
