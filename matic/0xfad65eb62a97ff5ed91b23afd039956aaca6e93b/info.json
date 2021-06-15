@@ -1,0 +1,8 @@
+{
+    "symbol": "HT",
+    "name": "HuobiToken (PoS)",
+    "decimals": 18,
+    "address": "0xfad65eb62a97ff5ed91b23afd039956aaca6e93b",
+    "mintable": false,
+    "ethereum_address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
+}
