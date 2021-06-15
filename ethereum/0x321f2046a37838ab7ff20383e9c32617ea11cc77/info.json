@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% DELWAL-34 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x321f2046a37838ab7ff20383e9c32617ea11cc77",
+    "tokens": [
+        "0x94d64355e5f5eb81574d45484e624c375eb9e162",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
