@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% BILPLA-3 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xfdd3d696c6328a7fd1d68e00cd8f59aa315dcd93",
+    "tokens": [
+        "0x4b4b3605ee850f041ba4a817a79b2df04a392cd4",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
