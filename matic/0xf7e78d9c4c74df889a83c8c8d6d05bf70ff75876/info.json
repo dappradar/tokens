@@ -1,0 +1,8 @@
+{
+    "symbol": "UDT",
+    "name": "Unlock Discount Token (PoS)",
+    "decimals": 18,
+    "address": "0xf7e78d9c4c74df889a83c8c8d6d05bf70ff75876",
+    "mintable": false,
+    "ethereum_address": "0x90de74265a416e1393a450752175aed98fe11517"
+}
