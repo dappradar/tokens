@@ -1,0 +1,8 @@
+{
+    "symbol": "MARE",
+    "name": "Mare Bits (PoS)",
+    "decimals": 18,
+    "address": "0xb362a97ad06c907c4b575d3503fb9dc474498480",
+    "mintable": false,
+    "ethereum_address": "0xc5a1973e1f736e2ad991573f3649f4f4a44c3028"
+}
