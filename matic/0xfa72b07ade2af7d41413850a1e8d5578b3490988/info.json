@@ -1,0 +1,8 @@
+{
+    "symbol": "REGI",
+    "name": "RegiCoin (PoS)",
+    "decimals": 18,
+    "address": "0xfa72b07ade2af7d41413850a1e8d5578b3490988",
+    "mintable": false,
+    "ethereum_address": "0xd8b98032f2220e1ddcc65371c0a7b9fa7391d347"
+}
