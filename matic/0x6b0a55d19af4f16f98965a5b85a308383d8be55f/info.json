@@ -1,0 +1,8 @@
+{
+    "symbol": "VALUE",
+    "name": "Value Coin (PoS)",
+    "decimals": 18,
+    "address": "0x6b0a55d19af4f16f98965a5b85a308383d8be55f",
+    "mintable": false,
+    "ethereum_address": "0x6997a08de139f0b99444506f333a04cf657832a1"
+}
