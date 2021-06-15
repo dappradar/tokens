@@ -1,0 +1,8 @@
+{
+    "symbol": "TACO",
+    "name": "Tacos (PoS)",
+    "decimals": 18,
+    "address": "0x09450784a86a083041f5773836dca457531ea00b",
+    "mintable": false,
+    "ethereum_address": "0x00d1793d7c3aae506257ba985b34c76aaf642557"
+}
