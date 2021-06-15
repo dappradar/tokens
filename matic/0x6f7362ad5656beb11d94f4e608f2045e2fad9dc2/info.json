@@ -1,0 +1,8 @@
+{
+    "symbol": "MOONS",
+    "name": "MoonTools.io (PoS)",
+    "decimals": 18,
+    "address": "0x6f7362ad5656beb11d94f4e608f2045e2fad9dc2",
+    "mintable": false,
+    "ethereum_address": "0x260e63d91fccc499606bae3fe945c4ed1cf56a56"
+}
