@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% BILJEL-25 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x8f7fb756e3adf3f1a2da50c213454c9d752a1686",
+    "tokens": [
+        "0x4c50c4d91ce329985ce22e669b733b8d686a53ce",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
