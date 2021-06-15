@@ -1,0 +1,8 @@
+{
+    "symbol": "ECHO",
+    "name": "Echo Token (PoS)",
+    "decimals": 18,
+    "address": "0xbe34506683c842dea90244333f9e8312672f1106",
+    "mintable": false,
+    "ethereum_address": "0x171706b7d113c68f2cc68a6ce63b1dbdcdf7b233"
+}
