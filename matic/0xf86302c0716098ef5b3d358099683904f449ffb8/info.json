@@ -1,0 +1,8 @@
+{
+    "symbol": "ZCX",
+    "name": "ZEN Exchange Token (PoS)",
+    "decimals": 18,
+    "address": "0xf86302c0716098ef5b3d358099683904f449ffb8",
+    "mintable": false,
+    "ethereum_address": "0xc52c326331e9ce41f04484d3b5e5648158028804"
+}
