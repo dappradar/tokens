@@ -1,0 +1,8 @@
+{
+    "symbol": "METRIC",
+    "name": "Metric.exchange (PoS)",
+    "decimals": 18,
+    "address": "0x9f1aeb72d5f38f2852b2a0f610bfb0391a6a9ab4",
+    "mintable": false,
+    "ethereum_address": "0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac"
+}
