@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% MERPRA-41 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xfaaa96af48e8d54dc0e4fa7325c3d452f8f210e5",
+    "tokens": [
+        "0xa0895d37fe79964b7e7cdf97e4a978d655ba5e94",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
