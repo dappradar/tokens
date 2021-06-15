@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% ENDSHA-78 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xfa563155b20f031be6781f048782c3d460ff7fe7",
+    "tokens": [
+        "0x0e36911f12d5d8d69f0b150861208a19976fa072",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
