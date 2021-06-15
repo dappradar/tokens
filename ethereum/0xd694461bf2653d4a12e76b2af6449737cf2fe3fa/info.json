@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% EXCMAC-14 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xd694461bf2653d4a12e76b2af6449737cf2fe3fa",
+    "tokens": [
+        "0xae89366e7cb54bf3b165ad656cdb6d997792b56e",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
