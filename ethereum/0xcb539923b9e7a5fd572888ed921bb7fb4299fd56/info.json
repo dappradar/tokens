@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% KINCOR-87 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xcb539923b9e7a5fd572888ed921bb7fb4299fd56",
+    "tokens": [
+        "0x5a694136c9030c0ebdd5cb8c5995320a85ffd2d3",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
