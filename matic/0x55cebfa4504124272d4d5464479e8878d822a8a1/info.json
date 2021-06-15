@@ -1,0 +1,8 @@
+{
+    "symbol": "DGVC",
+    "name": "DegenVC (PoS)",
+    "decimals": 18,
+    "address": "0x55cebfa4504124272d4d5464479e8878d822a8a1",
+    "mintable": false,
+    "ethereum_address": "0x26e43759551333e57f073bb0772f50329a957b30"
+}
