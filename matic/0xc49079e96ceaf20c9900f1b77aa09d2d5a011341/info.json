@@ -1,0 +1,8 @@
+{
+    "symbol": "BLANK",
+    "name": "Blank Token (PoS)",
+    "decimals": 18,
+    "address": "0xc49079e96ceaf20c9900f1b77aa09d2d5a011341",
+    "mintable": false,
+    "ethereum_address": "0xaec7e1f531bb09115103c53ba76829910ec48966"
+}
