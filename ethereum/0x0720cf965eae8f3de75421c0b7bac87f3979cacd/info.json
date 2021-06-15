@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% SALOCT-50 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x0720cf965eae8f3de75421c0b7bac87f3979cacd",
+    "tokens": [
+        "0xe5ff289979a09ae1541f829acae4934bf9e31aa5",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
