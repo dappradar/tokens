@@ -1,0 +1,6 @@
+{
+    "symbol": "yvCurve-DUSD",
+    "name": "Curve DUSD Pool yVault",
+    "decimals": 18,
+    "address": "0x8e6741b456a074f0bc45b8b82a755d4af7e965df"
+}
