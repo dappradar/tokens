@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% DIDKRI-31 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x5d0152187741932a44f237f1bb992bc610b66176",
+    "tokens": [
+        "0x2b7485461e1d1ad5dcd6f005c5233e43932602bd",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
