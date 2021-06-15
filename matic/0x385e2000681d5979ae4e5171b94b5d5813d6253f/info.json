@@ -1,0 +1,8 @@
+{
+    "symbol": "DV",
+    "name": "Virtual Dollar (PoS)",
+    "decimals": 18,
+    "address": "0x385e2000681d5979ae4e5171b94b5d5813d6253f",
+    "mintable": false,
+    "ethereum_address": "0xb791a875ea4836a9ec16cdcf4f747c0b9ca47c7d"
+}
