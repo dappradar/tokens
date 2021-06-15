@@ -1,0 +1,8 @@
+{
+    "symbol": "WSDOGE",
+    "name": "Doge of Woof Street (PoS)",
+    "decimals": 9,
+    "address": "0xcae54386449c0a7ce2d680982e3d08250dc3ec3b",
+    "mintable": false,
+    "ethereum_address": "0xcbdf1deb934e945a70b7289bb98e97013777f820"
+}
