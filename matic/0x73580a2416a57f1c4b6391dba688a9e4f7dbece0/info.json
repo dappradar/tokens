@@ -1,0 +1,8 @@
+{
+    "symbol": "POND",
+    "name": "Marlin POND (PoS)",
+    "decimals": 18,
+    "address": "0x73580a2416a57f1c4b6391dba688a9e4f7dbece0",
+    "mintable": false,
+    "ethereum_address": "0x57b946008913b82e4df85f501cbaed910e58d26c"
+}
