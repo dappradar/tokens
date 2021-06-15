@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% BELBAR-7 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x240e76b0b071115a861231bdb5d84bc79c2d8dcb",
+    "tokens": [
+        "0xb81c2889a8c17f422946a9124ce8d571dab593ee",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
