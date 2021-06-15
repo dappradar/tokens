@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% LACSHA-86 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x82c31dab5a9661f0bc4122944317f3a930f56fb3",
+    "tokens": [
+        "0x357f94c28a90ba34997223beb1aee48e4c7ce5e7",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
