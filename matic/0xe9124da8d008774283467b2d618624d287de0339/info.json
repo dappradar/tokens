@@ -1,0 +1,8 @@
+{
+    "symbol": "POG",
+    "name": "Pogcoin (PoS)",
+    "decimals": 2,
+    "address": "0xe9124da8d008774283467b2d618624d287de0339",
+    "mintable": false,
+    "ethereum_address": "0x9df38ad87d02b006f93424c6815ba0b2b3e3aef8"
+}
