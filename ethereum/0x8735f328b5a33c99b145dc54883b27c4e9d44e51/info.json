@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% TASSHA-67 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x8735f328b5a33c99b145dc54883b27c4e9d44e51",
+    "tokens": [
+        "0x5764454e304b9bda32bd0509e479ce8f1ad1c5d6",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
