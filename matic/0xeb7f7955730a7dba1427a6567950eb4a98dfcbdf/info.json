@@ -1,0 +1,8 @@
+{
+    "symbol": "WLEV",
+    "name": "Wrapped Leviathan (PoS)",
+    "decimals": 18,
+    "address": "0xeb7f7955730a7dba1427a6567950eb4a98dfcbdf",
+    "mintable": false,
+    "ethereum_address": "0xa2482ccff8432ee68b9a26a30fcdd2782bd81bed"
+}
