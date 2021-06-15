@@ -1,0 +1,18 @@
+<svg width="480" height="480" viewBox="0 0 480 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0-401752" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="480" height="480">
+<circle cx="240" cy="240" r="240" fill="url(#paint0_linear-595090)"/>
+</mask>
+<g mask="url(#mask0-401752)">
+<circle cx="240" cy="240" r="240" fill="#31D8A4"/>
+<circle cx="240" cy="240" r="208" fill="white"/>
+</g>
+<circle cx="240" cy="240" r="184" fill="#0E052F"/>
+<path d="M240 424C341.62 424 424 341.62 424 240C424 138.38 341.62 56 240 56C138.38 56 56 138.38 56 240C56 341.62 138.38 424 240 424Z" fill="#F3BA2F"/>
+<path d="M195.334 221.646L240 176.98L284.689 221.669L310.679 195.679L240 125L169.344 195.656L195.334 221.646ZM125 240L150.99 214.01L176.98 240L150.99 265.99L125 240ZM195.334 258.354L240 303.02L284.689 258.331L310.679 284.31L240 355L169.344 284.344L169.309 284.31L195.334 258.354ZM303.02 240L329.01 214.01L355 240L329.01 265.99L303.02 240ZM266.358 239.977H266.381V240L240 266.381L213.653 240.046L213.607 240L213.653 239.965L218.265 235.343L220.508 233.1L240 213.619L266.369 239.988L266.358 239.977Z" fill="white"/>
+<defs>
+<linearGradient id="paint0_linear-595090" x1="240" y1="0" x2="240" y2="701.818" gradientUnits="userSpaceOnUse">
+<stop stop-color="#08021E"/>
+<stop offset="1" stop-color="#1F0777"/>
+</linearGradient>
+</defs>
+</svg>
