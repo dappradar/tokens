@@ -1,0 +1,8 @@
+{
+    "symbol": "ETHM",
+    "name": "Ethereum Meta (PoS)",
+    "decimals": 18,
+    "address": "0xbe624349c80576f6b5714bfb6df0b5be526719f6",
+    "mintable": false,
+    "ethereum_address": "0xfd957f21bd95e723645c07c48a2d8acb8ffb3794"
+}
