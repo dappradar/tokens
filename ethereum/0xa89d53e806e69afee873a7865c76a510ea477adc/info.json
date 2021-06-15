@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% WHESQU-74 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xa89d53e806e69afee873a7865c76a510ea477adc",
+    "tokens": [
+        "0x5fd7a6ee02cb79919aec17cbb29e3042f2897a0e",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
