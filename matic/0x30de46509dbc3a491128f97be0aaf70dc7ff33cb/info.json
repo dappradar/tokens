@@ -1,0 +1,8 @@
+{
+    "symbol": "XZAR",
+    "name": "South African Tether (PoS)",
+    "decimals": 18,
+    "address": "0x30de46509dbc3a491128f97be0aaf70dc7ff33cb",
+    "mintable": false,
+    "ethereum_address": "0x48f07301e9e29c3c38a80ae8d9ae771f224f1054"
+}
