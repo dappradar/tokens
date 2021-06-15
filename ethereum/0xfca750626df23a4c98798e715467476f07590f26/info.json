@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% TACPEN-59 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xfca750626df23a4c98798e715467476f07590f26",
+    "tokens": [
+        "0x49f68424218ec6a581a33e24c7a09f9ba3572894",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
