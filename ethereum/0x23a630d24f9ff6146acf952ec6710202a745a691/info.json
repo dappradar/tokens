@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% WONPUF-68 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x23a630d24f9ff6146acf952ec6710202a745a691",
+    "tokens": [
+        "0x5dc0a8b93842fd2357a51f7d677dd03a2a18577c",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
