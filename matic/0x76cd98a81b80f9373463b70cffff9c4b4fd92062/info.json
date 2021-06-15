@@ -1,0 +1,8 @@
+{
+    "symbol": "CYC",
+    "name": "Cyclone Protocol (PoS)",
+    "decimals": 18,
+    "address": "0x76cd98a81b80f9373463b70cffff9c4b4fd92062",
+    "mintable": false,
+    "ethereum_address": "0x8861cff2366c1128fd699b68304ad99a0764ef9a"
+}
