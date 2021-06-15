@@ -1,0 +1,8 @@
+{
+    "symbol": "EVO",
+    "name": "EVO (PoS)",
+    "decimals": 18,
+    "address": "0x4237302a7db5dfd04d1fff5fd93a6f09bde8f08c",
+    "mintable": false,
+    "ethereum_address": "0x3fea51daab1672d3385f6af02980e1462ca0687b"
+}
