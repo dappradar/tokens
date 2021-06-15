@@ -2,5 +2,9 @@
     "symbol": "VLP",
     "name": "Value Liquidity Provider",
     "decimals": 18,
-    "address": "0xd39c6166fe0907465037b3eee97eed2181cc4ec7"
+    "address": "0xd39c6166fe0907465037b3eee97eed2181cc4ec7",
+    "tokens": [
+        "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "0x49e833337ece7afe375e44f4e3e8481029218e5c"
+    ]
 }
