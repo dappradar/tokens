@@ -1,0 +1,8 @@
+{
+    "symbol": "PDEX",
+    "name": "Polkadex (PoS)",
+    "decimals": 18,
+    "address": "0x93c2c75a674700e9ed7a46cf220ec140aea09fad",
+    "mintable": false,
+    "ethereum_address": "0xf59ae934f6fe444afc309586cc60a84a0f89aaea"
+}
