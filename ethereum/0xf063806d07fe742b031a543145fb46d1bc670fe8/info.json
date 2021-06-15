@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2OCEANETH",
+    "name": "UniswapV2OCEANETH",
+    "decimals": 18,
+    "address": "0xf063806d07fe742b031a543145fb46d1bc670fe8",
+    "tokens": [
+        "0x7afebbb46fdb47ed17b22ed075cde2447694fb9e",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    ]
+}
