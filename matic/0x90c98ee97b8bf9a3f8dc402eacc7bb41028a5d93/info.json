@@ -1,0 +1,8 @@
+{
+    "symbol": "KATANA",
+    "name": "KatanaToken (PoS)",
+    "decimals": 18,
+    "address": "0x90c98ee97b8bf9a3f8dc402eacc7bb41028a5d93",
+    "mintable": false,
+    "ethereum_address": "0xe6410569602124506658ff992f258616ea2d4a3d"
+}
