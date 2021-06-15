@@ -1,0 +1,8 @@
+{
+    "symbol": "ZCN",
+    "name": "0chain (PoS)",
+    "decimals": 10,
+    "address": "0x8bb30e0e67b11b978a5040144c410e1ccddcba30",
+    "mintable": false,
+    "ethereum_address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
+}
