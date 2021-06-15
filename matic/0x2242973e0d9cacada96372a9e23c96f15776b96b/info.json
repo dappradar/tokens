@@ -1,0 +1,8 @@
+{
+    "symbol": "TSCA",
+    "name": "TestScaleSwapToken (PoS)",
+    "decimals": 18,
+    "address": "0x2242973e0d9cacada96372a9e23c96f15776b96b",
+    "mintable": false,
+    "ethereum_address": "0xc5e9be63ab9473280c4ff9ff789ca584958e0494"
+}
