@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 98% BASE + 2% USDC Pool",
+    "decimals": 18,
+    "address": "0x19b770c8f9d5439c419864d8458255791f7e736c",
+    "tokens": [
+        "0x07150e919b4de5fd6a63de1f9384828396f25fdc",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    ]
+}
