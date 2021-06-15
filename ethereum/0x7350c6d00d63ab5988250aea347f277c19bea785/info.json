@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 80% YFI + 20% USDC Pool",
+    "decimals": 18,
+    "address": "0x7350c6d00d63ab5988250aea347f277c19bea785",
+    "tokens": [
+        "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    ]
+}
