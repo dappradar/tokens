@@ -1,0 +1,8 @@
+{
+    "symbol": "ALAN",
+    "name": "ALAN (PoS)",
+    "decimals": 18,
+    "address": "0xa6e99049d3dc5fa94292c86e67742d7cd2ebe561",
+    "mintable": false,
+    "ethereum_address": "0x8c9952fb855346a752190234261f74dad13c26fa"
+}
