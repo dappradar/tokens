@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% HEUCOR-62 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x3b9d5978ae819f349746136a1727f069247343fe",
+    "tokens": [
+        "0x7b1bd31e39c2c05a8d7c97b70977161379854aa6",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
