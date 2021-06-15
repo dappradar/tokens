@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% VALUE + 10% vUSD Pool",
+    "decimals": 18,
+    "address": "0x50007a6bf4a45374aa5206c1abba88a1ffde1baf",
+    "tokens": [
+        "0x49e833337ece7afe375e44f4e3e8481029218e5c",
+        "0x1b8e12f839bd4e73a47addf76cf7f0097d74c14c"
+    ]
+}
