@@ -1,0 +1,8 @@
+{
+    "symbol": "OCC",
+    "name": "OCC (PoS)",
+    "decimals": 18,
+    "address": "0xf30355ba14b2d3b31597ec71a4542f57e902cb80",
+    "mintable": false,
+    "ethereum_address": "0x2f109021afe75b949429fe30523ee7c0d5b27207"
+}
