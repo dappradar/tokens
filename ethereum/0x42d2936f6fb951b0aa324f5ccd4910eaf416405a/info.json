@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 98% YFI + 2% VALUE Pool",
+    "decimals": 18,
+    "address": "0x42d2936f6fb951b0aa324f5ccd4910eaf416405a",
+    "tokens": [
+        "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+        "0x49e833337ece7afe375e44f4e3e8481029218e5c"
+    ]
+}
