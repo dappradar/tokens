@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2ETHKNC",
+    "name": "UniswapV2ETHKNC",
+    "decimals": 18,
+    "address": "0xf49c43ae0faf37217bdcb00df478cf793edd6687",
+    "tokens": [
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "0xdd974d5c2e2928dea5f71b9825b8b646686bd200"
+    ]
+}
