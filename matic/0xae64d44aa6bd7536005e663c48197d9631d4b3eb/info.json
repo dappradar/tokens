@@ -1,0 +1,8 @@
+{
+    "symbol": "UBX",
+    "name": "UBX (PoS)",
+    "decimals": 0,
+    "address": "0xae64d44aa6bd7536005e663c48197d9631d4b3eb",
+    "mintable": false,
+    "ethereum_address": "0xf5b5efc906513b4344ebabcf47a04901f99f09f3"
+}
