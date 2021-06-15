@@ -1,0 +1,8 @@
+{
+    "symbol": "TRACE",
+    "name": "Trace Network (PoS)",
+    "decimals": 18,
+    "address": "0x4287f07cbe6954f9f0decd91d0705c926d8d03a4",
+    "mintable": false,
+    "ethereum_address": "0x9f7fc686cfd64aa5ae15b351d03071e91533094b"
+}
