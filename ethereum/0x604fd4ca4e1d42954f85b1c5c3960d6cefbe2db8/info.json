@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% TACWHA-52 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x604fd4ca4e1d42954f85b1c5c3960d6cefbe2db8",
+    "tokens": [
+        "0x71e1a3e14ba3a6def15057387e5133cacab262cb",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
