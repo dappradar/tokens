@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% CLETUN-75 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x6a7c1041adc3f04c9967b6656bb003eb31e62723",
+    "tokens": [
+        "0xc4f0f027c3caa4fbb7084529321f8247258b4254",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
