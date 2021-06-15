@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% QUESTA-41 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x4dfe5ce87c1fa89618aefe609c4f33b638c9f963",
+    "tokens": [
+        "0xbc3eec9b178c9416badf4740ace603ff154f7b56",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
