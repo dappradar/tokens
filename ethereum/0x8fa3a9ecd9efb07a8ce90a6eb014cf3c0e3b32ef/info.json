@@ -1,0 +1,6 @@
+{
+    "symbol": "yvCurve-BBTC",
+    "name": "Curve BBTC Pool yVault",
+    "decimals": 18,
+    "address": "0x8fa3a9ecd9efb07a8ce90a6eb014cf3c0e3b32ef"
+}
