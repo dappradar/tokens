@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% PARSHE-10 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x9126676af96f8063106f0b287c79d4110940e925",
+    "tokens": [
+        "0xe06043a6721b3481e6b6063ec220b99aa96df79a",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
