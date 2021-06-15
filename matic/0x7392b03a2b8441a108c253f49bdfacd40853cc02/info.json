@@ -1,0 +1,8 @@
+{
+    "symbol": "OSM",
+    "name": "Options.Market (PoS)",
+    "decimals": 18,
+    "address": "0x7392b03a2b8441a108c253f49bdfacd40853cc02",
+    "mintable": false,
+    "ethereum_address": "0x9b75848172677042269c63365b57b0a51c21d031"
+}
