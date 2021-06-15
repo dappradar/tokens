@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 30% CONDOL-62 + 70% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x26ff5cdf0cca025552063fe90dc4c1d7ff0f219c",
+    "tokens": [
+        "0x152a5ba61b4b7aa05615988facde16fb00e0974b",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
