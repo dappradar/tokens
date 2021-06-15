@@ -1,0 +1,8 @@
+{
+    "symbol": "CPD",
+    "name": "Coinspaid (PoS)",
+    "decimals": 18,
+    "address": "0x1ce4a2c355f0dcc24e32a9af19f1836d6f4f98ae",
+    "mintable": false,
+    "ethereum_address": "0x9b31bb425d8263fa1b8b9d090b83cf0c31665355"
+}
