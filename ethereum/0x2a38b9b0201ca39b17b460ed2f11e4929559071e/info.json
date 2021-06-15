@@ -1,0 +1,6 @@
+{
+    "symbol": "yvCurve-GUSD",
+    "name": "Curve GUSD Pool yVault",
+    "decimals": 18,
+    "address": "0x2a38b9b0201ca39b17b460ed2f11e4929559071e"
+}
