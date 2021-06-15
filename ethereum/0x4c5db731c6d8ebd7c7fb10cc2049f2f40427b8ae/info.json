@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% FASSTA-57 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x4c5db731c6d8ebd7c7fb10cc2049f2f40427b8ae",
+    "tokens": [
+        "0x730f4a1f9b542c757911922843a3900c579c8640",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
