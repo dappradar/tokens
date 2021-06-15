@@ -1,0 +1,10 @@
+{
+    "symbol": "univ2AKROETH",
+    "name": "UniswapV2AKROETH",
+    "decimals": 18,
+    "address": "0x8cb77ea869def8f7fdeab9e4da6cf02897bbf076",
+    "tokens": [
+        "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    ]
+}
