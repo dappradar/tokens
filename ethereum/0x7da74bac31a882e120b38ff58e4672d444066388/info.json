@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% EGRSHA-76 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x7da74bac31a882e120b38ff58e4672d444066388",
+    "tokens": [
+        "0xfb0cc105916c52cd12efe4b1597272d56150e5e1",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
