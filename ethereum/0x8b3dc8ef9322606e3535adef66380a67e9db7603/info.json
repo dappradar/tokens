@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 2% VALUE + 98% MIKAL Pool",
+    "decimals": 18,
+    "address": "0x8b3dc8ef9322606e3535adef66380a67e9db7603",
+    "tokens": [
+        "0x49e833337ece7afe375e44f4e3e8481029218e5c",
+        "0xa4a587ff4becfeb7405cf8756d7c030aab5d3d19"
+    ]
+}
