@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% CONSEA-11 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xe33a73b66aef1f261494828f60fb28c04260ba7a",
+    "tokens": [
+        "0x1f34ef2d979a83ea38539fa8293e248df0fbbf46",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
