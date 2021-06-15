@@ -1,0 +1,11 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 40% vUSD + 40% USDC + 20% VALUE Pool",
+    "decimals": 18,
+    "address": "0xe12c0c5a300da8ae4bc346f3eb4da9bffc0ca68b",
+    "tokens": [
+        "0x1b8e12f839bd4e73a47addf76cf7f0097d74c14c",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "0x49e833337ece7afe375e44f4e3e8481029218e5c"
+    ]
+}
