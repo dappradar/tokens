@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 50% CERBAR-40 + 50% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x4800c063baeebcbd1d952f942836ba29436de562",
+    "tokens": [
+        "0xa7bdecca519dc6cba755cf644f5cf401513b3500",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
