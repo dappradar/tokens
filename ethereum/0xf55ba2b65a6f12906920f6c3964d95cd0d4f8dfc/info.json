@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% ARTCLO-3 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0xf55ba2b65a6f12906920f6c3964d95cd0d4f8dfc",
+    "tokens": [
+        "0x5c53218593244b7603b2f1dd47a2fb9367552878",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
