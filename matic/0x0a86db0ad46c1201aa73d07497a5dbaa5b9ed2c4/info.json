@@ -1,0 +1,8 @@
+{
+    "symbol": "XNOCT",
+    "name": "Nocturne (PoS)",
+    "decimals": 18,
+    "address": "0x0a86db0ad46c1201aa73d07497a5dbaa5b9ed2c4",
+    "mintable": false,
+    "ethereum_address": "0xc00a57c49247106dac598912d514fcaee37db213"
+}
