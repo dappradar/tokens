@@ -1,0 +1,10 @@
+{
+    "symbol": "BPT",
+    "name": "Balancer 90% LOQCUT-28 + 10% OCEAN Pool",
+    "decimals": 18,
+    "address": "0x2aab17c1a28902a53959f13055fd56efbde8eb2c",
+    "tokens": [
+        "0x6b71911ad8035b30cd0e71271e94fe12a54c1b0e",
+        "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+    ]
+}
