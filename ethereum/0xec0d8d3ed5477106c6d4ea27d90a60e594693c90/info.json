@@ -1,0 +1,6 @@
+{
+    "symbol": "yGUSD",
+    "name": "yearn GUSD vault",
+    "decimals": 2,
+    "address": "0xec0d8d3ed5477106c6d4ea27d90a60e594693c90"
+}
