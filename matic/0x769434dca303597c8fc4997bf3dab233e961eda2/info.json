@@ -1,0 +1,8 @@
+{
+    "symbol": "XSGD",
+    "name": "XSGD (PoS)",
+    "decimals": 6,
+    "address": "0x769434dca303597c8fc4997bf3dab233e961eda2",
+    "mintable": false,
+    "ethereum_address": "0x70e8de73ce538da2beed35d14187f6959a8eca96"
+}
