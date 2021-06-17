@@ -1,0 +1,8 @@
+{
+    "symbol": "CADC",
+    "name": "CAD Coin (PoS)",
+    "decimals": 18,
+    "address": "0x5d146d8b1dacb1ebba5cb005ae1059da8a1fbf57",
+    "mintable": false,
+    "ethereum_address": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef"
+}
