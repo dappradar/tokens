@@ -1,0 +1,8 @@
+{
+    "symbol": "RVF",
+    "name": "Rocket Vault (PoS)",
+    "decimals": 18,
+    "address": "0x2ce13e4199443fdfff531abb30c9b6594446bbc7",
+    "mintable": false,
+    "ethereum_address": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2"
+}
