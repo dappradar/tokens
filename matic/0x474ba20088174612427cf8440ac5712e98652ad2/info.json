@@ -1,0 +1,8 @@
+{
+    "symbol": "MINTY",
+    "name": "Minty Art (PoS)",
+    "decimals": 18,
+    "address": "0x474ba20088174612427cf8440ac5712e98652ad2",
+    "mintable": false,
+    "ethereum_address": "0xb6c6920327b33f8eec26786c7462c5f4098d47e3"
+}
