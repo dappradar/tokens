@@ -1,0 +1,8 @@
+{
+    "symbol": "SXC",
+    "name": "SupremeX Token (PoS)",
+    "decimals": 18,
+    "address": "0x46d3ec8ce3ec767414f16fe12176de23e3e5b46a",
+    "mintable": true,
+    "ethereum_address": "0x01b0086a5bbb25fe081629c232950c7aff660e2d"
+}
