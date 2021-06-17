@@ -1,0 +1,8 @@
+{
+    "symbol": "wRBT",
+    "name": "Wrapped Ribbits (PoS)",
+    "decimals": 18,
+    "address": "0xa5d447757dac8c5faab1858b13da4af701adf4bb",
+    "mintable": false,
+    "ethereum_address": "0xaaf49d386bd44e31ff22edf723f40ee3e4da53cd"
+}
