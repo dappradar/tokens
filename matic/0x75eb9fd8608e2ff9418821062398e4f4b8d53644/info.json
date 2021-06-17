@@ -1,0 +1,8 @@
+{
+    "symbol": "AGVE",
+    "name": "Agave (PoS)",
+    "decimals": 18,
+    "address": "0x75eb9fd8608e2ff9418821062398e4f4b8d53644",
+    "mintable": false,
+    "ethereum_address": "0x0b006e475620af076915257c6a9e40635abdbbad"
+}
