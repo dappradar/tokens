@@ -1,0 +1,8 @@
+{
+    "symbol": "CREAM",
+    "name": "Cream (PoS)",
+    "decimals": 18,
+    "address": "0x04f3c4cf2e806da6df31e80e8a5d121f98edd61d",
+    "mintable": false,
+    "ethereum_address": "0x2ba592f78db6436527729929aaf6c908497cb200"
+}
