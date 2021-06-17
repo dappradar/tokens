@@ -1,0 +1,6 @@
+{
+    "symbol": "IBVOL",
+    "name": "Inverse Bitcoin Vol",
+    "decimals": 18,
+    "address": "0x627e2ee3dbda546e168eaaff25a2c5212e4a95a0"
+}
