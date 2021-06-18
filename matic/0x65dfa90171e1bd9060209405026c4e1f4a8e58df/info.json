@@ -1,0 +1,8 @@
+{
+    "symbol": "OIL",
+    "name": "Oiler (PoS)",
+    "decimals": 18,
+    "address": "0x65dfa90171e1bd9060209405026c4e1f4a8e58df",
+    "mintable": false,
+    "ethereum_address": "0x0275e1001e293c46cfe158b3702aade0b99f88a5"
+}
