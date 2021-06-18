@@ -1,0 +1,8 @@
+{
+    "symbol": "MIM",
+    "name": "Magic Internet Money (PoS)",
+    "decimals": 18,
+    "address": "0x01288e04435bfcd4718ff203d6ed18146c17cd4b",
+    "mintable": false,
+    "ethereum_address": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3"
+}
