@@ -1,0 +1,8 @@
+{
+    "symbol": "GMRX",
+    "name": "Gaimin Token (PoS)",
+    "decimals": 18,
+    "address": "0x73f56124a34e0214067b7e5f42a132b3ea072014",
+    "mintable": false,
+    "ethereum_address": "0xfbb21d217e23a73aa8c1c7d39e43a6971d35e0e2"
+}
