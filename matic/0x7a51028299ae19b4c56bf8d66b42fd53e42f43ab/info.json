@@ -1,0 +1,8 @@
+{
+    "symbol": "PAIRX",
+    "name": "PairX Token (PoS)",
+    "decimals": 18,
+    "address": "0x7a51028299ae19b4c56bf8d66b42fd53e42f43ab",
+    "mintable": false,
+    "ethereum_address": "0x7a51028299ae19b4c56bf8d66b42fd53e42f43ab"
+}
