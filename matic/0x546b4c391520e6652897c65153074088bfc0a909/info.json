@@ -1,0 +1,8 @@
+{
+    "symbol": "FOR",
+    "name": "The Force Token (PoS)",
+    "decimals": 18,
+    "address": "0x546b4c391520e6652897c65153074088bfc0a909",
+    "mintable": false,
+    "ethereum_address": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f"
+}
