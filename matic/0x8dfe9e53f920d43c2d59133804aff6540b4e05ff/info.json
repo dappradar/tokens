@@ -1,0 +1,8 @@
+{
+    "symbol": "GNAR",
+    "name": "Gnarcoin (PoS)",
+    "decimals": 18,
+    "address": "0x8dfe9e53f920d43c2d59133804aff6540b4e05ff",
+    "mintable": false,
+    "ethereum_address": "0x017429367d6e4f9fa7b673bdb2247887bd9233e8"
+}
