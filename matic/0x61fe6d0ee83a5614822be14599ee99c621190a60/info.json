@@ -1,0 +1,8 @@
+{
+    "symbol": "PENNY",
+    "name": "penny (PoS)",
+    "decimals": 18,
+    "address": "0x61fe6d0ee83a5614822be14599ee99c621190a60",
+    "mintable": false,
+    "ethereum_address": "0x53bfb267aae3ca9d41febe271b7b8ea5dcffacfa"
+}
