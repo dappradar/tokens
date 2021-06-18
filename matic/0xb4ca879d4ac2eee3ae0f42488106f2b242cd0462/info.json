@@ -1,0 +1,8 @@
+{
+    "symbol": "FRIENDS",
+    "name": "friends (PoS)",
+    "decimals": 18,
+    "address": "0xb4ca879d4ac2eee3ae0f42488106f2b242cd0462",
+    "mintable": false,
+    "ethereum_address": "0x57e15f54e11d28a5c42f1a0376f2e6c05adbe930"
+}
