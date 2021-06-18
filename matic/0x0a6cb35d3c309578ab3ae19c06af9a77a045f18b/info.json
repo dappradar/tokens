@@ -1,0 +1,8 @@
+{
+    "symbol": "REILLY",
+    "name": "ReillyCoin (PoS)",
+    "decimals": 18,
+    "address": "0x0a6cb35d3c309578ab3ae19c06af9a77a045f18b",
+    "mintable": false,
+    "ethereum_address": "0x12d0545f7f74a17c84432e9552d8e4eb62b59dcd"
+}
