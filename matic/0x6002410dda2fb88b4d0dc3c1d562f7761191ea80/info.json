@@ -1,0 +1,8 @@
+{
+    "symbol": "WORK",
+    "name": "The Employment Commons Work Token (PoS)",
+    "decimals": 18,
+    "address": "0x6002410dda2fb88b4d0dc3c1d562f7761191ea80",
+    "mintable": false,
+    "ethereum_address": "0x1482295df16e7761d128b9823b61785d43ca038b"
+}
