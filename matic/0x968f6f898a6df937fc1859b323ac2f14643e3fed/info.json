@@ -1,0 +1,8 @@
+{
+    "symbol": "NWC",
+    "name": "Newscrypto (PoS)",
+    "decimals": 18,
+    "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
+    "mintable": false,
+    "ethereum_address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed"
+}
