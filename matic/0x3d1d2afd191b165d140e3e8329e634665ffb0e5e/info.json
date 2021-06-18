@@ -1,0 +1,8 @@
+{
+    "symbol": "DERI",
+    "name": "Deri (PoS)",
+    "decimals": 18,
+    "address": "0x3d1d2afd191b165d140e3e8329e634665ffb0e5e",
+    "mintable": false,
+    "ethereum_address": "0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9"
+}
