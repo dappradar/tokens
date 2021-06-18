@@ -1,0 +1,8 @@
+{
+    "symbol": "XCASH",
+    "name": "X-Cash (PoS)",
+    "decimals": 18,
+    "address": "0x03678f2c2c762dc63c2bb738c3a837d366eda560",
+    "mintable": false,
+    "ethereum_address": "0x235328f864f38a91f0d2282159ea7c7b7c9f7c62"
+}
