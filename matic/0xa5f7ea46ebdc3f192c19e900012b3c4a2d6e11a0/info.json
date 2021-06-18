@@ -1,0 +1,8 @@
+{
+    "symbol": "SVB",
+    "name": "super veggie burrito (PoS)",
+    "decimals": 18,
+    "address": "0xa5f7ea46ebdc3f192c19e900012b3c4a2d6e11a0",
+    "mintable": false,
+    "ethereum_address": "0xa2dddf1755603e209392dd987a1eb8689277b2c6"
+}
