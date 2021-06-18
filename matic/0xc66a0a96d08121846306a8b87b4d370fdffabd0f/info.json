@@ -1,0 +1,8 @@
+{
+    "symbol": "Mare",
+    "name": "Mare Imbrium Fund (PoS)",
+    "decimals": 18,
+    "address": "0xc66a0a96d08121846306a8b87b4d370fdffabd0f",
+    "mintable": false,
+    "ethereum_address": "0x158e55b4b14c4f49da5599ed3b26c0c8773095b2"
+}
