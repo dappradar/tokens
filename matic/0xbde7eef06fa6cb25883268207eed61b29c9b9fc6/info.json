@@ -1,0 +1,8 @@
+{
+    "symbol": "LUNAR",
+    "name": "Lunar Token (PoS)",
+    "decimals": 18,
+    "address": "0xbde7eef06fa6cb25883268207eed61b29c9b9fc6",
+    "mintable": false,
+    "ethereum_address": "0x5ef874ab47abbd72a6502ec17a1e3d046f5d5739"
+}
