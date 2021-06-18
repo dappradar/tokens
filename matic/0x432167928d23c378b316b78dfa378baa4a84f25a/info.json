@@ -1,0 +1,8 @@
+{
+    "symbol": "DOLLAR",
+    "name": "Dollar (PoS)",
+    "decimals": 18,
+    "address": "0x432167928d23c378b316b78dfa378baa4a84f25a",
+    "mintable": false,
+    "ethereum_address": "0xe0ea460dc00d4cc62f539550d8dc9861dfd460fd"
+}
