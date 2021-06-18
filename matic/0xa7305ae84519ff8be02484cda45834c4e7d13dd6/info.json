@@ -1,0 +1,8 @@
+{
+    "symbol": "UFARM",
+    "name": "UNIFARM Token (PoS)",
+    "decimals": 18,
+    "address": "0xa7305ae84519ff8be02484cda45834c4e7d13dd6",
+    "mintable": false,
+    "ethereum_address": "0x40986a85b4cfcdb054a6cbfb1210194fee51af88"
+}
