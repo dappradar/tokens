@@ -1,0 +1,8 @@
+{
+    "symbol": "SPDR",
+    "name": "SpiderDAO Token (PoS)",
+    "decimals": 18,
+    "address": "0x916dc64c5bca5da97a354bbd3998771a26545e09",
+    "mintable": false,
+    "ethereum_address": "0xbcd4b7de6fde81025f74426d43165a5b0d790fdd"
+}
