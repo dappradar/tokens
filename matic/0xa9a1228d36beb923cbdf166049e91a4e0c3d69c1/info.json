@@ -1,0 +1,8 @@
+{
+    "symbol": "MUSA",
+    "name": "Musa (PoS)",
+    "decimals": 18,
+    "address": "0xa9a1228d36beb923cbdf166049e91a4e0c3d69c1",
+    "mintable": false,
+    "ethereum_address": "0x4c8641cda297743202835f06ff8c6ec4ee9b3d18"
+}
