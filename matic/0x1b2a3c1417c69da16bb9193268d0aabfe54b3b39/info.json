@@ -1,0 +1,8 @@
+{
+    "symbol": "ROSN",
+    "name": "Roseon token (PoS)",
+    "decimals": 18,
+    "address": "0x1b2a3c1417c69da16bb9193268d0aabfe54b3b39",
+    "mintable": false,
+    "ethereum_address": "0x651cd665bd558175a956fb3d72206ea08eb3df5b"
+}
