@@ -1,0 +1,8 @@
+{
+    "symbol": "imBTC",
+    "name": "The Tokenized Bitcoin (PoS)",
+    "decimals": 8,
+    "address": "0x897f86e22a5f5782c439118d68338f4fc420e59c",
+    "mintable": false,
+    "ethereum_address": "0x3212b29e33587a00fb1c83346f5dbfa69a458923"
+}
