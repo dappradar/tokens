@@ -1,0 +1,8 @@
+{
+    "symbol": "UCASH",
+    "name": "UCASH (PoS)",
+    "decimals": 8,
+    "address": "0xa94880d3a4b39746e90cdb57f8de3732c984de14",
+    "mintable": false,
+    "ethereum_address": "0x92e52a1a235d9a103d970901066ce910aacefd37"
+}
