@@ -1,0 +1,8 @@
+{
+    "symbol": "YLDY",
+    "name": "Yieldly (PoS)",
+    "decimals": 18,
+    "address": "0x07280d3143311b012ad268a74f2aa791713952ea",
+    "mintable": true,
+    "ethereum_address": "0x88cb253d4c8cab8cdf7948a9251db85a13669e23"
+}
