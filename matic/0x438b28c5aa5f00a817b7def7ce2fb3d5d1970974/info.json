@@ -1,0 +1,8 @@
+{
+    "symbol": "BLZ",
+    "name": "Bluzelle Token (PoS)",
+    "decimals": 18,
+    "address": "0x438b28c5aa5f00a817b7def7ce2fb3d5d1970974",
+    "mintable": false,
+    "ethereum_address": "0x5732046a883704404f284ce41ffadd5b007fd668"
+}
