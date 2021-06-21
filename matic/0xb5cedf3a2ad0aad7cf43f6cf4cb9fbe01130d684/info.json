@@ -1,0 +1,8 @@
+{
+    "symbol": "BRB",
+    "name": "BIRB (PoS)",
+    "decimals": 8,
+    "address": "0xb5cedf3a2ad0aad7cf43f6cf4cb9fbe01130d684",
+    "mintable": false,
+    "ethereum_address": "0x216d7636b791ed93bfd56bf696b35a14115416ab"
+}
