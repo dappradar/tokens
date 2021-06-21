@@ -1,0 +1,8 @@
+{
+    "symbol": "AROMA",
+    "name": "CryptoChefs AROMA Token (PoS)",
+    "decimals": 18,
+    "address": "0x444dbcb15ea0d706c04dab615374a11759e07a25",
+    "mintable": false,
+    "ethereum_address": "0x444dbcb15ea0d706c04dab615374a11759e07a25"
+}
