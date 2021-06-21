@@ -1,0 +1,8 @@
+{
+    "symbol": "MAHA",
+    "name": "MahaDAO (PoS)",
+    "decimals": 18,
+    "address": "0xedd6ca8a4202d4a36611e2fff109648c4863ae19",
+    "mintable": false,
+    "ethereum_address": "0xb4d930279552397bba2ee473229f89ec245bc365"
+}
