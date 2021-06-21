@@ -1,0 +1,8 @@
+{
+    "symbol": "DC",
+    "name": "DC Token (PoS)",
+    "decimals": 18,
+    "address": "0x3ebeb3f48f3a16b6a1e1e19b82c09bc8aae5d983",
+    "mintable": false,
+    "ethereum_address": "0xb3fb97019e9f69d0fd2e76fbd113ec6960a5389a"
+}
