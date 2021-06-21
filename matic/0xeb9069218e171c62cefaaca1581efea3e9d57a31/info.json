@@ -1,0 +1,8 @@
+{
+    "symbol": "wCCX",
+    "name": "Conceal - Wrapped CCX  (PoS)",
+    "decimals": 6,
+    "address": "0xeb9069218e171c62cefaaca1581efea3e9d57a31",
+    "mintable": false,
+    "ethereum_address": "0x21686f8ce003a95c99acd297e302faacf742f7d4"
+}
