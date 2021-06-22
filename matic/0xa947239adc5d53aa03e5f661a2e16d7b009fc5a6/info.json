@@ -1,0 +1,8 @@
+{
+    "symbol": "RAZE",
+    "name": "Raze Network (PoS)",
+    "decimals": 18,
+    "address": "0xa947239adc5d53aa03e5f661a2e16d7b009fc5a6",
+    "mintable": false,
+    "ethereum_address": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac"
+}
