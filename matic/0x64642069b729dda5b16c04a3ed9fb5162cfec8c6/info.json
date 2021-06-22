@@ -1,0 +1,8 @@
+{
+    "symbol": "HDAO",
+    "name": "Hyper DAO V2 (PoS)",
+    "decimals": 18,
+    "address": "0x64642069b729dda5b16c04a3ed9fb5162cfec8c6",
+    "mintable": false,
+    "ethereum_address": "0x3a41eca14ecc96dc9da6e98ba2bf19acc5a84e51"
+}
