@@ -1,0 +1,8 @@
+{
+    "symbol": "BLO",
+    "name": "Based Loans Ownership (PoS)",
+    "decimals": 18,
+    "address": "0x9737399fab00754fdc8bee48fcb0697ce85c7de5",
+    "mintable": false,
+    "ethereum_address": "0x68481f2c02be3786987ac2bc3327171c5d05f9bd"
+}
