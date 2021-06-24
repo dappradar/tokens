@@ -1,0 +1,8 @@
+{
+    "symbol": "FREE",
+    "name": "Free Coin (PoS)",
+    "decimals": 18,
+    "address": "0x7cef6ed1e07079e174601d39066ad0856cb47988",
+    "mintable": false,
+    "ethereum_address": "0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd"
+}
