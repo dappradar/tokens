@@ -1,0 +1,8 @@
+{
+    "symbol": "xFORCE",
+    "name": "xFORCE (PoS)",
+    "decimals": 18,
+    "address": "0x27ca65acd4397a6ade56ac2a5d63587c14a46f0f",
+    "mintable": false,
+    "ethereum_address": "0xe7f445b93eb9cdabfe76541cc43ff8de930a58e6"
+}
