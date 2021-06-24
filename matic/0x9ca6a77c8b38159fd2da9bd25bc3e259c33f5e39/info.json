@@ -1,0 +1,8 @@
+{
+    "symbol": "SPORK",
+    "name": "The SporkDAO Token (PoS)",
+    "decimals": 18,
+    "address": "0x9ca6a77c8b38159fd2da9bd25bc3e259c33f5e39",
+    "mintable": false,
+    "ethereum_address": "0xb624fde1a972b1c89ec1dad691442d5e8e891469"
+}
