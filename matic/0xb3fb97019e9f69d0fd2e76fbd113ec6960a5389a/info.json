@@ -1,0 +1,8 @@
+{
+    "symbol": "CC",
+    "name": "CC Token (PoS)",
+    "decimals": 18,
+    "address": "0xb3fb97019e9f69d0fd2e76fbd113ec6960a5389a",
+    "mintable": false,
+    "ethereum_address": "0xd6860c96b5e1452811573b499d0c6aeddada4f23"
+}
