@@ -1,0 +1,8 @@
+{
+    "symbol": "TRADE",
+    "name": "Polytrade (PoS)",
+    "decimals": 18,
+    "address": "0x692ac1e363ae34b6b489148152b12e2785a3d8d6",
+    "mintable": false,
+    "ethereum_address": "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1"
+}
