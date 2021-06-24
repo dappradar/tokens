@@ -1,0 +1,8 @@
+{
+    "symbol": "FORCE",
+    "name": "FORCE (PoS)",
+    "decimals": 18,
+    "address": "0x60c4f9718b445df881e6c00921afb2a8de4b1873",
+    "mintable": false,
+    "ethereum_address": "0x6807d7f7df53b7739f6438eabd40ab8c262c0aa8"
+}
