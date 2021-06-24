@@ -1,0 +1,8 @@
+{
+    "symbol": "PKAT",
+    "name": "PIKA TOKEN (PoS)",
+    "decimals": 18,
+    "address": "0xb45d03f97357f7c5018c0235830ab802e29dbd0d",
+    "mintable": false,
+    "ethereum_address": "0x5622fc0bd7ef3f07b2d1b05097dff6f50cc0b2f5"
+}
