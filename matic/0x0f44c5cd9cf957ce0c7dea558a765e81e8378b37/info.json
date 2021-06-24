@@ -1,0 +1,8 @@
+{
+    "symbol": "JSHIBA",
+    "name": "Jomon Shiba (PoS)",
+    "decimals": 9,
+    "address": "0x0f44c5cd9cf957ce0c7dea558a765e81e8378b37",
+    "mintable": false,
+    "ethereum_address": "0x1426cc6d52d1b14e2b3b1cb04d57ea42b39c4c7c"
+}
