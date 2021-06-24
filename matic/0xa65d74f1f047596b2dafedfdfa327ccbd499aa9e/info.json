@@ -1,0 +1,8 @@
+{
+    "symbol": "TREKS",
+    "name": "TREKS (PoS)",
+    "decimals": 18,
+    "address": "0xa65d74f1f047596b2dafedfdfa327ccbd499aa9e",
+    "mintable": false,
+    "ethereum_address": "0x15492208ef531ee413bd24f609846489a082f74c"
+}
