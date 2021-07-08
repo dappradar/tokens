@@ -7,7 +7,7 @@ DappRadar tokens repository is collection of information about crypto tokens.
 [DappRadar](https://dappradar.com/) uses this repository when displaying tokens and various assets in [Portfolio Tracker](https://dappradar.com/hub/wallet)
 and other products.
 
-Collection is maintained through a community support, to add your token
+Collection is maintained through community support, to add your token
 please read [contribution guidelines](https://github.com/dappradar/tokens#contributing).
 
 ## Documentation
@@ -23,7 +23,7 @@ Token information is separated into directories by blockchain
 
 Inside every blockchain tokens have their own directory where information resides.
 
-Each token contains required logo file in PNG format
+Each token contains a required logo file in PNG format
 
 - `logo.png`
 
@@ -36,17 +36,17 @@ and optional information such as
 ### Contributing
 
 - Fork the GitHub repository
-- Create folder with name of token contact address, example: `/ethereum/<token_smartcontract_address>/`
+- Create a folder with the name of the token contract address, for example: `/ethereum/<token_smartcontract_address>/`
 - Upload your logo with file named `logo.png` to previously created directory 
   (PNG format is required and size equal to 512x512px)
 - (Optional) Create `info.json` file with information about the token
 - Create a pull request to the main repository
 
-DappRadar team will review and merge all PRs matching the standards of this repository.
+DappRadar team will review and merge all the PRs matching the standards of this repository.
 
 ### Token Data Sources
 
-Tokens on this repository regularly updated using these sources
+Tokens on this repository are regularly updated by using these sources
 
 - [github.com/trustwallet/assets](https://github.com/trustwallet/assets)
 - [github.com/compound-finance/token-list](https://github.com/compound-finance/token-list)
