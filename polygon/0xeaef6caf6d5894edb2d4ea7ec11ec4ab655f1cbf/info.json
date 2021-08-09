@@ -1,0 +1,8 @@
+{
+    "symbol": "PAID",
+    "name": "PAID Network (PoS)",
+    "decimals": 18,
+    "address": "0xeaef6caf6d5894edb2d4ea7ec11ec4ab655f1cbf",
+    "mintable": false,
+    "ethereum_address": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787"
+}
