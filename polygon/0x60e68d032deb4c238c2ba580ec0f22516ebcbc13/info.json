@@ -1,0 +1,8 @@
+{
+    "symbol": "ANC",
+    "name": "Wrapped ANC Token (PoS)",
+    "decimals": 18,
+    "address": "0x60e68d032deb4c238c2ba580ec0f22516ebcbc13",
+    "mintable": false,
+    "ethereum_address": "0x0f3adc247e91c3c50bc08721355a41037e89bc20"
+}
