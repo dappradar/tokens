@@ -1,0 +1,8 @@
+{
+    "symbol": "mGOOGL",
+    "name": "Wrapped Mirror GOOGL Token (PoS)",
+    "decimals": 18,
+    "address": "0x41970f24b738aa21152fdf05d65a688a9a3c63c7",
+    "mintable": false,
+    "ethereum_address": "0x59a921db27dd6d4d974745b7ffc5c33932653442"
+}
