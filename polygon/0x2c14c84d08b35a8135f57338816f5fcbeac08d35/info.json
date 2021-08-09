@@ -1,0 +1,8 @@
+{
+    "symbol": "FUN",
+    "name": "FunFair (PoS)",
+    "decimals": 8,
+    "address": "0x2c14c84d08b35a8135f57338816f5fcbeac08d35",
+    "mintable": false,
+    "ethereum_address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b"
+}
