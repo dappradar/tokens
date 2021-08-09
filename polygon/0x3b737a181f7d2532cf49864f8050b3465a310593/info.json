@@ -1,0 +1,8 @@
+{
+    "symbol": "HOTCROSS",
+    "name": "Hot Cross Token (PoS)",
+    "decimals": 18,
+    "address": "0x3b737a181f7d2532cf49864f8050b3465a310593",
+    "mintable": false,
+    "ethereum_address": "0x4297394c20800e8a38a619a243e9bbe7681ff24e"
+}
