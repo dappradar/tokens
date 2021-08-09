@@ -1,0 +1,8 @@
+{
+    "symbol": "LDO",
+    "name": "Lido DAO Token (PoS)",
+    "decimals": 18,
+    "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
+    "mintable": false,
+    "ethereum_address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+}
