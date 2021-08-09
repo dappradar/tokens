@@ -1,0 +1,8 @@
+{
+    "symbol": "RAKU",
+    "name": "RAKUN (PoS)",
+    "decimals": 18,
+    "address": "0x2e02d3c4b81498177783584b842821864245ce50",
+    "mintable": false,
+    "ethereum_address": "0x51bc0deaf7bbe82bc9006b0c3531668a4206d27f"
+}
