@@ -1,0 +1,8 @@
+{
+    "symbol": "TOSHI",
+    "name": "Toshi Token (PoS)",
+    "decimals": 18,
+    "address": "0xfe31a87c001c7b0fcdf4c480621222d4fe793364",
+    "mintable": false,
+    "ethereum_address": "0xf136d7b0b7ae5b86d21e7b78dfa95375a7360f19"
+}
