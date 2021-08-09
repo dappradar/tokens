@@ -1,0 +1,8 @@
+{
+    "symbol": "NXM",
+    "name": "NXM (PoS)",
+    "decimals": 18,
+    "address": "0xb2b613b771e5a5dda496733b4024d34f309cc03d",
+    "mintable": false,
+    "ethereum_address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b"
+}
