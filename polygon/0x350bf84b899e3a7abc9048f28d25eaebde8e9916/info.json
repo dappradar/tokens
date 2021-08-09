@@ -1,0 +1,8 @@
+{
+    "symbol": "BNS",
+    "name": "BNS Token (PoS)",
+    "decimals": 8,
+    "address": "0x350bf84b899e3a7abc9048f28d25eaebde8e9916",
+    "mintable": false,
+    "ethereum_address": "0x695106ad73f506f9d0a9650a78019a93149ae07c"
+}
