@@ -1,0 +1,8 @@
+{
+    "symbol": "mCOIN",
+    "name": "Wrapped Mirror COIN Token (PoS)",
+    "decimals": 18,
+    "address": "0x14c36a063414ee9bfa9ef2bd0e1fdfae690512be",
+    "mintable": false,
+    "ethereum_address": "0x1e25857931f75022a8814e0b0c3a371942a88437"
+}
