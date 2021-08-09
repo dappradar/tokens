@@ -1,0 +1,8 @@
+{
+    "symbol": "DYDX",
+    "name": "dYdX (PoS)",
+    "decimals": 18,
+    "address": "0x4c3bf0a3de9524af68327d1d2558a3b70d17d42a",
+    "mintable": false,
+    "ethereum_address": "0x92d6c1e31e14520e676a687f0a93788b716beff5"
+}
