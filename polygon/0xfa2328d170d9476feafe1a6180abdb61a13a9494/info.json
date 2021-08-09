@@ -1,0 +1,8 @@
+{
+    "symbol": "UNC",
+    "name": "UniCrypt (PoS)",
+    "decimals": 18,
+    "address": "0xfa2328d170d9476feafe1a6180abdb61a13a9494",
+    "mintable": false,
+    "ethereum_address": "0xf29e46887ffae92f1ff87dfe39713875da541373"
+}
