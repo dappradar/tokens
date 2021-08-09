@@ -1,0 +1,8 @@
+{
+    "symbol": "BTMX",
+    "name": "BitMax token (PoS)",
+    "decimals": 18,
+    "address": "0xf6a0277582919ea0a78078f54cd11a4bccfd6ac7",
+    "mintable": false,
+    "ethereum_address": "0xcca0c9c383076649604ee31b20248bc04fdf61ca"
+}
