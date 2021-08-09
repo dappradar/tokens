@@ -1,0 +1,8 @@
+{
+    "symbol": "ZONE",
+    "name": "GridZone.io (PoS)",
+    "decimals": 18,
+    "address": "0x5ab64daaaa458d8f2019c0a3f2275fdc27e498d1",
+    "mintable": false,
+    "ethereum_address": "0xc1d9b5a0776d7c8b98b8a838e5a0dd1bc5fdd53c"
+}
