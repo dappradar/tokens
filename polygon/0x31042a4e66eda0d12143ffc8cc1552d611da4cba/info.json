@@ -1,0 +1,8 @@
+{
+    "symbol": "MITx",
+    "name": "Morpheus Infrastructure Token (PoS)",
+    "decimals": 18,
+    "address": "0x31042a4e66eda0d12143ffc8cc1552d611da4cba",
+    "mintable": false,
+    "ethereum_address": "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6"
+}
