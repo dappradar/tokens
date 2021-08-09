@@ -1,0 +1,8 @@
+{
+    "symbol": "TRYB",
+    "name": "BiLira (PoS)",
+    "decimals": 6,
+    "address": "0x4fb71290ac171e1d144f7221d882becac7196eb5",
+    "mintable": false,
+    "ethereum_address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb"
+}
