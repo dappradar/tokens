@@ -1,0 +1,8 @@
+{
+    "symbol": "NMR",
+    "name": "Numeraire (PoS)",
+    "decimals": 18,
+    "address": "0x0bf519071b02f22c17e7ed5f4002ee1911f46729",
+    "mintable": false,
+    "ethereum_address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
+}
