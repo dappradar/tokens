@@ -1,0 +1,8 @@
+{
+    "symbol": "wCFG",
+    "name": "Wrapped Centrifuge (PoS)",
+    "decimals": 18,
+    "address": "0x90bb6feb70a9a43cfaaa615f856ba309fd759a90",
+    "mintable": false,
+    "ethereum_address": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0"
+}
