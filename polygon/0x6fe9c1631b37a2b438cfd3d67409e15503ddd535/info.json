@@ -1,0 +1,8 @@
+{
+    "symbol": "cDAI",
+    "name": "Compound Dai (PoS)",
+    "decimals": 8,
+    "address": "0x6fe9c1631b37a2b438cfd3d67409e15503ddd535",
+    "mintable": false,
+    "ethereum_address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
+}
