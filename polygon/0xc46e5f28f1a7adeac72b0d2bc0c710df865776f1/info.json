@@ -1,0 +1,8 @@
+{
+    "symbol": "mAMZN",
+    "name": "Wrapped Mirror AMZN Token (PoS)",
+    "decimals": 18,
+    "address": "0xc46e5f28f1a7adeac72b0d2bc0c710df865776f1",
+    "mintable": false,
+    "ethereum_address": "0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7"
+}
