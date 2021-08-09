@@ -1,0 +1,8 @@
+{
+    "symbol": "GAME",
+    "name": "Game Coin (PoS)",
+    "decimals": 5,
+    "address": "0xaacea2c0db68939548c94a6529d7953c2b4af04d",
+    "mintable": false,
+    "ethereum_address": "0xd567b5f02b9073ad3a982a099a23bf019ff11d1c"
+}
