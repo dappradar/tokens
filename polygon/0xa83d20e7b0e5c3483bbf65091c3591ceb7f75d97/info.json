@@ -1,0 +1,8 @@
+{
+    "symbol": "rising",
+    "name": "Atlas Rising (PoS)",
+    "decimals": 18,
+    "address": "0xa83d20e7b0e5c3483bbf65091c3591ceb7f75d97",
+    "mintable": false,
+    "ethereum_address": "0xf4383b0aeb7f6c3ad411dc5f3d83594592646b11"
+}
