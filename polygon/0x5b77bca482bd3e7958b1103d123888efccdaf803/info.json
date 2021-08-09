@@ -1,0 +1,8 @@
+{
+    "symbol": "TRU",
+    "name": "TrueFi (PoS)",
+    "decimals": 8,
+    "address": "0x5b77bca482bd3e7958b1103d123888efccdaf803",
+    "mintable": false,
+    "ethereum_address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784"
+}
