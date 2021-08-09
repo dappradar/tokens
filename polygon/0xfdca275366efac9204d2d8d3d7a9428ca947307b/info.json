@@ -1,0 +1,8 @@
+{
+    "symbol": "XDCE",
+    "name": "XinFin XDCE (PoS)",
+    "decimals": 18,
+    "address": "0xfdca275366efac9204d2d8d3d7a9428ca947307b",
+    "mintable": false,
+    "ethereum_address": "0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2"
+}
