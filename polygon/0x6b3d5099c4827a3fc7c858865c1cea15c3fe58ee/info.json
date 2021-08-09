@@ -1,0 +1,8 @@
+{
+    "symbol": "BTC++",
+    "name": "PieDAO BTC++ (PoS)",
+    "decimals": 18,
+    "address": "0x6b3d5099c4827a3fc7c858865c1cea15c3fe58ee",
+    "mintable": false,
+    "ethereum_address": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd"
+}
