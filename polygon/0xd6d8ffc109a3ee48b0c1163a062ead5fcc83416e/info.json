@@ -1,0 +1,8 @@
+{
+    "symbol": "ASSY",
+    "name": "ASSY Index (PoS)",
+    "decimals": 18,
+    "address": "0xd6d8ffc109a3ee48b0c1163a062ead5fcc83416e",
+    "mintable": false,
+    "ethereum_address": "0xfa2562da1bba7b954f26c74725df51fb62646313"
+}
