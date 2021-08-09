@@ -1,0 +1,8 @@
+{
+    "symbol": "MATH",
+    "name": "MATH Token (PoS)",
+    "decimals": 18,
+    "address": "0x347accafda7f8c5bdec57fa34a5b663cbd1aeca7",
+    "mintable": false,
+    "ethereum_address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30"
+}
