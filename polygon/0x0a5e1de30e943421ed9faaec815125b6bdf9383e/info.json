@@ -1,0 +1,8 @@
+{
+    "symbol": "DDIM",
+    "name": "DuckDaoDime (PoS)",
+    "decimals": 18,
+    "address": "0x0a5e1de30e943421ed9faaec815125b6bdf9383e",
+    "mintable": false,
+    "ethereum_address": "0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20"
+}
