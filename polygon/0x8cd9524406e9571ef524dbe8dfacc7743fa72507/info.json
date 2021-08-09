@@ -1,0 +1,8 @@
+{
+    "symbol": "WIPC",
+    "name": "WIPcoin (PoS)",
+    "decimals": 18,
+    "address": "0x8cd9524406e9571ef524dbe8dfacc7743fa72507",
+    "mintable": false,
+    "ethereum_address": "0xab47fbe8a0b75baa4ef846e99f6bb3b52007a115"
+}
