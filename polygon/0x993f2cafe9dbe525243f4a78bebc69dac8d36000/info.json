@@ -1,0 +1,8 @@
+{
+    "symbol": "DIA",
+    "name": "DIAToken (PoS)",
+    "decimals": 18,
+    "address": "0x993f2cafe9dbe525243f4a78bebc69dac8d36000",
+    "mintable": false,
+    "ethereum_address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419"
+}
