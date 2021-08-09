@@ -1,0 +1,8 @@
+{
+    "symbol": "DGTX",
+    "name": "DigitexFutures (PoS)",
+    "decimals": 18,
+    "address": "0xe749ea14a2d18e361ed092ebefba64d77a8b4eac",
+    "mintable": false,
+    "ethereum_address": "0xc666081073e8dff8d3d1c2292a29ae1a2153ec09"
+}
