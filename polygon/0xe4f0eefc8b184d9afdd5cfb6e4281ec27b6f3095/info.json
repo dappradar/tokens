@@ -1,0 +1,8 @@
+{
+    "symbol": "STN5",
+    "name": "SMART TRADE NETWORKS 5 (PoS)",
+    "decimals": 18,
+    "address": "0xe4f0eefc8b184d9afdd5cfb6e4281ec27b6f3095",
+    "mintable": false,
+    "ethereum_address": "0x55150e8378b81f930f310d4b62ab7e1252c30b9b"
+}
