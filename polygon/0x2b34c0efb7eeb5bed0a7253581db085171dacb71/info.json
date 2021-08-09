@@ -1,0 +1,8 @@
+{
+    "symbol": "DUCK",
+    "name": "DLP Duck Token (PoS)",
+    "decimals": 18,
+    "address": "0x2b34c0efb7eeb5bed0a7253581db085171dacb71",
+    "mintable": false,
+    "ethereum_address": "0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f"
+}
