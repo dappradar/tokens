@@ -1,0 +1,8 @@
+{
+    "symbol": "COVER",
+    "name": "Cover Protocol Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0x708cca2f9eded49918865fd45442ef733155cacb",
+    "mintable": false,
+    "ethereum_address": "0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713"
+}
