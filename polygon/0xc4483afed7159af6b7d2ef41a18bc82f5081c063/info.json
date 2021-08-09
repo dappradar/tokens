@@ -1,0 +1,8 @@
+{
+    "symbol": "mMSFT",
+    "name": "Wrapped Mirror MSFT Token (PoS)",
+    "decimals": 18,
+    "address": "0xc4483afed7159af6b7d2ef41a18bc82f5081c063",
+    "mintable": false,
+    "ethereum_address": "0x41bbedd7286daab5910a1f15d12cbda839852bd7"
+}
