@@ -1,0 +1,8 @@
+{
+    "symbol": "HHK",
+    "name": "HHKcoin (PoS)",
+    "decimals": 18,
+    "address": "0x82f735270cfccbcbcea08141f93ed1816b779874",
+    "mintable": false,
+    "ethereum_address": "0xc7b54f6d4d240aa2589d64f1e4608e614c84d60d"
+}
