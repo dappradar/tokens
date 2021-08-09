@@ -1,0 +1,8 @@
+{
+    "symbol": "REPv2",
+    "name": "Reputation (PoS)",
+    "decimals": 18,
+    "address": "0x6563c1244820cfbd6ca8820fbdf0f2847363f733",
+    "mintable": false,
+    "ethereum_address": "0x221657776846890989a759ba2973e427dff5c9bb"
+}
