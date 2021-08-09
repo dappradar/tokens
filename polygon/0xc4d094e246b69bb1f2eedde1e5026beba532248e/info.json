@@ -1,0 +1,8 @@
+{
+    "symbol": "WXT",
+    "name": "Wirex Token (PoS)",
+    "decimals": 18,
+    "address": "0xc4d094e246b69bb1f2eedde1e5026beba532248e",
+    "mintable": false,
+    "ethereum_address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915"
+}
