@@ -1,0 +1,8 @@
+{
+    "symbol": "ORO",
+    "name": "ORO Token (PoS)",
+    "decimals": 18,
+    "address": "0x2651b9c63290e543902da4eb63c34029382ff552",
+    "mintable": false,
+    "ethereum_address": "0xc3eb2622190c57429aac3901808994443b64b466"
+}
