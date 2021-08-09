@@ -1,0 +1,8 @@
+{
+    "symbol": "LOOM",
+    "name": "LoomToken (PoS)",
+    "decimals": 18,
+    "address": "0x66efb7cc647e0efab02eba4316a2d2941193f6b3",
+    "mintable": false,
+    "ethereum_address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0"
+}
