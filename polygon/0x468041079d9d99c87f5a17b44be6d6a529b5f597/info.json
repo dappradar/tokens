@@ -1,0 +1,8 @@
+{
+    "symbol": "CLV",
+    "name": "Clover (PoS)",
+    "decimals": 6,
+    "address": "0x468041079d9d99c87f5a17b44be6d6a529b5f597",
+    "mintable": false,
+    "ethereum_address": "0x22222c03318440305ac3e8a7820563d6a9fd777f"
+}
