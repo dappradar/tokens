@@ -1,0 +1,8 @@
+{
+    "symbol": "mBABA",
+    "name": "Wrapped Mirror BABA Token (PoS)",
+    "decimals": 18,
+    "address": "0x0959cad1298a204277c1b5c00f62d9f2cb0b6756",
+    "mintable": false,
+    "ethereum_address": "0x56aa298a19c93c6801fdde870fa63ef75cc0af72"
+}
