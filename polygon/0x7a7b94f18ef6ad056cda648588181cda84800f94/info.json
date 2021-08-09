@@ -1,0 +1,8 @@
+{
+    "symbol": "FIS",
+    "name": "StaFi (PoS)",
+    "decimals": 18,
+    "address": "0x7a7b94f18ef6ad056cda648588181cda84800f94",
+    "mintable": false,
+    "ethereum_address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d"
+}
