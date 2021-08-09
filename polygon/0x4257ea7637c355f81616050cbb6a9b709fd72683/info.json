@@ -1,0 +1,8 @@
+{
+    "symbol": "CVX",
+    "name": "Convex Token (PoS)",
+    "decimals": 18,
+    "address": "0x4257ea7637c355f81616050cbb6a9b709fd72683",
+    "mintable": false,
+    "ethereum_address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b"
+}
