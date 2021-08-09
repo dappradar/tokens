@@ -1,0 +1,8 @@
+{
+    "symbol": "stETH",
+    "name": "Liquid staked Ether 2.0 (PoS)",
+    "decimals": 18,
+    "address": "0x4c6b65fe93fc9daf413498b88195fafff36dd960",
+    "mintable": false,
+    "ethereum_address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+}
