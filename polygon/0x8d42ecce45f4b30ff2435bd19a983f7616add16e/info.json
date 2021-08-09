@@ -1,0 +1,8 @@
+{
+    "symbol": "NPXS",
+    "name": "Pundi X Token (PoS)",
+    "decimals": 18,
+    "address": "0x8d42ecce45f4b30ff2435bd19a983f7616add16e",
+    "mintable": false,
+    "ethereum_address": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3"
+}
