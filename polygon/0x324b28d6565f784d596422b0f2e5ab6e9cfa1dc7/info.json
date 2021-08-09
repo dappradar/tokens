@@ -1,0 +1,8 @@
+{
+    "symbol": "KNC",
+    "name": "Kyber Network Crystal (PoS)",
+    "decimals": 18,
+    "address": "0x324b28d6565f784d596422b0f2e5ab6e9cfa1dc7",
+    "mintable": false,
+    "ethereum_address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200"
+}
