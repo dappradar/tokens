@@ -1,0 +1,8 @@
+{
+    "symbol": "ECAT",
+    "name": "EtherCats.io (PoS)",
+    "decimals": 18,
+    "address": "0xa1d6cd1a37f82813ac9852cd7e96f909cbccea06",
+    "mintable": false,
+    "ethereum_address": "0x120cbc99bb2a713872c6b8d06306ddb79c55e96f"
+}
