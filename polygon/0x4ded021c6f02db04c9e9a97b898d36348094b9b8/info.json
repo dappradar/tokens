@@ -1,0 +1,8 @@
+{
+    "symbol": "MOC",
+    "name": "Moss Coin (PoS)",
+    "decimals": 18,
+    "address": "0x4ded021c6f02db04c9e9a97b898d36348094b9b8",
+    "mintable": false,
+    "ethereum_address": "0x865ec58b06bf6305b886793aa20a2da31d034e68"
+}
