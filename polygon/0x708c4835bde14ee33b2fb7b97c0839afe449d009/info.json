@@ -1,0 +1,8 @@
+{
+    "symbol": "BONDLY",
+    "name": "Bondly (PoS)",
+    "decimals": 18,
+    "address": "0x708c4835bde14ee33b2fb7b97c0839afe449d009",
+    "mintable": false,
+    "ethereum_address": "0x676cdc3312d0350749bed17cd3eb3b90e5917f42"
+}
