@@ -1,0 +1,8 @@
+{
+    "symbol": "WASABI",
+    "name": "Wasabi (PoS)",
+    "decimals": 18,
+    "address": "0x167f8c8a1af9a4c851c8e541ba0f9939d395ccf1",
+    "mintable": false,
+    "ethereum_address": "0x896e145568624a498c5a909187363ae947631503"
+}
