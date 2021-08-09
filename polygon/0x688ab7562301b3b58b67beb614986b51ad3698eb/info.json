@@ -1,0 +1,8 @@
+{
+    "symbol": "AMPL",
+    "name": "Ampleforth (PoS)",
+    "decimals": 9,
+    "address": "0x688ab7562301b3b58b67beb614986b51ad3698eb",
+    "mintable": false,
+    "ethereum_address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+}
