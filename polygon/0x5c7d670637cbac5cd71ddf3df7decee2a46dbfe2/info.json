@@ -1,0 +1,8 @@
+{
+    "symbol": "mTWTR",
+    "name": "Wrapped Mirror TWTR Token (PoS)",
+    "decimals": 18,
+    "address": "0x5c7d670637cbac5cd71ddf3df7decee2a46dbfe2",
+    "mintable": false,
+    "ethereum_address": "0xedb0414627e6f1e3f082de65cd4f9c693d78cca9"
+}
