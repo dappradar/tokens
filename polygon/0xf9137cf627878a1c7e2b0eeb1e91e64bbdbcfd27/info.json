@@ -1,0 +1,8 @@
+{
+    "symbol": "SATT",
+    "name": "#Smart Advertising Transaction Token (PoS)",
+    "decimals": 18,
+    "address": "0xf9137cf627878a1c7e2b0eeb1e91e64bbdbcfd27",
+    "mintable": false,
+    "ethereum_address": "0xdf49c9f599a0a9049d97cff34d0c30e468987389"
+}
