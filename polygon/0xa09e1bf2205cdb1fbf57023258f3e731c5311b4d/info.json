@@ -1,0 +1,8 @@
+{
+    "symbol": "CHART",
+    "name": "ChartEx (PoS)",
+    "decimals": 18,
+    "address": "0xa09e1bf2205cdb1fbf57023258f3e731c5311b4d",
+    "mintable": false,
+    "ethereum_address": "0x1d37986f252d0e349522ea6c3b98cb935495e63e"
+}
