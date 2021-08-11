@@ -1,0 +1,8 @@
+{
+    "symbol": "OOE",
+    "name": "OpenOcean (PoS)",
+    "decimals": 18,
+    "address": "0x40817e1ab07fc872b7af6a959c4b7a8febf6c4ab",
+    "mintable": false,
+    "ethereum_address": "0x7778360f035c589fce2f4ea5786cbd8b36e5396b"
+}
