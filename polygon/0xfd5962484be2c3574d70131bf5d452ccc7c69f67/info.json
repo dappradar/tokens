@@ -1,0 +1,8 @@
+{
+    "symbol": "UCT",
+    "name": "Universal Community Trust (PoS)",
+    "decimals": 18,
+    "address": "0xfd5962484be2c3574d70131bf5d452ccc7c69f67",
+    "mintable": false,
+    "ethereum_address": "0xcc7dcc3f649cb3932857d4edc6268e0ef4960995"
+}
