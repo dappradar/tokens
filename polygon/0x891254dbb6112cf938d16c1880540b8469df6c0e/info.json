@@ -1,0 +1,8 @@
+{
+    "symbol": "EFI",
+    "name": "Efinity Token (PoS)",
+    "decimals": 18,
+    "address": "0x891254dbb6112cf938d16c1880540b8469df6c0e",
+    "mintable": false,
+    "ethereum_address": "0x656c00e1bcd96f256f224ad9112ff426ef053733"
+}
