@@ -1,0 +1,8 @@
+{
+    "symbol": "FAKEBITE",
+    "name": "DragonBite (PoS)",
+    "decimals": 18,
+    "address": "0x01f81733b85a74eb33a33eca6a3bb8a2e9e61569",
+    "mintable": false,
+    "ethereum_address": "0xce367b0d6f4d6291bd1ddc2dd2470ed02bdef0ed"
+}
