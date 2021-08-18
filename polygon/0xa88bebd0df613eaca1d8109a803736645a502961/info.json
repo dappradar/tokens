@@ -1,0 +1,8 @@
+{
+    "symbol": "BDP",
+    "name": "BDPToken (PoS)",
+    "decimals": 18,
+    "address": "0xa88bebd0df613eaca1d8109a803736645a502961",
+    "mintable": false,
+    "ethereum_address": "0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e"
+}
