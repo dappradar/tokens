@@ -1,0 +1,8 @@
+{
+    "symbol": "IHT",
+    "name": "I HOUSE TOKEN (PoS)",
+    "decimals": 18,
+    "address": "0x8a06bf3faa72f7dcf796608d4fd54abb83461ec3",
+    "mintable": false,
+    "ethereum_address": "0xeda8b016efa8b1161208cf041cd86972eee0f31e"
+}
