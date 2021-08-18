@@ -1,0 +1,8 @@
+{
+    "symbol": "MATRIX",
+    "name": "MatrixSwapToken (PoS)",
+    "decimals": 18,
+    "address": "0x211f4e76fcb811ed2b310a232a24b3445d95e3bc",
+    "mintable": false,
+    "ethereum_address": "0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36"
+}
