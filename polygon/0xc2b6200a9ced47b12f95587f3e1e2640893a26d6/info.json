@@ -1,0 +1,8 @@
+{
+    "symbol": "XWIN",
+    "name": "xWIN Token from BSC (PoS)",
+    "decimals": 18,
+    "address": "0xc2b6200a9ced47b12f95587f3e1e2640893a26d6",
+    "mintable": false,
+    "ethereum_address": "0x95d6bd26351ebc9fdb23555d2abf990cd17c6a46"
+}
