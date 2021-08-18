@@ -1,0 +1,8 @@
+{
+    "symbol": "TTV",
+    "name": "Token for Television (PoS)",
+    "decimals": 18,
+    "address": "0xafbb5e3873de55db4f2708a08a90677c7a685a6e",
+    "mintable": false,
+    "ethereum_address": "0xa838be6e4b760e6061d4732d6b9f11bf578f9a76"
+}
