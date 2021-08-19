@@ -1,0 +1,8 @@
+{
+    "symbol": "MEOW",
+    "name": "CryptoCat (PoS)",
+    "decimals": 18,
+    "address": "0x0d7fb73c39411210088bb76c0e0db36816e7a951",
+    "mintable": false,
+    "ethereum_address": "0x68cd750e0617da0777f34a3c5e848a2471460e73"
+}
