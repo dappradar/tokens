@@ -1,0 +1,8 @@
+{
+    "symbol": "BTCRSIAPY",
+    "name": "BTC RSI Crossover Yield Set (PoS)",
+    "decimals": 18,
+    "address": "0xde08ff1df4cb0befcf85e3802490caeef10af60b",
+    "mintable": false,
+    "ethereum_address": "0x924e26fee8e10c20726006cc2bd307a538b0ebe5"
+}
