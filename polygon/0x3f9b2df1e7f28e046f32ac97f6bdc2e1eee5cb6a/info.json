@@ -1,0 +1,8 @@
+{
+    "symbol": "FRDMX",
+    "name": "FREEDOMX (PoS)",
+    "decimals": 18,
+    "address": "0x3f9b2df1e7f28e046f32ac97f6bdc2e1eee5cb6a",
+    "mintable": false,
+    "ethereum_address": "0x1c8504180fcef6ce332c7736707582f661d1a019"
+}
