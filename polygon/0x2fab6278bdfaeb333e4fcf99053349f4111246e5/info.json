@@ -1,0 +1,8 @@
+{
+    "symbol": "SINS",
+    "name": "SinCity (PoS)",
+    "decimals": 18,
+    "address": "0x2fab6278bdfaeb333e4fcf99053349f4111246e5",
+    "mintable": false,
+    "ethereum_address": "0x59a9ad833d55783a266e098290e679ce987204da"
+}
