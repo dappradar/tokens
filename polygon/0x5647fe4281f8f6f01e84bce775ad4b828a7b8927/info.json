@@ -1,0 +1,8 @@
+{
+    "symbol": "MM",
+    "name": "Million (PoS)",
+    "decimals": 18,
+    "address": "0x5647fe4281f8f6f01e84bce775ad4b828a7b8927",
+    "mintable": false,
+    "ethereum_address": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611"
+}
