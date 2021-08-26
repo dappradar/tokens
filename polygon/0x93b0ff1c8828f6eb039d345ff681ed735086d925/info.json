@@ -1,0 +1,8 @@
+{
+    "symbol": "CQT",
+    "name": "Covalent Query Token (PoS)",
+    "decimals": 18,
+    "address": "0x93b0ff1c8828f6eb039d345ff681ed735086d925",
+    "mintable": false,
+    "ethereum_address": "0xd417144312dbf50465b1c641d016962017ef6240"
+}
