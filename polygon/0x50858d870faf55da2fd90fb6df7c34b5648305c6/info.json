@@ -1,0 +1,8 @@
+{
+    "symbol": "ALICE",
+    "name": "ALICE (PoS)",
+    "decimals": 6,
+    "address": "0x50858d870faf55da2fd90fb6df7c34b5648305c6",
+    "mintable": false,
+    "ethereum_address": "0xac51066d7bec65dc4589368da368b212745d63e8"
+}
