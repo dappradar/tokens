@@ -1,0 +1,8 @@
+{
+    "symbol": "WINR",
+    "name": "JustBet (PoS)",
+    "decimals": 18,
+    "address": "0xe40e6dfdec5ac644ba63440f097cd949ecdff48d",
+    "mintable": false,
+    "ethereum_address": "0x27460aac4b005de72e2326bd8391c27fb41780f8"
+}
