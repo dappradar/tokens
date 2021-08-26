@@ -1,0 +1,8 @@
+{
+    "symbol": "STND",
+    "name": "Standard (PoS)",
+    "decimals": 18,
+    "address": "0x08be454de533509e8832b257116c5506e55b0b64",
+    "mintable": false,
+    "ethereum_address": "0x9040e237c3bf18347bb00957dc22167d0f2b999d"
+}
