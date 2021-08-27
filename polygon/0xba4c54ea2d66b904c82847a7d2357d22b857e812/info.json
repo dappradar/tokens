@@ -1,0 +1,8 @@
+{
+    "symbol": "UGT",
+    "name": "Unreal Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0xba4c54ea2d66b904c82847a7d2357d22b857e812",
+    "mintable": false,
+    "ethereum_address": "0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063"
+}
