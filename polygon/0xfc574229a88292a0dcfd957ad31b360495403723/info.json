@@ -1,0 +1,8 @@
+{
+    "symbol": "SPANK",
+    "name": "SPANK (PoS)",
+    "decimals": 18,
+    "address": "0xfc574229a88292a0dcfd957ad31b360495403723",
+    "mintable": false,
+    "ethereum_address": "0x42d6622dece394b54999fbd73d108123806f6a18"
+}
