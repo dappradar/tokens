@@ -1,0 +1,8 @@
+{
+    "symbol": "YGG",
+    "name": "Yield Guild Games Token (PoS)",
+    "decimals": 18,
+    "address": "0x82617aa52dddf5ed9bb7b370ed777b3182a30fd1",
+    "mintable": false,
+    "ethereum_address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73"
+}
