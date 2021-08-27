@@ -1,0 +1,8 @@
+{
+    "symbol": "COU",
+    "name": "Couchain (PoS)",
+    "decimals": 18,
+    "address": "0xb6027769f15bde8cfb29f3b14de2e5622405aa4c",
+    "mintable": false,
+    "ethereum_address": "0xf091cf09c51811819db705710e9634b8bf18f164"
+}
