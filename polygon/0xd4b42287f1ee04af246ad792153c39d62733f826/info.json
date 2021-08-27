@@ -1,0 +1,8 @@
+{
+    "symbol": "UCTC",
+    "name": "UCT Cash (PoS)",
+    "decimals": 18,
+    "address": "0xd4b42287f1ee04af246ad792153c39d62733f826",
+    "mintable": false,
+    "ethereum_address": "0x2707ab358b5383d087fe4736da36c1c70179e3bd"
+}
