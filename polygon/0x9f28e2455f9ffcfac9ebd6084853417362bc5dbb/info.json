@@ -1,0 +1,8 @@
+{
+    "symbol": "rMATIC",
+    "name": "StaFi rMATIC (PoS)",
+    "decimals": 18,
+    "address": "0x9f28e2455f9ffcfac9ebd6084853417362bc5dbb",
+    "mintable": false,
+    "ethereum_address": "0x3dbb00c9be5a327e25caf4f650844c5dba81e34b"
+}
