@@ -1,0 +1,8 @@
+{
+    "symbol": "ROBOT",
+    "name": "MetaFactory (PoS)",
+    "decimals": 18,
+    "address": "0x540eba0ab20e9d77998f9a26e75079317703d76d",
+    "mintable": false,
+    "ethereum_address": "0xfb5453340c03db5ade474b27e68b6a9c6b2823eb"
+}
