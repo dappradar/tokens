@@ -1,0 +1,8 @@
+{
+    "symbol": "TORG",
+    "name": "TORG (PoS)",
+    "decimals": 18,
+    "address": "0xe9993763e0b7f7d915a62a5f22a6e151f91d98a8",
+    "mintable": false,
+    "ethereum_address": "0xcfa0885131f602d11d4da248d2c65a62063567a9"
+}
