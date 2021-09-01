@@ -1,0 +1,8 @@
+{
+    "symbol": "SHN",
+    "name": "Shine (PoS)",
+    "decimals": 18,
+    "address": "0x53d76f967de13e7f95e90196438dce695ecfa957",
+    "mintable": false,
+    "ethereum_address": "0x1c7ede23b1361acc098a1e357c9085d131b34a01"
+}
