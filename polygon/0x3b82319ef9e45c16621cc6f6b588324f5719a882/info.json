@@ -1,0 +1,8 @@
+{
+    "symbol": "TknERC721Sym",
+    "name": "TknERC721Name (PoS)",
+    "decimals": 18,
+    "address": "0x3b82319ef9e45c16621cc6f6b588324f5719a882",
+    "mintable": true,
+    "ethereum_address": "0x2e16ba24f298dc205ac58791e0dab4141e79f3d4"
+}
