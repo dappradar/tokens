@@ -1,0 +1,8 @@
+{
+    "symbol": "WNAV",
+    "name": "Wrapped Navcoin (PoS)",
+    "decimals": 8,
+    "address": "0x1a6872038b633bc9ebd2ea36df3f81eacd9b8823",
+    "mintable": true,
+    "ethereum_address": "0x75571a52de30e2d7160af134798acfb80cc9c0be"
+}
