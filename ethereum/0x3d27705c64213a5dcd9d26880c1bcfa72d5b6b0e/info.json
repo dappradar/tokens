@@ -1,0 +1,6 @@
+{
+    "symbol": "yvCurve-USDK",
+    "name": "Curve USDK Pool yVault",
+    "decimals": 18,
+    "address": "0x3d27705c64213a5dcd9d26880c1bcfa72d5b6b0e"
+}
