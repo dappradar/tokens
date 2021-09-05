@@ -1,0 +1,8 @@
+{
+    "symbol": "PIN",
+    "name": "Pinjour (PoS)",
+    "decimals": 18,
+    "address": "0x1d5278cbd93ff50260fddc93282e2e67ca3317c9",
+    "mintable": false,
+    "ethereum_address": "0x76c9a9583bda3ac6440fc153c7ffd89f99823a2c"
+}
