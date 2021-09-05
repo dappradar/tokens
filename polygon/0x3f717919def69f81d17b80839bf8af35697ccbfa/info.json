@@ -1,0 +1,8 @@
+{
+    "symbol": "DTX",
+    "name": "DaTa eXchange Token (PoS)",
+    "decimals": 18,
+    "address": "0x3f717919def69f81d17b80839bf8af35697ccbfa",
+    "mintable": false,
+    "ethereum_address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75"
+}
