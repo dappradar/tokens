@@ -1,0 +1,8 @@
+{
+    "symbol": "GYEN",
+    "name": "GMO JPY (PoS)",
+    "decimals": 6,
+    "address": "0x482bc619ee7662759cdc0685b4e78f464da39c73",
+    "mintable": false,
+    "ethereum_address": "0xc08512927d12348f6620a698105e1baac6ecd911"
+}
