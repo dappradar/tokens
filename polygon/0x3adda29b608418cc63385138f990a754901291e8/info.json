@@ -1,0 +1,8 @@
+{
+    "symbol": "BRLC",
+    "name": "BRL Coin (PoS)",
+    "decimals": 6,
+    "address": "0x3adda29b608418cc63385138f990a754901291e8",
+    "mintable": false,
+    "ethereum_address": "0x153799b3d83941b9301674f1f147506c91711c25"
+}
