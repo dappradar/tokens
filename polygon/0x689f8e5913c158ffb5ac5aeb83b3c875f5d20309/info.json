@@ -1,0 +1,8 @@
+{
+    "symbol": "SNK",
+    "name": "Snook (PoS)",
+    "decimals": 18,
+    "address": "0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309",
+    "mintable": true,
+    "ethereum_address": "0xf9a3b62c2c9fad5aec118c706323ced3242c9551"
+}
