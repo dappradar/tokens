@@ -1,0 +1,8 @@
+{
+    "symbol": "DOGZ",
+    "name": "DOGZ (PoS)",
+    "decimals": 18,
+    "address": "0x29198a281fe6ed6a49abe32a5d6864adccd7e89e",
+    "mintable": false,
+    "ethereum_address": "0x82a77710495a35549d2add797412b4a4497d33ef"
+}
