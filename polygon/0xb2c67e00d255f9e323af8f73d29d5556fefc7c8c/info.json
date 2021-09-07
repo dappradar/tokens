@@ -1,0 +1,8 @@
+{
+    "symbol": "rDOT",
+    "name": "StaFi (PoS)",
+    "decimals": 18,
+    "address": "0xb2c67e00d255f9e323af8f73d29d5556fefc7c8c",
+    "mintable": false,
+    "ethereum_address": "0x505f5a4ff10985fe9f93f2ae3501da5fe665f08a"
+}
