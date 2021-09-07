@@ -1,0 +1,8 @@
+{
+    "symbol": "rKSM",
+    "name": "StaFi (PoS)",
+    "decimals": 18,
+    "address": "0x5e339d1c41fe5ddd8b3377ed7d29b41f98313609",
+    "mintable": false,
+    "ethereum_address": "0x3c3842c4d3037ae121d69ea1e7a0b61413be806c"
+}
