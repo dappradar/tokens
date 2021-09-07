@@ -1,0 +1,8 @@
+{
+    "symbol": "rETH",
+    "name": "StaFi (PoS)",
+    "decimals": 18,
+    "address": "0x5736df66b4f8401d639ffa915a46b4c548c09ac1",
+    "mintable": false,
+    "ethereum_address": "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593"
+}
