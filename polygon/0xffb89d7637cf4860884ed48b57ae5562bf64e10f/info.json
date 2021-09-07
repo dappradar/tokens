@@ -1,0 +1,8 @@
+{
+    "symbol": "PIKA",
+    "name": "PIKA (PoS)",
+    "decimals": 18,
+    "address": "0xffb89d7637cf4860884ed48b57ae5562bf64e10f",
+    "mintable": false,
+    "ethereum_address": "0x60f5672a271c7e39e787427a18353ba59a4a3578"
+}
