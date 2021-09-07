@@ -1,0 +1,8 @@
+{
+    "symbol": "POLI",
+    "name": "Polinate (PoS)",
+    "decimals": 18,
+    "address": "0x6fb54ffe60386ac33b722be13d2549dd87bf63af",
+    "mintable": false,
+    "ethereum_address": "0xa1a36d3537bbe375cc9694795f663ddc8d516db9"
+}
