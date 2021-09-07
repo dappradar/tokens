@@ -1,0 +1,8 @@
+{
+    "symbol": "rATOM",
+    "name": "StaFi (PoS)",
+    "decimals": 18,
+    "address": "0xe088651125864a2fdfe806257a9a7e75b53812ba",
+    "mintable": false,
+    "ethereum_address": "0xd01cb3d113a864763dd3977fe1e725860013b0ed"
+}
