@@ -1,0 +1,8 @@
+{
+    "symbol": "VENT",
+    "name": "VENT (PoS)",
+    "decimals": 18,
+    "address": "0xd116d8ea4de1225d3f903fda43493e93eb4b1d54",
+    "mintable": false,
+    "ethereum_address": "0x5f0bc16d50f72d10b719dbf6845de2e599eb5624"
+}
