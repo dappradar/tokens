@@ -1,0 +1,8 @@
+{
+    "symbol": "DORA",
+    "name": "Dorayaki (PoS)",
+    "decimals": 18,
+    "address": "0x66147c74abf6323a22c33e039dc761c07df05878",
+    "mintable": false,
+    "ethereum_address": "0xbc4171f45ef0ef66e76f979df021a34b46dcc81d"
+}
