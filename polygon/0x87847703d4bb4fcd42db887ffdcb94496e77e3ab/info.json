@@ -1,0 +1,8 @@
+{
+    "symbol": "HID",
+    "name": "Hypersign Identity Token (PoS)",
+    "decimals": 18,
+    "address": "0x87847703d4bb4fcd42db887ffdcb94496e77e3ab",
+    "mintable": false,
+    "ethereum_address": "0xb14ebf566511b9e6002bb286016ab2497b9b9c9d"
+}
