@@ -1,0 +1,8 @@
+{
+    "symbol": "MILE",
+    "name": "MileShare (PoS)",
+    "decimals": 18,
+    "address": "0xbbc8ccc5d47e9effc15f0c71a4e0ee8046546385",
+    "mintable": false,
+    "ethereum_address": "0x925d53524783fa6883de2fabccb1ec466ee4e20b"
+}
