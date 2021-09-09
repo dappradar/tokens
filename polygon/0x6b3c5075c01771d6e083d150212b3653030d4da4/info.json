@@ -1,0 +1,8 @@
+{
+    "symbol": "CHAOS",
+    "name": "ZKCHAOS (PoS)",
+    "decimals": 18,
+    "address": "0x6b3c5075c01771d6e083d150212b3653030d4da4",
+    "mintable": false,
+    "ethereum_address": "0xb53de031602cd825febe9f2eedf962cd8cc3805d"
+}
