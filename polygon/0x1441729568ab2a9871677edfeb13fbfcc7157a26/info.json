@@ -1,0 +1,8 @@
+{
+    "symbol": "PRXY",
+    "name": "Proxy (PoS)",
+    "decimals": 18,
+    "address": "0x1441729568ab2a9871677edfeb13fbfcc7157a26",
+    "mintable": false,
+    "ethereum_address": "0x22acaee85ddb83a3a33b7f0928a0e2c3bfdb6a4f"
+}
