@@ -1,0 +1,8 @@
+{
+    "symbol": "ANDY",
+    "name": "Andy Coin (PoS)",
+    "decimals": 18,
+    "address": "0xcb816bedd44d1d04870d4a171a2cd93903356960",
+    "mintable": false,
+    "ethereum_address": "0x1465140fac1cf3760093f1ea2c78289f6b0e432f"
+}
