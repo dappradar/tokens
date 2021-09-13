@@ -1,0 +1,8 @@
+{
+    "symbol": "USDP",
+    "name": "USDP Stablecoin (PoS)",
+    "decimals": 18,
+    "address": "0xd778bef166d19548799e5f4a5d6354b22883563d",
+    "mintable": false,
+    "ethereum_address": "0x1456688345527be1f37e9e627da0837d6f08c925"
+}
