@@ -1,0 +1,8 @@
+{
+    "symbol": "OSMO",
+    "name": "Osmosis (PoS)",
+    "decimals": 6,
+    "address": "0x8c7a56f2f2fd97da0f5b4fade180fa8dc3fbea8d",
+    "mintable": false,
+    "ethereum_address": "0x93a62ccfcf1efcb5f60317981f71ed6fb39f4ba2"
+}
