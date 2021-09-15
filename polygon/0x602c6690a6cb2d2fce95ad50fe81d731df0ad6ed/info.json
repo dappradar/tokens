@@ -1,0 +1,8 @@
+{
+    "symbol": "10SET",
+    "name": "10Set Token (PoS)",
+    "decimals": 18,
+    "address": "0x602c6690a6cb2d2fce95ad50fe81d731df0ad6ed",
+    "mintable": false,
+    "ethereum_address": "0x7ff4169a6b5122b664c51c95727d87750ec07c84"
+}
