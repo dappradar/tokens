@@ -1,0 +1,8 @@
+{
+    "symbol": "ZERO",
+    "name": "Zero.Exchange Token (PoS)",
+    "decimals": 18,
+    "address": "0x96febbc05bb00f83bb5a3f20dd97940454ec3b7d",
+    "mintable": false,
+    "ethereum_address": "0xf0939011a9bb95c3b791f0cb546377ed2693a574"
+}
