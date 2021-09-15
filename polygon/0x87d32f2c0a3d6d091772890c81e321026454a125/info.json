@@ -1,0 +1,8 @@
+{
+    "symbol": "KAVA",
+    "name": "Kava.io (PoS)",
+    "decimals": 6,
+    "address": "0x87d32f2c0a3d6d091772890c81e321026454a125",
+    "mintable": false,
+    "ethereum_address": "0x0c356b7fd36a5357e5a017ef11887ba100c9ab76"
+}
