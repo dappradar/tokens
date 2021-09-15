@@ -1,0 +1,8 @@
+{
+    "symbol": "GERO",
+    "name": "GeroWallet (PoS)",
+    "decimals": 18,
+    "address": "0x99ab67c6d0b9bf4201cd9aad66f84f5f524e0018",
+    "mintable": false,
+    "ethereum_address": "0x3431f91b3a388115f00c5ba9fdb899851d005fb5"
+}
