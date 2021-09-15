@@ -1,0 +1,8 @@
+{
+    "symbol": "PUN",
+    "name": "CRYPTOPUNT Token (PoS)",
+    "decimals": 18,
+    "address": "0x908435624fc23130fda2d07b10c91ca2b6a57aba",
+    "mintable": false,
+    "ethereum_address": "0x31903e333809897ee57af57567f4377a1a78756c"
+}
