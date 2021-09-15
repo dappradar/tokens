@@ -1,0 +1,8 @@
+{
+    "symbol": "HOAP",
+    "name": "Etherlands Playtest Token (PoS)",
+    "decimals": 18,
+    "address": "0x9e416f2fce870b8edd91fc23c9280a77f4c4a928",
+    "mintable": false,
+    "ethereum_address": "0x7d60fc2f2219537c2605b827fb08f00d8ead44ae"
+}
