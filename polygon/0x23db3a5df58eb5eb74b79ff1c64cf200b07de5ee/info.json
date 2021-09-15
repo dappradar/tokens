@@ -1,0 +1,8 @@
+{
+    "symbol": "EMOT",
+    "name": "EMotiveToken (PoS)",
+    "decimals": 18,
+    "address": "0x23db3a5df58eb5eb74b79ff1c64cf200b07de5ee",
+    "mintable": false,
+    "ethereum_address": "0x176b7f05b31ee23cea1c934ed68bc0c3dff43f46"
+}
