@@ -1,0 +1,8 @@
+{
+    "symbol": "XPRT",
+    "name": "Persistence (PoS)",
+    "decimals": 6,
+    "address": "0xb3b9c016ad1e9f7efdae451b04ef696e05658b32",
+    "mintable": false,
+    "ethereum_address": "0xae837eacbae2a6ba166ce0ded5c72340f212835c"
+}
