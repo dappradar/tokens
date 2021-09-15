@@ -1,0 +1,8 @@
+{
+    "symbol": "RADI",
+    "name": "RADIAN (PoS)",
+    "decimals": 18,
+    "address": "0x57a0e527611bcd7e466407a621ce02bf923c0d15",
+    "mintable": false,
+    "ethereum_address": "0x8cd0bdeef4a97f788fa8cb5d21185ae10c74dcfa"
+}
