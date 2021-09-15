@@ -1,0 +1,8 @@
+{
+    "symbol": "HARD",
+    "name": "HARD Protocol (PoS)",
+    "decimals": 6,
+    "address": "0x8bdc1239840d4a0db234f2e7d65df83164d18e49",
+    "mintable": false,
+    "ethereum_address": "0x1c700f95df53fc31e83d89ac89e5dd778d4cd310"
+}
