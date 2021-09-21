@@ -1,0 +1,8 @@
+{
+    "symbol": "TSHY",
+    "name": "Tuschay Coin (PoS)",
+    "decimals": 18,
+    "address": "0xd8f9a909649ba317175a4f2f5416958af64a0bfc",
+    "mintable": false,
+    "ethereum_address": "0xca9feeb9f20f0c61a2e2c5c24897bd0206dd899a"
+}
