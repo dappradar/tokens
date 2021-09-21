@@ -1,0 +1,8 @@
+{
+    "symbol": "MOT",
+    "name": "Mobius Token (PoS)",
+    "decimals": 18,
+    "address": "0x2db0db271a10661e7090b6758350e18f6798a49d",
+    "mintable": true,
+    "ethereum_address": "0x1e02cdbba6729b6470de81ad4d2cca4c514521b9"
+}
