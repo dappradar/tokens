@@ -1,0 +1,8 @@
+{
+    "symbol": "DEFIT",
+    "name": "DIGITAL FITNESS (PoS)",
+    "decimals": 18,
+    "address": "0xb070d0166a4ce2d47d8af1178847886aa240895d",
+    "mintable": false,
+    "ethereum_address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e"
+}
