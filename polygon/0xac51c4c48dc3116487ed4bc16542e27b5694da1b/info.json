@@ -1,0 +1,8 @@
+{
+    "symbol": "ATOM",
+    "name": "Cosmos (PoS)",
+    "decimals": 6,
+    "address": "0xac51c4c48dc3116487ed4bc16542e27b5694da1b",
+    "mintable": false,
+    "ethereum_address": "0x8d983cb9388eac77af0474fa441c4815500cb7bb"
+}
