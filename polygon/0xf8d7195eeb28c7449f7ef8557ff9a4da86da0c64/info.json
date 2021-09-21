@@ -1,0 +1,8 @@
+{
+    "symbol": "i7",
+    "name": "IMPULSEVEN (PoS)",
+    "decimals": 18,
+    "address": "0xf8d7195eeb28c7449f7ef8557ff9a4da86da0c64",
+    "mintable": false,
+    "ethereum_address": "0x560cc7de81b2a594f6518713cbe122bcf297a6e8"
+}
