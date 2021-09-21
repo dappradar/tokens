@@ -1,0 +1,8 @@
+{
+    "symbol": "RVP",
+    "name": "RevolutionPopuli ERC20 Token (PoS)",
+    "decimals": 18,
+    "address": "0x120ca63f5f79b6760324b1dde6bea4c7f01fba0e",
+    "mintable": false,
+    "ethereum_address": "0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a"
+}
