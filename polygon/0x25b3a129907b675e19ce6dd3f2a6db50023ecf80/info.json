@@ -1,0 +1,8 @@
+{
+    "symbol": "FIRST",
+    "name": "Harrison First (PoS)",
+    "decimals": 4,
+    "address": "0x25b3a129907b675e19ce6dd3f2a6db50023ecf80",
+    "mintable": false,
+    "ethereum_address": "0x9903a4cd589da8e434f264deafc406836418578e"
+}
