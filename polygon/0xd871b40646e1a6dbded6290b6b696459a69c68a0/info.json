@@ -1,0 +1,8 @@
+{
+    "symbol": "cUSDC",
+    "name": "Compound USD Coin (PoS)",
+    "decimals": 8,
+    "address": "0xd871b40646e1a6dbded6290b6b696459a69c68a0",
+    "mintable": false,
+    "ethereum_address": "0x39aa39c021dfbae8fac545936693ac917d5e7563"
+}
