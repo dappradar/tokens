@@ -1,0 +1,8 @@
+{
+    "symbol": "HUE",
+    "name": "Hue (PoS)",
+    "decimals": 4,
+    "address": "0xd9cc6bc0569c22a16d804b46e6774611a93dd90b",
+    "mintable": false,
+    "ethereum_address": "0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5"
+}
