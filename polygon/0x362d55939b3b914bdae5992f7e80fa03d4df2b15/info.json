@@ -1,0 +1,8 @@
+{
+    "symbol": "WEB4",
+    "name": "Web4 (PoS)",
+    "decimals": 18,
+    "address": "0x362d55939b3b914bdae5992f7e80fa03d4df2b15",
+    "mintable": false,
+    "ethereum_address": "0x75239ba45ccd3ec2e25f1b44e7e56f2edf0f80a8"
+}
