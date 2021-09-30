@@ -1,0 +1,8 @@
+{
+    "symbol": "GTS",
+    "name": "GTS Coin (PoS)",
+    "decimals": 18,
+    "address": "0xa6be18a7870d464c97c76a457d965cb74be0db3f",
+    "mintable": false,
+    "ethereum_address": "0xebd8af559699136ef01c3f06fdd1131fd64efa87"
+}
