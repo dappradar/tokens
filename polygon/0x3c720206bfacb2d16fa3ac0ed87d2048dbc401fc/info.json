@@ -1,0 +1,8 @@
+{
+    "symbol": "UCO",
+    "name": "UnirisToken (PoS)",
+    "decimals": 18,
+    "address": "0x3c720206bfacb2d16fa3ac0ed87d2048dbc401fc",
+    "mintable": false,
+    "ethereum_address": "0x8a3d77e9d6968b780564936d15b09805827c21fa"
+}
