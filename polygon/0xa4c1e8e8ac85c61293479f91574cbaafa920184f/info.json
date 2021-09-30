@@ -1,0 +1,8 @@
+{
+    "symbol": "AWE",
+    "name": "Amun Wrapped Eth (PoS)",
+    "decimals": 18,
+    "address": "0xa4c1e8e8ac85c61293479f91574cbaafa920184f",
+    "mintable": true,
+    "ethereum_address": "0xa4c1e8e8ac85c61293479f91574cbaafa920184f"
+}
