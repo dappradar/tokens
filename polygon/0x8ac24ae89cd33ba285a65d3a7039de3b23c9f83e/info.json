@@ -1,0 +1,8 @@
+{
+    "symbol": "FTP",
+    "name": "Fair Trader (PoS)",
+    "decimals": 18,
+    "address": "0x8ac24ae89cd33ba285a65d3a7039de3b23c9f83e",
+    "mintable": false,
+    "ethereum_address": "0x6b71cdc52b6b5e007e9e018d65b233abed8589c7"
+}
