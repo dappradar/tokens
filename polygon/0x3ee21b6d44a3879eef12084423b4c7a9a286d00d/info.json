@@ -1,0 +1,8 @@
+{
+    "symbol": "GOJ",
+    "name": "Goji (PoS)",
+    "decimals": 10,
+    "address": "0x3ee21b6d44a3879eef12084423b4c7a9a286d00d",
+    "mintable": false,
+    "ethereum_address": "0xec4a1c7a4e9fdc7cc621b548a931c92bc08a679a"
+}
