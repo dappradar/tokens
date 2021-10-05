@@ -1,0 +1,8 @@
+{
+    "symbol": "ORBTM",
+    "name": "Orbitum (PoS)",
+    "decimals": 18,
+    "address": "0xe93c4431494b45115ea656274ea75b987f541b17",
+    "mintable": false,
+    "ethereum_address": "0x93ca2df0bf96936bd0b59e3ceff0162180574ebc"
+}
