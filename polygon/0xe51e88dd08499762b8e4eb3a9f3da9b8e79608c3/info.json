@@ -1,0 +1,8 @@
+{
+    "symbol": "SKRT",
+    "name": "Sekuritance (PoS)",
+    "decimals": 18,
+    "address": "0xe51e88dd08499762b8e4eb3a9f3da9b8e79608c3",
+    "mintable": false,
+    "ethereum_address": "0x887168120cb89fb06f3e74dc4af20d67df0977f6"
+}
