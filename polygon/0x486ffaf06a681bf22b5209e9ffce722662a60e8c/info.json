@@ -1,0 +1,8 @@
+{
+    "symbol": "FLY",
+    "name": "FlyCoin (PoS)",
+    "decimals": 18,
+    "address": "0x486ffaf06a681bf22b5209e9ffce722662a60e8c",
+    "mintable": false,
+    "ethereum_address": "0x4e568ab95f029e8df1e39b30c9d6d076eaa15945"
+}
