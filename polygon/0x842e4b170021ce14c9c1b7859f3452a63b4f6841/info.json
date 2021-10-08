@@ -1,0 +1,8 @@
+{
+    "symbol": "WITCH",
+    "name": "Witch Token (PoS)",
+    "decimals": 18,
+    "address": "0x842e4b170021ce14c9c1b7859f3452a63b4f6841",
+    "mintable": false,
+    "ethereum_address": "0xdc524e3c6910257744c1f93cf15e9f472b5bd236"
+}
