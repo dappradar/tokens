@@ -1,0 +1,8 @@
+{
+    "symbol": "CQTF",
+    "name": "CryptoQuantumTradingFund (PoS)",
+    "decimals": 18,
+    "address": "0xccbba38e41d5428fd82cf42efe5385aef6f80826",
+    "mintable": false,
+    "ethereum_address": "0x4e2721c261c056d2f7bd6f6b2388c6853d22da78"
+}
