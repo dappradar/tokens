@@ -1,0 +1,8 @@
+{
+    "symbol": "FUSD",
+    "name": "Fly Dollar (PoS)",
+    "decimals": 18,
+    "address": "0x5973ac9378d0d3e982a37cc43d480d455c19ae8a",
+    "mintable": false,
+    "ethereum_address": "0x2ee7d743d97173bacd150f3d06e7c4518d393918"
+}
