@@ -1,0 +1,8 @@
+{
+    "symbol": "GDC",
+    "name": "Global Digital Content (PoS)",
+    "decimals": 18,
+    "address": "0x2e8faf0f7918c4914e890716e22a74e675115d52",
+    "mintable": false,
+    "ethereum_address": "0x301c755ba0fca00b1923768fffb3df7f4e63af31"
+}
