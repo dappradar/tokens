@@ -1,0 +1,8 @@
+{
+    "symbol": "pKLIMA",
+    "name": "PreKlima (PoS)",
+    "decimals": 18,
+    "address": "0x0af5dee6678869201924930d924a435f6e4839c9",
+    "mintable": false,
+    "ethereum_address": "0xc497b856b1b8e952521154d24f9e951b758ed84d"
+}
