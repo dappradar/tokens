@@ -1,0 +1,8 @@
+{
+    "symbol": "GIST",
+    "name": "Gistcoin (PoS)",
+    "decimals": 18,
+    "address": "0xf6db73d0495fe4648d494046ccbdc5625f2740f0",
+    "mintable": false,
+    "ethereum_address": "0x6cd775540cce9adb01872db9f794142f53595c71"
+}
