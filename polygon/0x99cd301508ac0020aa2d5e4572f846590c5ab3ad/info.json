@@ -1,0 +1,8 @@
+{
+    "symbol": "ANY",
+    "name": "Anyswap (PoS)",
+    "decimals": 18,
+    "address": "0x99cd301508ac0020aa2d5e4572f846590c5ab3ad",
+    "mintable": false,
+    "ethereum_address": "0xf99d58e463a2e07e5692127302c20a191861b4d6"
+}
