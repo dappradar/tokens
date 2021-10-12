@@ -1,0 +1,8 @@
+{
+    "symbol": "TICK",
+    "name": "Microtick (PoS)",
+    "decimals": 6,
+    "address": "0x4305ff9f3714c8befe7854d401c4c2e395662db4",
+    "mintable": false,
+    "ethereum_address": "0xcf9902b43d01d7c6cd5c12e0c1112cc2c4fc4ec5"
+}
