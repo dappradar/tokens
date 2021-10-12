@@ -1,0 +1,8 @@
+{
+    "symbol": "IXO",
+    "name": "ixo (PoS)",
+    "decimals": 6,
+    "address": "0x4a8d681bf9fc7a32d8284b6f2d869eb1cb14a7f0",
+    "mintable": false,
+    "ethereum_address": "0x8ea2645cd39d5e0c901bca25df8d0998a6926cf2"
+}
