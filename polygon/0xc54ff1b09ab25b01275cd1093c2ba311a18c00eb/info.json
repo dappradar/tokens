@@ -1,0 +1,8 @@
+{
+    "symbol": "NGM",
+    "name": "e-Money (PoS)",
+    "decimals": 6,
+    "address": "0xc54ff1b09ab25b01275cd1093c2ba311a18c00eb",
+    "mintable": false,
+    "ethereum_address": "0x56667705df047677a15d3d417a138b10b6ed62c4"
+}
