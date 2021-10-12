@@ -1,0 +1,8 @@
+{
+    "symbol": "CTK",
+    "name": "Certik (PoS)",
+    "decimals": 6,
+    "address": "0x799a88f32ebb23aa9ef440a7a1cb37653af74422",
+    "mintable": false,
+    "ethereum_address": "0x4c67b8392fc17892338d590e5ae1ab7be485be50"
+}
