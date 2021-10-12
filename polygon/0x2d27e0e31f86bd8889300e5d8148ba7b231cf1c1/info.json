@@ -1,0 +1,8 @@
+{
+    "symbol": "EEUR",
+    "name": "e-Money EUR (PoS)",
+    "decimals": 6,
+    "address": "0x2d27e0e31f86bd8889300e5d8148ba7b231cf1c1",
+    "mintable": false,
+    "ethereum_address": "0x714bfd06da6eb24fac379f0d9debfa85261bf439"
+}
