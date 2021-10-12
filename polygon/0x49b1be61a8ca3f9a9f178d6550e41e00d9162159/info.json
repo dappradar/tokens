@@ -1,0 +1,8 @@
+{
+    "symbol": "GGTK",
+    "name": "GGToken (PoS)",
+    "decimals": 18,
+    "address": "0x49b1be61a8ca3f9a9f178d6550e41e00d9162159",
+    "mintable": false,
+    "ethereum_address": "0xfa99a87b14b02e2240c79240c5a20f945ca5ef76"
+}
