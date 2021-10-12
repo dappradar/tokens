@@ -1,0 +1,8 @@
+{
+    "symbol": "WEIRD",
+    "name": "Weird (PoS)",
+    "decimals": 18,
+    "address": "0xcb8bcdb991b45bf5d78000a0b5c0a6686ce43790",
+    "mintable": false,
+    "ethereum_address": "0xff5a1a18650fac5afa7c94a8dcb3ebf73b00ddb7"
+}
