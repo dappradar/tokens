@@ -1,0 +1,8 @@
+{
+    "symbol": "BCNA",
+    "name": "BitCanna (PoS)",
+    "decimals": 6,
+    "address": "0xbcae3a93bfa5258fedb78758d45e03e3c2bda3e8",
+    "mintable": false,
+    "ethereum_address": "0xeb5bea778339e5f0c8d9419cf9891445af823a29"
+}
