@@ -1,0 +1,8 @@
+{
+    "symbol": "OBOT",
+    "name": "OBORTECH (PoS)",
+    "decimals": 18,
+    "address": "0x3522898a74959a16c43f59055392b2fce48727d0",
+    "mintable": false,
+    "ethereum_address": "0xedadeb5faa413e6c8623461849dfd0b7c3790c32"
+}
