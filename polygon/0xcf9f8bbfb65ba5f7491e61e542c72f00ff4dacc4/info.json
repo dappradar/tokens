@@ -1,0 +1,8 @@
+{
+    "symbol": "$MAID",
+    "name": "MaidCoin (PoS)",
+    "decimals": 18,
+    "address": "0xcf9f8bbfb65ba5f7491e61e542c72f00ff4dacc4",
+    "mintable": false,
+    "ethereum_address": "0x4af698b479d0098229dc715655c667ceb6cd8433"
+}
