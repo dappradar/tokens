@@ -1,0 +1,8 @@
+{
+    "symbol": "ERP",
+    "name": "Entropy (PoS)",
+    "decimals": 18,
+    "address": "0x28acca4ed2f6186c3d93e20e29e6e6a9af656341",
+    "mintable": false,
+    "ethereum_address": "0x0a0e3bfd5a8ce610e735d4469bc1b3b130402267"
+}
