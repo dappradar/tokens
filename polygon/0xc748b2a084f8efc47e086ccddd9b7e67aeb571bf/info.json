@@ -1,0 +1,8 @@
+{
+    "symbol": "HMT",
+    "name": "Human Token (PoS)",
+    "decimals": 18,
+    "address": "0xc748b2a084f8efc47e086ccddd9b7e67aeb571bf",
+    "mintable": false,
+    "ethereum_address": "0xd1ba9bac957322d6e8c07a160a3a8da11a0d2867"
+}
