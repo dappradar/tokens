@@ -1,0 +1,8 @@
+{
+    "symbol": "$BANANA",
+    "name": "Bored Banana Token (PoS)",
+    "decimals": 0,
+    "address": "0x6393c0a63712601e3dda577dc5bfaf0189e89169",
+    "mintable": false,
+    "ethereum_address": "0xe17093967e43d37ad615a64cb86ae11826d6e58b"
+}
