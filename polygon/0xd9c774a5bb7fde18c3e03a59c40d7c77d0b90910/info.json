@@ -1,0 +1,8 @@
+{
+    "symbol": "DEXM",
+    "name": "Dexmex (PoS)",
+    "decimals": 18,
+    "address": "0xd9c774a5bb7fde18c3e03a59c40d7c77d0b90910",
+    "mintable": false,
+    "ethereum_address": "0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3"
+}
