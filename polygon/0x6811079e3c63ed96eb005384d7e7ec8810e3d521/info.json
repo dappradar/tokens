@@ -1,0 +1,8 @@
+{
+    "symbol": "xSUSHI",
+    "name": "SushiBar (PoS)",
+    "decimals": 18,
+    "address": "0x6811079e3c63ed96eb005384d7e7ec8810e3d521",
+    "mintable": false,
+    "ethereum_address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272"
+}
