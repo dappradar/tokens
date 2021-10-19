@@ -1,0 +1,8 @@
+{
+    "symbol": "DLYCOP",
+    "name": "Daily COP (PoS)",
+    "decimals": 18,
+    "address": "0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a",
+    "mintable": true,
+    "ethereum_address": "0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a"
+}
