@@ -1,0 +1,8 @@
+{
+    "symbol": "OJA",
+    "name": "Ojamu Token (PoS)",
+    "decimals": 18,
+    "address": "0x26373ec913876c9e6d38494dde458cb8649cb30c",
+    "mintable": false,
+    "ethereum_address": "0x0aa7efe4945db24d95ca6e117bba65ed326e291a"
+}
