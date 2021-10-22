@@ -1,0 +1,8 @@
+{
+    "symbol": "IMT",
+    "name": "Idle Mystic Token (PoS)",
+    "decimals": 18,
+    "address": "0x7dee38dbf31cf6f2866aaf92bfe495de9984e5fa",
+    "mintable": false,
+    "ethereum_address": "0x6076aedbe9af4e70550c341842bab5624b12395e"
+}
