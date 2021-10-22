@@ -1,0 +1,8 @@
+{
+    "symbol": "BLOCKS",
+    "name": "BLOCKS (PoS)",
+    "decimals": 18,
+    "address": "0x983c0083127b9b65000e918b10d65a0f5d7500f5",
+    "mintable": false,
+    "ethereum_address": "0x8a6d4c8735371ebaf8874fbd518b56edd66024eb"
+}
