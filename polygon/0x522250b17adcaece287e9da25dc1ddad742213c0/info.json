@@ -1,0 +1,8 @@
+{
+    "symbol": "LIKE",
+    "name": "LikeCoin (PoS)",
+    "decimals": 9,
+    "address": "0x522250b17adcaece287e9da25dc1ddad742213c0",
+    "mintable": false,
+    "ethereum_address": "0x7588fefd8d087a7ee3f568087190209f7b449b28"
+}
