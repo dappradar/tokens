@@ -1,0 +1,8 @@
+{
+    "symbol": "HGH",
+    "name": "Matic Mike Juice (PoS)",
+    "decimals": 18,
+    "address": "0xe97a60f5d34da4f68bc1f1b9ce2c19ec1a33e928",
+    "mintable": true,
+    "ethereum_address": "0x45ffdec3fc3b475220c0fdd3e80c3692bc711e0e"
+}
