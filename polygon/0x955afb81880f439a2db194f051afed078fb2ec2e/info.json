@@ -1,0 +1,8 @@
+{
+    "symbol": "BSOV",
+    "name": "BitcoinSoV (PoS)",
+    "decimals": 8,
+    "address": "0x955afb81880f439a2db194f051afed078fb2ec2e",
+    "mintable": false,
+    "ethereum_address": "0x26946ada5ecb57f3a1f91605050ce45c482c9eb1"
+}
