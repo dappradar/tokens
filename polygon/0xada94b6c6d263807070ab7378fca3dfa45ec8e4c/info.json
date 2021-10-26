@@ -1,0 +1,8 @@
+{
+    "symbol": "SESAME",
+    "name": "Sesamers (PoS)",
+    "decimals": 18,
+    "address": "0xada94b6c6d263807070ab7378fca3dfa45ec8e4c",
+    "mintable": false,
+    "ethereum_address": "0x69d0391f9fe3f29bb226814c27896fc0558b370e"
+}
