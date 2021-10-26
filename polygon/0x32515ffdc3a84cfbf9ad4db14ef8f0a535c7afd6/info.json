@@ -1,0 +1,8 @@
+{
+    "symbol": "BAKED",
+    "name": "BakedToken (PoS)",
+    "decimals": 18,
+    "address": "0x32515ffdc3a84cfbf9ad4db14ef8f0a535c7afd6",
+    "mintable": false,
+    "ethereum_address": "0xa4cb0dce4849bdcad2d553e9e68644cf40e26cce"
+}
