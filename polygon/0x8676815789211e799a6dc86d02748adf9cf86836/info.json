@@ -1,0 +1,8 @@
+{
+    "symbol": "TRIBE",
+    "name": "Tribe (PoS)",
+    "decimals": 18,
+    "address": "0x8676815789211e799a6dc86d02748adf9cf86836",
+    "mintable": false,
+    "ethereum_address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b"
+}
