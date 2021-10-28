@@ -1,0 +1,8 @@
+{
+    "symbol": "NGN",
+    "name": "Crypto Nijigen (PoS)",
+    "decimals": 0,
+    "address": "0x4c2c04e6f0ec30ebd60b2ffbe11814c3d59910f7",
+    "mintable": true,
+    "ethereum_address": "0x2b5c21578594f7988c7c80d258d0c927c756a848"
+}
