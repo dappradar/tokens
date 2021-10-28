@@ -1,0 +1,8 @@
+{
+    "symbol": "MRCH",
+    "name": "MerchDAO (PoS)",
+    "decimals": 18,
+    "address": "0x4df071fb2d145be595b767f997c91818694a6ce1",
+    "mintable": false,
+    "ethereum_address": "0xbed4ab0019ff361d83ddeb74883dac8a70f5ea1e"
+}
