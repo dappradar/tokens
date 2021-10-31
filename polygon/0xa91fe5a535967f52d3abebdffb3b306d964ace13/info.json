@@ -1,0 +1,8 @@
+{
+    "symbol": "QUARTZ",
+    "name": "Sandclock (PoS)",
+    "decimals": 18,
+    "address": "0xa91fe5a535967f52d3abebdffb3b306d964ace13",
+    "mintable": false,
+    "ethereum_address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef"
+}
