@@ -1,0 +1,8 @@
+{
+    "symbol": "WKGR",
+    "name": "Wrapped Kagra (PoS)",
+    "decimals": 18,
+    "address": "0xfaf25c39ea29c3aa4a0bfbdbcf2dd99845192695",
+    "mintable": false,
+    "ethereum_address": "0xeb6d29a33d129407a734c2824288e6a0a6a5ef12"
+}
