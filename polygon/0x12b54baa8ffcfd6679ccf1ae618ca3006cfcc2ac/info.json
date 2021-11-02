@@ -1,0 +1,8 @@
+{
+    "symbol": "CHLI",
+    "name": "ChilliSwap Token (PoS)",
+    "decimals": 18,
+    "address": "0x12b54baa8ffcfd6679ccf1ae618ca3006cfcc2ac",
+    "mintable": false,
+    "ethereum_address": "0x12b54baa8ffcfd6679ccf1ae618ca3006cfcc2ac"
+}
