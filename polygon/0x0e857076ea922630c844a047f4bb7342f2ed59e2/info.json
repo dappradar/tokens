@@ -1,0 +1,8 @@
+{
+    "symbol": "Mononoke-Inu",
+    "name": "Mononoke Inu (PoS)",
+    "decimals": 9,
+    "address": "0x0e857076ea922630c844a047f4bb7342f2ed59e2",
+    "mintable": false,
+    "ethereum_address": "0x4da08a1bff50be96bded5c7019227164b49c2bfc"
+}
