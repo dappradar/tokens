@@ -1,0 +1,8 @@
+{
+    "symbol": "AVA",
+    "name": "Alpha Fund (PoS)",
+    "decimals": 18,
+    "address": "0x422361e0e97cbfd5f95d5a50f50598a6fc4d8ce6",
+    "mintable": false,
+    "ethereum_address": "0xa16001dd47f505b7b7c5639c710a52209e4e8904"
+}
