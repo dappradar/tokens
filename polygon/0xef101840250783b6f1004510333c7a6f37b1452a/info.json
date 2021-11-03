@@ -1,0 +1,8 @@
+{
+    "symbol": "KCAL",
+    "name": "Phantasma Energy (PoS)",
+    "decimals": 10,
+    "address": "0xef101840250783b6f1004510333c7a6f37b1452a",
+    "mintable": false,
+    "ethereum_address": "0x14eb60f5f270b059b0c788de0ddc51da86f8a06d"
+}
