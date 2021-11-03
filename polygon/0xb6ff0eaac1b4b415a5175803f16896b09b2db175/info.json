@@ -1,0 +1,8 @@
+{
+    "symbol": "GSWAP",
+    "name": "gameswap.org (PoS)",
+    "decimals": 18,
+    "address": "0xb6ff0eaac1b4b415a5175803f16896b09b2db175",
+    "mintable": false,
+    "ethereum_address": "0xaac41ec512808d64625576eddd580e7ea40ef8b2"
+}
