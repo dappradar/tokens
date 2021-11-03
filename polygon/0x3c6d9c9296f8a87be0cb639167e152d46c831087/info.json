@@ -1,0 +1,8 @@
+{
+    "symbol": "BlueSparrow",
+    "name": "BlueSparrowToken (PoS)",
+    "decimals": 9,
+    "address": "0x3c6d9c9296f8a87be0cb639167e152d46c831087",
+    "mintable": false,
+    "ethereum_address": "0x4d67edef87a5ff910954899f4e5a0aaf107afd42"
+}
