@@ -1,0 +1,8 @@
+{
+    "symbol": "ILV",
+    "name": "Illuvium (PoS)",
+    "decimals": 18,
+    "address": "0xfa46daf9909e116dbc40fe1cc95fc0bb1f452abe",
+    "mintable": false,
+    "ethereum_address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e"
+}
