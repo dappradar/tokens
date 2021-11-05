@@ -1,0 +1,8 @@
+{
+    "symbol": "KICK",
+    "name": "KickToken (PoS)",
+    "decimals": 10,
+    "address": "0xe64acf4ec1dc9a112ab705ad927ccb17427aefb5",
+    "mintable": false,
+    "ethereum_address": "0x824a50df33ac1b41afc52f4194e2e8356c17c3ac"
+}
