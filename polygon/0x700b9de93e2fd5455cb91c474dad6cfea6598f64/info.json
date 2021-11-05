@@ -1,0 +1,8 @@
+{
+    "symbol": "MDF",
+    "name": "MatrixETF DAO Finance (PoS)",
+    "decimals": 18,
+    "address": "0x700b9de93e2fd5455cb91c474dad6cfea6598f64",
+    "mintable": false,
+    "ethereum_address": "0x1a57367c6194199e5d9aea1ce027431682dfb411"
+}
