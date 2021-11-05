@@ -1,0 +1,8 @@
+{
+    "symbol": "VNTW",
+    "name": "Value Network Token (PoS)",
+    "decimals": 18,
+    "address": "0xfba8a25156c33fecbe84f57c2d45c1d50f5afcd0",
+    "mintable": false,
+    "ethereum_address": "0xd0f05d3d4e4d1243ac826d8c6171180c58eaa9bc"
+}
