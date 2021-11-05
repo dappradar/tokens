@@ -1,0 +1,8 @@
+{
+    "symbol": "PRO",
+    "name": "Propy (PoS)",
+    "decimals": 8,
+    "address": "0x82ffdfd1d8699e8886a4e77cefa9dd9710a7fefd",
+    "mintable": false,
+    "ethereum_address": "0x226bb599a12c826476e3a771454697ea52e9e220"
+}
