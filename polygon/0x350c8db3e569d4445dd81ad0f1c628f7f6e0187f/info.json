@@ -1,0 +1,8 @@
+{
+    "symbol": "NOLLY",
+    "name": "Nolly Coin (PoS)",
+    "decimals": 18,
+    "address": "0x350c8db3e569d4445dd81ad0f1c628f7f6e0187f",
+    "mintable": false,
+    "ethereum_address": "0xb69096a89389638518725adfcf279f3f82efa2de"
+}
