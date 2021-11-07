@@ -1,0 +1,8 @@
+{
+    "symbol": "KIBA",
+    "name": "Kiba Inu (PoS)",
+    "decimals": 9,
+    "address": "0x73bee5d745da8b0c39437df8eaf64ce0589a6575",
+    "mintable": false,
+    "ethereum_address": "0x4b2c54b80b77580dc02a0f6734d3bad733f50900"
+}
