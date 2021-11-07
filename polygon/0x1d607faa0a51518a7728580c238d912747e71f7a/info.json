@@ -1,0 +1,8 @@
+{
+    "symbol": "DATA",
+    "name": "DATA Economy Index (PoS)",
+    "decimals": 18,
+    "address": "0x1d607faa0a51518a7728580c238d912747e71f7a",
+    "mintable": false,
+    "ethereum_address": "0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1"
+}
