@@ -1,0 +1,8 @@
+{
+    "symbol": "DOE",
+    "name": "Dogs Of Elon (PoS)",
+    "decimals": 18,
+    "address": "0x07d496919669c88ccec363c55df98d494fd4d796",
+    "mintable": false,
+    "ethereum_address": "0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef"
+}
