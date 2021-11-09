@@ -1,0 +1,8 @@
+{
+    "symbol": "kitty",
+    "name": "Kitty Inu (PoS)",
+    "decimals": 9,
+    "address": "0xcbea86af7581594d85d44469429bc6a273f9b562",
+    "mintable": false,
+    "ethereum_address": "0x044727e50ff30db57fad06ff4f5846eab5ea52a2"
+}
