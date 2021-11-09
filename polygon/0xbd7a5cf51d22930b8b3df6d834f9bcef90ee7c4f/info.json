@@ -1,0 +1,8 @@
+{
+    "symbol": "ENS",
+    "name": "Ethereum Name Service (PoS)",
+    "decimals": 18,
+    "address": "0xbd7a5cf51d22930b8b3df6d834f9bcef90ee7c4f",
+    "mintable": false,
+    "ethereum_address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72"
+}
