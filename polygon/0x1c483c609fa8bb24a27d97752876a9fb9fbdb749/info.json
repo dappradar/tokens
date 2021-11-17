@@ -1,0 +1,8 @@
+{
+    "symbol": "REFRACT",
+    "name": "Refraction (PoS)",
+    "decimals": 18,
+    "address": "0x1c483c609fa8bb24a27d97752876a9fb9fbdb749",
+    "mintable": false,
+    "ethereum_address": "0xc6e86dad13ece397f23c6ab3ed85f894daab6884"
+}
