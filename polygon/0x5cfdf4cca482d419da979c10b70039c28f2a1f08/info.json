@@ -1,0 +1,8 @@
+{
+    "symbol": "JAX",
+    "name": "JAX Token (PoS)",
+    "decimals": 18,
+    "address": "0x5cfdf4cca482d419da979c10b70039c28f2a1f08",
+    "mintable": false,
+    "ethereum_address": "0xe34f533f537b0bdfc2fddc6ff2a85ff0cb1a75d1"
+}
