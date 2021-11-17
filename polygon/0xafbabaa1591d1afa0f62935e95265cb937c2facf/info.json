@@ -1,0 +1,8 @@
+{
+    "symbol": "IGRY",
+    "name": "IGRY Coin (PoS)",
+    "decimals": 18,
+    "address": "0xafbabaa1591d1afa0f62935e95265cb937c2facf",
+    "mintable": false,
+    "ethereum_address": "0xaef9f1e06805201fc4644267ee05ac0905f767b9"
+}
