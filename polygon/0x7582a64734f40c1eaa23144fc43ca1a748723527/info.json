@@ -1,0 +1,8 @@
+{
+    "symbol": "SAITAMA",
+    "name": "Saitama Inu (PoS)",
+    "decimals": 9,
+    "address": "0x7582a64734f40c1eaa23144fc43ca1a748723527",
+    "mintable": false,
+    "ethereum_address": "0x8b3192f5eebd8579568a2ed41e6feb402f93f73f"
+}
