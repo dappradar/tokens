@@ -1,0 +1,8 @@
+{
+    "symbol": "PICIPO",
+    "name": "PICIPO (PoS)",
+    "decimals": 18,
+    "address": "0xd49e6e4ea56eb71e45809ff208eafd053653d95c",
+    "mintable": false,
+    "ethereum_address": "0x1e05f68b29b286fb3bbad3c688d7e2abda549b80"
+}
