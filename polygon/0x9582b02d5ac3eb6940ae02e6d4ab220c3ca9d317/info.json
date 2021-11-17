@@ -1,0 +1,8 @@
+{
+    "symbol": "ZUG",
+    "name": "ZUG (PoS)",
+    "decimals": 18,
+    "address": "0x9582b02d5ac3eb6940ae02e6d4ab220c3ca9d317",
+    "mintable": false,
+    "ethereum_address": "0xfee5f54e1070e7ed31be341e0a5b1e847f6a84ab"
+}
