@@ -1,0 +1,8 @@
+{
+    "symbol": "IBY",
+    "name": "I Bet You (PoS)",
+    "decimals": 18,
+    "address": "0x059eb35959b5ad5a37ce9198726cab84824fd690",
+    "mintable": false,
+    "ethereum_address": "0x6a68de599e8e0b1856e322ce5bd11c5c3c79712b"
+}
