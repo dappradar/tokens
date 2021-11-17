@@ -1,0 +1,8 @@
+{
+    "symbol": "SFSHLD",
+    "name": "Safe Shield (PoS)",
+    "decimals": 9,
+    "address": "0xb08adf932641b1e99250150ff3287f45b30685f0",
+    "mintable": false,
+    "ethereum_address": "0x11a605d7e12b64d713e93c487277d819a1d14b99"
+}
