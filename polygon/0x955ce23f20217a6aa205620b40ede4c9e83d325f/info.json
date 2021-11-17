@@ -1,0 +1,8 @@
+{
+    "symbol": "DMR",
+    "name": "Dreamr Platform Token (PoS)",
+    "decimals": 18,
+    "address": "0x955ce23f20217a6aa205620b40ede4c9e83d325f",
+    "mintable": false,
+    "ethereum_address": "0xf74941046389c78f12fe44784c0ec9ca7ceb7dc2"
+}
