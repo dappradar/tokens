@@ -1,0 +1,8 @@
+{
+    "symbol": "VERSE",
+    "name": "Verse (PoS)",
+    "decimals": 18,
+    "address": "0xa67c1cc2adf4969667980811b65a456d204d7ce5",
+    "mintable": false,
+    "ethereum_address": "0xe18841d7a75866688e291703bde66c3378bd74a3"
+}
