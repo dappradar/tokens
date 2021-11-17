@@ -1,0 +1,8 @@
+{
+    "symbol": "TLBC",
+    "name": "Tuo Luo BlockChain (PoS)",
+    "decimals": 2,
+    "address": "0x3fc98379bb51bbefdfb882be2bb928d118a1990a",
+    "mintable": false,
+    "ethereum_address": "0x3fca60965bb0035d38b95cb528ef231ed8905911"
+}
