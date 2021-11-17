@@ -1,0 +1,8 @@
+{
+    "symbol": "IMT",
+    "name": "Integrated Music Token (PoS)",
+    "decimals": 18,
+    "address": "0xc699ec83245dff830c424382172d30d8c1b9cc7d",
+    "mintable": false,
+    "ethereum_address": "0x3216f1aff1009a7a69df5f3d42a71078a210a3ff"
+}
