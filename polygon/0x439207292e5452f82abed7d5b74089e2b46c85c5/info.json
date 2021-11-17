@@ -1,0 +1,8 @@
+{
+    "symbol": "EDGE",
+    "name": "Edge (PoS)",
+    "decimals": 18,
+    "address": "0x439207292e5452f82abed7d5b74089e2b46c85c5",
+    "mintable": false,
+    "ethereum_address": "0x4ec1b60b96193a64acae44778e51f7bff2007831"
+}
