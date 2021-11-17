@@ -1,0 +1,8 @@
+{
+    "symbol": "FOLO",
+    "name": "Follow (PoS)",
+    "decimals": 18,
+    "address": "0xef205f99bd869e74b16050199d54327a0ecd343d",
+    "mintable": false,
+    "ethereum_address": "0xb2a63a5dd36c91ec2da59b188ff047f66fac122a"
+}
