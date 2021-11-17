@@ -1,0 +1,8 @@
+{
+    "symbol": "SARCO",
+    "name": "Sarcophagus (PoS)",
+    "decimals": 18,
+    "address": "0x80ae3b3847e4e8bd27a389f7686486cac9c3f3e8",
+    "mintable": false,
+    "ethereum_address": "0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a"
+}
