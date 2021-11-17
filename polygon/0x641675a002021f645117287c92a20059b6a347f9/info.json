@@ -1,0 +1,8 @@
+{
+    "symbol": "LTX",
+    "name": "Lattice Token (PoS)",
+    "decimals": 8,
+    "address": "0x641675a002021f645117287c92a20059b6a347f9",
+    "mintable": false,
+    "ethereum_address": "0xa393473d64d2f9f026b60b6df7859a689715d092"
+}
