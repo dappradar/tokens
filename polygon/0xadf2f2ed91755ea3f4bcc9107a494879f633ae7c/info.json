@@ -1,0 +1,8 @@
+{
+    "symbol": "REQ",
+    "name": "Request Token (PoS)",
+    "decimals": 18,
+    "address": "0xadf2f2ed91755ea3f4bcc9107a494879f633ae7c",
+    "mintable": false,
+    "ethereum_address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a"
+}
