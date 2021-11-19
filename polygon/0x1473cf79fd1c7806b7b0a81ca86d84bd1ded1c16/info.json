@@ -1,0 +1,8 @@
+{
+    "symbol": "PLA",
+    "name": "PLA Token (PoS)",
+    "decimals": 18,
+    "address": "0x1473cf79fd1c7806b7b0a81ca86d84bd1ded1c16",
+    "mintable": false,
+    "ethereum_address": "0x5f5b176553e51171826d1a62e540bc30422c7717"
+}
