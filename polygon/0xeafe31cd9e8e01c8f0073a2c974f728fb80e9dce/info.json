@@ -1,0 +1,8 @@
+{
+    "symbol": "NZDS",
+    "name": "NZD Stablecoin (PoS)",
+    "decimals": 6,
+    "address": "0xeafe31cd9e8e01c8f0073a2c974f728fb80e9dce",
+    "mintable": false,
+    "ethereum_address": "0xda446fad08277b4d2591536f204e018f32b6831c"
+}
