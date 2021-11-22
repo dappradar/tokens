@@ -1,0 +1,8 @@
+{
+    "symbol": "LUXY",
+    "name": "LUXY (PoS)",
+    "decimals": 18,
+    "address": "0xd4945a3d0de9923035521687d4bf18cc9b0c7c2a",
+    "mintable": false,
+    "ethereum_address": "0x5e0fdcdb61ec98d5ed4e23b3d539fb3722c940a6"
+}
