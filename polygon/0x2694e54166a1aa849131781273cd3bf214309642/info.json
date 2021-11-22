@@ -1,0 +1,8 @@
+{
+    "symbol": "VMC",
+    "name": "VMart Token (PoS)",
+    "decimals": 18,
+    "address": "0x2694e54166a1aa849131781273cd3bf214309642",
+    "mintable": false,
+    "ethereum_address": "0x715c218a882bb4fa3627d4ce15a6324716d3cdfa"
+}
