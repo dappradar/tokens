@@ -1,0 +1,8 @@
+{
+    "symbol": "MAX",
+    "name": "MAX Token (PoS)",
+    "decimals": 18,
+    "address": "0x9634af3af2f392505369fcfe56691790cea345b4",
+    "mintable": false,
+    "ethereum_address": "0xe7976c4efc60d9f4c200cc1bcef1a1e3b02c73e7"
+}
