@@ -1,0 +1,8 @@
+{
+    "symbol": "IND",
+    "name": "Indorse Token (PoS)",
+    "decimals": 18,
+    "address": "0x9611452965b63cfea2c9774e5386ab6d4f0abf16",
+    "mintable": false,
+    "ethereum_address": "0xf8e386eda857484f5a12e4b5daa9984e06e73705"
+}
