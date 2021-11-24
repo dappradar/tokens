@@ -1,0 +1,8 @@
+{
+    "symbol": "WSTOR",
+    "name": "Wrapped STOR (PoS)",
+    "decimals": 12,
+    "address": "0x5d1245ad0e4f118186042040bb092aba59be4167",
+    "mintable": false,
+    "ethereum_address": "0xe51da1683f21a844269d0d23135f04c506ac8ae1"
+}
