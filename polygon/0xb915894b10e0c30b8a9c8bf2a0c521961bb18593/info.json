@@ -1,0 +1,8 @@
+{
+    "symbol": "AWA",
+    "name": "AWACOIN (PoS)",
+    "decimals": 18,
+    "address": "0xb915894b10e0c30b8a9c8bf2a0c521961bb18593",
+    "mintable": false,
+    "ethereum_address": "0xdeccdc7fc3f0959e9e384db33e87086208701e2c"
+}
