@@ -1,0 +1,8 @@
+{
+    "symbol": "SHINJA",
+    "name": "Shibnobi (PoS)",
+    "decimals": 9,
+    "address": "0x184bc6a6040f139027e9659dc2b87bfcfde4a39e",
+    "mintable": false,
+    "ethereum_address": "0xab167e816e4d76089119900e941befdfa37d6b32"
+}
