@@ -1,0 +1,8 @@
+{
+    "symbol": "$MECHA",
+    "name": "Mechanium (PoS)",
+    "decimals": 18,
+    "address": "0xacd4e2d936be9b16c01848a3742a34b3d5a5bdfa",
+    "mintable": false,
+    "ethereum_address": "0xc5bcc8ba3f33ab0d64f3473e861bdc0685b19ef5"
+}
