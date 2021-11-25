@@ -1,0 +1,8 @@
+{
+    "symbol": "DODI",
+    "name": "DoubleDice Token (PoS)",
+    "decimals": 18,
+    "address": "0x5b03ac408938c97e50db3bc5675d182606a01377",
+    "mintable": false,
+    "ethereum_address": "0x4e08f03079c5cd3083ea331ec61bcc87538b7665"
+}
