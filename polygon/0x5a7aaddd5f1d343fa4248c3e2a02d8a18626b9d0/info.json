@@ -1,0 +1,8 @@
+{
+    "symbol": "xDRINK",
+    "name": "BeverageBar (PoS)",
+    "decimals": 18,
+    "address": "0x5a7aaddd5f1d343fa4248c3e2a02d8a18626b9d0",
+    "mintable": false,
+    "ethereum_address": "0xf6344740921c858229c7b39be530d6cb2b704f7a"
+}
