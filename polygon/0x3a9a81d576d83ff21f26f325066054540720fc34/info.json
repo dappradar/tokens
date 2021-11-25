@@ -1,0 +1,8 @@
+{
+    "symbol": "DATA",
+    "name": "Streamr (PoS)",
+    "decimals": 18,
+    "address": "0x3a9a81d576d83ff21f26f325066054540720fc34",
+    "mintable": false,
+    "ethereum_address": "0x8f693ca8d21b157107184d29d398a8d082b38b76"
+}
