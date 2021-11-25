@@ -1,0 +1,8 @@
+{
+    "symbol": "WEB3",
+    "name": "Arch Ethereum Web3 (PoS)",
+    "decimals": 18,
+    "address": "0xbcd2c5c78000504efbc1ce6489dfcac71835406a",
+    "mintable": false,
+    "ethereum_address": "0xe8e8486228753e01dbc222da262aa706bd67e601"
+}
