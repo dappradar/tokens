@@ -1,0 +1,8 @@
+{
+    "symbol": "SATA",
+    "name": "Signata (PoS)",
+    "decimals": 18,
+    "address": "0x2e0f9a07d0ef445db402d1c656ea6b71af81cb65",
+    "mintable": false,
+    "ethereum_address": "0x3ebb4a4e91ad83be51f8d596533818b246f4bee1"
+}
