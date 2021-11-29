@@ -1,0 +1,8 @@
+{
+    "symbol": "BLUEMEL",
+    "name": "Bluemel (PoS)",
+    "decimals": 18,
+    "address": "0x1f7826d9562f42e745823bdbb690902e00d995f6",
+    "mintable": false,
+    "ethereum_address": "0xe921401d18ed1ea4d64169d1576c32f9a7439694"
+}
