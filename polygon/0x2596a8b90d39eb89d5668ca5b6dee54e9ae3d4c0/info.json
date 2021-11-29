@@ -1,0 +1,8 @@
+{
+    "symbol": "TAT2",
+    "name": "TattooMoney (PoS)",
+    "decimals": 18,
+    "address": "0x2596a8b90d39eb89d5668ca5b6dee54e9ae3d4c0",
+    "mintable": false,
+    "ethereum_address": "0xb487d0328b109e302b9d817b6f46cbd738ea08c2"
+}
