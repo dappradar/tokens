@@ -1,0 +1,8 @@
+{
+    "symbol": "KRILL",
+    "name": "Krill Token (PoS)",
+    "decimals": 18,
+    "address": "0xda9f97b9de8509938c65db0f0cb0ff9ea425e9a0",
+    "mintable": false,
+    "ethereum_address": "0xf59bfeed034092e399cc43ff79edab15e2e18735"
+}
