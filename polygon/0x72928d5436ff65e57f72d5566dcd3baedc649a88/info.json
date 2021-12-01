@@ -1,0 +1,8 @@
+{
+    "symbol": "HDAO",
+    "name": "humanDAO (PoS)",
+    "decimals": 18,
+    "address": "0x72928d5436ff65e57f72d5566dcd3baedc649a88",
+    "mintable": false,
+    "ethereum_address": "0xdac657ffd44a3b9d8aba8749830bf14beb66ff2d"
+}
