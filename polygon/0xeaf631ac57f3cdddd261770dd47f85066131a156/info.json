@@ -1,0 +1,8 @@
+{
+    "symbol": "EQZ",
+    "name": "Equalizer (PoS)",
+    "decimals": 18,
+    "address": "0xeaf631ac57f3cdddd261770dd47f85066131a156",
+    "mintable": false,
+    "ethereum_address": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0"
+}
