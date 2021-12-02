@@ -1,0 +1,8 @@
+{
+    "symbol": "LEPA",
+    "name": "Lepasa (PoS)",
+    "decimals": 18,
+    "address": "0xf9a4bbaa7fa1dd2352f1a47d6d3fcff259a6d05f",
+    "mintable": false,
+    "ethereum_address": "0xbba6c7c7d673c48d90069ad2e9d2fe587fcb6bc3"
+}
