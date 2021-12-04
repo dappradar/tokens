@@ -1,0 +1,8 @@
+{
+    "symbol": "DTT",
+    "name": "DeFI Trade Token (PoS)",
+    "decimals": 18,
+    "address": "0x1214d61f3daa45af4a5f301075c58fbe57c8e6d7",
+    "mintable": false,
+    "ethereum_address": "0x1214d61f3daa45af4a5f301075c58fbe57c8e6d7"
+}
