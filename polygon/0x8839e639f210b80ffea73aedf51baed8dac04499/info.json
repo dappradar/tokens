@@ -1,0 +1,8 @@
+{
+    "symbol": "DWEB",
+    "name": "DecentraWeb (PoS)",
+    "decimals": 18,
+    "address": "0x8839e639f210b80ffea73aedf51baed8dac04499",
+    "mintable": false,
+    "ethereum_address": "0xe7f58a92476056627f9fdb92286778abd83b285f"
+}
