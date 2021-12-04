@@ -1,0 +1,8 @@
+{
+    "symbol": "GSG",
+    "name": "GAMESTA (PoS)",
+    "decimals": 18,
+    "address": "0x778949e707a0eb6c32ca20b1f9e0db9685d18024",
+    "mintable": false,
+    "ethereum_address": "0x55cd00764e85aa3b6b34130c983fff9eb458250c"
+}
