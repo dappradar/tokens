@@ -1,0 +1,8 @@
+{
+    "symbol": "SMOKE",
+    "name": "Smoke (PoS)",
+    "decimals": 18,
+    "address": "0xc54a5024b6c5e565772729b783021f60a8f9139c",
+    "mintable": false,
+    "ethereum_address": "0x67725fb3751c257920a88c543ba9b4ba8cfbfa5d"
+}
