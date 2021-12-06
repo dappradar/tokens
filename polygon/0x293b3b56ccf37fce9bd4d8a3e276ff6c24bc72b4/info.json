@@ -1,0 +1,8 @@
+{
+    "symbol": "BDG",
+    "name": "BitDegree Token (PoS)",
+    "decimals": 18,
+    "address": "0x293b3b56ccf37fce9bd4d8a3e276ff6c24bc72b4",
+    "mintable": false,
+    "ethereum_address": "0x1961b3331969ed52770751fc718ef530838b6dee"
+}
