@@ -1,0 +1,8 @@
+{
+    "symbol": "PAWR",
+    "name": "PAWER Network (PoS)",
+    "decimals": 18,
+    "address": "0xd9ce16ac93b783e069353a57220bf0e9c5315daf",
+    "mintable": false,
+    "ethereum_address": "0x7693a7d03d35808b75742d33d6fbb000359e693c"
+}
