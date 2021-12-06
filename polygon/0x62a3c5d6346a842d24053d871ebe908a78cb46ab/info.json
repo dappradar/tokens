@@ -1,0 +1,8 @@
+{
+    "symbol": "EVEM",
+    "name": "EVER META (PoS)",
+    "decimals": 18,
+    "address": "0x62a3c5d6346a842d24053d871ebe908a78cb46ab",
+    "mintable": false,
+    "ethereum_address": "0xeefa9e2e5be13b6531eb45ba47917017b5affffb"
+}
