@@ -1,0 +1,8 @@
+{
+    "symbol": "GeM",
+    "name": "Genesis Mechanism (PoS)",
+    "decimals": 18,
+    "address": "0x2f911f789d9d599b34d403a2cfc0c5b3f7e8ce7a",
+    "mintable": false,
+    "ethereum_address": "0xebc27d9bd8ac268934784dcdf1eaa10dfaf97a9f"
+}
