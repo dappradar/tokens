@@ -1,0 +1,8 @@
+{
+    "symbol": "SWASH",
+    "name": "Swash Token (PoS)",
+    "decimals": 18,
+    "address": "0xba3cb8329d442e6f9eb70fafe1e214251df3d275",
+    "mintable": false,
+    "ethereum_address": "0xa130e3a33a4d84b04c3918c4e5762223ae252f80"
+}
