@@ -1,0 +1,8 @@
+{
+    "symbol": "BBG",
+    "name": "BBGO (PoS)",
+    "decimals": 18,
+    "address": "0x3afe98235d680e8d7a52e1458a59d60f45f935c0",
+    "mintable": true,
+    "ethereum_address": "0x3afe98235d680e8d7a52e1458a59d60f45f935c0"
+}
