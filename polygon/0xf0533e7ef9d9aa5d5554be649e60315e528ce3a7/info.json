@@ -1,0 +1,8 @@
+{
+    "symbol": "VUFIS",
+    "name": "Vufi Shares (PoS)",
+    "decimals": 18,
+    "address": "0xf0533e7ef9d9aa5d5554be649e60315e528ce3a7",
+    "mintable": false,
+    "ethereum_address": "0x36417d9f5a927b3af2f03fe8c8d4fde715601b83"
+}
