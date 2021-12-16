@@ -1,0 +1,8 @@
+{
+    "symbol": "VIDYA",
+    "name": "Vidya (PoS)",
+    "decimals": 18,
+    "address": "0xfe9ca7cf13e33b23af63fea696f4aae1b7a65585",
+    "mintable": false,
+    "ethereum_address": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30"
+}
