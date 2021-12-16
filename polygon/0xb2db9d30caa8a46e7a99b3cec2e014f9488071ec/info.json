@@ -1,0 +1,8 @@
+{
+    "symbol": "WLTC",
+    "name": "Wrapped Litecoin (PoS)",
+    "decimals": 18,
+    "address": "0xb2db9d30caa8a46e7a99b3cec2e014f9488071ec",
+    "mintable": false,
+    "ethereum_address": "0x53c4871322bb47e7a24136fce291a6dcc832a294"
+}
