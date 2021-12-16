@@ -1,0 +1,8 @@
+{
+    "symbol": "TIDAL",
+    "name": "Tidal Token (PoS)",
+    "decimals": 18,
+    "address": "0xb41ec2c036f8a42da384dde6ada79884f8b84b26",
+    "mintable": false,
+    "ethereum_address": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7"
+}
