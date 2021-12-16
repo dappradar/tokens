@@ -1,0 +1,8 @@
+{
+    "symbol": "DeFi",
+    "name": "DecentFinance (PoS)",
+    "decimals": 18,
+    "address": "0x078f6c105077fcc5b7cb7ad567a9258334c61ebf",
+    "mintable": false,
+    "ethereum_address": "0x2c15b2b5336dda8b44f245772e10c2bcbc0a8ae2"
+}
