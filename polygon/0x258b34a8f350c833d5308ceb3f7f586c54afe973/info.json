@@ -1,0 +1,8 @@
+{
+    "symbol": "LIQUID",
+    "name": "LIQUID (PoS)",
+    "decimals": 18,
+    "address": "0x258b34a8f350c833d5308ceb3f7f586c54afe973",
+    "mintable": false,
+    "ethereum_address": "0xc618d56b6d606e59c6b87af724ab5a91eb40d1cb"
+}
