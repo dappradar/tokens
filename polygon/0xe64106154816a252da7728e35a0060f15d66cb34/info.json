@@ -1,0 +1,8 @@
+{
+    "symbol": "INXT",
+    "name": "Internxt (PoS)",
+    "decimals": 8,
+    "address": "0xe64106154816a252da7728e35a0060f15d66cb34",
+    "mintable": false,
+    "ethereum_address": "0xa8006c4ca56f24d6836727d106349320db7fef82"
+}
