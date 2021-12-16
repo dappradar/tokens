@@ -1,0 +1,8 @@
+{
+    "symbol": "NITRO",
+    "name": "Nitro (PoS)",
+    "decimals": 18,
+    "address": "0x695fc8b80f344411f34bdbcb4e621aa69ada384b",
+    "mintable": false,
+    "ethereum_address": "0x0335a7610d817aeca1bebbefbd392ecc2ed587b8"
+}
