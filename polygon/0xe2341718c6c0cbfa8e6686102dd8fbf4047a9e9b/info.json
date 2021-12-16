@@ -1,0 +1,8 @@
+{
+    "symbol": "AIOZ",
+    "name": "AIOZ Network (PoS)",
+    "decimals": 18,
+    "address": "0xe2341718c6c0cbfa8e6686102dd8fbf4047a9e9b",
+    "mintable": false,
+    "ethereum_address": "0x626e8036deb333b408be468f951bdb42433cbf18"
+}
