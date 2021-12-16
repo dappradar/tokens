@@ -1,0 +1,8 @@
+{
+    "symbol": "ODOGE",
+    "name": "OptimDoge (PoS)",
+    "decimals": 18,
+    "address": "0xe61b839e87ffe2addd41b33f1b048f40fbb6a7f6",
+    "mintable": false,
+    "ethereum_address": "0x9accb7983afcec1890377f625482a8c8958f24ba"
+}
