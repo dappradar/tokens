@@ -1,0 +1,8 @@
+{
+    "symbol": "NDX",
+    "name": "Indexed (PoS)",
+    "decimals": 18,
+    "address": "0x835273d47a2a4cc84693639f8d890af1caea611d",
+    "mintable": false,
+    "ethereum_address": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83"
+}
