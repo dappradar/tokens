@@ -1,0 +1,8 @@
+{
+    "symbol": "MV",
+    "name": "Metaverse (PoS)",
+    "decimals": 18,
+    "address": "0xa3c322ad15218fbfaed26ba7f616249f7705d945",
+    "mintable": false,
+    "ethereum_address": "0xae788f80f2756a86aa2f410c651f2af83639b95b"
+}
