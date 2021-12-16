@@ -1,0 +1,8 @@
+{
+    "symbol": "GCR",
+    "name": "Global Coin Research (PoS)",
+    "decimals": 4,
+    "address": "0xa69d14d6369e414a32a5c7e729b7afbafd285965",
+    "mintable": false,
+    "ethereum_address": "0x6307b25a665efc992ec1c1bc403c38f3ddd7c661"
+}
