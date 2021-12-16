@@ -1,0 +1,8 @@
+{
+    "symbol": "LAYER",
+    "name": "Unilayer (PoS)",
+    "decimals": 18,
+    "address": "0x9a37814d1ec68ca5f8aab205f628869f3926ce3e",
+    "mintable": false,
+    "ethereum_address": "0x0ff6ffcfda92c53f615a4a75d982f399c989366b"
+}
