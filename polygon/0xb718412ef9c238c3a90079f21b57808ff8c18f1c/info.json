@@ -1,0 +1,8 @@
+{
+    "symbol": "YLD",
+    "name": "Yield (PoS)",
+    "decimals": 18,
+    "address": "0xb718412ef9c238c3a90079f21b57808ff8c18f1c",
+    "mintable": false,
+    "ethereum_address": "0xdcb01cc464238396e213a6fdd933e36796eaff9f"
+}
