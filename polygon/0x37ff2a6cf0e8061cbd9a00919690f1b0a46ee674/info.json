@@ -1,0 +1,8 @@
+{
+    "symbol": "FROGE",
+    "name": "froge.finance (PoS)",
+    "decimals": 9,
+    "address": "0x37ff2a6cf0e8061cbd9a00919690f1b0a46ee674",
+    "mintable": false,
+    "ethereum_address": "0x29502fe4d233ef0b45c3647101fa1252ce0634bd"
+}
