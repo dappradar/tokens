@@ -1,0 +1,8 @@
+{
+    "symbol": "ISLA",
+    "name": "Defiville Island Token (PoS)",
+    "decimals": 18,
+    "address": "0xfe6a2342f7c5d234e8496df12c468be17e0c181f",
+    "mintable": false,
+    "ethereum_address": "0x20a68f9e34076b2dc15ce726d7eebb83b694702d"
+}
