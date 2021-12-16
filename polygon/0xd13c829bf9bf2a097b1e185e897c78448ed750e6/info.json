@@ -1,0 +1,8 @@
+{
+    "symbol": "CGT",
+    "name": "CryptoGamesToken (PoS)",
+    "decimals": 18,
+    "address": "0xd13c829bf9bf2a097b1e185e897c78448ed750e6",
+    "mintable": false,
+    "ethereum_address": "0x8399a671f4e629d44cff8dd1e676501a8b507f0f"
+}
