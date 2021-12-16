@@ -1,0 +1,8 @@
+{
+    "symbol": "zeus",
+    "name": "zeus (PoS)",
+    "decimals": 18,
+    "address": "0xa98b560dc95c48ff6bcf81c7dd83978d8bcaf762",
+    "mintable": false,
+    "ethereum_address": "0x333e4de9eddbd72a2e19efe193b07a459be24db4"
+}
