@@ -1,0 +1,8 @@
+{
+    "symbol": "ATCx",
+    "name": "AutoChainTokenCandy (PoS)",
+    "decimals": 4,
+    "address": "0x0f933ae2ffb1ee8b7385647eb6a5610f31d5b56f",
+    "mintable": false,
+    "ethereum_address": "0xcb6e019e74a2d6e0dd60afc716e4c708140bff7d"
+}
