@@ -1,0 +1,8 @@
+{
+    "symbol": "YELD",
+    "name": "YELD (PoS)",
+    "decimals": 18,
+    "address": "0x9bd3b7c3dcc24708cbf122523546ee5c6caefce8",
+    "mintable": false,
+    "ethereum_address": "0x468ab3b1f63a1c14b361bc367c3cc92277588da1"
+}
