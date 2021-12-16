@@ -1,0 +1,8 @@
+{
+    "symbol": "pDARK",
+    "name": "DarkPool (PoS)",
+    "decimals": 18,
+    "address": "0x066028738ce85aa1946b9d05b1d0f06f3d0fdb7a",
+    "mintable": false,
+    "ethereum_address": "0xf62dc91f8f43b241840228b3a857ff9d6522660c"
+}
