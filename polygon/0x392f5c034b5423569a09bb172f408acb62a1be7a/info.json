@@ -1,0 +1,8 @@
+{
+    "symbol": "VTX",
+    "name": "Vortex DeFi (PoS)",
+    "decimals": 18,
+    "address": "0x392f5c034b5423569a09bb172f408acb62a1be7a",
+    "mintable": false,
+    "ethereum_address": "0xceb286c9604c542d3cc08b41aa6c9675b078a832"
+}
