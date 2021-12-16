@@ -1,0 +1,8 @@
+{
+    "symbol": "KARMA",
+    "name": "Karma (PoS)",
+    "decimals": 4,
+    "address": "0x4016489b230980fd43511e28e7fb91ed795c90c5",
+    "mintable": false,
+    "ethereum_address": "0xdfe691f37b6264a90ff507eb359c45d55037951c"
+}
