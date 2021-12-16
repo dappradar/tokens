@@ -1,0 +1,8 @@
+{
+    "symbol": "HKMT",
+    "name": "HK Monetary Token (PoS)",
+    "decimals": 6,
+    "address": "0xe368e30c2b0f58ef216e12073141e07a875fba6d",
+    "mintable": false,
+    "ethereum_address": "0xc8c97d9b0af219c2329a0179f6ab8c7a55b39fc1"
+}
