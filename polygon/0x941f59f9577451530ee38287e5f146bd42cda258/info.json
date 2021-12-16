@@ -1,0 +1,8 @@
+{
+    "symbol": "SHUSKY",
+    "name": "Siberian Husky (PoS)",
+    "decimals": 9,
+    "address": "0x941f59f9577451530ee38287e5f146bd42cda258",
+    "mintable": false,
+    "ethereum_address": "0x236d53148f83706c3d670064809577385f923a75"
+}
