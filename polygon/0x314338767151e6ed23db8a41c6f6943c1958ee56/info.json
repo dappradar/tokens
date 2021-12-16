@@ -1,0 +1,8 @@
+{
+    "symbol": "DEC",
+    "name": "Decentr  (PoS)",
+    "decimals": 18,
+    "address": "0x314338767151e6ed23db8a41c6f6943c1958ee56",
+    "mintable": false,
+    "ethereum_address": "0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3"
+}
