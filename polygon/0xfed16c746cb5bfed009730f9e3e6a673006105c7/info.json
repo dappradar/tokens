@@ -1,0 +1,8 @@
+{
+    "symbol": "DRC",
+    "name": "Digital Reserve Currency (PoS)",
+    "decimals": 0,
+    "address": "0xfed16c746cb5bfed009730f9e3e6a673006105c7",
+    "mintable": false,
+    "ethereum_address": "0xa150db9b1fa65b44799d4dd949d922c0a33ee606"
+}
