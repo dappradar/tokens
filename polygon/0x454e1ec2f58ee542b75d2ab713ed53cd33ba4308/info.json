@@ -1,0 +1,8 @@
+{
+    "symbol": "300",
+    "name": "Spartan (PoS)",
+    "decimals": 7,
+    "address": "0x454e1ec2f58ee542b75d2ab713ed53cd33ba4308",
+    "mintable": false,
+    "ethereum_address": "0x167e2a574669b0eeb552aaf3da47c728cb348a41"
+}
