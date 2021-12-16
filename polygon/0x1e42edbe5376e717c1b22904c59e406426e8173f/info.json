@@ -1,0 +1,8 @@
+{
+    "symbol": "SURF",
+    "name": "SURF.Finance (PoS)",
+    "decimals": 18,
+    "address": "0x1e42edbe5376e717c1b22904c59e406426e8173f",
+    "mintable": false,
+    "ethereum_address": "0xea319e87cf06203dae107dd8e5672175e3ee976c"
+}
