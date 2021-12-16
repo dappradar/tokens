@@ -1,0 +1,8 @@
+{
+    "symbol": "VISR",
+    "name": "VISOR (PoS)",
+    "decimals": 18,
+    "address": "0xb090b6310970dd028a007981a24c1a492568a816",
+    "mintable": false,
+    "ethereum_address": "0xf938424f7210f31df2aee3011291b658f872e91e"
+}
