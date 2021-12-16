@@ -1,0 +1,8 @@
+{
+    "symbol": "uBTC",
+    "name": "uBitcoin (PoS)",
+    "decimals": 18,
+    "address": "0x7df29b5e0f2c7895f4b4fa4a20e759f8abc1ba91",
+    "mintable": false,
+    "ethereum_address": "0x49766c22dcbc885f993ffeae547a79b5508aa9ec"
+}
