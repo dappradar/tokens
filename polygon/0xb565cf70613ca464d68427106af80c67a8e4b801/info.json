@@ -1,0 +1,8 @@
+{
+    "symbol": "YVS",
+    "name": "YVS.Finance (PoS)",
+    "decimals": 18,
+    "address": "0xb565cf70613ca464d68427106af80c67a8e4b801",
+    "mintable": false,
+    "ethereum_address": "0xec681f28f4561c2a9534799aa38e0d36a83cf478"
+}
