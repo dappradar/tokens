@@ -1,0 +1,8 @@
+{
+    "symbol": "PHNX",
+    "name": "PhoenixDAO (PoS)",
+    "decimals": 18,
+    "address": "0x92c59f1cc9a322670cca29594e4d994d48bdfd36",
+    "mintable": false,
+    "ethereum_address": "0x38a2fdc11f526ddd5a607c1f251c065f40fbf2f7"
+}
