@@ -1,0 +1,8 @@
+{
+    "symbol": "mWETH",
+    "name": "mushrooming Wrapped Ether (PoS)",
+    "decimals": 18,
+    "address": "0xdc0f3c12df89593357985491bdacc5fd789ca4b2",
+    "mintable": false,
+    "ethereum_address": "0xb0f1a38f5531b398e2081c2f9e61edd2a924b488"
+}
