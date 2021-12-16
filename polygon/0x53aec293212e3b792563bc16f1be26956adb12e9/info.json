@@ -1,0 +1,8 @@
+{
+    "symbol": "KP3R",
+    "name": "Keep3rV1 (PoS)",
+    "decimals": 18,
+    "address": "0x53aec293212e3b792563bc16f1be26956adb12e9",
+    "mintable": false,
+    "ethereum_address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44"
+}
