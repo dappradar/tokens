@@ -1,0 +1,8 @@
+{
+    "symbol": "UNI-V2",
+    "name": "Uniswap V2 (PoS)",
+    "decimals": 18,
+    "address": "0x48336c2e2cf985d5df68c53d7898a29054f85626",
+    "mintable": false,
+    "ethereum_address": "0x187094a90a0fc1f0cf51ef408cf88338a456561b"
+}
