@@ -1,0 +1,8 @@
+{
+    "symbol": "IGG",
+    "name": "IG Gold (PoS)",
+    "decimals": 6,
+    "address": "0xe6fc6c7cb6d2c31b359a49a33ef08ab87f4de7ce",
+    "mintable": false,
+    "ethereum_address": "0x8ffe40a3d0f80c0ce6b203d5cdc1a6a86d9acaea"
+}
