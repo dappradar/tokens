@@ -1,0 +1,8 @@
+{
+    "symbol": "THREE",
+    "name": "3 Comma Club (PoS)",
+    "decimals": 18,
+    "address": "0x66d70309d37eaea53b22a1a3fa280327b2c610c6",
+    "mintable": false,
+    "ethereum_address": "0x14fd3063dfd3ce0a2c4c5ee43ab49988a989202c"
+}
