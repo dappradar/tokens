@@ -1,0 +1,8 @@
+{
+    "symbol": "MAXX",
+    "name": "MAXXToken.com (PoS)",
+    "decimals": 18,
+    "address": "0x41b3fc2302c8aac4c84c552f770419091ef52435",
+    "mintable": false,
+    "ethereum_address": "0x57641b7250f153020a33037845f63ff23a090d17"
+}
