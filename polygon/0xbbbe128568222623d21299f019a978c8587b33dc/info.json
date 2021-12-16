@@ -1,0 +1,8 @@
+{
+    "symbol": "SWISE",
+    "name": "StakeWise (PoS)",
+    "decimals": 18,
+    "address": "0xbbbe128568222623d21299f019a978c8587b33dc",
+    "mintable": false,
+    "ethereum_address": "0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2"
+}
