@@ -1,0 +1,8 @@
+{
+    "symbol": "MIMO",
+    "name": "MIMO Parallel Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0xadac33f543267c4d59a8c299cf804c303bc3e4ac",
+    "mintable": false,
+    "ethereum_address": "0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc"
+}
