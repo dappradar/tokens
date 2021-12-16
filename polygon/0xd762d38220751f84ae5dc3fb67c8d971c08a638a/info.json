@@ -1,0 +1,8 @@
+{
+    "symbol": "SLX",
+    "name": "Silver Fifty Token (PoS)",
+    "decimals": 0,
+    "address": "0xd762d38220751f84ae5dc3fb67c8d971c08a638a",
+    "mintable": false,
+    "ethereum_address": "0xb17d1826e09135457328c3a397fc40aa56a46256"
+}
