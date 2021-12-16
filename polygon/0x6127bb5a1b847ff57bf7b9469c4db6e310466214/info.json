@@ -1,0 +1,8 @@
+{
+    "symbol": "SAKE",
+    "name": "SakeToken (PoS)",
+    "decimals": 18,
+    "address": "0x6127bb5a1b847ff57bf7b9469c4db6e310466214",
+    "mintable": false,
+    "ethereum_address": "0x066798d9ef0833ccc719076dab77199ecbd178b0"
+}
