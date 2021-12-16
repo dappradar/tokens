@@ -1,0 +1,8 @@
+{
+    "symbol": "DOKI",
+    "name": "DokiDokiFinance (PoS)",
+    "decimals": 18,
+    "address": "0x5c7f7fe4766fe8f0fa9b41e2e4194d939488ff1c",
+    "mintable": false,
+    "ethereum_address": "0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544"
+}
