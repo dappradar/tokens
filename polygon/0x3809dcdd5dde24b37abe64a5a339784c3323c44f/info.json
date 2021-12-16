@@ -1,0 +1,8 @@
+{
+    "symbol": "SWAP",
+    "name": "TrustSwap Token (PoS)",
+    "decimals": 18,
+    "address": "0x3809dcdd5dde24b37abe64a5a339784c3323c44f",
+    "mintable": false,
+    "ethereum_address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe"
+}
