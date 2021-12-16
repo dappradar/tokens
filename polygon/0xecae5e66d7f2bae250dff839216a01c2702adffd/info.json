@@ -1,0 +1,8 @@
+{
+    "symbol": "XOR",
+    "name": "Sora Token (PoS)",
+    "decimals": 18,
+    "address": "0xecae5e66d7f2bae250dff839216a01c2702adffd",
+    "mintable": false,
+    "ethereum_address": "0x40fd72257597aa14c7231a7b1aaa29fce868f677"
+}
