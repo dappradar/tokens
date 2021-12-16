@@ -1,0 +1,8 @@
+{
+    "symbol": "NEX",
+    "name": "Nash Exchange Token (PoS)",
+    "decimals": 8,
+    "address": "0xa486c6bc102f409180ccb8a94ba045d39f8fc7cb",
+    "mintable": false,
+    "ethereum_address": "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845"
+}
