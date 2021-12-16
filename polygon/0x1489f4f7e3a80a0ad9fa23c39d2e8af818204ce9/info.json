@@ -1,0 +1,8 @@
+{
+    "symbol": "VBTC",
+    "name": "Strudel BTC (PoS)",
+    "decimals": 18,
+    "address": "0x1489f4f7e3a80a0ad9fa23c39d2e8af818204ce9",
+    "mintable": false,
+    "ethereum_address": "0xe1406825186d63980fd6e2ec61888f7b91c4bae4"
+}
