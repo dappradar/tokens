@@ -1,0 +1,8 @@
+{
+    "symbol": "WISE",
+    "name": "Wise Token (PoS)",
+    "decimals": 18,
+    "address": "0xb77e62709e39ad1cbeebe77cf493745aec0f453a",
+    "mintable": false,
+    "ethereum_address": "0x66a0f676479cee1d7373f3dc2e2952778bff5bd6"
+}
