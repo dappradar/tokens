@@ -1,0 +1,8 @@
+{
+    "symbol": "VEE",
+    "name": "BLOCKv Token (PoS)",
+    "decimals": 18,
+    "address": "0xf1c1a3c2481a3a8a3f173a9ab5ade275292a6fa3",
+    "mintable": false,
+    "ethereum_address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7"
+}
