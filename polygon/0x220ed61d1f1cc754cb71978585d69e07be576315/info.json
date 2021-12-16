@@ -1,0 +1,8 @@
+{
+    "symbol": "LADZ",
+    "name": "LADZ (PoS)",
+    "decimals": 4,
+    "address": "0x220ed61d1f1cc754cb71978585d69e07be576315",
+    "mintable": false,
+    "ethereum_address": "0x1287c0509df9a475ef178471ab2132b9dfd312b3"
+}
