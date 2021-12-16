@@ -1,0 +1,8 @@
+{
+    "symbol": "BTSE",
+    "name": "BTSE Token (PoS)",
+    "decimals": 8,
+    "address": "0xc96a4a6b780af3a6383962ea0ac96dd3c40532d4",
+    "mintable": false,
+    "ethereum_address": "0x666d875c600aa06ac1cf15641361dec3b00432ef"
+}
