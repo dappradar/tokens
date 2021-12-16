@@ -1,0 +1,8 @@
+{
+    "symbol": "SDARK",
+    "name": "StableDark (PoS)",
+    "decimals": 18,
+    "address": "0x12919a30447ff59947740507362a05b8bea9a6e7",
+    "mintable": false,
+    "ethereum_address": "0x26c7d50b9f372e1fa9ca078cc054298f36d68b17"
+}
