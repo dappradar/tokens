@@ -1,0 +1,8 @@
+{
+    "symbol": "LPT",
+    "name": "Livepeer Token (PoS)",
+    "decimals": 18,
+    "address": "0x3962f4a0a0051dcce0be73a7e09cef5756736712",
+    "mintable": false,
+    "ethereum_address": "0x58b6a8a3302369daec383334672404ee733ab239"
+}
