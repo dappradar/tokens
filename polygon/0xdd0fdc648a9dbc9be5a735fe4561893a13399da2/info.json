@@ -1,0 +1,8 @@
+{
+    "symbol": "PGF7T",
+    "name": "PGF500 Token (PoS)",
+    "decimals": 18,
+    "address": "0xdd0fdc648a9dbc9be5a735fe4561893a13399da2",
+    "mintable": false,
+    "ethereum_address": "0x9fadea1aff842d407893e21dbd0e2017b4c287b6"
+}
