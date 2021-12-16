@@ -1,0 +1,8 @@
+{
+    "symbol": "UMX",
+    "name": "UniMex (PoS)",
+    "decimals": 18,
+    "address": "0x5df1a47e05b4caba0ed3df13662642f05314764d",
+    "mintable": false,
+    "ethereum_address": "0x10be9a8dae441d276a5027936c3aaded2d82bc15"
+}
