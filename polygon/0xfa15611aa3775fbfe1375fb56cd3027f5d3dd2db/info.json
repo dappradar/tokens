@@ -1,0 +1,8 @@
+{
+    "symbol": "ADD",
+    "name": "ADD.XYZ (PoS)",
+    "decimals": 18,
+    "address": "0xfa15611aa3775fbfe1375fb56cd3027f5d3dd2db",
+    "mintable": false,
+    "ethereum_address": "0x635d081fd8f6670135d8a3640e2cf78220787d56"
+}
