@@ -1,0 +1,8 @@
+{
+    "symbol": "DERC20",
+    "name": "Dummy ERC20",
+    "decimals": 18,
+    "address": "0xeffdcb49c2d0ef813764b709ca3c6fe71f230e3e",
+    "mintable": false,
+    "ethereum_address": "0xf2f3bd7ca5746c5fac518f67d1be87805a2be82a"
+}
