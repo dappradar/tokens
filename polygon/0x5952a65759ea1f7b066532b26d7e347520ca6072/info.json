@@ -1,0 +1,8 @@
+{
+    "symbol": "XMT",
+    "name": "MetalSwap (PoS)",
+    "decimals": 18,
+    "address": "0x5952a65759ea1f7b066532b26d7e347520ca6072",
+    "mintable": false,
+    "ethereum_address": "0x3e5d9d8a63cc8a88748f229999cf59487e90721e"
+}
