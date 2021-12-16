@@ -1,0 +1,8 @@
+{
+    "symbol": "$TRDL",
+    "name": "Strudel Finance (PoS)",
+    "decimals": 18,
+    "address": "0xf89887862538ce8efbdbadd5d483ae4a09dd9688",
+    "mintable": false,
+    "ethereum_address": "0x297d33e17e61c2ddd812389c2105193f8348188a"
+}
