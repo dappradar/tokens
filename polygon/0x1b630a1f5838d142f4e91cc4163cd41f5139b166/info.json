@@ -1,0 +1,8 @@
+{
+    "symbol": "USDN",
+    "name": "Neutrino USD (PoS)",
+    "decimals": 18,
+    "address": "0x1b630a1f5838d142f4e91cc4163cd41f5139b166",
+    "mintable": false,
+    "ethereum_address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0"
+}
