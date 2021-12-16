@@ -1,0 +1,8 @@
+{
+    "symbol": "OMG",
+    "name": "OMGToken (PoS)",
+    "decimals": 18,
+    "address": "0x62414d03084eeb269e18c970a21f45d2967f0170",
+    "mintable": false,
+    "ethereum_address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07"
+}
