@@ -1,0 +1,8 @@
+{
+    "symbol": "PHX",
+    "name": "Phoenix Token (PoS)",
+    "decimals": 18,
+    "address": "0x9c6bfedc14b5c23e3900889436edca7805170f01",
+    "mintable": false,
+    "ethereum_address": "0xaec65404ddc3af3c897ad89571d5772c1a695f22"
+}
