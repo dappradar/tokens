@@ -1,0 +1,8 @@
+{
+    "symbol": "BAD",
+    "name": "BAD Token",
+    "decimals": 18,
+    "address": "0x1b5522f315e21614b8e67f2523b4165160fedd1b",
+    "mintable": false,
+    "ethereum_address": "0xcb36cb2fee10db61b62da84c464bdca91c0ffd81"
+}
