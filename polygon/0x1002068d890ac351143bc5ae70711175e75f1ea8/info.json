@@ -1,0 +1,8 @@
+{
+    "symbol": "MUNCH",
+    "name": "MUNCH Token (PoS)",
+    "decimals": 9,
+    "address": "0x1002068d890ac351143bc5ae70711175e75f1ea8",
+    "mintable": false,
+    "ethereum_address": "0x944eee930933be5e23b690c8589021ec8619a301"
+}
