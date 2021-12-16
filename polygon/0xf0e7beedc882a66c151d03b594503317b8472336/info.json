@@ -1,0 +1,8 @@
+{
+    "symbol": "NUG",
+    "name": "Nuggets (PoS)",
+    "decimals": 18,
+    "address": "0xf0e7beedc882a66c151d03b594503317b8472336",
+    "mintable": false,
+    "ethereum_address": "0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1"
+}
