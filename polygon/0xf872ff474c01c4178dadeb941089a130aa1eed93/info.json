@@ -1,0 +1,8 @@
+{
+    "symbol": "POP!",
+    "name": "POP Token (PoS)",
+    "decimals": 18,
+    "address": "0xf872ff474c01c4178dadeb941089a130aa1eed93",
+    "mintable": false,
+    "ethereum_address": "0x98629512ed2239974e169341be5b920ea4dcdb21"
+}
