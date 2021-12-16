@@ -1,0 +1,8 @@
+{
+    "symbol": "LPOOL",
+    "name": "Launchpool token (PoS)",
+    "decimals": 18,
+    "address": "0x9e7deba360c77949bb75d16dc81b2393c15005eb",
+    "mintable": false,
+    "ethereum_address": "0x6149c26cd2f7b5ccdb32029af817123f6e37df5b"
+}
