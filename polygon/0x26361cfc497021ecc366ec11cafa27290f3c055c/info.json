@@ -1,0 +1,8 @@
+{
+    "symbol": "CORGI",
+    "name": "Corgi Inu (PoS)",
+    "decimals": 10,
+    "address": "0x26361cfc497021ecc366ec11cafa27290f3c055c",
+    "mintable": false,
+    "ethereum_address": "0xe50006781f435ae43096288334afd9ae5ba50065"
+}
