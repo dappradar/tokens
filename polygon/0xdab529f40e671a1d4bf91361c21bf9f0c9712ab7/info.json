@@ -1,0 +1,8 @@
+{
+    "symbol": "BUSD",
+    "name": "Binance USD",
+    "decimals": 18,
+    "address": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
+    "mintable": false,
+    "ethereum_address": "0x4fabb145d64652a948d72533023f6e7a623c7c53"
+}
