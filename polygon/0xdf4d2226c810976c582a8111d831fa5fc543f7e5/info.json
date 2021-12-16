@@ -1,0 +1,8 @@
+{
+    "symbol": "FORCE",
+    "name": "Force DAO (PoS)",
+    "decimals": 18,
+    "address": "0xdf4d2226c810976c582a8111d831fa5fc543f7e5",
+    "mintable": false,
+    "ethereum_address": "0x2c31b10ca416b82cec4c5e93c615ca851213d48d"
+}
