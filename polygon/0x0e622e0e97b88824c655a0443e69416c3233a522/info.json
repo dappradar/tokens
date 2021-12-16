@@ -1,0 +1,8 @@
+{
+    "symbol": "RUB",
+    "name": "Rubaled (PoS)",
+    "decimals": 18,
+    "address": "0x0e622e0e97b88824c655a0443e69416c3233a522",
+    "mintable": false,
+    "ethereum_address": "0xdc28699481502339560e984d47278e49f4153a26"
+}
