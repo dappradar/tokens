@@ -1,0 +1,8 @@
+{
+    "symbol": "LRC",
+    "name": "LoopringCoin V2 (PoS)",
+    "decimals": 18,
+    "address": "0x84e1670f61347cdaed56dcc736fb990fbb47ddc1",
+    "mintable": false,
+    "ethereum_address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd"
+}
