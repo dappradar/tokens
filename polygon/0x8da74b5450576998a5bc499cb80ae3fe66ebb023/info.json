@@ -1,0 +1,8 @@
+{
+    "symbol": "GT",
+    "name": "GateChainToken (PoS)",
+    "decimals": 18,
+    "address": "0x8da74b5450576998a5bc499cb80ae3fe66ebb023",
+    "mintable": false,
+    "ethereum_address": "0xe66747a101bff2dba3697199dcce5b743b454759"
+}
