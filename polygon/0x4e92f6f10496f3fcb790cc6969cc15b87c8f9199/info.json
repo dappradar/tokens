@@ -1,0 +1,8 @@
+{
+    "symbol": "PNODE",
+    "name": "Pinknode Token (PoS)",
+    "decimals": 18,
+    "address": "0x4e92f6f10496f3fcb790cc6969cc15b87c8f9199",
+    "mintable": false,
+    "ethereum_address": "0xaf691508ba57d416f895e32a1616da1024e882d2"
+}
