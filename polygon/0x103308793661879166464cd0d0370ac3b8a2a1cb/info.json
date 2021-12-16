@@ -1,0 +1,8 @@
+{
+    "symbol": "YOP",
+    "name": "YOP (PoS)",
+    "decimals": 8,
+    "address": "0x103308793661879166464cd0d0370ac3b8a2a1cb",
+    "mintable": false,
+    "ethereum_address": "0xae1eaae3f627aaca434127644371b67b18444051"
+}
