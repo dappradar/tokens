@@ -1,0 +1,8 @@
+{
+    "symbol": "ERNE",
+    "name": "ERNE finance (PoS)",
+    "decimals": 18,
+    "address": "0x52af6aa779f36a53de44ae1969756a506b2577b5",
+    "mintable": false,
+    "ethereum_address": "0xcf978be45f74ab6f4da0e68b24624657f40a3d9b"
+}
