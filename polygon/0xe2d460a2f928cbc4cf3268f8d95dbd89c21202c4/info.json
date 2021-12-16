@@ -1,0 +1,8 @@
+{
+    "symbol": "THERA",
+    "name": "THERA (PoS)",
+    "decimals": 18,
+    "address": "0xe2d460a2f928cbc4cf3268f8d95dbd89c21202c4",
+    "mintable": false,
+    "ethereum_address": "0xffb3518f60a967839e5ba5b2908c5d6840632c0f"
+}
