@@ -1,0 +1,8 @@
+{
+    "symbol": "INF",
+    "name": "Infinity Diamond (PoS)",
+    "decimals": 18,
+    "address": "0xcbef7a4b4385db4747362b900b6f6f8051b152c0",
+    "mintable": false,
+    "ethereum_address": "0x506c6fc9d6f764338a4e1eed5f526ab440d0cc05"
+}
