@@ -1,0 +1,8 @@
+{
+    "symbol": "ONS",
+    "name": "OnSynthetics (PoS)",
+    "decimals": 18,
+    "address": "0xf50c6e2b720dab4ea87e0050856a511e3e3ceb8d",
+    "mintable": false,
+    "ethereum_address": "0xfc97c0c12438b6e4cf246cd831b02fef4950dcad"
+}
