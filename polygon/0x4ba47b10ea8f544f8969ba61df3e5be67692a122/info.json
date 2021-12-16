@@ -1,0 +1,8 @@
+{
+    "symbol": "iFUND",
+    "name": "UNIFUND (PoS)",
+    "decimals": 18,
+    "address": "0x4ba47b10ea8f544f8969ba61df3e5be67692a122",
+    "mintable": false,
+    "ethereum_address": "0x04b5e13000c6e9a3255dc057091f3e3eeee7b0f0"
+}
