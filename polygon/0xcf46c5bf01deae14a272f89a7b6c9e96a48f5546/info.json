@@ -1,0 +1,8 @@
+{
+    "symbol": "MCB",
+    "name": "MCDEX Token (PoS)",
+    "decimals": 18,
+    "address": "0xcf46c5bf01deae14a272f89a7b6c9e96a48f5546",
+    "mintable": false,
+    "ethereum_address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
+}
