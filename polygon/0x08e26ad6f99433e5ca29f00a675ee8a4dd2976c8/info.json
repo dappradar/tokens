@@ -1,0 +1,8 @@
+{
+    "symbol": "UNI-V2",
+    "name": "GemCash/ETH UNI LP (PoS)",
+    "decimals": 18,
+    "address": "0x08e26ad6f99433e5ca29f00a675ee8a4dd2976c8",
+    "mintable": false,
+    "ethereum_address": "0x2071f8864b270bd1f0567c14ab7f00543699a1c5"
+}
