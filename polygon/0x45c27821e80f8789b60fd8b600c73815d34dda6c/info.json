@@ -1,0 +1,8 @@
+{
+    "symbol": "API3",
+    "name": "API3 (PoS)",
+    "decimals": 18,
+    "address": "0x45c27821e80f8789b60fd8b600c73815d34dda6c",
+    "mintable": false,
+    "ethereum_address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a"
+}
