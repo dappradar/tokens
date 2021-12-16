@@ -1,0 +1,8 @@
+{
+    "symbol": "mFARM",
+    "name": "Harvest Reward Token",
+    "decimals": 18,
+    "address": "0x176f5ab638cf4ff3b6239ba609c3fadaa46ef5b0",
+    "mintable": false,
+    "ethereum_address": "0xa0246c9032bc3a600820415ae600c6388619a14d"
+}
