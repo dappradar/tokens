@@ -1,0 +1,8 @@
+{
+    "symbol": "NPX",
+    "name": "NapoleonX Token (PoS)",
+    "decimals": 18,
+    "address": "0x106035dedca635d75d6ff05f98f25916829edb77",
+    "mintable": false,
+    "ethereum_address": "0x28b5e12cce51f15594b0b91d5b5adaa70f684a02"
+}
