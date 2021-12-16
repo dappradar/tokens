@@ -1,0 +1,8 @@
+{
+    "symbol": "PKF",
+    "name": "PolkaFoundry (PoS)",
+    "decimals": 18,
+    "address": "0x3d32a7dc8b0c62a73639bf0d4fe8d229a2431ec8",
+    "mintable": false,
+    "ethereum_address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb"
+}
