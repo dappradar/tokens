@@ -1,0 +1,8 @@
+{
+    "symbol": "GST",
+    "name": "Global Scan Token (PoS)",
+    "decimals": 18,
+    "address": "0xe5703ad34d2b5bcb5c1feeb64d4b7572b857d6c0",
+    "mintable": false,
+    "ethereum_address": "0x382f5dfe9ee6e309d1b9d622735e789afde6bade"
+}
