@@ -1,0 +1,8 @@
+{
+    "symbol": "MTV",
+    "name": "MultiVAC (PoS)",
+    "decimals": 18,
+    "address": "0x885b6e6dbb84148f98c806800bc19c9a9db4cfeb",
+    "mintable": false,
+    "ethereum_address": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f"
+}
