@@ -1,0 +1,8 @@
+{
+    "symbol": "ETHIX",
+    "name": "Ethix (PoS)",
+    "decimals": 18,
+    "address": "0x08bba6abe87e2a8c226a1c6c0d0e9cae758f82ec",
+    "mintable": false,
+    "ethereum_address": "0xfd09911130e6930bf87f2b0554c44f400bd80d3e"
+}
