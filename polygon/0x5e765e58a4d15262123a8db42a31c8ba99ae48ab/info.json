@@ -1,0 +1,8 @@
+{
+    "symbol": "BSIT",
+    "name": "Bsit Token (PoS)",
+    "decimals": 4,
+    "address": "0x5e765e58a4d15262123a8db42a31c8ba99ae48ab",
+    "mintable": false,
+    "ethereum_address": "0x3b9abadd72b3e90eb980d213bf1f697566358100"
+}
