@@ -1,0 +1,8 @@
+{
+    "symbol": "PANTHER",
+    "name": "PantherSwap Token (PoS)",
+    "decimals": 18,
+    "address": "0xc7bdabde06cd7a873d8f3db47c42ab6146403b05",
+    "mintable": false,
+    "ethereum_address": "0x9c972af892f91b06455b4ab3c4359de51de36b9c"
+}
