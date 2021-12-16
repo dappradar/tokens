@@ -1,0 +1,8 @@
+{
+    "symbol": "EVE",
+    "name": "EVE Exchange (PoS)",
+    "decimals": 18,
+    "address": "0xae29ac47a9e3b0a52840e547adf74b912999f7fc",
+    "mintable": true,
+    "ethereum_address": "0x0f628641d0ea1ecab9341e58d4982c0018a51c6b"
+}
