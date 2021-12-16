@@ -1,0 +1,8 @@
+{
+    "symbol": "BTZC",
+    "name": "BeatzCoin",
+    "decimals": 6,
+    "address": "0x81a9d2eced101479fad8c9663f4a997fbe5c83ca",
+    "mintable": false,
+    "ethereum_address": "0x80640db285cc63496bdd8c1980a7f4526a4d477f"
+}
