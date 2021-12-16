@@ -1,0 +1,8 @@
+{
+    "symbol": "MoFi",
+    "name": "MobiFi (PoS)",
+    "decimals": 18,
+    "address": "0xf689e85988d3a7921e852867ce49f53388985e6d",
+    "mintable": false,
+    "ethereum_address": "0xb2dbf14d0b47ed3ba02bdb7c954e05a72deb7544"
+}
