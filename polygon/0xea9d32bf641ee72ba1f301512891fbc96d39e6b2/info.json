@@ -1,0 +1,8 @@
+{
+    "symbol": "SAUNA",
+    "name": "SAUNALAND (PoS)",
+    "decimals": 18,
+    "address": "0xea9d32bf641ee72ba1f301512891fbc96d39e6b2",
+    "mintable": false,
+    "ethereum_address": "0x82b666f1d7d6439b32f580335e492cb31a07bff5"
+}
