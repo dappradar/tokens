@@ -1,0 +1,8 @@
+{
+    "symbol": "KAI",
+    "name": "KardiaChain Token (PoS)",
+    "decimals": 18,
+    "address": "0x32ef6dcb27ae8697e217fe3594d665535b176721",
+    "mintable": false,
+    "ethereum_address": "0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093"
+}
