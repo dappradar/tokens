@@ -1,0 +1,8 @@
+{
+    "symbol": "RSD",
+    "name": "Resardis Token (PoS)",
+    "decimals": 18,
+    "address": "0x542af0d2ec7f5a92f9caddadd4e33b75d15f800c",
+    "mintable": false,
+    "ethereum_address": "0x73627974adea82397bcf7fac5848207cce88938d"
+}
