@@ -1,0 +1,8 @@
+{
+    "symbol": "DCB",
+    "name": "Digital Coin (PoS)",
+    "decimals": 18,
+    "address": "0x1f71bc1f88f09ece59e844dea4fcc4fa73934117",
+    "mintable": false,
+    "ethereum_address": "0x2d8e1dd483008c6843b9cf644bad7fb25bf52b84"
+}
