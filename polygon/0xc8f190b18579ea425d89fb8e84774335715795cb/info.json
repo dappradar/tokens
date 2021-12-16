@@ -1,0 +1,8 @@
+{
+    "symbol": "DFF",
+    "name": "Defi Firefly (PoS)",
+    "decimals": 8,
+    "address": "0xc8f190b18579ea425d89fb8e84774335715795cb",
+    "mintable": false,
+    "ethereum_address": "0xaf183350bdf8082b486cee23fbfcca6ea3258dac"
+}
