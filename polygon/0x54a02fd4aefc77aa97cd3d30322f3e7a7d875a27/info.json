@@ -1,0 +1,8 @@
+{
+    "symbol": "cPHX",
+    "name": "Convertible Phoenix Token (PoS)",
+    "decimals": 18,
+    "address": "0x54a02fd4aefc77aa97cd3d30322f3e7a7d875a27",
+    "mintable": false,
+    "ethereum_address": "0xbdd50c7b6c871d9afb278445d5b74fdc4705a234"
+}
