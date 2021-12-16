@@ -1,0 +1,8 @@
+{
+    "symbol": "sdeursCRV",
+    "name": "stake dao Curve.fi EURS/sEUR (PoS)",
+    "decimals": 18,
+    "address": "0xfbdb45075fb73ca4cc8b83fd6fdb4f9b696b1ba1",
+    "mintable": false,
+    "ethereum_address": "0xcd6997334867728ba14d7922f72c893fcee70e84"
+}
