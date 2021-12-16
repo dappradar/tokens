@@ -1,0 +1,8 @@
+{
+    "symbol": "xSDT",
+    "name": "Staked SDT (PoS)",
+    "decimals": 18,
+    "address": "0xd921f8318cfd786bab1ea7492673f053c518ac04",
+    "mintable": false,
+    "ethereum_address": "0xac14864ce5a98af3248ffbf549441b04421247d3"
+}
