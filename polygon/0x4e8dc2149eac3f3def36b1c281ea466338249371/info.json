@@ -1,0 +1,8 @@
+{
+    "symbol": "INJ",
+    "name": "Injective Token (PoS)",
+    "decimals": 18,
+    "address": "0x4e8dc2149eac3f3def36b1c281ea466338249371",
+    "mintable": false,
+    "ethereum_address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30"
+}
