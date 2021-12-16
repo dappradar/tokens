@@ -1,0 +1,8 @@
+{
+    "symbol": "HH",
+    "name": "Holyheld (PoS)",
+    "decimals": 18,
+    "address": "0x521cddc0cba84f14c69c1e99249f781aa73ee0bc",
+    "mintable": false,
+    "ethereum_address": "0x3fa729b4548becbad4eab6ef18413470e6d5324c"
+}
