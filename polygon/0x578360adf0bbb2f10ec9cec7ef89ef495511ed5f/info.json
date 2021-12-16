@@ -1,0 +1,8 @@
+{
+    "symbol": "KIWI",
+    "name": "KIWI Token",
+    "decimals": 8,
+    "address": "0x578360adf0bbb2f10ec9cec7ef89ef495511ed5f",
+    "mintable": false,
+    "ethereum_address": "0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d"
+}
