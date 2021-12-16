@@ -1,0 +1,8 @@
+{
+    "symbol": "bat",
+    "name": "bat token (PoS)",
+    "decimals": 18,
+    "address": "0x30a8e1c256143ad440faa9042722929b0bc0fc7d",
+    "mintable": false,
+    "ethereum_address": "0xb0a48b60f0c74131de56d85995848f8684347a78"
+}
