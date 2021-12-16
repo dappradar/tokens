@@ -1,0 +1,8 @@
+{
+    "symbol": "ZIL",
+    "name": "Zilliqa (PoS)",
+    "decimals": 12,
+    "address": "0x1e2231db2dbedd0fac3eb70608d402e80f244c6d",
+    "mintable": false,
+    "ethereum_address": "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27"
+}
