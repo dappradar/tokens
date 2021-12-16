@@ -1,0 +1,8 @@
+{
+    "symbol": "CORE",
+    "name": "cVault.finance (PoS)",
+    "decimals": 18,
+    "address": "0xe47dbe919c8ab0c1a1c1e97a1eefc2b946253924",
+    "mintable": false,
+    "ethereum_address": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7"
+}
