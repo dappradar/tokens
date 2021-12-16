@@ -1,0 +1,8 @@
+{
+    "symbol": "lowb",
+    "name": "loser coin (PoS)",
+    "decimals": 18,
+    "address": "0x1c0a798b5a5273a9e54028eb1524fd337b24145f",
+    "mintable": false,
+    "ethereum_address": "0x69e5c11a7c30f0bf84a9faecbd5161aa7a94deca"
+}
