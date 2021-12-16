@@ -1,0 +1,8 @@
+{
+    "symbol": "GNOME",
+    "name": "GenomesDAO Governance (PoS)",
+    "decimals": 18,
+    "address": "0x6e8a8726639d12935b3219892155520bdc57366b",
+    "mintable": false,
+    "ethereum_address": "0xe58eb0bb13a71d7b95c4c3cbe6cb3dbb08f9cbfb"
+}
