@@ -1,0 +1,8 @@
+{
+    "symbol": "PRQ",
+    "name": "Parsiq (PoS)",
+    "decimals": 18,
+    "address": "0x9377eeb7419486fd4d485671d50baa4bf77c2222",
+    "mintable": false,
+    "ethereum_address": "0x362bc847a3a9637d3af6624eec853618a43ed7d2"
+}
