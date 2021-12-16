@@ -1,0 +1,8 @@
+{
+    "symbol": "ZRX",
+    "name": "0x Protocol Token (PoS)",
+    "decimals": 18,
+    "address": "0x5559edb74751a0ede9dea4dc23aee72cca6be3d5",
+    "mintable": false,
+    "ethereum_address": "0xe41d2489571d322189246dafa5ebde1f4699f498"
+}
