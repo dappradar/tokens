@@ -1,0 +1,8 @@
+{
+    "symbol": "S4S",
+    "name": "Searching for Satoshi (PoS)",
+    "decimals": 18,
+    "address": "0x7bfc8637b8fdb2b13291639ba65c25a22a9e59f0",
+    "mintable": false,
+    "ethereum_address": "0x8091cbdf4bf6d449b0fcd3c797d4990e4229a820"
+}
