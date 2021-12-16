@@ -1,0 +1,8 @@
+{
+    "symbol": "FUEGO",
+    "name": "Fuego Token (PoS)",
+    "decimals": 18,
+    "address": "0x088c9b7fc7d1e8f36028996236c9993bdf25ac3e",
+    "mintable": false,
+    "ethereum_address": "0xf93a26a41df2d39650d32f2bffae90e3c5286da9"
+}
