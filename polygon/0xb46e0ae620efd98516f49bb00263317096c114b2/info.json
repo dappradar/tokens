@@ -1,0 +1,8 @@
+{
+    "symbol": "THETA",
+    "name": "Theta Token (PoS)",
+    "decimals": 18,
+    "address": "0xb46e0ae620efd98516f49bb00263317096c114b2",
+    "mintable": false,
+    "ethereum_address": "0x3883f5e181fccaf8410fa61e12b59bad963fb645"
+}
