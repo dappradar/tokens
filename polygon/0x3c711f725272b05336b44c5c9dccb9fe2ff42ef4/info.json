@@ -1,0 +1,8 @@
+{
+    "symbol": "CHML",
+    "name": "CheerMedal (PoS)",
+    "decimals": 18,
+    "address": "0x3c711f725272b05336b44c5c9dccb9fe2ff42ef4",
+    "mintable": false,
+    "ethereum_address": "0xfca0e33c4d9a7360a1caf517960be202c7693319"
+}
