@@ -1,0 +1,8 @@
+{
+    "symbol": "BOR",
+    "name": "BoringDAO (PoS)",
+    "decimals": 18,
+    "address": "0x7d8c139d5bfbafdfd1d2d0284e7fc862babe4137",
+    "mintable": false,
+    "ethereum_address": "0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9"
+}
