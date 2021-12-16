@@ -1,0 +1,8 @@
+{
+    "symbol": "RFOX",
+    "name": "RFOX (PoS)",
+    "decimals": 18,
+    "address": "0xdd4959cd915ae74dcd3f51e11e40fe112ac7aa69",
+    "mintable": false,
+    "ethereum_address": "0xa1d6df714f91debf4e0802a542e13067f31b8262"
+}
