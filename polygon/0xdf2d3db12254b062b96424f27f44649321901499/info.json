@@ -1,0 +1,8 @@
+{
+    "symbol": "DRaCula",
+    "name": "Dracula Token (PoS)",
+    "decimals": 18,
+    "address": "0xdf2d3db12254b062b96424f27f44649321901499",
+    "mintable": false,
+    "ethereum_address": "0xb78b3320493a4efaa1028130c5ba26f0b6085ef8"
+}
