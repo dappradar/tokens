@@ -1,0 +1,8 @@
+{
+    "symbol": "ICH",
+    "name": "ICOStart Token (PoS)",
+    "decimals": 18,
+    "address": "0xb257de22059cd200e34139d27ce0e415e173ce49",
+    "mintable": false,
+    "ethereum_address": "0x330839ef82d34801bd96e75a4ee778ac56fa1ed8"
+}
