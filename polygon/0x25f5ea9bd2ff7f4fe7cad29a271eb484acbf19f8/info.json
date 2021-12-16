@@ -1,0 +1,8 @@
+{
+    "symbol": "SCOOP",
+    "name": "IceCream (PoS)",
+    "decimals": 6,
+    "address": "0x25f5ea9bd2ff7f4fe7cad29a271eb484acbf19f8",
+    "mintable": false,
+    "ethereum_address": "0x9e7ace871afa0c18f979979a22104dd01d39b414"
+}
