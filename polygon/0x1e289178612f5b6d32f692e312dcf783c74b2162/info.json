@@ -1,0 +1,8 @@
+{
+    "symbol": "ISP",
+    "name": "Ispolink Token (PoS)",
+    "decimals": 18,
+    "address": "0x1e289178612f5b6d32f692e312dcf783c74b2162",
+    "mintable": false,
+    "ethereum_address": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014"
+}
