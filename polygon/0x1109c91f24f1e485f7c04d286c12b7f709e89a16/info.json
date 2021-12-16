@@ -1,0 +1,8 @@
+{
+    "symbol": "POLVEN",
+    "name": "POLVEN (PoS)",
+    "decimals": 18,
+    "address": "0x1109c91f24f1e485f7c04d286c12b7f709e89a16",
+    "mintable": false,
+    "ethereum_address": "0x4a6ab9792e9f046c3ab22d8602450de5186be9a7"
+}
