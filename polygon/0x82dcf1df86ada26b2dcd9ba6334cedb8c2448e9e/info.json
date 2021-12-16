@@ -1,0 +1,8 @@
+{
+    "symbol": "ALEPH",
+    "name": "aleph.im v2 (PoS)",
+    "decimals": 18,
+    "address": "0x82dcf1df86ada26b2dcd9ba6334cedb8c2448e9e",
+    "mintable": false,
+    "ethereum_address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628"
+}
