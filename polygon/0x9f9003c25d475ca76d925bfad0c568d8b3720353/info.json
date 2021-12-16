@@ -1,0 +1,8 @@
+{
+    "symbol": "ZPR",
+    "name": "ZperToken (PoS)",
+    "decimals": 18,
+    "address": "0x9f9003c25d475ca76d925bfad0c568d8b3720353",
+    "mintable": false,
+    "ethereum_address": "0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760"
+}
