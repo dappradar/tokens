@@ -1,0 +1,8 @@
+{
+    "symbol": "RLC",
+    "name": "iEx.ec Network Token (PoS)",
+    "decimals": 9,
+    "address": "0xbe662058e00849c3eef2ac9664f37fefdf2cdbfe",
+    "mintable": false,
+    "ethereum_address": "0x607f4c5bb672230e8672085532f7e901544a7375"
+}
