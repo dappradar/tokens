@@ -1,0 +1,8 @@
+{
+    "symbol": "JEJUDOGE",
+    "name": "Jejudoge (PoS)",
+    "decimals": 18,
+    "address": "0x5ca2ea050a3552addaa88466f0aa088bcc0dc2fb",
+    "mintable": false,
+    "ethereum_address": "0x939a7a577d93ad29b64c1595b1284ce660a479b9"
+}
