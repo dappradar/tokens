@@ -1,0 +1,8 @@
+{
+    "symbol": "rETH2",
+    "name": "StakeWise Reward ETH2 (PoS)",
+    "decimals": 18,
+    "address": "0xdece9bd4a6f4caba2f71a8af6cbf0952758f8b36",
+    "mintable": false,
+    "ethereum_address": "0x20bc832ca081b91433ff6c17f85701b6e92486c5"
+}
