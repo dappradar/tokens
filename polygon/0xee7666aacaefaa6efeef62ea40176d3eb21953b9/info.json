@@ -1,0 +1,8 @@
+{
+    "symbol": "MCHC",
+    "name": "MCHCoin (PoS)",
+    "decimals": 18,
+    "address": "0xee7666aacaefaa6efeef62ea40176d3eb21953b9",
+    "mintable": false,
+    "ethereum_address": "0xd69f306549e9d96f183b1aeca30b8f4353c2ecc3"
+}
