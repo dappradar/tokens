@@ -1,0 +1,8 @@
+{
+    "symbol": "PNK",
+    "name": "Pinakion (PoS)",
+    "decimals": 18,
+    "address": "0xad93e067e149f0a5ecd12d8ea83b05581dd6374c",
+    "mintable": false,
+    "ethereum_address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d"
+}
