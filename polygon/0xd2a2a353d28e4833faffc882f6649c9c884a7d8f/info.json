@@ -1,0 +1,8 @@
+{
+    "symbol": "ESW",
+    "name": "EmiSwap - EmiDao Token (PoS)",
+    "decimals": 18,
+    "address": "0xd2a2a353d28e4833faffc882f6649c9c884a7d8f",
+    "mintable": false,
+    "ethereum_address": "0x5a75a093747b72a0e14056352751edf03518031d"
+}
