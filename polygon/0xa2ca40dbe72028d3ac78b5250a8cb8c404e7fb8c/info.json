@@ -1,0 +1,8 @@
+{
+    "symbol": "FEAR",
+    "name": "Fear NFTs (PoS)",
+    "decimals": 18,
+    "address": "0xa2ca40dbe72028d3ac78b5250a8cb8c404e7fb8c",
+    "mintable": false,
+    "ethereum_address": "0x88a9a52f944315d5b4e917b9689e65445c401e83"
+}
