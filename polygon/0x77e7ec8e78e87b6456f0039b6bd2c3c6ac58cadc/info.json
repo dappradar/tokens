@@ -1,0 +1,8 @@
+{
+    "symbol": "DNFT",
+    "name": "Digi NFT (PoS)",
+    "decimals": 0,
+    "address": "0x77e7ec8e78e87b6456f0039b6bd2c3c6ac58cadc",
+    "mintable": false,
+    "ethereum_address": "0xe71b772c99f79b2cc9b5a0e204e88ba14fbb61c4"
+}
