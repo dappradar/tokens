@@ -1,0 +1,8 @@
+{
+    "symbol": "NFTX",
+    "name": "NFTX (PoS)",
+    "decimals": 18,
+    "address": "0x418839451873b0e69e628f95dc39a877a9715196",
+    "mintable": false,
+    "ethereum_address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776"
+}
