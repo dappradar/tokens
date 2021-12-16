@@ -1,0 +1,8 @@
+{
+    "symbol": "BFLY",
+    "name": "Butterfly Protocol (PoS)",
+    "decimals": 18,
+    "address": "0x5b0a0cd03e9df1829e00128ebe277cc3247da346",
+    "mintable": false,
+    "ethereum_address": "0xf680429328caaacabee69b7a9fdb21a71419c063"
+}
