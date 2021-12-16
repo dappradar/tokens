@@ -1,0 +1,8 @@
+{
+    "symbol": "ARGO",
+    "name": "ArGo Token (PoS)",
+    "decimals": 18,
+    "address": "0xd0252fb67606ed74d0cacd17b2eb38446e4466c9",
+    "mintable": false,
+    "ethereum_address": "0x28cca76f6e8ec81e4550ecd761f899110b060e97"
+}
