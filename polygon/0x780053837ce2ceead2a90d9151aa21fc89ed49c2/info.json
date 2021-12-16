@@ -1,0 +1,8 @@
+{
+    "symbol": "RARI",
+    "name": "Rarible (PoS)",
+    "decimals": 18,
+    "address": "0x780053837ce2ceead2a90d9151aa21fc89ed49c2",
+    "mintable": false,
+    "ethereum_address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf"
+}
