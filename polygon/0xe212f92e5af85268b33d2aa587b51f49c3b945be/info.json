@@ -1,0 +1,8 @@
+{
+    "symbol": "sdcrvRenWSBTC",
+    "name": "stake dao Curve.fi renBTC/wBTC/sBTC (PoS)",
+    "decimals": 18,
+    "address": "0xe212f92e5af85268b33d2aa587b51f49c3b945be",
+    "mintable": false,
+    "ethereum_address": "0x24129b935aff071c4f0554882c0d9573f4975fed"
+}
