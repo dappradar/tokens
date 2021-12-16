@@ -1,0 +1,8 @@
+{
+    "symbol": "ZUZ",
+    "name": "Zeus (PoS)",
+    "decimals": 18,
+    "address": "0x232eab56c4fb3f84c6fb0a50c087c74b7b43c6ad",
+    "mintable": false,
+    "ethereum_address": "0x202f1877e1db1120ca3e9a98c5d505e7f035c249"
+}
