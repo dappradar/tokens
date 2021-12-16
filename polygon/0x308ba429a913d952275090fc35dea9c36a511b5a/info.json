@@ -1,0 +1,8 @@
+{
+    "symbol": "WXTZ",
+    "name": "Wrapped Tezos (PoS)",
+    "decimals": 18,
+    "address": "0x308ba429a913d952275090fc35dea9c36a511b5a",
+    "mintable": false,
+    "ethereum_address": "0xa3865e64121537b5b59b5e239db4acbe6f36aa74"
+}
