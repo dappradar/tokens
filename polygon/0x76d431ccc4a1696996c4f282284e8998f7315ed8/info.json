@@ -1,0 +1,8 @@
+{
+    "symbol": "aDAO",
+    "name": "Aegis (PoS)",
+    "decimals": 18,
+    "address": "0x76d431ccc4a1696996c4f282284e8998f7315ed8",
+    "mintable": false,
+    "ethereum_address": "0x926dbd499d701c61eabe2d576e770eccf9c7f4f3"
+}
