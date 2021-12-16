@@ -1,0 +1,8 @@
+{
+    "symbol": "AGIX",
+    "name": "SingularityNET Token (PoS)",
+    "decimals": 8,
+    "address": "0x190eb8a183d22a4bdf278c6791b152228857c033",
+    "mintable": false,
+    "ethereum_address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542"
+}
