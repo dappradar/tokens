@@ -1,0 +1,8 @@
+{
+    "symbol": "BBL",
+    "name": "Bailey Building & Loans (PoS)",
+    "decimals": 18,
+    "address": "0xe6a823862ee153168c772cf494e9dff77140c696",
+    "mintable": false,
+    "ethereum_address": "0x8abcebda80ce8c1fcf0105ef8d5d7fc5b26b0cd0"
+}
