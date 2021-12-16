@@ -1,0 +1,8 @@
+{
+    "symbol": "TRUtru",
+    "name": "Truebit (PoS)",
+    "decimals": 18,
+    "address": "0xfd39c9bb69cc3bd57959284acf855ae65d06f8cf",
+    "mintable": false,
+    "ethereum_address": "0xf65b5c5104c4fafd4b709d9d60a185eae063276c"
+}
