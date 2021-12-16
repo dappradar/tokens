@@ -1,0 +1,8 @@
+{
+    "symbol": "HXN",
+    "name": "Havens Nook (PoS)",
+    "decimals": 18,
+    "address": "0x175bdc4e52eecb675b86fc4c9a3ea3f80adbb610",
+    "mintable": false,
+    "ethereum_address": "0x0e1fe60bc4ac0e3102343752ae7e49d01d444c0b"
+}
