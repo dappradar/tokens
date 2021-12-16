@@ -1,0 +1,8 @@
+{
+    "symbol": "PREMIA",
+    "name": "Premia (PoS)",
+    "decimals": 18,
+    "address": "0x055dc5c3b7c386f2daefec554bb42831fb4107be",
+    "mintable": false,
+    "ethereum_address": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70"
+}
