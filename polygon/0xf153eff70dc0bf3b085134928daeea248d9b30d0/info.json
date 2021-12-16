@@ -1,0 +1,8 @@
+{
+    "symbol": "xMARK",
+    "name": "Standard (PoS)",
+    "decimals": 9,
+    "address": "0xf153eff70dc0bf3b085134928daeea248d9b30d0",
+    "mintable": false,
+    "ethereum_address": "0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb"
+}
