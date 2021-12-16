@@ -1,0 +1,8 @@
+{
+    "symbol": "USDV",
+    "name": "Value USD (PoS)",
+    "decimals": 18,
+    "address": "0x55bcbeab7b9dadadb0b2e97c354357c58a052d88",
+    "mintable": false,
+    "ethereum_address": "0xa62cfaf94a42e1d9b70241840bfdad76c15b2b24"
+}
