@@ -1,0 +1,8 @@
+{
+    "symbol": "KEY",
+    "name": "KEY Token (PoS)",
+    "decimals": 0,
+    "address": "0x03bb597efd7bb986222afda80858f05a3bc4a2e9",
+    "mintable": false,
+    "ethereum_address": "0xf179597937d04ed22bea98745b667d2ccfc74f9d"
+}
