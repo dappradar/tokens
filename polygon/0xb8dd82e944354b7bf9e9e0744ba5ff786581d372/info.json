@@ -1,0 +1,8 @@
+{
+    "symbol": "CID",
+    "name": "Cryptid (PoS)",
+    "decimals": 18,
+    "address": "0xb8dd82e944354b7bf9e9e0744ba5ff786581d372",
+    "mintable": false,
+    "ethereum_address": "0x4599836c212cd988eaccc54c820ee9261cdaac71"
+}
