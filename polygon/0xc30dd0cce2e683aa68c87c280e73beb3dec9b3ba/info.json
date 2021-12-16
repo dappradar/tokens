@@ -1,0 +1,8 @@
+{
+    "symbol": "mwCELO",
+    "name": "Wrapped Celo (PoS)",
+    "decimals": 18,
+    "address": "0xc30dd0cce2e683aa68c87c280e73beb3dec9b3ba",
+    "mintable": false,
+    "ethereum_address": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a"
+}
