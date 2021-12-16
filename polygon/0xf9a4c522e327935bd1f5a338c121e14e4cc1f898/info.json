@@ -1,0 +1,8 @@
+{
+    "symbol": "GFARM2NFT1",
+    "name": "GFarmNFT V2 Type 1 (PoS)",
+    "decimals": 0,
+    "address": "0xf9a4c522e327935bd1f5a338c121e14e4cc1f898",
+    "mintable": false,
+    "ethereum_address": "0x2ac9e0171838877f3f37cdd7076b83523a294140"
+}
