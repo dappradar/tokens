@@ -1,0 +1,8 @@
+{
+    "symbol": "COR",
+    "name": "Coreto (PoS)",
+    "decimals": 18,
+    "address": "0x4fdce518fe527439fe76883e6b51a1c522b61b7c",
+    "mintable": false,
+    "ethereum_address": "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835"
+}
