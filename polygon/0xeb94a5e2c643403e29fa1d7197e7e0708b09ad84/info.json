@@ -1,0 +1,8 @@
+{
+    "symbol": "ONX",
+    "name": "OnX.finance (PoS)",
+    "decimals": 18,
+    "address": "0xeb94a5e2c643403e29fa1d7197e7e0708b09ad84",
+    "mintable": false,
+    "ethereum_address": "0xe0ad1806fd3e7edf6ff52fdb822432e847411033"
+}
