@@ -1,0 +1,8 @@
+{
+    "symbol": "ETHA",
+    "name": "ETHA (PoS)",
+    "decimals": 18,
+    "address": "0x59e9261255644c411afdd00bd89162d09d862e38",
+    "mintable": false,
+    "ethereum_address": "0x59e9261255644c411afdd00bd89162d09d862e38"
+}
