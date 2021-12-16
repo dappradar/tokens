@@ -1,0 +1,8 @@
+{
+    "symbol": "UBT",
+    "name": "Unibright (PoS)",
+    "decimals": 8,
+    "address": "0x7fbc10850cae055b27039af31bd258430e714c62",
+    "mintable": false,
+    "ethereum_address": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e"
+}
