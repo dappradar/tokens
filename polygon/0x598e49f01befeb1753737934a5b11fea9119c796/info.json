@@ -1,0 +1,8 @@
+{
+    "symbol": "ADS",
+    "name": "Adshares (PoS)",
+    "decimals": 11,
+    "address": "0x598e49f01befeb1753737934a5b11fea9119c796",
+    "mintable": false,
+    "ethereum_address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a"
+}
