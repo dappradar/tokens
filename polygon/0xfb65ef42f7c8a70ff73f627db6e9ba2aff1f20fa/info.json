@@ -1,0 +1,8 @@
+{
+    "symbol": "NDR",
+    "name": "NodeRunners (PoS)",
+    "decimals": 18,
+    "address": "0xfb65ef42f7c8a70ff73f627db6e9ba2aff1f20fa",
+    "mintable": false,
+    "ethereum_address": "0x739763a258640919981f9ba610ae65492455be53"
+}
