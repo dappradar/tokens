@@ -1,0 +1,8 @@
+{
+    "symbol": "LABS",
+    "name": "LABS Group (PoS)",
+    "decimals": 18,
+    "address": "0xb3658a5493332e952fc86991c24c9c759d2d8cd0",
+    "mintable": false,
+    "ethereum_address": "0x8b0e42f366ba502d787bb134478adfae966c8798"
+}
