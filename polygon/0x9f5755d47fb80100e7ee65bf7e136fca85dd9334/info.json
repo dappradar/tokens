@@ -1,0 +1,8 @@
+{
+    "symbol": "OM",
+    "name": "OM Token (PoS)",
+    "decimals": 18,
+    "address": "0x9f5755d47fb80100e7ee65bf7e136fca85dd9334",
+    "mintable": false,
+    "ethereum_address": "0x2baecdf43734f22fd5c152db08e3c27233f0c7d2"
+}
