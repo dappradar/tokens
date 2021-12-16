@@ -1,0 +1,8 @@
+{
+    "symbol": "SXP",
+    "name": "Swipe (PoS)",
+    "decimals": 18,
+    "address": "0x6abb753c1893194de4a83c6e8b4eadfc105fd5f5",
+    "mintable": false,
+    "ethereum_address": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9"
+}
