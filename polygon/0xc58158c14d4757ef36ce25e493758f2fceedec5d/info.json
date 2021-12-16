@@ -1,0 +1,8 @@
+{
+    "symbol": "D11",
+    "name": "DeFi11 (PoS)",
+    "decimals": 18,
+    "address": "0xc58158c14d4757ef36ce25e493758f2fceedec5d",
+    "mintable": false,
+    "ethereum_address": "0x9bf02cf6b0435a0523e6f6e0d2f35a920144f5fa"
+}
