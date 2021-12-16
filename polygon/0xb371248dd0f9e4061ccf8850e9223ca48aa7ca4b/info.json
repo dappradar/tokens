@@ -1,0 +1,8 @@
+{
+    "symbol": "HNY",
+    "name": "Honey (PoS)",
+    "decimals": 18,
+    "address": "0xb371248dd0f9e4061ccf8850e9223ca48aa7ca4b",
+    "mintable": false,
+    "ethereum_address": "0xc3589f56b6869824804a5ea29f2c9886af1b0fce"
+}
