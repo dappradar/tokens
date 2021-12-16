@@ -1,0 +1,8 @@
+{
+    "symbol": "ORB",
+    "name": "IG Orb (PoS)",
+    "decimals": 2,
+    "address": "0x5a2fdf906ada9353ebe496fa5d351b39f8908d19",
+    "mintable": false,
+    "ethereum_address": "0xa7b12e22f318762f76a9a179c86babcb02e62734"
+}
