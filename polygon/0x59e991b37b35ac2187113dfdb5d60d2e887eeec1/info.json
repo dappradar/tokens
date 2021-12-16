@@ -1,0 +1,8 @@
+{
+    "symbol": "SDAO",
+    "name": "Singularity Dao (PoS)",
+    "decimals": 18,
+    "address": "0x59e991b37b35ac2187113dfdb5d60d2e887eeec1",
+    "mintable": false,
+    "ethereum_address": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f"
+}
