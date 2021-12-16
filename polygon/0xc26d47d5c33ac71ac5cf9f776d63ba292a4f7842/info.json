@@ -1,0 +1,8 @@
+{
+    "symbol": "BNT",
+    "name": "Bancor Network Token (PoS)",
+    "decimals": 18,
+    "address": "0xc26d47d5c33ac71ac5cf9f776d63ba292a4f7842",
+    "mintable": false,
+    "ethereum_address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c"
+}
