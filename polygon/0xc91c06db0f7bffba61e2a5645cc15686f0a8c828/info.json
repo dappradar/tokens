@@ -1,0 +1,8 @@
+{
+    "symbol": "RAZOR",
+    "name": "RAZOR (PoS)",
+    "decimals": 18,
+    "address": "0xc91c06db0f7bffba61e2a5645cc15686f0a8c828",
+    "mintable": false,
+    "ethereum_address": "0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd"
+}
