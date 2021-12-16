@@ -1,0 +1,8 @@
+{
+    "symbol": "PAR",
+    "name": "Parachute (PoS)",
+    "decimals": 18,
+    "address": "0xf521d590fb1e0b432fd0e020cdbd6c6397d652c2",
+    "mintable": false,
+    "ethereum_address": "0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06"
+}
