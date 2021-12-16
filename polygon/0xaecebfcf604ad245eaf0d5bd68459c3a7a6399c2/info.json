@@ -1,0 +1,8 @@
+{
+    "symbol": "RAMP",
+    "name": "RAMP (PoS)",
+    "decimals": 18,
+    "address": "0xaecebfcf604ad245eaf0d5bd68459c3a7a6399c2",
+    "mintable": false,
+    "ethereum_address": "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f"
+}
