@@ -1,0 +1,8 @@
+{
+    "symbol": "DAM",
+    "name": "Datamine (PoS)",
+    "decimals": 18,
+    "address": "0xb75bbd79985a8092b05224f62d7fed25924b075d",
+    "mintable": false,
+    "ethereum_address": "0xf80d589b3dbe130c270a69f1a69d050f268786df"
+}
