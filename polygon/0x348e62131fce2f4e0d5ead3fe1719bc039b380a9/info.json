@@ -1,0 +1,8 @@
+{
+    "symbol": "PYR",
+    "name": "PYR (PoS)",
+    "decimals": 18,
+    "address": "0x348e62131fce2f4e0d5ead3fe1719bc039b380a9",
+    "mintable": false,
+    "ethereum_address": "0x9534ad65fb398e27ac8f4251dae1780b989d136e"
+}
