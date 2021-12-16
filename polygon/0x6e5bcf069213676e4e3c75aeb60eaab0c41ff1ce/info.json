@@ -1,0 +1,8 @@
+{
+    "symbol": "m3Crv",
+    "name": "mushrooming Curve DAI/USDC/USDT (PoS)",
+    "decimals": 18,
+    "address": "0x6e5bcf069213676e4e3c75aeb60eaab0c41ff1ce",
+    "mintable": false,
+    "ethereum_address": "0x0c0291f4c12f04da8b4139996c720a89d28ca069"
+}
