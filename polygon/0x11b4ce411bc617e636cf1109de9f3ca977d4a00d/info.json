@@ -1,0 +1,8 @@
+{
+    "symbol": "RCC",
+    "name": "Reality Clash Coin (PoS)",
+    "decimals": 18,
+    "address": "0x11b4ce411bc617e636cf1109de9f3ca977d4a00d",
+    "mintable": false,
+    "ethereum_address": "0x9b6443b0fb9c241a7fdac375595cea13e6b7807a"
+}
