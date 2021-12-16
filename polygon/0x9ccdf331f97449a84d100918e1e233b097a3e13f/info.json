@@ -1,0 +1,8 @@
+{
+    "symbol": "KYL",
+    "name": "Kylin Network (PoS)",
+    "decimals": 18,
+    "address": "0x9ccdf331f97449a84d100918e1e233b097a3e13f",
+    "mintable": false,
+    "ethereum_address": "0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c"
+}
