@@ -1,0 +1,8 @@
+{
+    "symbol": "INDI",
+    "name": "INDI CORPS (PoS)",
+    "decimals": 18,
+    "address": "0x883ec81b5dbcb9bceafe0c101893487c88b167bf",
+    "mintable": false,
+    "ethereum_address": "0xd9276198cf1b9261a25f61f0ff28eee2fb36dd5a"
+}
