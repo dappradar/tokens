@@ -1,0 +1,8 @@
+{
+    "symbol": "CORN",
+    "name": "Corn (PoS)",
+    "decimals": 18,
+    "address": "0xa5c09ba00f342f61f637e1a88f1bd7ebacf5be48",
+    "mintable": false,
+    "ethereum_address": "0x3cd1833ce959e087d0ef0cb45ed06bffe60f23ba"
+}
