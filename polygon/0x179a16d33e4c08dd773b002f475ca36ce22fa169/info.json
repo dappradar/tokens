@@ -1,0 +1,8 @@
+{
+    "symbol": "SBI",
+    "name": "SOCIALBI DEFI (PoS)",
+    "decimals": 18,
+    "address": "0x179a16d33e4c08dd773b002f475ca36ce22fa169",
+    "mintable": false,
+    "ethereum_address": "0x03f2892669d00bffb6c5f317106f7e89213894af"
+}
