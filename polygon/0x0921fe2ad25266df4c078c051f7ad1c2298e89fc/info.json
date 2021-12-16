@@ -1,0 +1,8 @@
+{
+    "symbol": "ITF",
+    "name": "Ins3.Finance Coin (PoS)",
+    "decimals": 18,
+    "address": "0x0921fe2ad25266df4c078c051f7ad1c2298e89fc",
+    "mintable": false,
+    "ethereum_address": "0xa329e8944426b32c16b33d754149fe524a32b348"
+}
