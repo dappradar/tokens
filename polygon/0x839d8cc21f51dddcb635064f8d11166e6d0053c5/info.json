@@ -1,0 +1,8 @@
+{
+    "symbol": "DGT",
+    "name": "DeepGo Token (PoS)",
+    "decimals": 18,
+    "address": "0x839d8cc21f51dddcb635064f8d11166e6d0053c5",
+    "mintable": false,
+    "ethereum_address": "0xc8eec1277b84fc8a79364d0add8c256b795c6727"
+}
