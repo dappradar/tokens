@@ -1,0 +1,8 @@
+{
+    "symbol": "POWER",
+    "name": "UniPower (PoS)",
+    "decimals": 18,
+    "address": "0x00d5149cdf7cec8725bf50073c51c4fa58ecca12",
+    "mintable": false,
+    "ethereum_address": "0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509"
+}
