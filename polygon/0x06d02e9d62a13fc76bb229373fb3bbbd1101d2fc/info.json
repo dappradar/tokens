@@ -1,0 +1,8 @@
+{
+    "symbol": "LEO",
+    "name": "Bitfinex LEO Token (PoS)",
+    "decimals": 18,
+    "address": "0x06d02e9d62a13fc76bb229373fb3bbbd1101d2fc",
+    "mintable": false,
+    "ethereum_address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
+}
