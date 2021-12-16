@@ -1,0 +1,8 @@
+{
+    "symbol": "mLINK",
+    "name": "mushrooming ChainLink Token (PoS)",
+    "decimals": 18,
+    "address": "0x44a57de864dd580c3a1fe44cfa8e39e25170c156",
+    "mintable": false,
+    "ethereum_address": "0x3edee5f69e9a8f88da9063b1aa78311e38dbe96c"
+}
