@@ -1,0 +1,8 @@
+{
+    "symbol": "SDT",
+    "name": "Stake DAO Token (PoS)",
+    "decimals": 18,
+    "address": "0x361a5a4993493ce00f61c32d4ecca5512b82ce90",
+    "mintable": false,
+    "ethereum_address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f"
+}
