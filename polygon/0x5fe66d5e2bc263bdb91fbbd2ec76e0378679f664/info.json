@@ -1,0 +1,8 @@
+{
+    "symbol": "SLP",
+    "name": "SushiSwap LP Token (PoS)",
+    "decimals": 18,
+    "address": "0x5fe66d5e2bc263bdb91fbbd2ec76e0378679f664",
+    "mintable": false,
+    "ethereum_address": "0x9911b111860bd8a611c2a6654ff38208208055d4"
+}
