@@ -1,0 +1,8 @@
+{
+    "symbol": "SPRING",
+    "name": "SPRING Token (PoS)",
+    "decimals": 18,
+    "address": "0xe0011abab503659c48a07d44561a7ef077b1ad56",
+    "mintable": false,
+    "ethereum_address": "0xfb0bdc444c8ae7e9b5beea5e4d1e8de93879e487"
+}
