@@ -1,0 +1,8 @@
+{
+    "symbol": "CHAI",
+    "name": "Chai (PoS)",
+    "decimals": 18,
+    "address": "0x4b64399ca6609ebb5cb649eaa50387c2d9fe20eb",
+    "mintable": false,
+    "ethereum_address": "0x06af07097c9eeb7fd685c692751d5c66db49c215"
+}
