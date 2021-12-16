@@ -1,0 +1,8 @@
+{
+    "symbol": "JUICE",
+    "name": "JUICE (PoS)",
+    "decimals": 6,
+    "address": "0x28e96ffe75cdcc97044585b866bd02bd79c12dc0",
+    "mintable": false,
+    "ethereum_address": "0x38e2fb9935952b00673ccb63dab105c9d698784e"
+}
