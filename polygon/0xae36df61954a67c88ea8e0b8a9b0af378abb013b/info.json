@@ -1,0 +1,8 @@
+{
+    "symbol": "Sunder",
+    "name": "Sunder Goverance Token (PoS)",
+    "decimals": 18,
+    "address": "0xae36df61954a67c88ea8e0b8a9b0af378abb013b",
+    "mintable": false,
+    "ethereum_address": "0xbdbf245c690d54b67c6e610a28486a2c6de08be6"
+}
