@@ -1,0 +1,8 @@
+{
+    "symbol": "PAINT",
+    "name": "Paint (PoS)",
+    "decimals": 18,
+    "address": "0x7c28f627ea3aec8b882b51eb1935f66e5b875714",
+    "mintable": false,
+    "ethereum_address": "0x4c6ec08cf3fc987c6c4beb03184d335a2dfc4042"
+}
