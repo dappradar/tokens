@@ -1,0 +1,8 @@
+{
+    "symbol": "SHO",
+    "name": "Showcase Token (PoS)",
+    "decimals": 18,
+    "address": "0x9e01e0a928588ae6e669b8d1f0f1fa4ab976f617",
+    "mintable": false,
+    "ethereum_address": "0xcc0014ccb39f6e86b1be0f17859a783b6722722f"
+}
