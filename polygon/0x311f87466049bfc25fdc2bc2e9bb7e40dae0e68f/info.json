@@ -1,0 +1,8 @@
+{
+    "symbol": "MEGA",
+    "name": "MegaCryptoPolis (PoS)",
+    "decimals": 18,
+    "address": "0x311f87466049bfc25fdc2bc2e9bb7e40dae0e68f",
+    "mintable": false,
+    "ethereum_address": "0x3218a02f8f8b5c3894ce30eb255f10bcba13e654"
+}
