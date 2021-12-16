@@ -1,0 +1,8 @@
+{
+    "symbol": "ETHV",
+    "name": "ETH Volatility Index (PoS)",
+    "decimals": 18,
+    "address": "0x3dbd2a88627566306ae9f5f5fb466b498535af21",
+    "mintable": true,
+    "ethereum_address": "0xc53342fd7575f572b0ff4569e31941a5b821ac76"
+}
