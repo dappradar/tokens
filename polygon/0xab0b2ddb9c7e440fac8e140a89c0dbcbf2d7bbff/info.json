@@ -1,0 +1,8 @@
+{
+    "symbol": "miFARM",
+    "name": "Harvest Interest Token",
+    "decimals": 18,
+    "address": "0xab0b2ddb9c7e440fac8e140a89c0dbcbf2d7bbff",
+    "mintable": false,
+    "ethereum_address": "0x1571ed0bed4d987fe2b498ddbae7dfa19519f651"
+}
