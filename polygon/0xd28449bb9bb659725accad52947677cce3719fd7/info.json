@@ -1,0 +1,8 @@
+{
+    "symbol": "DMT",
+    "name": "Dark Matter Token (PoS)",
+    "decimals": 18,
+    "address": "0xd28449bb9bb659725accad52947677cce3719fd7",
+    "mintable": false,
+    "ethereum_address": "0x79126d32a86e6663f3aaac4527732d0701c1ae6c"
+}
