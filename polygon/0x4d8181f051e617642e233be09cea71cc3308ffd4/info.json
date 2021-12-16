@@ -1,0 +1,8 @@
+{
+    "symbol": "DIGI",
+    "name": "Digi (PoS)",
+    "decimals": 18,
+    "address": "0x4d8181f051e617642e233be09cea71cc3308ffd4",
+    "mintable": false,
+    "ethereum_address": "0x3cbf23c081faa5419810ce0f6bc1ecb73006d848"
+}
