@@ -1,0 +1,8 @@
+{
+    "symbol": "ZEFU",
+    "name": "Zenfuse (PoS)",
+    "decimals": 18,
+    "address": "0xe117837c0c8a53765cb6b4a16ebc84b3a71dd0bd",
+    "mintable": false,
+    "ethereum_address": "0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229"
+}
