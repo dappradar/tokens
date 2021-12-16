@@ -1,0 +1,8 @@
+{
+    "symbol": "ADXX",
+    "name": "AdEx Network (PoS)",
+    "decimals": 18,
+    "address": "0xdda7b23d2d72746663e7939743f929a3d85fc975",
+    "mintable": false,
+    "ethereum_address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3"
+}
