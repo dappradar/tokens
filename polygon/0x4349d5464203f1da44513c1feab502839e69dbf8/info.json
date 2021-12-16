@@ -1,0 +1,8 @@
+{
+    "symbol": "WQT",
+    "name": "Work Quest Token (PoS)",
+    "decimals": 18,
+    "address": "0x4349d5464203f1da44513c1feab502839e69dbf8",
+    "mintable": false,
+    "ethereum_address": "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf"
+}
