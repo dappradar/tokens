@@ -1,0 +1,8 @@
+{
+    "symbol": "IONX",
+    "name": "Charged Particles - IONX (PoS)",
+    "decimals": 18,
+    "address": "0x01b317bc5ed573faa112ef64dd029f407cecb155",
+    "mintable": false,
+    "ethereum_address": "0x02d3a27ac3f55d5d91fb0f52759842696a864217"
+}
