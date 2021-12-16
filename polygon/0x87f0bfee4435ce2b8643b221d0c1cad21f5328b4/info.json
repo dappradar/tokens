@@ -1,0 +1,8 @@
+{
+    "symbol": "sd3Crv",
+    "name": "stake dao Curve.fi DAI/USDC/USDT (PoS)",
+    "decimals": 18,
+    "address": "0x87f0bfee4435ce2b8643b221d0c1cad21f5328b4",
+    "mintable": false,
+    "ethereum_address": "0xb17640796e4c27a39af51887aff3f8dc0daf9567"
+}
