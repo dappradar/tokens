@@ -1,0 +1,8 @@
+{
+    "symbol": "NORD",
+    "name": "Nord Token (PoS)",
+    "decimals": 18,
+    "address": "0xf6f85b3f9fd581c2ee717c404f7684486f057f95",
+    "mintable": false,
+    "ethereum_address": "0x6e9730ecffbed43fd876a264c982e254ef05a0de"
+}
