@@ -1,0 +1,8 @@
+{
+    "symbol": "myfi",
+    "name": "MyFiChain (PoS)",
+    "decimals": 18,
+    "address": "0x217ca87921b066728febc2d093fe9a6503450c47",
+    "mintable": false,
+    "ethereum_address": "0x0dfdd839cde95dabf56f0b5c5698e0159138930d"
+}
