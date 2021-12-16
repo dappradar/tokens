@@ -1,0 +1,8 @@
+{
+    "symbol": "ALCX",
+    "name": "Alchemix (PoS)",
+    "decimals": 18,
+    "address": "0x95c300e7740d2a88a44124b424bfc1cb2f9c3b89",
+    "mintable": false,
+    "ethereum_address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df"
+}
