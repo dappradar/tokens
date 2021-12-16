@@ -1,0 +1,8 @@
+{
+    "symbol": "NFTP",
+    "name": "NFT Platform Index (PoS)",
+    "decimals": 18,
+    "address": "0xf7d9e281c5cb4c6796284c5b663b3593d2037af2",
+    "mintable": false,
+    "ethereum_address": "0x68bb81b3f67f7aab5fd1390ecb0b8e1a806f2465"
+}
