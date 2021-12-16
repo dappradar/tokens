@@ -1,0 +1,8 @@
+{
+    "symbol": "SERGS",
+    "name": "SERGS (PoS)",
+    "decimals": 18,
+    "address": "0xc73a8f11ec303ed81000ac5eae94bf2d65b67dd6",
+    "mintable": false,
+    "ethereum_address": "0x79ba92dda26fce15e1e9af47d5cfdfd2a093e000"
+}
