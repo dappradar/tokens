@@ -1,0 +1,8 @@
+{
+    "symbol": "GIL",
+    "name": "Materia (PoS)",
+    "decimals": 18,
+    "address": "0xbe6159775a9050e5c4cbf81718390818702bf801",
+    "mintable": false,
+    "ethereum_address": "0x020810d775fc019480cd56ecb960389d3477039d"
+}
