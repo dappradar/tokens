@@ -1,0 +1,8 @@
+{
+    "symbol": "INEX",
+    "name": "Internet Exchange Token (PoS)",
+    "decimals": 8,
+    "address": "0xd8324ae24af9b499cb75fb0bad8e0094c10cac58",
+    "mintable": false,
+    "ethereum_address": "0xa2d77f8353cb2afd709aba4a967257511ecff716"
+}
