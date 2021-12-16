@@ -1,0 +1,8 @@
+{
+    "symbol": "MOD",
+    "name": "MODEFI  (PoS)",
+    "decimals": 18,
+    "address": "0x8346ab8d5ea7a9db0209aed2d1806afa0e2c4c21",
+    "mintable": false,
+    "ethereum_address": "0xea1ea0972fa092dd463f2968f9bb51cc4c981d71"
+}
