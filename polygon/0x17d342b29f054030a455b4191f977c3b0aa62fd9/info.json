@@ -1,0 +1,8 @@
+{
+    "symbol": "KNG",
+    "name": "Kanga Exchange Token (PoS)",
+    "decimals": 18,
+    "address": "0x17d342b29f054030a455b4191f977c3b0aa62fd9",
+    "mintable": false,
+    "ethereum_address": "0x471d113059324321749e097705197a2b44a070fc"
+}
