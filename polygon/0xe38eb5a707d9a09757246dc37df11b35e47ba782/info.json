@@ -1,0 +1,8 @@
+{
+    "symbol": "SOGE",
+    "name": " SPACE HOGE (PoS)",
+    "decimals": 18,
+    "address": "0xe38eb5a707d9a09757246dc37df11b35e47ba782",
+    "mintable": false,
+    "ethereum_address": "0x41933422dc4a1cb8c822e06f12f7b52fa5e7e094"
+}
