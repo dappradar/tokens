@@ -1,0 +1,8 @@
+{
+    "symbol": "XRGE",
+    "name": "RougeCoin (PoS)",
+    "decimals": 18,
+    "address": "0x642f7511a68c57fae8ac0caa618673a66166e4c7",
+    "mintable": false,
+    "ethereum_address": "0xa1c7d450130bb77c6a23ddfaecbc4a060215384b"
+}
