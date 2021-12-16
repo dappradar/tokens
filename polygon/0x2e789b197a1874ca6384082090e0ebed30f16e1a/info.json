@@ -1,0 +1,8 @@
+{
+    "symbol": "BS1",
+    "name": "blocsport1 (PoS)",
+    "decimals": 18,
+    "address": "0x2e789b197a1874ca6384082090e0ebed30f16e1a",
+    "mintable": true,
+    "ethereum_address": "0xaeaf14ce56b052dfc2a2eb0654136ecf87821fbf"
+}
