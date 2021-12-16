@@ -1,0 +1,8 @@
+{
+    "symbol": "TRND",
+    "name": "Trendering (PoS)",
+    "decimals": 18,
+    "address": "0xa38735c2be496a0c2d4fe32c7459c1d391501035",
+    "mintable": false,
+    "ethereum_address": "0xc3dd23a0a854b4f9ae80670f528094e9eb607ccb"
+}
