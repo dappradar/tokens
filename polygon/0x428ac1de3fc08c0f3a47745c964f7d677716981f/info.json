@@ -1,0 +1,8 @@
+{
+    "symbol": "IBZ",
+    "name": "IBIZA Token (PoS)",
+    "decimals": 18,
+    "address": "0x428ac1de3fc08c0f3a47745c964f7d677716981f",
+    "mintable": false,
+    "ethereum_address": "0x5aa7c403c7de4b3bb0cc07079a03e389671a4771"
+}
