@@ -1,0 +1,8 @@
+{
+    "symbol": "SUPERBID",
+    "name": "SuperBid (PoS)",
+    "decimals": 18,
+    "address": "0xa3860f969075045d82de85b06bb665f93c4bae32",
+    "mintable": false,
+    "ethereum_address": "0x0563dce613d559a47877ffd1593549fb9d3510d6"
+}
