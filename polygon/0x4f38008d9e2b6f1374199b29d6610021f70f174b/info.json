@@ -1,0 +1,8 @@
+{
+    "symbol": "WZEC",
+    "name": "Wrapped ZEC (PoS)",
+    "decimals": 18,
+    "address": "0x4f38008d9e2b6f1374199b29d6610021f70f174b",
+    "mintable": false,
+    "ethereum_address": "0x4a64515e5e1d1073e83f30cb97bed20400b66e10"
+}
