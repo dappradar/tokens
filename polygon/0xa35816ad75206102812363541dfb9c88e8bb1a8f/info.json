@@ -1,0 +1,8 @@
+{
+    "symbol": "DAN2",
+    "name": "Daniel Token 2 (PoS)",
+    "decimals": 6,
+    "address": "0xa35816ad75206102812363541dfb9c88e8bb1a8f",
+    "mintable": false,
+    "ethereum_address": "0x55e9d73f7bf359ab7c2e6f441f425e212ad615e8"
+}
