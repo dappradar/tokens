@@ -1,0 +1,8 @@
+{
+    "symbol": "UMBR",
+    "name": "UmbriaToken (PoS)",
+    "decimals": 18,
+    "address": "0x2e4b0fb46a46c90cb410fe676f24e466753b469f",
+    "mintable": false,
+    "ethereum_address": "0xa4bbe66f151b22b167127c770016b15ff97dd35c"
+}
