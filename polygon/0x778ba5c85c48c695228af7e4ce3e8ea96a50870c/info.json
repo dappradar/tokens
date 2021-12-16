@@ -1,0 +1,8 @@
+{
+    "symbol": "OT-aUSDC-29DEC2022",
+    "name": "OT Aave interest bearing USDC 29DEC2022 (PoS)",
+    "decimals": 6,
+    "address": "0x778ba5c85c48c695228af7e4ce3e8ea96a50870c",
+    "mintable": false,
+    "ethereum_address": "0x8fcb1783bf4b71a51f702af0c266729c4592204a"
+}
