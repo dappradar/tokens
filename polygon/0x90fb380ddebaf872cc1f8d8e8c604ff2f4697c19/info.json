@@ -1,0 +1,8 @@
+{
+    "symbol": "oBTC",
+    "name": "BoringDAO BTC (PoS)",
+    "decimals": 18,
+    "address": "0x90fb380ddebaf872cc1f8d8e8c604ff2f4697c19",
+    "mintable": false,
+    "ethereum_address": "0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68"
+}
