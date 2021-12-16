@@ -1,0 +1,8 @@
+{
+    "symbol": "CFO",
+    "name": "Cfoforum Token (PoS)",
+    "decimals": 6,
+    "address": "0x0e2a70c08e884ea76116fccdc8b8be559162f08e",
+    "mintable": false,
+    "ethereum_address": "0xb8981acbbf7da95a8ff6df79aab935ce63434fc8"
+}
