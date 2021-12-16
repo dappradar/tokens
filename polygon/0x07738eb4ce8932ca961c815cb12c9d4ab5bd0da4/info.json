@@ -1,0 +1,8 @@
+{
+    "symbol": "ELET",
+    "name": "Elementeum (PoS)",
+    "decimals": 18,
+    "address": "0x07738eb4ce8932ca961c815cb12c9d4ab5bd0da4",
+    "mintable": false,
+    "ethereum_address": "0x6c37bf4f042712c978a73e3fd56d1f5738dd7c43"
+}
