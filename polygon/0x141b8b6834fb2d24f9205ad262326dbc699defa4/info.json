@@ -1,0 +1,8 @@
+{
+    "symbol": "SHIBA",
+    "name": "ShibaCoin (PoS)",
+    "decimals": 18,
+    "address": "0x141b8b6834fb2d24f9205ad262326dbc699defa4",
+    "mintable": false,
+    "ethereum_address": "0x321bd6fa7696e0e4ba082e454b6e87b6c8372b27"
+}
