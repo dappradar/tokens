@@ -1,0 +1,8 @@
+{
+    "symbol": "FCL",
+    "name": "Fractal Protocol Token (PoS)",
+    "decimals": 18,
+    "address": "0x6f934b45fc6043527d73c7c99313dd838e723db7",
+    "mintable": false,
+    "ethereum_address": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3"
+}
