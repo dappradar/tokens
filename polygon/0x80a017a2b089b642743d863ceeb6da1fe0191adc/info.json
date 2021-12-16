@@ -1,0 +1,8 @@
+{
+    "symbol": "GRMLN",
+    "name": "Gremlin DAO (PoS)",
+    "decimals": 18,
+    "address": "0x80a017a2b089b642743d863ceeb6da1fe0191adc",
+    "mintable": false,
+    "ethereum_address": "0xcb167289204d02d33a8faf24a68b57647eb621bf"
+}
