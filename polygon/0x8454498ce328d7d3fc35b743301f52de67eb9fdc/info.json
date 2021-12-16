@@ -1,0 +1,8 @@
+{
+    "symbol": "KROY",
+    "name": "Kilroy (PoS)",
+    "decimals": 18,
+    "address": "0x8454498ce328d7d3fc35b743301f52de67eb9fdc",
+    "mintable": false,
+    "ethereum_address": "0xa85784108dbdcf8fe6564c7657a24c4765a2413f"
+}
