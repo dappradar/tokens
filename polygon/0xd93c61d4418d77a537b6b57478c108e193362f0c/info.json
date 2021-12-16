@@ -1,0 +1,8 @@
+{
+    "symbol": "mBONK",
+    "name": "megaBONK (PoS)",
+    "decimals": 18,
+    "address": "0xd93c61d4418d77a537b6b57478c108e193362f0c",
+    "mintable": false,
+    "ethereum_address": "0xacfe45c352c902ae3a3f9b6bfe6ec994c5d791bf"
+}
