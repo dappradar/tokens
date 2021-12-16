@@ -1,0 +1,8 @@
+{
+    "symbol": "OPU",
+    "name": "Opu Coin (PoS)",
+    "decimals": 18,
+    "address": "0x7ff2fc33e161e3b1c6511b934f0209d304267857",
+    "mintable": false,
+    "ethereum_address": "0x65e3c4a750a2e7cc7cce86d01587bbcbbe99042e"
+}
