@@ -1,0 +1,8 @@
+{
+    "symbol": "CBL",
+    "name": "CherryBlossom (PoS)",
+    "decimals": 18,
+    "address": "0xf35a85c493c49f19bcc176e718865b148958a130",
+    "mintable": false,
+    "ethereum_address": "0xf0acc6f66ac9b9b563f20e2347e67e1fd523ec1a"
+}
