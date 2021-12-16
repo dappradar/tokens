@@ -1,0 +1,8 @@
+{
+    "symbol": "GIX",
+    "name": "GIX Coin (PoS)",
+    "decimals": 18,
+    "address": "0xf4426f20e0956e91b75217a0f6b0e747213dac75",
+    "mintable": false,
+    "ethereum_address": "0xbd434a09191d401da3283a5545bb3515d033b8c4"
+}
