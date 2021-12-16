@@ -1,0 +1,8 @@
+{
+    "symbol": "MONA",
+    "name": "Monavale (PoS)",
+    "decimals": 18,
+    "address": "0x6968105460f67c3bf751be7c15f92f5286fd0ce5",
+    "mintable": false,
+    "ethereum_address": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a"
+}
