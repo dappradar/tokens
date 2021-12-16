@@ -1,0 +1,8 @@
+{
+    "symbol": "ROCKS",
+    "name": "Social Rocket (PoS)",
+    "decimals": 18,
+    "address": "0x434b5acf47e2883fc83d326d69f32965945c1f3d",
+    "mintable": false,
+    "ethereum_address": "0x0829d2d5cc09d3d341e813c821b0cfae272d9fb2"
+}
