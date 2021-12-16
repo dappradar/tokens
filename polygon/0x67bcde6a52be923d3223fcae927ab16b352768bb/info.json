@@ -1,0 +1,8 @@
+{
+    "symbol": "TCAP",
+    "name": "TCAP Token (PoS)",
+    "decimals": 18,
+    "address": "0x67bcde6a52be923d3223fcae927ab16b352768bb",
+    "mintable": false,
+    "ethereum_address": "0x16c52ceece2ed57dad87319d91b5e3637d50afa4"
+}
