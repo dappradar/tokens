@@ -1,0 +1,8 @@
+{
+    "symbol": "LUSD",
+    "name": "LUSD Stablecoin (PoS)",
+    "decimals": 18,
+    "address": "0x23001f892c0c82b79303edc9b9033cd190bb21c7",
+    "mintable": false,
+    "ethereum_address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0"
+}
