@@ -1,0 +1,8 @@
+{
+    "symbol": "CODE",
+    "name": "CodeCoin (PoS)",
+    "decimals": 18,
+    "address": "0x9ff32e82c4c80499266ca26776c535458b758369",
+    "mintable": false,
+    "ethereum_address": "0x9adaba9ffda15e3a043c907d390f645147eb532a"
+}
