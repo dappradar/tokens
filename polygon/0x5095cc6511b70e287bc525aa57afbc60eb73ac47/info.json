@@ -1,0 +1,8 @@
+{
+    "symbol": "eRSDL",
+    "name": "UnFederalReserveToken (PoS)",
+    "decimals": 18,
+    "address": "0x5095cc6511b70e287bc525aa57afbc60eb73ac47",
+    "mintable": false,
+    "ethereum_address": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6"
+}
