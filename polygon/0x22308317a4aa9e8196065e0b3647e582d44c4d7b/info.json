@@ -1,0 +1,8 @@
+{
+    "symbol": "XTK",
+    "name": "xToken (PoS)",
+    "decimals": 18,
+    "address": "0x22308317a4aa9e8196065e0b3647e582d44c4d7b",
+    "mintable": false,
+    "ethereum_address": "0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb"
+}
