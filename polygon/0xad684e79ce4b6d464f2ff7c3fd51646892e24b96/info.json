@@ -1,0 +1,8 @@
+{
+    "symbol": "NIOX",
+    "name": "Autonio (PoS)",
+    "decimals": 4,
+    "address": "0xad684e79ce4b6d464f2ff7c3fd51646892e24b96",
+    "mintable": false,
+    "ethereum_address": "0xc813ea5e3b48bebeedb796ab42a30c5599b01740"
+}
