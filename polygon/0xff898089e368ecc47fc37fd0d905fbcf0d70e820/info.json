@@ -1,0 +1,8 @@
+{
+    "symbol": "B20",
+    "name": "B.20 (PoS)",
+    "decimals": 18,
+    "address": "0xff898089e368ecc47fc37fd0d905fbcf0d70e820",
+    "mintable": false,
+    "ethereum_address": "0xc4de189abf94c57f396bd4c52ab13b954febefd8"
+}
