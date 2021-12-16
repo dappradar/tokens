@@ -1,0 +1,8 @@
+{
+    "symbol": "mOCEAN",
+    "name": "Ocean Token (PoS)",
+    "decimals": 18,
+    "address": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
+    "mintable": false,
+    "ethereum_address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+}
