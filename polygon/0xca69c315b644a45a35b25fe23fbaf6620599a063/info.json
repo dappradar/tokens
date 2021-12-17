@@ -1,0 +1,8 @@
+{
+    "symbol": "wWH",
+    "name": "Wrapped Whales (PoS)",
+    "decimals": 18,
+    "address": "0xca69c315b644a45a35b25fe23fbaf6620599a063",
+    "mintable": false,
+    "ethereum_address": "0xd0c99622c3f0c09b4b08f5f13dd28bee13f6e3c7"
+}
