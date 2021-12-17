@@ -1,0 +1,8 @@
+{
+    "symbol": "ANGEL",
+    "name": "Angel Token (PoS)",
+    "decimals": 18,
+    "address": "0xa78da5d9f0c488c51b9712434f0498cbb7bff23d",
+    "mintable": false,
+    "ethereum_address": "0x14d86eaeb7f669a6b84d51e1ac14b3f2723fa08d"
+}
