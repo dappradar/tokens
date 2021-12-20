@@ -1,0 +1,8 @@
+{
+    "symbol": "Chase",
+    "name": "Chase (PoS)",
+    "decimals": 6,
+    "address": "0x6484117fbdc339c99c973bde96650039f3469c09",
+    "mintable": false,
+    "ethereum_address": "0x77b9b390f88b5eafd7ceb8d233535cfd8e6b62a2"
+}
