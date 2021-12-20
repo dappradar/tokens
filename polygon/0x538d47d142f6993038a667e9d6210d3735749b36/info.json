@@ -1,0 +1,8 @@
+{
+    "symbol": "BURP",
+    "name": "Burp (PoS)",
+    "decimals": 18,
+    "address": "0x538d47d142f6993038a667e9d6210d3735749b36",
+    "mintable": false,
+    "ethereum_address": "0x33f391f4c4fe802b70b77ae37670037a92114a7c"
+}
