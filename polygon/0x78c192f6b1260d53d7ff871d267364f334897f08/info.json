@@ -1,0 +1,8 @@
+{
+    "symbol": "MNDCC",
+    "name": "Mondo Community Coin (PoS)",
+    "decimals": 18,
+    "address": "0x78c192f6b1260d53d7ff871d267364f334897f08",
+    "mintable": false,
+    "ethereum_address": "0xcdb9d30a3ba48cdfcb0ecbe19317e6cf783672f1"
+}
