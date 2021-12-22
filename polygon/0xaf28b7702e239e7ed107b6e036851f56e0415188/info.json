@@ -1,0 +1,8 @@
+{
+    "symbol": "PLAN",
+    "name": "PlannerDAO (PoS)",
+    "decimals": 18,
+    "address": "0xaf28b7702e239e7ed107b6e036851f56e0415188",
+    "mintable": false,
+    "ethereum_address": "0x8d7acc5d07818f187ab70b6033c690fd67c96d98"
+}
