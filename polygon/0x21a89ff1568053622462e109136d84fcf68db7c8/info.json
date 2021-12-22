@@ -1,0 +1,8 @@
+{
+    "symbol": "CCI",
+    "name": "GemFi.vip (PoS)",
+    "decimals": 18,
+    "address": "0x21a89ff1568053622462e109136d84fcf68db7c8",
+    "mintable": false,
+    "ethereum_address": "0x008d677631ead64cd8ee30fa0917272a13a28490"
+}
