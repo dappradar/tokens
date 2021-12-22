@@ -1,0 +1,8 @@
+{
+    "symbol": "GMF",
+    "name": "GemFi.vip (PoS)",
+    "decimals": 18,
+    "address": "0x74f9e719b2b3e3bcec2e8ccf1a1cc5d39fe6c278",
+    "mintable": false,
+    "ethereum_address": "0xe3718c79d3db3f2cebe296251ab937db32149d08"
+}
