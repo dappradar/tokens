@@ -1,0 +1,8 @@
+{
+    "symbol": "TRZ",
+    "name": "Trazable (PoS)",
+    "decimals": 18,
+    "address": "0x9d0be2730a8af6061f058ce2c951d52e4f886f18",
+    "mintable": false,
+    "ethereum_address": "0x394a16744dcd805bb0ca7252e70691f0dcac56aa"
+}
