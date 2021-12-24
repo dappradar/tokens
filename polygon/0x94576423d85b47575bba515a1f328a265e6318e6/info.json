@@ -1,0 +1,8 @@
+{
+    "symbol": "LEEDO",
+    "name": "LEEDO Project ERC20 (PoS)",
+    "decimals": 18,
+    "address": "0x94576423d85b47575bba515a1f328a265e6318e6",
+    "mintable": false,
+    "ethereum_address": "0x3eede143adb9a80c6a44c63dad76269d33e2c8d1"
+}
