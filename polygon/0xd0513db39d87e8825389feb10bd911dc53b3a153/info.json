@@ -1,0 +1,8 @@
+{
+    "symbol": "FINT",
+    "name": "Fintropy (PoS)",
+    "decimals": 18,
+    "address": "0xd0513db39d87e8825389feb10bd911dc53b3a153",
+    "mintable": true,
+    "ethereum_address": "0xd0513db39d87e8825389feb10bd911dc53b3a153"
+}
