@@ -1,0 +1,8 @@
+{
+    "symbol": "CNDL",
+    "name": "Candle (PoS)",
+    "decimals": 8,
+    "address": "0x0ed83a4f1800e2247337815cfa059e808148cc7e",
+    "mintable": false,
+    "ethereum_address": "0x00f644cb516e53a09d02e5e2c49fc7fc0cfc37a5"
+}
