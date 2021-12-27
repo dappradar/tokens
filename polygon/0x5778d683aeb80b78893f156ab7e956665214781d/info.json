@@ -1,0 +1,8 @@
+{
+    "symbol": "DOGGY",
+    "name": "The Doge Pound (PoS)",
+    "decimals": 0,
+    "address": "0x5778d683aeb80b78893f156ab7e956665214781d",
+    "mintable": false,
+    "ethereum_address": "0xf4ee95274741437636e748ddac70818b4ed7d043"
+}
