@@ -1,0 +1,8 @@
+{
+    "symbol": "SENATE",
+    "name": "SENATE (PoS)",
+    "decimals": 18,
+    "address": "0x18428bb593f8a1ec3fb80418e4844439b03f5001",
+    "mintable": false,
+    "ethereum_address": "0x34be5b8c30ee4fde069dc878989686abe9884470"
+}
