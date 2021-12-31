@@ -1,0 +1,8 @@
+{
+    "symbol": "MPTY",
+    "name": "Matic-PTY (PoS)",
+    "decimals": 18,
+    "address": "0xfa8cf47d8bc10f6f7272f2b9b0ed042e8b8e120d",
+    "mintable": false,
+    "ethereum_address": "0x959f71f60333d05856a35cb000fb42829b1ec1c1"
+}
