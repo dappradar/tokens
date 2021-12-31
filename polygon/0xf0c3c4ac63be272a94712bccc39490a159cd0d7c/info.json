@@ -1,0 +1,8 @@
+{
+    "symbol": "SRC",
+    "name": "Simracer Coin (PoS)",
+    "decimals": 18,
+    "address": "0xf0c3c4ac63be272a94712bccc39490a159cd0d7c",
+    "mintable": false,
+    "ethereum_address": "0x16587cf43f044aba0165ffa00acf412631194e4b"
+}
