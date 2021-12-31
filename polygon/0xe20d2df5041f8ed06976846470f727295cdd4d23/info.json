@@ -1,0 +1,8 @@
+{
+    "symbol": "BIOS",
+    "name": "BIOS (PoS)",
+    "decimals": 18,
+    "address": "0xe20d2df5041f8ed06976846470f727295cdd4d23",
+    "mintable": false,
+    "ethereum_address": "0xaaca86b876ca011844b5798eca7a67591a9743c8"
+}
