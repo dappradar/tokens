@@ -1,0 +1,8 @@
+{
+    "symbol": "VOLT",
+    "name": "VOLTAGE (PoS)",
+    "decimals": 18,
+    "address": "0xe8a05e85883f9663b18a38d7aa89853deaba56e3",
+    "mintable": false,
+    "ethereum_address": "0xffbf315f70e458e49229654dea4ce192d26f9b25"
+}
