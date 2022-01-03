@@ -1,0 +1,8 @@
+{
+    "symbol": "LTR",
+    "name": "LogiTron (PoS)",
+    "decimals": 18,
+    "address": "0x7d29968f96d475186a479e4be99b43b8b8a20dbc",
+    "mintable": false,
+    "ethereum_address": "0xa4c7963b98838e8f958cf7b87a039249044fe2db"
+}
