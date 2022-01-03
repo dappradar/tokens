@@ -1,0 +1,8 @@
+{
+    "symbol": "GMI",
+    "name": "Bankless DeFi Innovation Index (PoS)",
+    "decimals": 18,
+    "address": "0x7fb27ee135db455de5ab1ccec66a24cbc82e712d",
+    "mintable": false,
+    "ethereum_address": "0x47110d43175f7f2c2425e7d15792acc5817eb44f"
+}
