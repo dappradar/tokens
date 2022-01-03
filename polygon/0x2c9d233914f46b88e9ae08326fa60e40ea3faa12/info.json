@@ -1,0 +1,8 @@
+{
+    "symbol": "SPH",
+    "name": "Spheroid (PoS)",
+    "decimals": 18,
+    "address": "0x2c9d233914f46b88e9ae08326fa60e40ea3faa12",
+    "mintable": false,
+    "ethereum_address": "0xa0cf46eb152656c7090e769916eb44a138aaa406"
+}
