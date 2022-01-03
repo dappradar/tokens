@@ -1,0 +1,8 @@
+{
+    "symbol": "bHOME",
+    "name": "bHome (PoS)",
+    "decimals": 6,
+    "address": "0x58743aabed5bb772845d1a779f7ea592ac744023",
+    "mintable": false,
+    "ethereum_address": "0xb8919522331c59f5c16bdfaa6a121a6e03a91f62"
+}
