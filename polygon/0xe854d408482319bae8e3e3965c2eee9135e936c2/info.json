@@ -1,0 +1,8 @@
+{
+    "symbol": "DEPO",
+    "name": "DePo Token (PoS)",
+    "decimals": 18,
+    "address": "0xe854d408482319bae8e3e3965c2eee9135e936c2",
+    "mintable": false,
+    "ethereum_address": "0xa5def515cfd373d17830e7c1de1639cb3530a112"
+}
