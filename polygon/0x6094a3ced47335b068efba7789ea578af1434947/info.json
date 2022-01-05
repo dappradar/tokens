@@ -1,0 +1,8 @@
+{
+    "symbol": "LIZ",
+    "name": "Theranos Coin (PoS)",
+    "decimals": 18,
+    "address": "0x6094a3ced47335b068efba7789ea578af1434947",
+    "mintable": false,
+    "ethereum_address": "0x102e941b77bcaa7e35d368cafe51ef8f79c8d1ef"
+}
