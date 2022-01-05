@@ -1,0 +1,8 @@
+{
+    "symbol": "FLEATO",
+    "name": "Fleato (PoS)",
+    "decimals": 18,
+    "address": "0x6804b07d883d0169c05233332ccf17aa956424c5",
+    "mintable": false,
+    "ethereum_address": "0xaf4de4076095a20a37e4e885b255c58f9917366e"
+}
