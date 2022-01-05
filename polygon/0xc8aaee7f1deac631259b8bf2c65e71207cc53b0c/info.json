@@ -1,0 +1,8 @@
+{
+    "symbol": "DOM",
+    "name": "Domination Finance Token (PoS)",
+    "decimals": 18,
+    "address": "0xc8aaee7f1deac631259b8bf2c65e71207cc53b0c",
+    "mintable": false,
+    "ethereum_address": "0xef5fa9f3dede72ec306dfff1a7ea0bb0a2f7046f"
+}
