@@ -1,0 +1,8 @@
+{
+    "symbol": "ZENX",
+    "name": "Zenith (PoS)",
+    "decimals": 18,
+    "address": "0x9cd44af7fb46a946484ebe377bb2712eabb610ad",
+    "mintable": false,
+    "ethereum_address": "0x67f7e5e9dbed6c52dc52d7a83ac3608ad2648e12"
+}
