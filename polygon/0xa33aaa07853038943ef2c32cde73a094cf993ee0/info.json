@@ -1,0 +1,8 @@
+{
+    "symbol": "YGN",
+    "name": "YUGEN (PoS)",
+    "decimals": 18,
+    "address": "0xa33aaa07853038943ef2c32cde73a094cf993ee0",
+    "mintable": false,
+    "ethereum_address": "0x397e10ee5e315f69b23cb6c8a913a589b5850c80"
+}
