@@ -1,0 +1,8 @@
+{
+    "symbol": "PFAN",
+    "name": "PowerFan (PoS)",
+    "decimals": 18,
+    "address": "0x9efa47463492a2f161decb44548b2debd5560810",
+    "mintable": false,
+    "ethereum_address": "0x35eee718c20ef361d75e1c7d57bda9d1adb30302"
+}
