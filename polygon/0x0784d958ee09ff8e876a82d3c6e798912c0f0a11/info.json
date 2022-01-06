@@ -1,0 +1,8 @@
+{
+    "symbol": "ARKES",
+    "name": "Arke Token (PoS)",
+    "decimals": 18,
+    "address": "0x0784d958ee09ff8e876a82d3c6e798912c0f0a11",
+    "mintable": false,
+    "ethereum_address": "0xaeab9861bd9479daaa538a2d7f57d5e1d1c86c5e"
+}
