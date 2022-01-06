@@ -1,0 +1,8 @@
+{
+    "symbol": "TRIPS",
+    "name": "Trips (PoS)",
+    "decimals": 18,
+    "address": "0x77f0f7d657f362c4b703417b800b83b989a288a2",
+    "mintable": false,
+    "ethereum_address": "0x1350fbe8ce27762ec19134bf8fc405a427fe9bf1"
+}
