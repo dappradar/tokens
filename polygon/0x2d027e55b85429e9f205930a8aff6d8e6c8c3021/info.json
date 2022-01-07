@@ -1,0 +1,8 @@
+{
+    "symbol": "RAYS",
+    "name": "RAYS (PoS)",
+    "decimals": 18,
+    "address": "0x2d027e55b85429e9f205930a8aff6d8e6c8c3021",
+    "mintable": false,
+    "ethereum_address": "0x6db5f284660b3129ce2e8f563bf849c59f372f61"
+}
