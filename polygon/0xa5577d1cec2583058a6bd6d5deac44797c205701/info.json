@@ -1,0 +1,8 @@
+{
+    "symbol": "WDEV",
+    "name": "Polygon Dev Wrapper (PoS)",
+    "decimals": 18,
+    "address": "0xa5577d1cec2583058a6bd6d5deac44797c205701",
+    "mintable": true,
+    "ethereum_address": "0x4a5df63b0c37b38515e4ee51baf40edd420bf7d5"
+}
