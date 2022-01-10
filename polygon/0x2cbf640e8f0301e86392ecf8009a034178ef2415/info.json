@@ -1,0 +1,8 @@
+{
+    "symbol": "PUP",
+    "name": "Pupper (PoS)",
+    "decimals": 18,
+    "address": "0x2cbf640e8f0301e86392ecf8009a034178ef2415",
+    "mintable": false,
+    "ethereum_address": "0x81dbc1c8e40c3095071949eda9800c2209a7279a"
+}
