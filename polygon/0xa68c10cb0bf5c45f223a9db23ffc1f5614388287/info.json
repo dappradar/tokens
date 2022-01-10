@@ -1,0 +1,8 @@
+{
+    "symbol": "AQU",
+    "name": "Aquest Token (PoS)",
+    "decimals": 18,
+    "address": "0xa68c10cb0bf5c45f223a9db23ffc1f5614388287",
+    "mintable": false,
+    "ethereum_address": "0x7756edf05ef3c2b321a85d77b5cbf7c8a9a7c247"
+}
