@@ -1,0 +1,8 @@
+{
+    "symbol": "DPX",
+    "name": "Dopex Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0x025a1405e9f917313a4e17fd365d0611cccf43e1",
+    "mintable": false,
+    "ethereum_address": "0xeec2be5c91ae7f8a338e1e5f3b5de49d07afdc81"
+}
