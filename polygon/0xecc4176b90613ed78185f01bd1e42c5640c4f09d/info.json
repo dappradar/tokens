@@ -1,0 +1,8 @@
+{
+    "symbol": "ANML",
+    "name": "Animal Concerts Token (PoS)",
+    "decimals": 18,
+    "address": "0xecc4176b90613ed78185f01bd1e42c5640c4f09d",
+    "mintable": false,
+    "ethereum_address": "0x38b0e3a59183814957d83df2a97492aed1f003e2"
+}
