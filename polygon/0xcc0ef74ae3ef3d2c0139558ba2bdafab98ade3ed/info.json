@@ -1,0 +1,8 @@
+{
+    "symbol": "HPT",
+    "name": "Hotpot Funds (PoS)",
+    "decimals": 18,
+    "address": "0xcc0ef74ae3ef3d2c0139558ba2bdafab98ade3ed",
+    "mintable": false,
+    "ethereum_address": "0x615d8e5e1344b36a95f6ecd8e6cda020e84dc25b"
+}
