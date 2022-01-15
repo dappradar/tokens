@@ -1,0 +1,8 @@
+{
+    "symbol": "DDX",
+    "name": "DerivaDAO (PoS)",
+    "decimals": 18,
+    "address": "0x26f5fb1e6c8a65b3a873ff0a213fa16eff5a7828",
+    "mintable": false,
+    "ethereum_address": "0x3a880652f47bfaa771908c07dd8673a787daed3a"
+}
