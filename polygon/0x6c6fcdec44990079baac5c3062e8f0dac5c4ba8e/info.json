@@ -1,0 +1,8 @@
+{
+    "symbol": "GZLR",
+    "name": "Guzzler (PoS)",
+    "decimals": 18,
+    "address": "0x6c6fcdec44990079baac5c3062e8f0dac5c4ba8e",
+    "mintable": false,
+    "ethereum_address": "0x9f4909cc95fb870bf48c128c1fdbb5f482797632"
+}
