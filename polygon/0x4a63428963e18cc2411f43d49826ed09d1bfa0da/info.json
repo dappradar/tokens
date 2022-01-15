@@ -1,0 +1,8 @@
+{
+    "symbol": "WHachiko",
+    "name": "Wrapped Hachiko (PoS)",
+    "decimals": 18,
+    "address": "0x4a63428963e18cc2411f43d49826ed09d1bfa0da",
+    "mintable": false,
+    "ethereum_address": "0xf5ea35fa36bd111adc3b81eef82259d35d88d305"
+}
