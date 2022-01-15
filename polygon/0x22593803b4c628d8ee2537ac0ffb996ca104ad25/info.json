@@ -1,0 +1,8 @@
+{
+    "symbol": "FLP",
+    "name": "FLIP Token (PoS)",
+    "decimals": 18,
+    "address": "0x22593803b4c628d8ee2537ac0ffb996ca104ad25",
+    "mintable": false,
+    "ethereum_address": "0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3"
+}
