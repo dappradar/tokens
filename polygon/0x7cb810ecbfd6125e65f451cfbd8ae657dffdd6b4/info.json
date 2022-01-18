@@ -1,0 +1,8 @@
+{
+    "symbol": "SOFI",
+    "name": "Rai.Finance (PoS)",
+    "decimals": 18,
+    "address": "0x7cb810ecbfd6125e65f451cfbd8ae657dffdd6b4",
+    "mintable": false,
+    "ethereum_address": "0xb49fa25978abf9a248b8212ab4b87277682301c0"
+}
