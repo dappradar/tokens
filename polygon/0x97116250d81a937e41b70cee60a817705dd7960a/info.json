@@ -1,0 +1,8 @@
+{
+    "symbol": "BUN",
+    "name": "NFTBunny (PoS)",
+    "decimals": 18,
+    "address": "0x97116250d81a937e41b70cee60a817705dd7960a",
+    "mintable": false,
+    "ethereum_address": "0xf70209f73aa9716c6a303080687550cccd6d69f5"
+}
