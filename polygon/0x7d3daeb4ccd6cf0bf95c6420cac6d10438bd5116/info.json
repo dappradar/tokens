@@ -1,0 +1,8 @@
+{
+    "symbol": "ZMT",
+    "name": "Zipmex Token (PoS)",
+    "decimals": 18,
+    "address": "0x7d3daeb4ccd6cf0bf95c6420cac6d10438bd5116",
+    "mintable": false,
+    "ethereum_address": "0xaa602de53347579f86b996d2add74bb6f79462b2"
+}
