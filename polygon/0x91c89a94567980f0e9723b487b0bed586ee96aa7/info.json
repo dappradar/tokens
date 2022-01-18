@@ -1,0 +1,8 @@
+{
+    "symbol": "BICO",
+    "name": "Biconomy Token (PoS)",
+    "decimals": 18,
+    "address": "0x91c89a94567980f0e9723b487b0bed586ee96aa7",
+    "mintable": false,
+    "ethereum_address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2"
+}
