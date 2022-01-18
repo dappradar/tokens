@@ -1,0 +1,8 @@
+{
+    "symbol": "KPT",
+    "name": "Kitty Party Reward Token (PoS)",
+    "decimals": 18,
+    "address": "0x7d369731e3d7f86417aa86ef4be26e309080bd2f",
+    "mintable": false,
+    "ethereum_address": "0x444f20a5d578862bf84b6d14ec3ca0c8be8e555f"
+}
