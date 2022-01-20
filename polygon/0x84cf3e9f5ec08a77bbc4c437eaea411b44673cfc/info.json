@@ -1,0 +1,8 @@
+{
+    "symbol": "BONESHARDS",
+    "name": "BoneShards (PoS)",
+    "decimals": 18,
+    "address": "0x84cf3e9f5ec08a77bbc4c437eaea411b44673cfc",
+    "mintable": true,
+    "ethereum_address": "0x6c716bdb4289283e0ad1926c47b54412bd2c257b"
+}
