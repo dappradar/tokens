@@ -1,0 +1,8 @@
+{
+    "symbol": "WXRP",
+    "name": "Wrapped XRP (PoS)",
+    "decimals": 18,
+    "address": "0xaef23cee6c50930bae8b4843c9b35c4c293e8906",
+    "mintable": false,
+    "ethereum_address": "0x39fbbabf11738317a448031930706cd3e612e1b9"
+}
