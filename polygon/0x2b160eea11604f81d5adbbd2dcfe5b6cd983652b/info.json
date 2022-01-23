@@ -1,0 +1,8 @@
+{
+    "symbol": "MWAT",
+    "name": "RED MWAT (PoS)",
+    "decimals": 18,
+    "address": "0x2b160eea11604f81d5adbbd2dcfe5b6cd983652b",
+    "mintable": false,
+    "ethereum_address": "0x6425c6be902d692ae2db752b3c268afadb099d3b"
+}
