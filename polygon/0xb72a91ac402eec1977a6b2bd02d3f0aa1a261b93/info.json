@@ -1,0 +1,8 @@
+{
+    "symbol": "WCS",
+    "name": "WorldChainShare (PoS)",
+    "decimals": 0,
+    "address": "0xb72a91ac402eec1977a6b2bd02d3f0aa1a261b93",
+    "mintable": false,
+    "ethereum_address": "0xfd2e95937a9a1b4a87b8c47fd3e9acc123314c0e"
+}
