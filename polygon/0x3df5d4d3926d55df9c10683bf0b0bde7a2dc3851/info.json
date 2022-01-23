@@ -1,0 +1,8 @@
+{
+    "symbol": "BAE",
+    "name": "Bay Area Excitement (PoS)",
+    "decimals": 18,
+    "address": "0x3df5d4d3926d55df9c10683bf0b0bde7a2dc3851",
+    "mintable": false,
+    "ethereum_address": "0xd3ba270f82cadabd0596d3d30233448621d561bb"
+}
