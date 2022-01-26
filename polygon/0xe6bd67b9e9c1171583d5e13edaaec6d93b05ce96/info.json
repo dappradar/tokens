@@ -1,0 +1,8 @@
+{
+    "symbol": "SYNR",
+    "name": "Syndicate Token (PoS)",
+    "decimals": 18,
+    "address": "0xe6bd67b9e9c1171583d5e13edaaec6d93b05ce96",
+    "mintable": false,
+    "ethereum_address": "0xbc6e06778708177a18210181b073da747c88490a"
+}
