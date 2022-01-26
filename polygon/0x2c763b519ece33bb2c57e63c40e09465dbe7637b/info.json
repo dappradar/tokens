@@ -1,0 +1,8 @@
+{
+    "symbol": "BIZN",
+    "name": "Biznek (PoS)",
+    "decimals": 18,
+    "address": "0x2c763b519ece33bb2c57e63c40e09465dbe7637b",
+    "mintable": false,
+    "ethereum_address": "0xd91d72087f747db1abfda6bda40f4abe034fd03a"
+}
