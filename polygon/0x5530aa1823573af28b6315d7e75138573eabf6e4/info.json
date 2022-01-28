@@ -1,0 +1,8 @@
+{
+    "symbol": "VUFI",
+    "name": "Vufi.finance (PoS)",
+    "decimals": 18,
+    "address": "0x5530aa1823573af28b6315d7e75138573eabf6e4",
+    "mintable": true,
+    "ethereum_address": "0xf036c451e6e5b3c89cc86fd6affa877b2809501f"
+}
