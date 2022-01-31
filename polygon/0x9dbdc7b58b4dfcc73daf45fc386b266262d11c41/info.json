@@ -1,0 +1,8 @@
+{
+    "symbol": "BOBL",
+    "name": "BOBL (PoS)",
+    "decimals": 18,
+    "address": "0x9dbdc7b58b4dfcc73daf45fc386b266262d11c41",
+    "mintable": false,
+    "ethereum_address": "0xac3a44115560064adfc2d2e90b5bd34f9454cafd"
+}
