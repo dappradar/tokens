@@ -1,0 +1,8 @@
+{
+    "symbol": "UNITS",
+    "name": "Univirsal Transaction System (PoS)",
+    "decimals": 18,
+    "address": "0xa8cd68f6d0caed4227f572b10d832f32447a63d8",
+    "mintable": false,
+    "ethereum_address": "0x47d1f854ed98b61a17bbf5a74202d33a24c4d60e"
+}
