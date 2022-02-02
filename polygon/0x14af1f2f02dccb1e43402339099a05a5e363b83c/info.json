@@ -1,0 +1,8 @@
+{
+    "symbol": "KROM",
+    "name": "Kromatika (PoS)",
+    "decimals": 18,
+    "address": "0x14af1f2f02dccb1e43402339099a05a5e363b83c",
+    "mintable": false,
+    "ethereum_address": "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789"
+}
