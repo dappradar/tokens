@@ -1,0 +1,8 @@
+{
+    "symbol": "CDAO",
+    "name": "Citizen Token (PoS)",
+    "decimals": 18,
+    "address": "0x8a23d240763057432ce048a43f9a3a1b2cc22404",
+    "mintable": true,
+    "ethereum_address": "0x57ea7178505f7d33c2bdb4450e041561513dbd9b"
+}
