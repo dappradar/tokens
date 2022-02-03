@@ -1,0 +1,8 @@
+{
+    "symbol": "CCC",
+    "name": "Carchain Coin (PoS)",
+    "decimals": 18,
+    "address": "0xe81e0a387d2585fbc5353f56a57afd20331ef12d",
+    "mintable": true,
+    "ethereum_address": "0xb9c72a65cbd593b7942cd65992eca9108a6273a3"
+}
