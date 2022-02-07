@@ -1,0 +1,8 @@
+{
+    "symbol": "CUBT",
+    "name": "CubToken (PoS)",
+    "decimals": 18,
+    "address": "0xebbe09afdab74872dbc975d7bda1ddf5595e4c8a",
+    "mintable": false,
+    "ethereum_address": "0xbf9e72eeb5adb8b558334c8672950b7a379d4266"
+}
