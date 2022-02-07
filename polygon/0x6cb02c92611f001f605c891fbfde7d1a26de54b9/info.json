@@ -1,0 +1,8 @@
+{
+    "symbol": "VITA",
+    "name": "VitaDAO Token (PoS)",
+    "decimals": 18,
+    "address": "0x6cb02c92611f001f605c891fbfde7d1a26de54b9",
+    "mintable": false,
+    "ethereum_address": "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321"
+}
