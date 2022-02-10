@@ -1,0 +1,8 @@
+{
+    "symbol": "AA_idleDAIYield",
+    "name": "!IdleCDO AA Tranche - idleDAIYield (PoS)",
+    "decimals": 18,
+    "address": "0x36f514bfb1dec83910c8c46752ad2987b7c72c5b",
+    "mintable": false,
+    "ethereum_address": "0xe9ada97bdb86d827ecbaacca63ebcd8201d8b12e"
+}
