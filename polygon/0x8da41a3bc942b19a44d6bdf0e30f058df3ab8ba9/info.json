@@ -1,0 +1,8 @@
+{
+    "symbol": "DATAPHORA",
+    "name": "Dataphora (PoS)",
+    "decimals": 18,
+    "address": "0x8da41a3bc942b19a44d6bdf0e30f058df3ab8ba9",
+    "mintable": false,
+    "ethereum_address": "0x8da41a3bc942b19a44d6bdf0e30f058df3ab8ba9"
+}
