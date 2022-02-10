@@ -1,0 +1,8 @@
+{
+    "symbol": "BB_idleDAIYield",
+    "name": "!IdleCDO BB Tranche - idleDAIYield (PoS)",
+    "decimals": 18,
+    "address": "0x8db0b3ee49348be4e6f3eaab952de2aa7106f7ec",
+    "mintable": false,
+    "ethereum_address": "0x730348a54ba58f64295154f0662a08cbde1225c2"
+}
