@@ -1,0 +1,8 @@
+{
+    "symbol": "SOLACE",
+    "name": "solace (PoS)",
+    "decimals": 18,
+    "address": "0x2857686536f58dd835dbf43c9f549676296ef336",
+    "mintable": false,
+    "ethereum_address": "0x501ace9c35e60f03a2af4d484f49f9b1efde9f40"
+}
