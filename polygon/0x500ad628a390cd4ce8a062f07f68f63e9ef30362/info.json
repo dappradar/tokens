@@ -1,0 +1,8 @@
+{
+    "symbol": "STRIP",
+    "name": "StripCoin (PoS)",
+    "decimals": 18,
+    "address": "0x500ad628a390cd4ce8a062f07f68f63e9ef30362",
+    "mintable": false,
+    "ethereum_address": "0xe9cb6838902ccf711f16a9ea5a1170f8e9853c02"
+}
