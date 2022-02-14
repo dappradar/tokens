@@ -1,0 +1,8 @@
+{
+    "symbol": "MTVRS",
+    "name": "Metaverse Coin (PoS)",
+    "decimals": 18,
+    "address": "0xec4111a5d9f7cd3ec87e4269739449343b5e6bbf",
+    "mintable": false,
+    "ethereum_address": "0xdb10e988bd8ce8962b1f59509d4d207df3bd9c94"
+}
