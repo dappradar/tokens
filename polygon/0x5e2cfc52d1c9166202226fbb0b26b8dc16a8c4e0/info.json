@@ -1,0 +1,8 @@
+{
+    "symbol": "LORC",
+    "name": "LandOrc (PoS)",
+    "decimals": 18,
+    "address": "0x5e2cfc52d1c9166202226fbb0b26b8dc16a8c4e0",
+    "mintable": false,
+    "ethereum_address": "0x148958884544a8ad7c4895e6ffe2723932e0523a"
+}
