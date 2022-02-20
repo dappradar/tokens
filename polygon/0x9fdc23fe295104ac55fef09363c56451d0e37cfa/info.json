@@ -1,0 +1,8 @@
+{
+    "symbol": "rkl",
+    "name": "Rickle (PoS)",
+    "decimals": 18,
+    "address": "0x9fdc23fe295104ac55fef09363c56451d0e37cfa",
+    "mintable": false,
+    "ethereum_address": "0x0ff80a1708191c0da8aa600fa487f7ac81d7818c"
+}
