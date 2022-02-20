@@ -1,0 +1,8 @@
+{
+    "symbol": "TOE",
+    "name": "tokenpartners (PoS)",
+    "decimals": 18,
+    "address": "0x32e10b5ae57c9eec97bf5e67e243bf29993c9e71",
+    "mintable": false,
+    "ethereum_address": "0xcf44278fd9932b76df313f4a278c10618d7726d2"
+}
