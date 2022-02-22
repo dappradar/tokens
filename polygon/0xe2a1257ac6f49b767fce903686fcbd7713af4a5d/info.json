@@ -1,0 +1,8 @@
+{
+    "symbol": "EZX",
+    "name": "EZDEX (PoS)",
+    "decimals": 18,
+    "address": "0xe2a1257ac6f49b767fce903686fcbd7713af4a5d",
+    "mintable": false,
+    "ethereum_address": "0x9e8bfe46f9af27c5ea5c9c72b86d71bb86953a0c"
+}
