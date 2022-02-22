@@ -1,0 +1,8 @@
+{
+    "symbol": "CASK",
+    "name": "Cask Token (PoS)",
+    "decimals": 18,
+    "address": "0xdc185ade9a3362f9203191f136499ffe512527c1",
+    "mintable": false,
+    "ethereum_address": "0x0645314c1afd4d9711d609e3e755265ababc95eb"
+}
