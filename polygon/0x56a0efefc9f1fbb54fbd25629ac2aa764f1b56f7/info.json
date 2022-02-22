@@ -1,0 +1,8 @@
+{
+    "symbol": "AWX",
+    "name": "AurusDeFi (PoS)",
+    "decimals": 18,
+    "address": "0x56a0efefc9f1fbb54fbd25629ac2aa764f1b56f7",
+    "mintable": false,
+    "ethereum_address": "0xa51fc71422a30fa7ffa605b360c3b283501b5bf6"
+}
