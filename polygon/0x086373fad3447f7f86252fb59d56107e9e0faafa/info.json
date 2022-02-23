@@ -1,0 +1,8 @@
+{
+    "symbol": "YUP",
+    "name": "YUP (PoS)",
+    "decimals": 18,
+    "address": "0x086373fad3447f7f86252fb59d56107e9e0faafa",
+    "mintable": true,
+    "ethereum_address": "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9"
+}
