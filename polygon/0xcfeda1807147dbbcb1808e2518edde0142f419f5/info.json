@@ -1,0 +1,8 @@
+{
+    "symbol": "BABYCOIN",
+    "name": "Babycoin (PoS)",
+    "decimals": 18,
+    "address": "0xcfeda1807147dbbcb1808e2518edde0142f419f5",
+    "mintable": false,
+    "ethereum_address": "0xd2cb4366d8111d65ebff6c29852fef7a1628ae80"
+}
