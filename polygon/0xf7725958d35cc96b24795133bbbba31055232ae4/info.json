@@ -1,0 +1,8 @@
+{
+    "symbol": "SHO",
+    "name": "SHO Token (PoS)",
+    "decimals": 18,
+    "address": "0xf7725958d35cc96b24795133bbbba31055232ae4",
+    "mintable": false,
+    "ethereum_address": "0xf9abaeec0334fd30804446db7423abe0c02ef47d"
+}
