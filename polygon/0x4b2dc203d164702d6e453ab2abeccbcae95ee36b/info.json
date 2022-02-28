@@ -1,0 +1,8 @@
+{
+    "symbol": "ASLT",
+    "name": "AssaultToken (PoS)",
+    "decimals": 18,
+    "address": "0x4b2dc203d164702d6e453ab2abeccbcae95ee36b",
+    "mintable": false,
+    "ethereum_address": "0x2b8b09ce791a4b1036137cf8ac8260cd1e619f29"
+}
