@@ -1,0 +1,8 @@
+{
+    "symbol": "MBUC",
+    "name": "MetaBillionaireUtilityCoin (PoS)",
+    "decimals": 18,
+    "address": "0xecd3c4f21dceebc8f308af7c3a7f1a4265bb52e9",
+    "mintable": false,
+    "ethereum_address": "0xecaf45a19565fff9d058257b326e52a253343f78"
+}
