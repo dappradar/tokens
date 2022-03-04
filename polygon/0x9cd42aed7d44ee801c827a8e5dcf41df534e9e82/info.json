@@ -1,0 +1,8 @@
+{
+    "symbol": "OMI",
+    "name": "OMI Token (PoS)",
+    "decimals": 18,
+    "address": "0x9cd42aed7d44ee801c827a8e5dcf41df534e9e82",
+    "mintable": false,
+    "ethereum_address": "0xed35af169af46a02ee13b9d79eb57d6d68c1749e"
+}
