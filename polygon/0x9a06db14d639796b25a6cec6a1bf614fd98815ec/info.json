@@ -1,0 +1,8 @@
+{
+    "symbol": "$ZKP",
+    "name": "$ZKP Token (PoS)",
+    "decimals": 18,
+    "address": "0x9a06db14d639796b25a6cec6a1bf614fd98815ec",
+    "mintable": false,
+    "ethereum_address": "0x909e34d3f6124c324ac83dcca84b74398a6fa173"
+}
