@@ -1,0 +1,8 @@
+{
+    "symbol": "MINX",
+    "name": "InnovaMinex (PoS)",
+    "decimals": 6,
+    "address": "0x4bf6daa0f3b2f8b338836b29f17b9e7ff0e68b53",
+    "mintable": false,
+    "ethereum_address": "0xae353daeed8dcc7a9a12027f7e070c0a50b7b6a4"
+}
