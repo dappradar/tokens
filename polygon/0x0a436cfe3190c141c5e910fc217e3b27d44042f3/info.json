@@ -1,0 +1,8 @@
+{
+    "symbol": "HDRN",
+    "name": "Hedron (PoS)",
+    "decimals": 9,
+    "address": "0x0a436cfe3190c141c5e910fc217e3b27d44042f3",
+    "mintable": false,
+    "ethereum_address": "0x3819f64f282bf135d62168c1e513280daf905e06"
+}
