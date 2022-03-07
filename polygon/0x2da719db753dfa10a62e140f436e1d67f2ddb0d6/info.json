@@ -1,0 +1,8 @@
+{
+    "symbol": "CERE",
+    "name": "CERE Network (PoS)",
+    "decimals": 10,
+    "address": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6",
+    "mintable": false,
+    "ethereum_address": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6"
+}
