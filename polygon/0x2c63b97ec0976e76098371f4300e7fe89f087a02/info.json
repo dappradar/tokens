@@ -1,0 +1,8 @@
+{
+    "symbol": "VNT",
+    "name": "InventoryClub Token (PoS)",
+    "decimals": 18,
+    "address": "0x2c63b97ec0976e76098371f4300e7fe89f087a02",
+    "mintable": false,
+    "ethereum_address": "0xe912b8ba2513d7e29b7b2e5b14398dbf77503fb4"
+}
