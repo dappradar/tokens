@@ -1,0 +1,8 @@
+{
+    "symbol": "SPROCKET",
+    "name": "Sprocket (PoS)",
+    "decimals": 18,
+    "address": "0x0d98eae620491d8f6836a39ac45e54b286fdd2d7",
+    "mintable": false,
+    "ethereum_address": "0xa9364d93a4a6d8dc51781236ded2dc4325b668b8"
+}
