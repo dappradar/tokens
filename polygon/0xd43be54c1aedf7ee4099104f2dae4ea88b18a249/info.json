@@ -1,0 +1,8 @@
+{
+    "symbol": "TRAXX",
+    "name": "TRAXX (PoS)",
+    "decimals": 18,
+    "address": "0xd43be54c1aedf7ee4099104f2dae4ea88b18a249",
+    "mintable": false,
+    "ethereum_address": "0xd43be54c1aedf7ee4099104f2dae4ea88b18a249"
+}
