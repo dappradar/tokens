@@ -1,0 +1,8 @@
+{
+    "symbol": "ADB",
+    "name": "AdBank (PoS)",
+    "decimals": 18,
+    "address": "0xb92d60d0ecbef38dee6a125181825567fccd9dc7",
+    "mintable": false,
+    "ethereum_address": "0x2baac9330cf9ac479d819195794d79ad0c7616e3"
+}
