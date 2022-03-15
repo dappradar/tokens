@@ -1,0 +1,8 @@
+{
+    "symbol": "ABC",
+    "name": "ABCVoucher (PoS)",
+    "decimals": 8,
+    "address": "0xf4d2eea1e96986bc8e78008f8bcf016ca230efe5",
+    "mintable": false,
+    "ethereum_address": "0x360f177b6e26f0c3930497feb90a4584bad75c63"
+}
