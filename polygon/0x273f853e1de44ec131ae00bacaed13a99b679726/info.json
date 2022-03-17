@@ -1,0 +1,8 @@
+{
+    "symbol": "INDI",
+    "name": "IndiGG (PoS)",
+    "decimals": 18,
+    "address": "0x273f853e1de44ec131ae00bacaed13a99b679726",
+    "mintable": false,
+    "ethereum_address": "0x3392d8a60b77f8d3eaa4fb58f09d835bd31add29"
+}
