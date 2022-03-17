@@ -1,0 +1,8 @@
+{
+    "symbol": "EXN",
+    "name": "EXENO COIN (PoS)",
+    "decimals": 18,
+    "address": "0x0c9b3ab1bd0cf0745625381f5c3aa1cd9bbc7abb",
+    "mintable": false,
+    "ethereum_address": "0x0c9b3ab1bd0cf0745625381f5c3aa1cd9bbc7abb"
+}
