@@ -1,0 +1,8 @@
+{
+    "symbol": "PATH",
+    "name": "PathDao (PoS)",
+    "decimals": 18,
+    "address": "0x15e99d827c1d2fc2b9b5312d1e71713c88110bdb",
+    "mintable": false,
+    "ethereum_address": "0x2a2550e0a75acec6d811ae3930732f7f3ad67588"
+}
