@@ -1,0 +1,8 @@
+{
+    "symbol": "10GUY",
+    "name": "10 Guy (PoS)",
+    "decimals": 18,
+    "address": "0x3bde1635f5ee6bc44dd909e71cb901eb747f78a1",
+    "mintable": false,
+    "ethereum_address": "0x9550a643148501eeb5c00e7e74739c2aae953373"
+}
