@@ -1,0 +1,8 @@
+{
+    "symbol": "ALTA",
+    "name": "Alta Finance (PoS)",
+    "decimals": 18,
+    "address": "0xe0cca86b254005889ac3a81e737f56a14f4a38f5",
+    "mintable": false,
+    "ethereum_address": "0xe0cca86b254005889ac3a81e737f56a14f4a38f5"
+}
