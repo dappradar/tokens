@@ -1,0 +1,8 @@
+{
+    "symbol": "DANKPEPE",
+    "name": "Dank Pepe (PoS)",
+    "decimals": 18,
+    "address": "0xc479cb873fa422ef7ab518b70d0389ab19e566cb",
+    "mintable": false,
+    "ethereum_address": "0x8a06dbbb2e58310b0bb988f2250b2f1fadaa9f87"
+}
