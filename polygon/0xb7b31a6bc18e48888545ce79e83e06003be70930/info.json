@@ -1,0 +1,8 @@
+{
+    "symbol": "APE",
+    "name": "ApeCoin (PoS)",
+    "decimals": 18,
+    "address": "0xb7b31a6bc18e48888545ce79e83e06003be70930",
+    "mintable": false,
+    "ethereum_address": "0x4d224452801aced8b2f0aebe155379bb5d594381"
+}
