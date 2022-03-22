@@ -1,0 +1,8 @@
+{
+    "symbol": "FRXST",
+    "name": "FRXST (PoS)",
+    "decimals": 18,
+    "address": "0xad7153e9b8c227ec8311ba781caa6edb623c7475",
+    "mintable": false,
+    "ethereum_address": "0x16c4b48c64fb39f0fbed9d856a35f854daec63e0"
+}
