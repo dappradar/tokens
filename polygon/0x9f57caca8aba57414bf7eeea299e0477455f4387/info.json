@@ -1,0 +1,8 @@
+{
+    "symbol": "MFSE",
+    "name": "MarvelousFUSE (PoS)",
+    "decimals": 18,
+    "address": "0x9f57caca8aba57414bf7eeea299e0477455f4387",
+    "mintable": true,
+    "ethereum_address": "0xb7650bcd18a120f63f184eae38bea5cb5765bd88"
+}
