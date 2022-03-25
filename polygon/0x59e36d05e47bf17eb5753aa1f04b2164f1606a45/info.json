@@ -1,0 +1,8 @@
+{
+    "symbol": "JOKE",
+    "name": "jokedao (PoS)",
+    "decimals": 18,
+    "address": "0x59e36d05e47bf17eb5753aa1f04b2164f1606a45",
+    "mintable": false,
+    "ethereum_address": "0xa973c558265ad458031fa3067071646836df7713"
+}
