@@ -1,0 +1,8 @@
+{
+    "symbol": "SMI",
+    "name": "Smithers O'Neil (PoS)",
+    "decimals": 18,
+    "address": "0x4ec74893a6edfc318b296259b4757fb3899787f8",
+    "mintable": false,
+    "ethereum_address": "0xc9de125ff787d37696cb9dd2aa7a7bd8661e9d3c"
+}
