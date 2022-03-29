@@ -1,0 +1,8 @@
+{
+    "symbol": "TRIANGLE",
+    "name": "Dancing Triangle (PoS)",
+    "decimals": 18,
+    "address": "0xa4e44e00206f09d5dfb1d9627bd38e152a152281",
+    "mintable": false,
+    "ethereum_address": "0x6dd5f24e754fc36eff2067e8658810e0384d7aea"
+}
