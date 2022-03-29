@@ -1,0 +1,8 @@
+{
+    "symbol": "SUCCESS",
+    "name": "Success Kid (PoS)",
+    "decimals": 18,
+    "address": "0x506143f1cea18a4d880cee60e01a55b678cfcfab",
+    "mintable": false,
+    "ethereum_address": "0x7e0eaf21357b27477524eded3185e6dc1a4c2486"
+}
