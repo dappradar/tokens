@@ -1,0 +1,8 @@
+{
+    "symbol": "ECTO",
+    "name": "Ecto (PoS)",
+    "decimals": 18,
+    "address": "0xb4e259a1e21720edfca00dd79b06a9c7b04db6a5",
+    "mintable": false,
+    "ethereum_address": "0x3b8c698c5bdaa059f93bae370f00a01c4fa5352b"
+}
