@@ -1,0 +1,8 @@
+{
+    "symbol": "LDN",
+    "name": "Ludena Protocol (PoS)",
+    "decimals": 18,
+    "address": "0x7df5638222bbe24cce39f726c3b61cc03610622a",
+    "mintable": false,
+    "ethereum_address": "0xb29663aa4e2e81e425294193616c1b102b70a158"
+}
