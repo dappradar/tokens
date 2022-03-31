@@ -1,0 +1,8 @@
+{
+    "symbol": "SCLM",
+    "name": "Scholeum (PoS)",
+    "decimals": 18,
+    "address": "0x9e222f361428384949c1258885c0d1c98bc5d8da",
+    "mintable": false,
+    "ethereum_address": "0x82081822932cf22e39d2fbec8047feb6117cd2f6"
+}
