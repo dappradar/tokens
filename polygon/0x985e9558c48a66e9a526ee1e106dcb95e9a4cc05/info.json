@@ -1,0 +1,8 @@
+{
+    "symbol": "VEN",
+    "name": "DUCATO (PoS)",
+    "decimals": 18,
+    "address": "0x985e9558c48a66e9a526ee1e106dcb95e9a4cc05",
+    "mintable": false,
+    "ethereum_address": "0xf02123509a08632339102ee5fdd41b638592e495"
+}
