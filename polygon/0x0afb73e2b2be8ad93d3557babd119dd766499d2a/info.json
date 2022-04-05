@@ -1,0 +1,8 @@
+{
+    "symbol": "REFI",
+    "name": "ReFi (PoS)",
+    "decimals": 18,
+    "address": "0x0afb73e2b2be8ad93d3557babd119dd766499d2a",
+    "mintable": false,
+    "ethereum_address": "0xa808b22ffd2c472ad1278088f16d4010e6a54d5f"
+}
