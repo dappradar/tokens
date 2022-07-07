@@ -1,0 +1,8 @@
+{
+    "symbol": "PP",
+    "name": "Plasma Points (PoS)",
+    "decimals": 18,
+    "address": "0x80d12a3a5f7448e66d83a8a604f45cd0a97fb9b2",
+    "mintable": false,
+    "ethereum_address": "0x15b368c09b14148df5fe4e4bff80ca270453bbf4"
+}
