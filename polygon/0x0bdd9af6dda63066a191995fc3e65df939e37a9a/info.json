@@ -1,0 +1,8 @@
+{
+    "symbol": "NL",
+    "name": "NL Token (PoS)",
+    "decimals": 18,
+    "address": "0x0bdd9af6dda63066a191995fc3e65df939e37a9a",
+    "mintable": false,
+    "ethereum_address": "0x6a585e15a3fa25d3467244ae34b0e6fc2baacdc5"
+}
