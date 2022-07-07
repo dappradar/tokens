@@ -1,0 +1,8 @@
+{
+    "symbol": "JPG",
+    "name": "JPG NFT Index (PoS)",
+    "decimals": 18,
+    "address": "0x664cf96054e541b3b143f06db5807c9900388b45",
+    "mintable": false,
+    "ethereum_address": "0x02e7ac540409d32c90bfb51114003a9e1ff0249c"
+}
