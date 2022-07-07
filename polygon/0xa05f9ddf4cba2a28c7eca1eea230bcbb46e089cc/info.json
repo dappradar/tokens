@@ -1,0 +1,8 @@
+{
+    "symbol": "MEDI",
+    "name": "Mediconnect (PoS)",
+    "decimals": 18,
+    "address": "0xa05f9ddf4cba2a28c7eca1eea230bcbb46e089cc",
+    "mintable": false,
+    "ethereum_address": "0x0498380da03715752616b029e6d88eb75166e91b"
+}
