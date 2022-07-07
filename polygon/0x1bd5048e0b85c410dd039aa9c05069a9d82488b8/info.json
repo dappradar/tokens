@@ -1,0 +1,8 @@
+{
+    "symbol": "ORC",
+    "name": "Orbit Chain (PoS)",
+    "decimals": 18,
+    "address": "0x1bd5048e0b85c410dd039aa9c05069a9d82488b8",
+    "mintable": false,
+    "ethereum_address": "0x662b67d00a13faf93254714dd601f5ed49ef2f51"
+}
