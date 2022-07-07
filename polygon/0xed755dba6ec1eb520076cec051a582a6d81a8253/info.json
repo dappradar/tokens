@@ -1,0 +1,8 @@
+{
+    "symbol": "CHAMP",
+    "name": "Ultimate Champions Token (PoS)",
+    "decimals": 18,
+    "address": "0xed755dba6ec1eb520076cec051a582a6d81a8253",
+    "mintable": false,
+    "ethereum_address": "0x456125cd98107ae0480ba566f1b716d48ba31453"
+}
