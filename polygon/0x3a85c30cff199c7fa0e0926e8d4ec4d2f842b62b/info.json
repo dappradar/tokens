@@ -1,0 +1,8 @@
+{
+    "symbol": "CAX",
+    "name": "Calahex (PoS)",
+    "decimals": 0,
+    "address": "0x3a85c30cff199c7fa0e0926e8d4ec4d2f842b62b",
+    "mintable": false,
+    "ethereum_address": "0x377c59bd50aab876e41231dee4339bf8e14c48a9"
+}
