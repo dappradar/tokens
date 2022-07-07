@@ -1,0 +1,8 @@
+{
+    "symbol": "SSY",
+    "name": "Smart StableCoin Yield (PoS)",
+    "decimals": 18,
+    "address": "0x0e6bf50f3799f19352f58a69dac6776b758dc52d",
+    "mintable": false,
+    "ethereum_address": "0x1db6e3ea822c093a93240880da037c0f421d05d1"
+}
