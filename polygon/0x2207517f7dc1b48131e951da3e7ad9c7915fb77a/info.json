@@ -1,0 +1,8 @@
+{
+    "symbol": "Manipulate",
+    "name": "Buy Low Sell High (PoS)",
+    "decimals": 18,
+    "address": "0x2207517f7dc1b48131e951da3e7ad9c7915fb77a",
+    "mintable": false,
+    "ethereum_address": "0xc1db781057dc836a29c3f4fd547b4b7be822274f"
+}
