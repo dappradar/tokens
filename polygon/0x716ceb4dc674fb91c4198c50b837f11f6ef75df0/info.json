@@ -1,0 +1,8 @@
+{
+    "symbol": "RFWSTETH",
+    "name": "'Respawn Finance Wrapped Staked Ethereum (PoS)",
+    "decimals": 18,
+    "address": "0x716ceb4dc674fb91c4198c50b837f11f6ef75df0",
+    "mintable": false,
+    "ethereum_address": "0x07fa101efde726e0956edd2c4d5c8d3d1a5e9c53"
+}
