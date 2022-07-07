@@ -1,0 +1,8 @@
+{
+    "symbol": "TestOIL",
+    "name": "TestOIL (PoS)",
+    "decimals": 18,
+    "address": "0xa3ea90482679a2feb92709eb13a9b774796535f6",
+    "mintable": true,
+    "ethereum_address": "0x970da6cd105fe7aa2b18c904a064401835c723ae"
+}
