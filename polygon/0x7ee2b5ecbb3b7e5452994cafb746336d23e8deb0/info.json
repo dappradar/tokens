@@ -1,0 +1,8 @@
+{
+    "symbol": "SSH",
+    "name": "Super Simple Hero (PoS)",
+    "decimals": 18,
+    "address": "0x7ee2b5ecbb3b7e5452994cafb746336d23e8deb0",
+    "mintable": false,
+    "ethereum_address": "0x7ee2b5ecbb3b7e5452994cafb746336d23e8deb0"
+}
