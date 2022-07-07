@@ -1,0 +1,8 @@
+{
+    "symbol": "CHAIN",
+    "name": "Arch Blockchains (PoS)",
+    "decimals": 18,
+    "address": "0x9a41e03fef7f16f552c6fba37ffa7590fb1ec0c4",
+    "mintable": false,
+    "ethereum_address": "0x0d20e86abab680c038ac8bbdc1446585e67f8951"
+}
