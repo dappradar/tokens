@@ -1,0 +1,8 @@
+{
+    "symbol": "AUTUMN",
+    "name": "Autumn Token (PoS)",
+    "decimals": 18,
+    "address": "0xfba4d30e964e40775c95b58acf6b5a621b929c0a",
+    "mintable": false,
+    "ethereum_address": "0x4c3bae16c79c30eeb1004fb03c878d89695e3a99"
+}
