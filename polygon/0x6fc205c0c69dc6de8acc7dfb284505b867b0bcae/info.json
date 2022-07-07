@@ -1,0 +1,8 @@
+{
+    "symbol": "BDMI",
+    "name": "BANX DeFi Metaverse Index (PoS)",
+    "decimals": 18,
+    "address": "0x6fc205c0c69dc6de8acc7dfb284505b867b0bcae",
+    "mintable": false,
+    "ethereum_address": "0x72fd84ef5cf65ad2ac85d9ad00f72a633e8c134e"
+}
