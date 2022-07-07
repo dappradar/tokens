@@ -1,0 +1,8 @@
+{
+    "symbol": "PREMINTCOLL",
+    "name": "PREMINT Collector (PoS)",
+    "decimals": 0,
+    "address": "0x6bcdaae415cdc16b66564dfbddcba3ab8ed7888b",
+    "mintable": false,
+    "ethereum_address": "0xe0176ba60efddb29cac5b15338c9962daee9de0c"
+}
