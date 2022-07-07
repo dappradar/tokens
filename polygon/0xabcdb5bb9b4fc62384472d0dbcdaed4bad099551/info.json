@@ -1,0 +1,8 @@
+{
+    "symbol": "UP",
+    "name": "UpToken (PoS)",
+    "decimals": 8,
+    "address": "0xabcdb5bb9b4fc62384472d0dbcdaed4bad099551",
+    "mintable": false,
+    "ethereum_address": "0x6ba460ab75cd2c56343b3517ffeba60748654d26"
+}
