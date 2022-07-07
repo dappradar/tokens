@@ -1,0 +1,8 @@
+{
+    "symbol": "CIRD",
+    "name": "Cirdei (PoS)",
+    "decimals": 18,
+    "address": "0x6e5e4e344e59aae578118c4f540a868d7d88aece",
+    "mintable": false,
+    "ethereum_address": "0xf5681d936e581f5f998ca970a474c6e83dd038dc"
+}
