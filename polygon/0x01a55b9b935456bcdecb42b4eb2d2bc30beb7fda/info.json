@@ -1,0 +1,8 @@
+{
+    "symbol": "MABC",
+    "name": "Metaverse Art Blockchain (PoS)",
+    "decimals": 18,
+    "address": "0x01a55b9b935456bcdecb42b4eb2d2bc30beb7fda",
+    "mintable": false,
+    "ethereum_address": "0xf17920b4fed4f9670bf038fb4f148f186d3f6a2c"
+}
