@@ -1,0 +1,8 @@
+{
+    "symbol": "AWS",
+    "name": "AurusSILVER (PoS)",
+    "decimals": 18,
+    "address": "0xa96d47c621a8316d4f9539e3b38180c7067e84ca",
+    "mintable": false,
+    "ethereum_address": "0xb89903dde3899f0280b99913168ee833a7896b93"
+}
