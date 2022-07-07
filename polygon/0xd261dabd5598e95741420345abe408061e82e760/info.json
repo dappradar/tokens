@@ -1,0 +1,8 @@
+{
+    "symbol": "LATE",
+    "name": "LateDAO (PoS)",
+    "decimals": 0,
+    "address": "0xd261dabd5598e95741420345abe408061e82e760",
+    "mintable": false,
+    "ethereum_address": "0x9717e477cc5869a4a228361492b9bf7b8db58582"
+}
