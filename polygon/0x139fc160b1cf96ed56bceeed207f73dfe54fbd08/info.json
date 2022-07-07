@@ -1,0 +1,8 @@
+{
+    "symbol": "SDI",
+    "name": "Smart DeFi Index (PoS)",
+    "decimals": 18,
+    "address": "0x139fc160b1cf96ed56bceeed207f73dfe54fbd08",
+    "mintable": false,
+    "ethereum_address": "0xfd81369a36777f20c8452d39bbd1add9e43c9510"
+}
