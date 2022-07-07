@@ -1,0 +1,8 @@
+{
+    "symbol": "USDD",
+    "name": "Decentralized USD (PoS)",
+    "decimals": 18,
+    "address": "0xffa4d863c96e743a2e1513824ea006b8d0353c57",
+    "mintable": false,
+    "ethereum_address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6"
+}
