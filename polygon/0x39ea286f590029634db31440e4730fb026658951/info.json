@@ -1,0 +1,8 @@
+{
+    "symbol": "TRADE",
+    "name": "Trade Offer (PoS)",
+    "decimals": 18,
+    "address": "0x39ea286f590029634db31440e4730fb026658951",
+    "mintable": false,
+    "ethereum_address": "0xd20183c18277161e651e5def4af8919eede43fd6"
+}
