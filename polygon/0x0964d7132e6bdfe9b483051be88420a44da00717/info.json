@@ -1,0 +1,8 @@
+{
+    "symbol": "YZR",
+    "name": "YzerChain (PoS)",
+    "decimals": 18,
+    "address": "0x0964d7132e6bdfe9b483051be88420a44da00717",
+    "mintable": false,
+    "ethereum_address": "0xf58a5cbf8c21605e3f1ab740c09489fea11e297d"
+}
