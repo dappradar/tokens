@@ -1,0 +1,8 @@
+{
+    "symbol": "SD",
+    "name": "Stader (PoS)",
+    "decimals": 18,
+    "address": "0x1d734a02ef1e1f5886e66b0673b71af5b53ffa94",
+    "mintable": false,
+    "ethereum_address": "0x30d20208d987713f46dfd34ef128bb16c404d10f"
+}
