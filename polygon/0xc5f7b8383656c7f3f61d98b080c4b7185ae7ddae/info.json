@@ -1,0 +1,8 @@
+{
+    "symbol": "SHIRE",
+    "name": "SHIRE (PoS)",
+    "decimals": 18,
+    "address": "0xc5f7b8383656c7f3f61d98b080c4b7185ae7ddae",
+    "mintable": false,
+    "ethereum_address": "0xfb4b49da726374f1e6d982a187111feb541dc9f6"
+}
