@@ -1,0 +1,8 @@
+{
+    "symbol": "PTX",
+    "name": "Pass token (PoS)",
+    "decimals": 18,
+    "address": "0xe818088d6f66998e8c3e0e8c2758c6780d8d71b4",
+    "mintable": false,
+    "ethereum_address": "0x3a6700516a46dbeef6768e322d4248a81c580f15"
+}
