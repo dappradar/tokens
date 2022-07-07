@@ -1,0 +1,8 @@
+{
+    "symbol": "CLINU",
+    "name": "Classic Luna Inu (PoS)",
+    "decimals": 18,
+    "address": "0xd8a789e291f3b2f15ec3ddd06f82d30d9a3d01f1",
+    "mintable": false,
+    "ethereum_address": "0x76cc895a0cb822a50d03ccafc7e99f2ba9462b25"
+}
