@@ -1,0 +1,8 @@
+{
+    "symbol": "2GT",
+    "name": "2GT_token (PoS)",
+    "decimals": 18,
+    "address": "0x4616190f26703d9775fbceaed4f9bd6c3863215e",
+    "mintable": false,
+    "ethereum_address": "0xc96c1609a1a45ccc667b2b7fa6508e29617f7b69"
+}
