@@ -1,0 +1,8 @@
+{
+    "symbol": "IOST",
+    "name": "Wrapped IOST (PoS)",
+    "decimals": 18,
+    "address": "0xb3731722807b6f37e2afbdf19fe6c352caf92db5",
+    "mintable": false,
+    "ethereum_address": "0xf063dc5160721a3c35a9a853a4498fff32e9883b"
+}
