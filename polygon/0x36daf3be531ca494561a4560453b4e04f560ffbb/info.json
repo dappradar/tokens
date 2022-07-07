@@ -1,0 +1,8 @@
+{
+    "symbol": "BAYC",
+    "name": "Testnet BAYC (PoS)",
+    "decimals": 0,
+    "address": "0x36daf3be531ca494561a4560453b4e04f560ffbb",
+    "mintable": false,
+    "ethereum_address": "0x42e82cda993d26cd9f1ffb0944d565549e46b289"
+}
