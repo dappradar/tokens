@@ -1,0 +1,8 @@
+{
+    "symbol": "WINTER",
+    "name": "Winter Token (PoS)",
+    "decimals": 18,
+    "address": "0x51540d15957bdc0fdb87d32616c8d658d59f77c6",
+    "mintable": false,
+    "ethereum_address": "0xccba0b2bc4babe4cbfb6bd2f1edc2a9e86b7845f"
+}
