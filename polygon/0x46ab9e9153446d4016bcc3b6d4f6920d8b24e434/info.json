@@ -1,0 +1,8 @@
+{
+    "symbol": "TIC",
+    "name": "Token of Infinite Choice (PoS)",
+    "decimals": 18,
+    "address": "0x46ab9e9153446d4016bcc3b6d4f6920d8b24e434",
+    "mintable": false,
+    "ethereum_address": "0x549e4d92285ff5a16c9484ff79211e4358b1f202"
+}
