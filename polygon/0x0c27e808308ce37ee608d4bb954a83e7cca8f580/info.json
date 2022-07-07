@@ -1,0 +1,8 @@
+{
+    "symbol": "CULT",
+    "name": "Cult DAO (PoS)",
+    "decimals": 18,
+    "address": "0x0c27e808308ce37ee608d4bb954a83e7cca8f580",
+    "mintable": false,
+    "ethereum_address": "0xf0f9d895aca5c8678f706fb8216fa22957685a13"
+}
