@@ -1,0 +1,8 @@
+{
+    "symbol": "JPYX",
+    "name": "JPYX (PoS)",
+    "decimals": 18,
+    "address": "0x067ca612b0ac012fb48f466f9c11ba288a87afcb",
+    "mintable": false,
+    "ethereum_address": "0xdafa174a641d8585855dfd71c9653679f693bd5d"
+}
