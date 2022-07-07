@@ -1,0 +1,8 @@
+{
+    "symbol": "THALES",
+    "name": "Thales DAO Token (PoS)",
+    "decimals": 18,
+    "address": "0x692c44990e4f408ba0917f5c78a83160c1557237",
+    "mintable": false,
+    "ethereum_address": "0x8947da500eb47f82df21143d0c01a29862a8c3c5"
+}
