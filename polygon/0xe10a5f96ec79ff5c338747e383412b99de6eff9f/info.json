@@ -1,0 +1,8 @@
+{
+    "symbol": "GCR",
+    "name": "Global Currency Restart (PoS)",
+    "decimals": 18,
+    "address": "0xe10a5f96ec79ff5c338747e383412b99de6eff9f",
+    "mintable": false,
+    "ethereum_address": "0x50f7517029c505933cb5d6e9c897245226f4317b"
+}
