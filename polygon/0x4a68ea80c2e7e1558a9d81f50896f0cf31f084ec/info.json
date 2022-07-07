@@ -1,0 +1,8 @@
+{
+    "symbol": "LETSB",
+    "name": "Let's Benchmark (PoS)",
+    "decimals": 18,
+    "address": "0x4a68ea80c2e7e1558a9d81f50896f0cf31f084ec",
+    "mintable": false,
+    "ethereum_address": "0xe31cfab178197b705d30022ae79677b6d23f835d"
+}
