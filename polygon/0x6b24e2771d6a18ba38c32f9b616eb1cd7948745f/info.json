@@ -1,0 +1,8 @@
+{
+    "symbol": "SYC",
+    "name": "SynchroCoin (PoS)",
+    "decimals": 18,
+    "address": "0x6b24e2771d6a18ba38c32f9b616eb1cd7948745f",
+    "mintable": false,
+    "ethereum_address": "0xe49214e4c92dc9bcb3b56c1309afe0d626dd730e"
+}
