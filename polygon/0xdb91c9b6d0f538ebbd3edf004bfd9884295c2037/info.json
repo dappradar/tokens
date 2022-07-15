@@ -1,0 +1,8 @@
+{
+    "symbol": "LINU",
+    "name": "Luna Inu (PoS)",
+    "decimals": 18,
+    "address": "0xdb91c9b6d0f538ebbd3edf004bfd9884295c2037",
+    "mintable": false,
+    "ethereum_address": "0x78132543d8e20d2417d8a07d9ae199d458a0d581"
+}
