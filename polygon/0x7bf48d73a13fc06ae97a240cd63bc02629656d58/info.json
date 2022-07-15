@@ -1,0 +1,8 @@
+{
+    "symbol": "INFI",
+    "name": "INFI (PoS)",
+    "decimals": 18,
+    "address": "0x7bf48d73a13fc06ae97a240cd63bc02629656d58",
+    "mintable": false,
+    "ethereum_address": "0x159751323a9e0415dd3d6d42a1212fe9f4a0848c"
+}
