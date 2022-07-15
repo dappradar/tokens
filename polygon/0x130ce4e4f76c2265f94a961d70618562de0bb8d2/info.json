@@ -1,0 +1,6 @@
+{
+    "symbol": "IBTC-FLI-P",
+    "name": "Inverse BTC Flexible Leverage Index",
+    "decimals": 18,
+    "address": "0x130ce4e4f76c2265f94a961d70618562de0bb8d2"
+}
