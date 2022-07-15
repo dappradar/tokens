@@ -1,0 +1,8 @@
+{
+    "symbol": "WRG",
+    "name": "WlunaRichGang (PoS)",
+    "decimals": 18,
+    "address": "0x58ddbac6307b0baa41291f82b42db57cc3462aa8",
+    "mintable": false,
+    "ethereum_address": "0xc1adf61b3a61a2a09fb763ce81f105d60ee6ecef"
+}
