@@ -1,0 +1,8 @@
+{
+    "symbol": "SNAX",
+    "name": "snax (PoS)",
+    "decimals": 4,
+    "address": "0x7c0b464253d7e97aeb43e87887ad8b0ca29315d8",
+    "mintable": false,
+    "ethereum_address": "0x1d2dac9a2582e35463c12cd5fdf175afc7bb4f3a"
+}
