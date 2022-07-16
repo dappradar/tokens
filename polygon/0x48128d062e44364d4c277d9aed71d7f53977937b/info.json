@@ -1,0 +1,6 @@
+{
+    "symbol": "PAY",
+    "name": "Webpay",
+    "decimals": 18,
+    "address": "0x48128d062e44364d4c277d9aed71d7f53977937b"
+}
