@@ -1,0 +1,8 @@
+{
+    "symbol": "EURe",
+    "name": "Monerium EUR emoney (PoS)",
+    "decimals": 18,
+    "address": "0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6",
+    "mintable": true,
+    "ethereum_address": "0x75792cbdb361d80ba89271a079efee62c29fa324"
+}
