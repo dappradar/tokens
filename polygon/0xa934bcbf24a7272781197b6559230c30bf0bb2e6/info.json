@@ -1,0 +1,8 @@
+{
+    "symbol": "DOWN",
+    "name": "$DOWN Vault (PoS)",
+    "decimals": 18,
+    "address": "0xa934bcbf24a7272781197b6559230c30bf0bb2e6",
+    "mintable": false,
+    "ethereum_address": "0xcfe4a93c6b0930bd46a8b375f113c9f398c27375"
+}
