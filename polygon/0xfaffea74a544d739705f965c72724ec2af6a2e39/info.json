@@ -1,0 +1,8 @@
+{
+    "symbol": "eUSD",
+    "name": "Telcoin USD (PoS)",
+    "decimals": 6,
+    "address": "0xfaffea74a544d739705f965c72724ec2af6a2e39",
+    "mintable": false,
+    "ethereum_address": "0xa843564b6bdc23d5e53292652e6a9ad295589791"
+}
