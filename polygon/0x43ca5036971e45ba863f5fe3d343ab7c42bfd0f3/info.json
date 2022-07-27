@@ -1,0 +1,8 @@
+{
+    "symbol": "eGBP",
+    "name": "Telcoin GBP (PoS)",
+    "decimals": 6,
+    "address": "0x43ca5036971e45ba863f5fe3d343ab7c42bfd0f3",
+    "mintable": false,
+    "ethereum_address": "0xd91cf0f79a0dfc048b2973e3d66929ab6ddb6be7"
+}
