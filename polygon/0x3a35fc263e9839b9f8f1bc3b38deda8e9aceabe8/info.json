@@ -1,0 +1,8 @@
+{
+    "symbol": "ePHP",
+    "name": "Telcoin PHP (PoS)",
+    "decimals": 6,
+    "address": "0x3a35fc263e9839b9f8f1bc3b38deda8e9aceabe8",
+    "mintable": false,
+    "ethereum_address": "0x04c82ee70b241f1115487ed6800eae42da4a080f"
+}
