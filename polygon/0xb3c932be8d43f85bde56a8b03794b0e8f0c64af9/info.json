@@ -1,0 +1,8 @@
+{
+    "symbol": "eEUR",
+    "name": "Telcoin EUR (PoS)",
+    "decimals": 6,
+    "address": "0xb3c932be8d43f85bde56a8b03794b0e8f0c64af9",
+    "mintable": false,
+    "ethereum_address": "0x0c3145117850f3aca5342999ad67ac558a01c893"
+}
