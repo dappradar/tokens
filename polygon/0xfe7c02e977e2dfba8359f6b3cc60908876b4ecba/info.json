@@ -1,0 +1,8 @@
+{
+    "symbol": "eBRL",
+    "name": "Telcoin BRL (PoS)",
+    "decimals": 6,
+    "address": "0xfe7c02e977e2dfba8359f6b3cc60908876b4ecba",
+    "mintable": false,
+    "ethereum_address": "0x3b6f375e7a4c9214a9c419229cf25ddd126872aa"
+}
