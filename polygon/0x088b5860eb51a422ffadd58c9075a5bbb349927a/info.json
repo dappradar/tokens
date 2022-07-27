@@ -1,0 +1,8 @@
+{
+    "symbol": "LAND",
+    "name": "LandBox (PoS)",
+    "decimals": 18,
+    "address": "0x088b5860eb51a422ffadd58c9075a5bbb349927a",
+    "mintable": false,
+    "ethereum_address": "0x0e2ef8aecb3c01ad5d596f1b67134e178199984d"
+}
