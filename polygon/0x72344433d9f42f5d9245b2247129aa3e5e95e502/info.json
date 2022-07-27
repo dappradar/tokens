@@ -1,0 +1,8 @@
+{
+    "symbol": "eINR",
+    "name": "Telcoin INR (PoS)",
+    "decimals": 6,
+    "address": "0x72344433d9f42f5d9245b2247129aa3e5e95e502",
+    "mintable": false,
+    "ethereum_address": "0xbed102c6209e27c27fd90a2d3602a930614a2841"
+}
