@@ -1,0 +1,8 @@
+{
+    "symbol": "eCLP",
+    "name": "Telcoin CLP (PoS)",
+    "decimals": 6,
+    "address": "0x1ae395f46940cfb44324484121ba59a09f838311",
+    "mintable": false,
+    "ethereum_address": "0x2eba034a12bb4222c572a3575b62dbd2a6ee10a9"
+}
