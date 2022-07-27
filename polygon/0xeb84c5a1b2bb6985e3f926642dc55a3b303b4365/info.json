@@ -1,0 +1,8 @@
+{
+    "symbol": "eNOK",
+    "name": "Telcoin NOK (PoS)",
+    "decimals": 6,
+    "address": "0xeb84c5a1b2bb6985e3f926642dc55a3b303b4365",
+    "mintable": false,
+    "ethereum_address": "0x8f51741c0462c9aef716949a4f0a7c44ad4c81b1"
+}
