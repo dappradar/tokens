@@ -1,0 +1,8 @@
+{
+    "symbol": "eSEK",
+    "name": "Telcoin SEK (PoS)",
+    "decimals": 6,
+    "address": "0x61bfa04ad7a44f4c7f8ce3e2291fca6a05e16043",
+    "mintable": false,
+    "ethereum_address": "0xb5be2813a840f29b1a1288e581741919131859f5"
+}
