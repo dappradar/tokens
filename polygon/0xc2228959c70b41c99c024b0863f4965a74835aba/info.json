@@ -1,0 +1,8 @@
+{
+    "symbol": "eIDR",
+    "name": "Telcoin IDR (PoS)",
+    "decimals": 6,
+    "address": "0xc2228959c70b41c99c024b0863f4965a74835aba",
+    "mintable": false,
+    "ethereum_address": "0x1033b895745710a9d868930181b91602d191b538"
+}
