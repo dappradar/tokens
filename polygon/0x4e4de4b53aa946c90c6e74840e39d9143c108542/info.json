@@ -1,0 +1,8 @@
+{
+    "symbol": "eKRW",
+    "name": "Telcoin KRW (PoS)",
+    "decimals": 6,
+    "address": "0x4e4de4b53aa946c90c6e74840e39d9143c108542",
+    "mintable": false,
+    "ethereum_address": "0x673d17060a6460cd88ef03d2dbd0ecd8c8b78d09"
+}
