@@ -1,0 +1,8 @@
+{
+    "symbol": "eCHF",
+    "name": "Telcoin CHF (PoS)",
+    "decimals": 6,
+    "address": "0xc8146fa3e8ed8cfbc705a2dcf28af32995696f9a",
+    "mintable": false,
+    "ethereum_address": "0x71df526bbc174b5f0a7adc408de06e09b7534c52"
+}
