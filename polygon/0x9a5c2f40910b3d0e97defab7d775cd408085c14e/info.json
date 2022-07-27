@@ -1,0 +1,8 @@
+{
+    "symbol": "WRAC",
+    "name": "WERACLE Coin (PoS)",
+    "decimals": 18,
+    "address": "0x9a5c2f40910b3d0e97defab7d775cd408085c14e",
+    "mintable": true,
+    "ethereum_address": "0x084556dbb1b8ceb03b73f90d278222422379c890"
+}
