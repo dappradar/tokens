@@ -1,0 +1,8 @@
+{
+    "symbol": "ePEN",
+    "name": "Telcoin PEN (PoS)",
+    "decimals": 6,
+    "address": "0x57204979b8f5383b9ed5944893d9d3436e09b273",
+    "mintable": false,
+    "ethereum_address": "0x79ddc71e7920d45c24eca10541127f667cf09439"
+}
