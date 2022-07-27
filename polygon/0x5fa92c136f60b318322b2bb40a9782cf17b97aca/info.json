@@ -1,0 +1,8 @@
+{
+    "symbol": "eNZD",
+    "name": "Telcoin NZD (PoS)",
+    "decimals": 6,
+    "address": "0x5fa92c136f60b318322b2bb40a9782cf17b97aca",
+    "mintable": false,
+    "ethereum_address": "0x42180fab11f054bc1e64ec7be9fa03a8a29424ce"
+}
