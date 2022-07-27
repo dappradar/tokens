@@ -1,0 +1,8 @@
+{
+    "symbol": "eAUD",
+    "name": "Telcoin AUD (PoS)",
+    "decimals": 6,
+    "address": "0xd97876ed5224b3f8f771b429fe07fb44744c863d",
+    "mintable": false,
+    "ethereum_address": "0x4a19eb053d2c65fdbf6c63d877df5bbca9d9137d"
+}
