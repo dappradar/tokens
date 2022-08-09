@@ -1,0 +1,8 @@
+{
+    "symbol": "EBTCQ",
+    "name": "EmberBTCQuant (PoS)",
+    "decimals": 18,
+    "address": "0xe62b645380847af3768e8984c1235b9bef2ce442",
+    "mintable": false,
+    "ethereum_address": "0x430a35baa51ddeaccf89092a5edbda47aaae78e4"
+}
