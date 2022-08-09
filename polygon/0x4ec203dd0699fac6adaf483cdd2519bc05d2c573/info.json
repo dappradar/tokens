@@ -1,0 +1,8 @@
+{
+    "symbol": "CBK",
+    "name": "Cobak Token (PoS)",
+    "decimals": 18,
+    "address": "0x4ec203dd0699fac6adaf483cdd2519bc05d2c573",
+    "mintable": false,
+    "ethereum_address": "0xd85a6ae55a7f33b0ee113c234d2ee308edeaf7fd"
+}
