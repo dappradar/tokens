@@ -1,0 +1,8 @@
+{
+    "symbol": "MOON",
+    "name": "Meme Moonshot (PoS)",
+    "decimals": 18,
+    "address": "0x06f6ac35344b507a7645faf69f3be46afa4e41ec",
+    "mintable": false,
+    "ethereum_address": "0x2e57b03a68c2ec232dbf11b6680feb67d388e262"
+}
