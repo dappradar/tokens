@@ -1,0 +1,8 @@
+{
+    "symbol": "DRC",
+    "name": "Dream Car (PoS)",
+    "decimals": 18,
+    "address": "0x17c0a6d1911b625a9156814a7e1df26923af4051",
+    "mintable": false,
+    "ethereum_address": "0xd7f5cabdf696d7d1bf384d7688926a4bdb092c67"
+}
