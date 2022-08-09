@@ -1,0 +1,8 @@
+{
+    "symbol": "EDI",
+    "name": "Ember Defi Index (PoS)",
+    "decimals": 18,
+    "address": "0x5b758874cf1827050b8d363ab6f88353c6e7541d",
+    "mintable": false,
+    "ethereum_address": "0x7ee37a2d4b5f36028a5fae6cd09e775436561b09"
+}
