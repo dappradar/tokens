@@ -1,0 +1,8 @@
+{
+    "symbol": "YCETH",
+    "name": "Yield Compounding ETH (PoS)",
+    "decimals": 18,
+    "address": "0xf6d23100857e27c4a00f10318f6492e3f78920f0",
+    "mintable": false,
+    "ethereum_address": "0xa87cf5a471815b89ffca5f1198a89384dba5c882"
+}
