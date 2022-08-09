@@ -1,0 +1,8 @@
+{
+    "symbol": "NEDU",
+    "name": "$New Education Information News Token (PoS)",
+    "decimals": 18,
+    "address": "0xa52d283c7dd21505a4194b75c32137b84e9cbfa9",
+    "mintable": false,
+    "ethereum_address": "0xf1d29fc514962648db9a4b9ad9af47ff4e4c9c06"
+}
