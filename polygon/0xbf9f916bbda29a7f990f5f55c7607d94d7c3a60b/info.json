@@ -1,0 +1,8 @@
+{
+    "symbol": "DEFY",
+    "name": "DEFY (PoS)",
+    "decimals": 18,
+    "address": "0xbf9f916bbda29a7f990f5f55c7607d94d7c3a60b",
+    "mintable": false,
+    "ethereum_address": "0x205ed31c867bf715e4182137af95afe9177cd8e7"
+}
