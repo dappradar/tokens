@@ -1,0 +1,8 @@
+{
+    "symbol": "WCI",
+    "name": "Web3 Core Index (PoS)",
+    "decimals": 18,
+    "address": "0x4adbbf600540715af4c2e0b9cb64fd9a859bec82",
+    "mintable": false,
+    "ethereum_address": "0x745fd972e662e9a921d753459b8e7f0ffd7627cd"
+}
