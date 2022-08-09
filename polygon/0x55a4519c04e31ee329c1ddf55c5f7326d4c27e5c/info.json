@@ -1,0 +1,8 @@
+{
+    "symbol": "YETHX",
+    "name": "Yield Compounding ETH X (PoS)",
+    "decimals": 18,
+    "address": "0x55a4519c04e31ee329c1ddf55c5f7326d4c27e5c",
+    "mintable": false,
+    "ethereum_address": "0x3255543b518a7b4114edc30dbf61bbd28d730fd1"
+}
