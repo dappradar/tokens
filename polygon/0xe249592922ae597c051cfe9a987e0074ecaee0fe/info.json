@@ -1,0 +1,8 @@
+{
+    "symbol": "ELEMENT",
+    "name": "CARBON Elements (PoS)",
+    "decimals": 18,
+    "address": "0xe249592922ae597c051cfe9a987e0074ecaee0fe",
+    "mintable": false,
+    "ethereum_address": "0x1d5687ea12f89ca72be21c22a4455b8db26f496b"
+}
