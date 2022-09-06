@@ -1,0 +1,8 @@
+{
+    "symbol": "ARCD",
+    "name": "Arcadia (PoS)",
+    "decimals": 18,
+    "address": "0x3032198fab7c1c614985687a666598be81eb7430",
+    "mintable": true,
+    "ethereum_address": "0x6204307a0da24e623efe9b3a9f56799cee4f3bd4"
+}
