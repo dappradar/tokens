@@ -1,0 +1,8 @@
+{
+    "symbol": "ella",
+    "name": "ella.Fund (PoS)",
+    "decimals": 18,
+    "address": "0x15b0e16082e9a86c7d29af43ac521cdff4e08866",
+    "mintable": false,
+    "ethereum_address": "0x429f49faec3d568ef83ec803e02df78e25d5ee7d"
+}
