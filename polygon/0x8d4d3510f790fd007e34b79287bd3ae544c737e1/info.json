@@ -1,0 +1,8 @@
+{
+    "symbol": "DEB",
+    "name": "Daon (PoS)",
+    "decimals": 5,
+    "address": "0x8d4d3510f790fd007e34b79287bd3ae544c737e1",
+    "mintable": false,
+    "ethereum_address": "0x80504f30f38b4149d95fae61bde9f3ee204ea9d5"
+}
