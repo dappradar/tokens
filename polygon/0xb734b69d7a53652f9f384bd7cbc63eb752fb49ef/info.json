@@ -1,0 +1,8 @@
+{
+    "symbol": "yvUSDC",
+    "name": "USDC yVault (PoS)",
+    "decimals": 6,
+    "address": "0xb734b69d7a53652f9f384bd7cbc63eb752fb49ef",
+    "mintable": false,
+    "ethereum_address": "0xa354f35829ae975e850e23e9615b11da1b3dc4de"
+}
