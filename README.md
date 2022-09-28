@@ -2,12 +2,12 @@
 
 ## Overview
 
-DappRadar tokens repository is collection of information about crypto tokens.
+DappRadar tokens repository is a collection of information about crypto tokens.
 
 [DappRadar](https://dappradar.com/) uses this repository when displaying tokens and various assets in [Portfolio Tracker](https://dappradar.com/hub/wallet)
 and other products.
 
-Collection is maintained through community support, to add your token
+The collection is maintained through community support, to add your token
 please read [contribution guidelines](https://github.com/dappradar/tokens#contributing).
 
 ## Documentation
@@ -16,12 +16,12 @@ please read [contribution guidelines](https://github.com/dappradar/tokens#contri
 
 Token information is separated into directories by blockchain
 
-- _binance-smart-chain_
-- _ethereum_
-- _polygon_
+- _Binance Smart Chain_
+- _Ethereum_
+- _Polygon_
 - etc
 
-Inside every blockchain tokens have their own directory where information resides.
+Inside every blockchain, tokens have their own directory where the information resides.
 
 Each token contains a required logo file in PNG format
 
