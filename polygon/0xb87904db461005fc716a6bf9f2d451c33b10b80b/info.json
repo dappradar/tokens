@@ -1,0 +1,8 @@
+{
+    "symbol": "AMKT",
+    "name": "Alongside Crypto Market Index (PoS)",
+    "decimals": 18,
+    "address": "0xb87904db461005fc716a6bf9f2d451c33b10b80b",
+    "mintable": false,
+    "ethereum_address": "0xf17a3fe536f8f7847f1385ec1bc967b2ca9cae8d"
+}
