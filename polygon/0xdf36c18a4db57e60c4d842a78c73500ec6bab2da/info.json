@@ -1,0 +1,8 @@
+{
+    "symbol": "TEL",
+    "name": "Telcoin (PoS)",
+    "decimals": 18,
+    "address": "0xdf36c18a4db57e60c4d842a78c73500ec6bab2da",
+    "mintable": false,
+    "ethereum_address": "0xd15d76ec6f06f1d93a3fd3dbb4836100dca5cbe9"
+}
