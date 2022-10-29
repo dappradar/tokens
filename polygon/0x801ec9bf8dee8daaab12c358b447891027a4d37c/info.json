@@ -1,0 +1,8 @@
+{
+    "symbol": "CRU",
+    "name": "CRUST (PoS)",
+    "decimals": 18,
+    "address": "0x801ec9bf8dee8daaab12c358b447891027a4d37c",
+    "mintable": false,
+    "ethereum_address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41"
+}
