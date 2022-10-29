@@ -1,0 +1,8 @@
+{
+    "symbol": "NTH",
+    "name": "NTH (PoS)",
+    "decimals": 18,
+    "address": "0x8a105a002ae4929a68748c36a22b036d0ab2bd60",
+    "mintable": false,
+    "ethereum_address": "0x671b710a006040cd82a8070abd497a7215ce6f67"
+}
