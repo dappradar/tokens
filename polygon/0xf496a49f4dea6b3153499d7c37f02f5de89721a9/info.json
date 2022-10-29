@@ -1,0 +1,8 @@
+{
+    "symbol": "VOLO",
+    "name": "VoloCoin (PoS)",
+    "decimals": 18,
+    "address": "0xf496a49f4dea6b3153499d7c37f02f5de89721a9",
+    "mintable": false,
+    "ethereum_address": "0x0825e73a3d1408dd01b3409df00b03b7436d4873"
+}
