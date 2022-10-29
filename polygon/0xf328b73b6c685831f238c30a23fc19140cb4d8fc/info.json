@@ -1,0 +1,8 @@
+{
+    "symbol": "ACX",
+    "name": "Across Protocol Token (PoS)",
+    "decimals": 18,
+    "address": "0xf328b73b6c685831f238c30a23fc19140cb4d8fc",
+    "mintable": false,
+    "ethereum_address": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f"
+}
