@@ -1,0 +1,8 @@
+{
+    "symbol": "CROMY",
+    "name": "Cromy Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0x5c29544c7b3bc139e1c49db78b44d9862b5c8490",
+    "mintable": false,
+    "ethereum_address": "0xbaddc984ef674c76c89c7ac310a65fd2078a70f2"
+}
