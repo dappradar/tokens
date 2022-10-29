@@ -1,0 +1,8 @@
+{
+    "symbol": "MCH",
+    "name": "MeconCash (PoS)",
+    "decimals": 8,
+    "address": "0xdd6f82812522c1b6ae5f9daccc12ebe26d3acf07",
+    "mintable": false,
+    "ethereum_address": "0xa5e262ec733051b14b38901901a82f2684637e78"
+}
