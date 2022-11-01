@@ -1,0 +1,8 @@
+{
+    "symbol": "AITECH",
+    "name": "AITECH (PoS)",
+    "decimals": 18,
+    "address": "0x6ce6d191d2c8782af8a45d8375537ef6b63dd7f8",
+    "mintable": false,
+    "ethereum_address": "0x359334f6d14b29636c7a56d59e16b452934bf855"
+}
