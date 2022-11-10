@@ -1,0 +1,8 @@
+{
+    "symbol": "ANX",
+    "name": "Anxtrom (PoS)",
+    "decimals": 18,
+    "address": "0x24236e003e31b9dbd4fa84bdf2bfb47efadcac3e",
+    "mintable": false,
+    "ethereum_address": "0x977ed44adf34b3c8515f9fcd690541453d064e78"
+}
