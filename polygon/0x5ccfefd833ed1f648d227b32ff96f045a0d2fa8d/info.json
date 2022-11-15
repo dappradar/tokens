@@ -1,0 +1,8 @@
+{
+    "symbol": "FSCC",
+    "name": "FiscoCoin (PoS)",
+    "decimals": 8,
+    "address": "0x5ccfefd833ed1f648d227b32ff96f045a0d2fa8d",
+    "mintable": false,
+    "ethereum_address": "0x0789dbae94fb18e5789b8e4489bcb7a1adb58622"
+}

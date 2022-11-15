@@ -1,0 +1,8 @@
+{
+    "symbol": "PYQ",
+    "name": "pYqcoin (PoS)",
+    "decimals": 8,
+    "address": "0x436028ca57f3d72964ed846a3667d3b8f44b245f",
+    "mintable": false,
+    "ethereum_address": "0x8ce2906792b4a74c546727f9332c74e6d8304bb2"
+}

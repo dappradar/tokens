@@ -1,0 +1,8 @@
+{
+    "symbol": "ASIA",
+    "name": "ASIA COIN (PoS)",
+    "decimals": 18,
+    "address": "0x50bcbc40306230713239ae1bddd5eefeeaa273dc",
+    "mintable": false,
+    "ethereum_address": "0xf519381791c03dd7666c142d4e49fd94d3536011"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "YJM",
+    "name": "YunJiaMi (PoS)",
+    "decimals": 18,
+    "address": "0x223097da39cb07fa133d70cd820f27867b4452c3",
+    "mintable": false,
+    "ethereum_address": "0x27bc53596dc0ea71de3c65c799d8e6c96c1dda98"
+}

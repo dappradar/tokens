@@ -1,0 +1,8 @@
+{
+    "symbol": "CBD",
+    "name": "CybeeDAO (PoS)",
+    "decimals": 18,
+    "address": "0x73a79f01c3365b6b50101b47860f428a8c3cebff",
+    "mintable": false,
+    "ethereum_address": "0x9b812c65529ec7d20ab630235ae20fde022c8ad3"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "ARMOR",
+    "name": "Armor (PoS)",
+    "decimals": 18,
+    "address": "0x5de4005155933c0e1612ce808f12b4cd8daabc82",
+    "mintable": false,
+    "ethereum_address": "0x1337def16f9b486faed0293eb623dc8395dfe46a"
+}

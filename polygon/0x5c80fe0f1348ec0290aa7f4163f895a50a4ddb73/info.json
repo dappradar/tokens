@@ -1,0 +1,8 @@
+{
+    "symbol": "SEVEN",
+    "name": "Satoshi Nakamoto (PoS)",
+    "decimals": 8,
+    "address": "0x5c80fe0f1348ec0290aa7f4163f895a50a4ddb73",
+    "mintable": false,
+    "ethereum_address": "0x0466fb3aec9c9bfc87ae909fcb531e917bb48230"
+}

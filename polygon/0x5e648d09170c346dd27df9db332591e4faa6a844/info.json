@@ -1,0 +1,8 @@
+{
+    "symbol": "SYNC",
+    "name": "Sync Network  (PoS)",
+    "decimals": 18,
+    "address": "0x5e648d09170c346dd27df9db332591e4faa6a844",
+    "mintable": false,
+    "ethereum_address": "0xb6ff96b8a8d214544ca0dbc9b33f7ad6503efd32"
+}

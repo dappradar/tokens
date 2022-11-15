@@ -1,0 +1,8 @@
+{
+    "symbol": "WFAIR",
+    "name": "WFAIR Token (PoS)",
+    "decimals": 18,
+    "address": "0xb6b5cdf74606181a1b05bfc0b9f17fc2a64b0cd5",
+    "mintable": false,
+    "ethereum_address": "0xc6065b9fc8171ad3d29bad510709249681758972"
+}

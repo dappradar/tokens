@@ -1,0 +1,8 @@
+{
+    "symbol": "Unity",
+    "name": "UNITY (PoS)",
+    "decimals": 18,
+    "address": "0x9d7313e23c29e6d314a160a3ff345a2f7ab0f3f5",
+    "mintable": true,
+    "ethereum_address": "0x8fc1a87af3ad30a90caa197b6c7adb80d9f2ac44"
+}

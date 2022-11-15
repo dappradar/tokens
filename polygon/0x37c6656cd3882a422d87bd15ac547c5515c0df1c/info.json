@@ -1,0 +1,8 @@
+{
+    "symbol": "BAB",
+    "name": "BAB (PoS)",
+    "decimals": 18,
+    "address": "0x37c6656cd3882a422d87bd15ac547c5515c0df1c",
+    "mintable": false,
+    "ethereum_address": "0xc36824905dff2eaaee7ecc09fcc63abc0af5abc5"
+}

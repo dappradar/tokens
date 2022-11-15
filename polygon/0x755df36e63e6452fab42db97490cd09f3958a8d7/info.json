@@ -1,0 +1,8 @@
+{
+    "symbol": "ZOOBY",
+    "name": "NFT Zoo (PoS)",
+    "decimals": 18,
+    "address": "0x755df36e63e6452fab42db97490cd09f3958a8d7",
+    "mintable": false,
+    "ethereum_address": "0xccddbab85426b81b6b2d5d804510aae07cb0d7e1"
+}

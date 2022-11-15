@@ -1,0 +1,8 @@
+{
+    "symbol": "CHZ",
+    "name": "CHZ (PoS)",
+    "decimals": 18,
+    "address": "0xf1938ce12400f9a761084e7a80d37e732a4da056",
+    "mintable": false,
+    "ethereum_address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
+}

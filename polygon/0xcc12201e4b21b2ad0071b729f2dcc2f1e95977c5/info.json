@@ -1,0 +1,8 @@
+{
+    "symbol": "NMT",
+    "name": "NFTMart Token (PoS)",
+    "decimals": 18,
+    "address": "0xcc12201e4b21b2ad0071b729f2dcc2f1e95977c5",
+    "mintable": false,
+    "ethereum_address": "0xd81b71cbb89b2800cdb000aa277dc1491dc923c3"
+}

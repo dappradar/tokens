@@ -1,0 +1,8 @@
+{
+    "symbol": "AGLD",
+    "name": "Adventure Gold (PoS)",
+    "decimals": 18,
+    "address": "0x6a6bd53d677f8632631662c48bd47b1d4d6524ee",
+    "mintable": false,
+    "ethereum_address": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20"
+}

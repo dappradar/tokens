@@ -1,0 +1,8 @@
+{
+    "symbol": "VERI",
+    "name": "Veritaseum (PoS)",
+    "decimals": 18,
+    "address": "0xa8fc7cd1ea3a65574368faddb4b1190aa3fd6560",
+    "mintable": false,
+    "ethereum_address": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374"
+}

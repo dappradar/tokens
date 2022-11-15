@@ -1,0 +1,8 @@
+{
+    "symbol": "FXF",
+    "name": "Finxflo (PoS)",
+    "decimals": 18,
+    "address": "0xaef52faedd3b9f9c0deee748f744073e9069a7c0",
+    "mintable": false,
+    "ethereum_address": "0x8a40c222996f9f3431f63bf80244c36822060f12"
+}

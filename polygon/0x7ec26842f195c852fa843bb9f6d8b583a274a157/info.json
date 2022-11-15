@@ -1,0 +1,8 @@
+{
+    "symbol": "ENJ",
+    "name": "Enjin Coin (PoS)",
+    "decimals": 18,
+    "address": "0x7ec26842f195c852fa843bb9f6d8b583a274a157",
+    "mintable": false,
+    "ethereum_address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "DUST",
+    "name": "Distant Universe Stardust Token",
+    "decimals": 8,
+    "address": "0x556f501cf8a43216df5bc9cc57eb04d4ffaa9e6d",
+    "mintable": false,
+    "ethereum_address": "0xbca3c97837a39099ec3082df97e28ce91be14472"
+}

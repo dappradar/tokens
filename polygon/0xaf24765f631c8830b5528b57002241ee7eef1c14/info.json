@@ -1,0 +1,8 @@
+{
+    "symbol": "IOI",
+    "name": "IOI Token  (PoS)",
+    "decimals": 6,
+    "address": "0xaf24765f631c8830b5528b57002241ee7eef1c14",
+    "mintable": false,
+    "ethereum_address": "0x8b3870df408ff4d7c3a26df852d41034eda11d81"
+}

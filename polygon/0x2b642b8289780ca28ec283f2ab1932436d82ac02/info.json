@@ -1,0 +1,8 @@
+{
+    "symbol": "Skey",
+    "name": "SmartKey (PoS)",
+    "decimals": 8,
+    "address": "0x2b642b8289780ca28ec283f2ab1932436d82ac02",
+    "mintable": false,
+    "ethereum_address": "0x06a01a4d579479dd5d884ebf61a31727a3d8d442"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "BRIX",
+    "name": "BRIX Token (PoS)",
+    "decimals": 18,
+    "address": "0xabffedaf784dc40a4c1947f9d5ddb3afe2075353",
+    "mintable": false,
+    "ethereum_address": "0x8f10eb64923bf30215e7944c416e891d30e742a1"
+}

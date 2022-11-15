@@ -1,0 +1,8 @@
+{
+    "symbol": "MOONPUG",
+    "name": "Moon Pug (PoS)",
+    "decimals": 9,
+    "address": "0x14f2af758c62aa1de8c9e48e1de363826b087453",
+    "mintable": false,
+    "ethereum_address": "0x856710ea0007af7bdc387fe54f64db51dddaf0a2"
+}

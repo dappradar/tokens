@@ -1,0 +1,8 @@
+{
+    "symbol": "eMAID",
+    "name": "MaidSafeCoin (PoS)",
+    "decimals": 18,
+    "address": "0xb1436a7d7ff93bfae52928bd308fe80a866b66ac",
+    "mintable": false,
+    "ethereum_address": "0x329c6e459ffa7475718838145e5e85802db2a303"
+}

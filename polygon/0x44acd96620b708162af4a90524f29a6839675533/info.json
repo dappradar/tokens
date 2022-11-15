@@ -1,0 +1,8 @@
+{
+    "symbol": "TCGC",
+    "name": "TCGCoin (PoS)",
+    "decimals": 18,
+    "address": "0x44acd96620b708162af4a90524f29a6839675533",
+    "mintable": false,
+    "ethereum_address": "0x2ffde077455f81e28baa675a46b9c085740216d4"
+}

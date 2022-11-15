@@ -1,0 +1,8 @@
+{
+    "symbol": "Matic Index",
+    "name": "MTI (PoS)",
+    "decimals": 18,
+    "address": "0xf8cf80f34a9329dcd554129eb25658fcf7d2f401",
+    "mintable": true,
+    "ethereum_address": "0x82cd99bd015bec55e524b4b88dcdc5e1bff04a8f"
+}

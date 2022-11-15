@@ -1,0 +1,8 @@
+{
+    "symbol": "RBD",
+    "name": "Rubidium (PoS)",
+    "decimals": 18,
+    "address": "0x4462761d9fef8e92962e14bf346718d12856cfbc",
+    "mintable": false,
+    "ethereum_address": "0xdbd365b3530b3ab2c633444e510c00cbfc0fb1c6"
+}

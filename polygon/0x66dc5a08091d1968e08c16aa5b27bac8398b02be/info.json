@@ -1,0 +1,8 @@
+{
+    "symbol": "CVC",
+    "name": "Civic (PoS)",
+    "decimals": 8,
+    "address": "0x66dc5a08091d1968e08c16aa5b27bac8398b02be",
+    "mintable": false,
+    "ethereum_address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45"
+}

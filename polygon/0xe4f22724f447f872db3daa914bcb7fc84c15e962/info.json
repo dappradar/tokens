@@ -1,0 +1,8 @@
+{
+    "symbol": "KIEV",
+    "name": "KIEV Token (PoS)",
+    "decimals": 18,
+    "address": "0xe4f22724f447f872db3daa914bcb7fc84c15e962",
+    "mintable": false,
+    "ethereum_address": "0xae6fc5c84768aa4d4eb41b3fd08d5ffb29f4b904"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "LID",
+    "name": "Liquidity Dividends Protocol (PoS)",
+    "decimals": 18,
+    "address": "0xa9ade7b8c8252b1e17cafa53bf46ff1319f8532d",
+    "mintable": false,
+    "ethereum_address": "0x0417912b3a7af768051765040a55bb0925d4ddcf"
+}

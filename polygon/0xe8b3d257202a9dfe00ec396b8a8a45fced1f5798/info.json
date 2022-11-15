@@ -1,0 +1,8 @@
+{
+    "symbol": "idleUSDC",
+    "name": "IdleUSDC (PoS)",
+    "decimals": 18,
+    "address": "0xe8b3d257202a9dfe00ec396b8a8a45fced1f5798",
+    "mintable": false,
+    "ethereum_address": "0x5274891bec421b39d23760c04a6755ecb444797c"
+}

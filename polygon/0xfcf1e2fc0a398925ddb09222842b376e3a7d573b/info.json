@@ -1,0 +1,8 @@
+{
+    "symbol": "ACPT",
+    "name": "Crypto Accept (PoS)",
+    "decimals": 18,
+    "address": "0xfcf1e2fc0a398925ddb09222842b376e3a7d573b",
+    "mintable": false,
+    "ethereum_address": "0xcad2d4c4469ff09ab24d02a63bcedfcd44be0645"
+}

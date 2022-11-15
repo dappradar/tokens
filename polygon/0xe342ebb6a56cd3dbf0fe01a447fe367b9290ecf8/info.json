@@ -1,0 +1,8 @@
+{
+    "symbol": "TST",
+    "name": "Standard Token (PoS)",
+    "decimals": 18,
+    "address": "0xe342ebb6a56cd3dbf0fe01a447fe367b9290ecf8",
+    "mintable": false,
+    "ethereum_address": "0xa0b93b9e90ab887e53f9fb8728c009746e989b53"
+}

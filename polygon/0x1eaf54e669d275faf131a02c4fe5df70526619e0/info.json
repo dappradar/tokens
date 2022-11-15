@@ -1,0 +1,8 @@
+{
+    "symbol": "BONE",
+    "name": "Shiba Inu Bone (PoS)",
+    "decimals": 18,
+    "address": "0x1eaf54e669d275faf131a02c4fe5df70526619e0",
+    "mintable": false,
+    "ethereum_address": "0x56366ce135cc5f636365f11e4e3450ef03241c44"
+}

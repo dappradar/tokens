@@ -1,0 +1,8 @@
+{
+    "symbol": "BED",
+    "name": "Bankless BED Index (PoS)",
+    "decimals": 18,
+    "address": "0xeeda694439c6fb56cbaa011cc849650b7273285b",
+    "mintable": false,
+    "ethereum_address": "0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6"
+}

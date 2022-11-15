@@ -1,0 +1,8 @@
+{
+    "symbol": "HLN",
+    "name": "holon (PoS)",
+    "decimals": 18,
+    "address": "0xfb57dc345cb5e155b0437a71b5e28557b557488a",
+    "mintable": false,
+    "ethereum_address": "0x1aae3148f5b5f576159835c4c56ff844a7da4f7e"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "DEX",
+    "name": "AlphaDex (PoS)",
+    "decimals": 18,
+    "address": "0x7120441ad773a6704d13dac8d8ccfe94da9afc9b",
+    "mintable": false,
+    "ethereum_address": "0x3516415161c478df10adbb8bb884cc83fbd5f11a"
+}

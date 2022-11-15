@@ -1,0 +1,8 @@
+{
+    "symbol": "PERI",
+    "name": "Peri Finance Token (PoS)",
+    "decimals": 18,
+    "address": "0xdc0e17eae3b9651875030244b971fa0223a1764f",
+    "mintable": true,
+    "ethereum_address": "0x5d30ad9c6374bf925d0a75454fa327aacf778492"
+}

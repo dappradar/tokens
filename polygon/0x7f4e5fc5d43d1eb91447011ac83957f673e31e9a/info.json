@@ -1,0 +1,8 @@
+{
+    "symbol": "CND",
+    "name": "Cindicator Token (PoS)",
+    "decimals": 18,
+    "address": "0x7f4e5fc5d43d1eb91447011ac83957f673e31e9a",
+    "mintable": false,
+    "ethereum_address": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa"
+}

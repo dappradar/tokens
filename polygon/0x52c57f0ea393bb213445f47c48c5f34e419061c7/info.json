@@ -1,0 +1,8 @@
+{
+    "symbol": "mTSLA",
+    "name": "Wrapped Mirror TSLA Token (PoS)",
+    "decimals": 18,
+    "address": "0x52c57f0ea393bb213445f47c48c5f34e419061c7",
+    "mintable": false,
+    "ethereum_address": "0x21ca39943e91d704678f5d00b6616650f066fd63"
+}

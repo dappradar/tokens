@@ -1,0 +1,8 @@
+{
+    "symbol": "AMPT",
+    "name": "Amplify Token (PoS)",
+    "decimals": 18,
+    "address": "0x4ed92a1de77ee2638a2a42be48dd4720b3a2734a",
+    "mintable": false,
+    "ethereum_address": "0x3f17cfad23c2014c5a32722557df87dff46819da"
+}

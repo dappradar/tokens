@@ -1,0 +1,8 @@
+{
+    "symbol": "PUSH",
+    "name": "Ethereum Push Notification Service (PoS)",
+    "decimals": 18,
+    "address": "0x58001cc1a9e17a20935079ab40b1b8f4fc19efd1",
+    "mintable": false,
+    "ethereum_address": "0xf418588522d5dd018b425e472991e52ebbeeeeee"
+}

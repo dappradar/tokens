@@ -1,0 +1,8 @@
+{
+    "symbol": "STACK",
+    "name": "Stacker Ventures Token (PoS)",
+    "decimals": 18,
+    "address": "0xccbe9b810d6574701d324fd6dbe0a1b68f9d5bf7",
+    "mintable": false,
+    "ethereum_address": "0xe0955f26515d22e347b17669993fcefcc73c3a0a"
+}

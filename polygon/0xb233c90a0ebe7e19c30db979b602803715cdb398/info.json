@@ -1,0 +1,8 @@
+{
+    "symbol": "GODL",
+    "name": "GODL (PoS)",
+    "decimals": 18,
+    "address": "0xb233c90a0ebe7e19c30db979b602803715cdb398",
+    "mintable": false,
+    "ethereum_address": "0x7f509465c38b66bdecec2cfdc842e11809cc8357"
+}

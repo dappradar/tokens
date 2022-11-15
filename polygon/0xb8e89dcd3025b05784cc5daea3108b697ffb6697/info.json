@@ -1,0 +1,8 @@
+{
+    "symbol": "dEth",
+    "name": "Derived Ether (PoS)",
+    "decimals": 18,
+    "address": "0xb8e89dcd3025b05784cc5daea3108b697ffb6697",
+    "mintable": false,
+    "ethereum_address": "0x51863ec92ba14ede7b17fb2b053145c90e215a57"
+}

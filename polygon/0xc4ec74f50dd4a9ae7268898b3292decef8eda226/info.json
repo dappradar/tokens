@@ -1,0 +1,8 @@
+{
+    "symbol": "KGR",
+    "name": "Kagra (PoS)",
+    "decimals": 18,
+    "address": "0xc4ec74f50dd4a9ae7268898b3292decef8eda226",
+    "mintable": false,
+    "ethereum_address": "0xe445e067cb17b62b15f4883b66b69e05ea7b327d"
+}

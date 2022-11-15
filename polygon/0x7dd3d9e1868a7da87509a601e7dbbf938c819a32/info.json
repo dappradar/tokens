@@ -1,0 +1,8 @@
+{
+    "symbol": "VOX",
+    "name": "Vox.Finance (PoS)",
+    "decimals": 18,
+    "address": "0x7dd3d9e1868a7da87509a601e7dbbf938c819a32",
+    "mintable": false,
+    "ethereum_address": "0x12d102f06da35cc0111eb58017fd2cd28537d0e1"
+}

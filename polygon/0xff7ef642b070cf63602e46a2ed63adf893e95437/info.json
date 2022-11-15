@@ -1,0 +1,8 @@
+{
+    "symbol": "PETRON",
+    "name": "PETRON PAY SECURITY TOKEN (PoS)",
+    "decimals": 18,
+    "address": "0xff7ef642b070cf63602e46a2ed63adf893e95437",
+    "mintable": false,
+    "ethereum_address": "0x43789e8aeef0d30cffb57fc0870a5c785b7b93a1"
+}

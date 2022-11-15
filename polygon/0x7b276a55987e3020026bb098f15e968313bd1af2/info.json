@@ -1,0 +1,8 @@
+{
+    "symbol": "XKO",
+    "name": "Koin (PoS)",
+    "decimals": 18,
+    "address": "0x7b276a55987e3020026bb098f15e968313bd1af2",
+    "mintable": false,
+    "ethereum_address": "0xe93714f621c0481df8685b956800568b364f138f"
+}

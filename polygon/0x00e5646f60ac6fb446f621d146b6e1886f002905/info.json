@@ -1,0 +1,8 @@
+{
+    "symbol": "RAI",
+    "name": "Rai Reflex Index (PoS)",
+    "decimals": 18,
+    "address": "0x00e5646f60ac6fb446f621d146b6e1886f002905",
+    "mintable": false,
+    "ethereum_address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919"
+}

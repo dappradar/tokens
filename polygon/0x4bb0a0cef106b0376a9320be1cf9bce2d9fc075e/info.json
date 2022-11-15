@@ -1,0 +1,8 @@
+{
+    "symbol": "PTC",
+    "name": "PeetyCoin (PoS)",
+    "decimals": 18,
+    "address": "0x4bb0a0cef106b0376a9320be1cf9bce2d9fc075e",
+    "mintable": false,
+    "ethereum_address": "0x91b2372c2a364ef0acfd6a87e41825c186164772"
+}

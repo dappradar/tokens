@@ -1,0 +1,8 @@
+{
+    "symbol": "BYN",
+    "name": "Beyond Finance (PoS)",
+    "decimals": 18,
+    "address": "0x11602a402281974a70c2b4824d58ebede967e2be",
+    "mintable": false,
+    "ethereum_address": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca"
+}

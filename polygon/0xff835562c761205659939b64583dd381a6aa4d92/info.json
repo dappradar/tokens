@@ -1,0 +1,8 @@
+{
+    "symbol": "DEXT",
+    "name": "DEXTools (PoS)",
+    "decimals": 18,
+    "address": "0xff835562c761205659939b64583dd381a6aa4d92",
+    "mintable": false,
+    "ethereum_address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a"
+}

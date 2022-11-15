@@ -1,0 +1,8 @@
+{
+    "symbol": "DAC",
+    "name": "DegenArts.com Coin (PoS)",
+    "decimals": 18,
+    "address": "0xbe69e683c56c2816d3eeec1183c882dd73ea5914",
+    "mintable": false,
+    "ethereum_address": "0x8281ee37f164c0e26e6b6f87e7695baac256df07"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "UNIC",
+    "name": "UNIC (PoS)",
+    "decimals": 18,
+    "address": "0x21ce5251d47aa72d2d1dc849b1bcce14d2467d1b",
+    "mintable": false,
+    "ethereum_address": "0x94e0bab2f6ab1f19f4750e42d7349f2740513ad5"
+}

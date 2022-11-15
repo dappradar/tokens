@@ -1,0 +1,8 @@
+{
+    "symbol": "FRM",
+    "name": "Ferrum Network Token (PoS)",
+    "decimals": 6,
+    "address": "0x0cdf14b01692c57fd8d066a053b3a0fa0aa2fc11",
+    "mintable": false,
+    "ethereum_address": "0xe5caef4af8780e59df925470b050fb23c43ca68c"
+}

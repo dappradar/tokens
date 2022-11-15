@@ -1,0 +1,8 @@
+{
+    "symbol": "idleUSDCRA",
+    "name": "IdleUSDCRA (PoS)",
+    "decimals": 18,
+    "address": "0x73e86097021714509d3f193dfd0bbbc57b3cdcc6",
+    "mintable": false,
+    "ethereum_address": "0x3391bc034f2935ef0e1e41619445f998b2680d35"
+}

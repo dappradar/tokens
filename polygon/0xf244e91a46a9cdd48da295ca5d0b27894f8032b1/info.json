@@ -1,0 +1,8 @@
+{
+    "symbol": "UART",
+    "name": "UniArts Network Token (PoS)",
+    "decimals": 12,
+    "address": "0xf244e91a46a9cdd48da295ca5d0b27894f8032b1",
+    "mintable": false,
+    "ethereum_address": "0x507bde03a87a6aa134d16634545e3d79c11c137d"
+}

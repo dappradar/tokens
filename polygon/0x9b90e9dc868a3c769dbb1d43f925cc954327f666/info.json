@@ -1,0 +1,8 @@
+{
+    "symbol": "CELO",
+    "name": "Celo (PoS)",
+    "decimals": 18,
+    "address": "0x9b90e9dc868a3c769dbb1d43f925cc954327f666",
+    "mintable": false,
+    "ethereum_address": "0x6d0081857009cb79014df13e34fc49192f66aee1"
+}

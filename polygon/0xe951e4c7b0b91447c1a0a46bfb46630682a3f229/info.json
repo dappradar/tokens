@@ -1,0 +1,8 @@
+{
+    "symbol": "DEV",
+    "name": "Devcash (PoS)",
+    "decimals": 8,
+    "address": "0xe951e4c7b0b91447c1a0a46bfb46630682a3f229",
+    "mintable": false,
+    "ethereum_address": "0x0fca8fdb0fb115a33baadec6e7a141ffc1bc7d5a"
+}

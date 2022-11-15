@@ -1,0 +1,8 @@
+{
+    "symbol": "AZUKI",
+    "name": "DokiDokiAzuki (PoS)",
+    "decimals": 18,
+    "address": "0x7cdc0421469398e0f3aa8890693d86c840ac8931",
+    "mintable": false,
+    "ethereum_address": "0x910524678c0b1b23ffb9285a81f99c29c11cbaed"
+}

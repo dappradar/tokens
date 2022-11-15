@@ -1,0 +1,8 @@
+{
+    "symbol": "NFTI",
+    "name": "NFT INDEX (PoS)",
+    "decimals": 18,
+    "address": "0xd7a2dc75ea2057b3949f9e1dbdf3480203dbe26a",
+    "mintable": false,
+    "ethereum_address": "0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c"
+}

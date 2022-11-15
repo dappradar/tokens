@@ -1,0 +1,8 @@
+{
+    "symbol": "WILD",
+    "name": "WILD Token (PoS)",
+    "decimals": 18,
+    "address": "0x4c1705a7ddaa68fe187363487898705e040dd77e",
+    "mintable": false,
+    "ethereum_address": "0xd3c00772b24d997a812249ca637a921e81357701"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "1MT",
+    "name": "1Million Token (PoS)",
+    "decimals": 7,
+    "address": "0x2052344ceace7f140da3e819c7729fef72f97851",
+    "mintable": false,
+    "ethereum_address": "0xf0bc1ae4ef7ffb126a8347d06ac6f8add770e1ce"
+}

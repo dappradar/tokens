@@ -1,0 +1,8 @@
+{
+    "symbol": "CUBE",
+    "name": "Somnium Space Cubes (PoS)",
+    "decimals": 8,
+    "address": "0x276c9cbaa4bdf57d7109a41e67bd09699536fa3d",
+    "mintable": false,
+    "ethereum_address": "0xdf801468a808a32656d2ed2d2d80b72a129739f4"
+}

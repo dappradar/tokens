@@ -1,0 +1,8 @@
+{
+    "symbol": "CELESTIAL",
+    "name": "Celestials ETH (PoS)",
+    "decimals": 0,
+    "address": "0xf111dbd38c61bf323db4d744ecdb2df553a985d0",
+    "mintable": false,
+    "ethereum_address": "0x80581ea8339d682ca5a71e3f561e3ab0e270398e"
+}

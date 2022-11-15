@@ -1,0 +1,8 @@
+{
+    "symbol": "PPDEX",
+    "name": "Pepedex (PoS)",
+    "decimals": 18,
+    "address": "0x127984b5e6d5c59f81dacc9f1c8b3bdc8494572e",
+    "mintable": false,
+    "ethereum_address": "0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7"
+}

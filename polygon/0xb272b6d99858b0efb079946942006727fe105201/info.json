@@ -1,0 +1,8 @@
+{
+    "symbol": "XPb",
+    "name": "Lead Token (PoS)",
+    "decimals": 18,
+    "address": "0xb272b6d99858b0efb079946942006727fe105201",
+    "mintable": false,
+    "ethereum_address": "0xbc81bf5b3173bccdbe62dba5f5b695522ad63559"
+}

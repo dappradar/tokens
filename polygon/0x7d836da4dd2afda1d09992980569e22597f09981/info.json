@@ -1,0 +1,8 @@
+{
+    "symbol": "FDZ",
+    "name": "Friendz Coin  (PoS)",
+    "decimals": 18,
+    "address": "0x7d836da4dd2afda1d09992980569e22597f09981",
+    "mintable": false,
+    "ethereum_address": "0x23352036e911a22cfc692b5e2e196692658aded9"
+}

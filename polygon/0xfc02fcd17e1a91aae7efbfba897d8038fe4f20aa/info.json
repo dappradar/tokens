@@ -1,0 +1,8 @@
+{
+    "symbol": "WTF",
+    "name": "WTF (PoS)",
+    "decimals": 18,
+    "address": "0xfc02fcd17e1a91aae7efbfba897d8038fe4f20aa",
+    "mintable": false,
+    "ethereum_address": "0x07e156da9f07cb59e220456a362c44c198b9e0fa"
+}

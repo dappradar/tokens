@@ -1,0 +1,8 @@
+{
+    "symbol": "CHARGE",
+    "name": "Charge (PoS)",
+    "decimals": 18,
+    "address": "0x36778b659267e74d35dda15a51a5296b3fdaf7a7",
+    "mintable": false,
+    "ethereum_address": "0x0235a4fa8374fd49bb2f01ac953f99748756f3bd"
+}

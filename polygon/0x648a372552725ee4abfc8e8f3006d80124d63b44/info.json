@@ -1,0 +1,8 @@
+{
+    "symbol": "RUN",
+    "name": "RUNCOIN (PoS)",
+    "decimals": 18,
+    "address": "0x648a372552725ee4abfc8e8f3006d80124d63b44",
+    "mintable": false,
+    "ethereum_address": "0x66eb3d45949f161d4f0bc6eb1e1678e6ff0a0ca1"
+}

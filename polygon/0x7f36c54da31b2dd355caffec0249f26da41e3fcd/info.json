@@ -1,0 +1,8 @@
+{
+    "symbol": "ENO",
+    "name": "EnoToken (PoS)",
+    "decimals": 18,
+    "address": "0x7f36c54da31b2dd355caffec0249f26da41e3fcd",
+    "mintable": false,
+    "ethereum_address": "0xeea509c221c5c6979e974f4501b4829be0ab2f8c"
+}

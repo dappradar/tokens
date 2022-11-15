@@ -1,0 +1,8 @@
+{
+    "symbol": "TIQ",
+    "name": "TiqCoin (PoS)",
+    "decimals": 18,
+    "address": "0x124e383a31f871a91b923bbcdbf3b0fae625c691",
+    "mintable": false,
+    "ethereum_address": "0xb8949b6de0869735d71d0f07d1e899e57f1076d6"
+}

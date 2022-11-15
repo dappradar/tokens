@@ -1,0 +1,8 @@
+{
+    "symbol": "GIGA",
+    "name": "Giga Token (PoS)",
+    "decimals": 18,
+    "address": "0x34c825859e5aa32a14c7853a07d0aeea032d7f4a",
+    "mintable": true,
+    "ethereum_address": "0xdaa3b4db780cb2ecf59e9d3715d85d8e294f0733"
+}

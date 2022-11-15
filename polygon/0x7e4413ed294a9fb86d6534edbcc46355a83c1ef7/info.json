@@ -1,0 +1,8 @@
+{
+    "symbol": "ASY",
+    "name": "ASYAGRO (PoS)",
+    "decimals": 18,
+    "address": "0x7e4413ed294a9fb86d6534edbcc46355a83c1ef7",
+    "mintable": false,
+    "ethereum_address": "0x017b584acfd16d767541ae9e80cdc702f4527b0b"
+}

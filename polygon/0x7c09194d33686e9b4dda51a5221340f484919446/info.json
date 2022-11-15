@@ -1,0 +1,8 @@
+{
+    "symbol": "MIKE",
+    "name": "Matic Mike Ethereum Bridge (PoS)",
+    "decimals": 0,
+    "address": "0x7c09194d33686e9b4dda51a5221340f484919446",
+    "mintable": true,
+    "ethereum_address": "0x9cfc5c2721d4534c8712ee4f03443a8b4fca7f29"
+}

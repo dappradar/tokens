@@ -1,0 +1,8 @@
+{
+    "symbol": "TIN",
+    "name": "Tyrannical (PoS)",
+    "decimals": 8,
+    "address": "0xef6b7e511c18b5fc0099e680f17ae5c3b7601d26",
+    "mintable": false,
+    "ethereum_address": "0xa52360d0e1290023100d0787623faa0b1784e7ff"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "PAN",
+    "name": "Panvala PAN (PoS)",
+    "decimals": 18,
+    "address": "0xe9949106f0777e7a2e36df891d59583ac94dc896",
+    "mintable": false,
+    "ethereum_address": "0xd56dac73a4d6766464b38ec6d91eb45ce7457c44"
+}

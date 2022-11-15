@@ -1,0 +1,8 @@
+{
+    "symbol": "NIFT",
+    "name": "Niftify (PoS)",
+    "decimals": 18,
+    "address": "0x4a1d542b52a95ad01ddc70c2e7df0c7bbaadc56f",
+    "mintable": false,
+    "ethereum_address": "0x4a1d542b52a95ad01ddc70c2e7df0c7bbaadc56f"
+}

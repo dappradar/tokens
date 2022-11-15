@@ -1,0 +1,8 @@
+{
+    "symbol": "UST",
+    "name": "Wrapped UST Token (PoS)",
+    "decimals": 18,
+    "address": "0x692597b009d13c4049a947cab2239b7d6517875f",
+    "mintable": false,
+    "ethereum_address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd"
+}

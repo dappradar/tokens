@@ -1,0 +1,8 @@
+{
+    "symbol": "NIS",
+    "name": "Screenist Token (PoS)",
+    "decimals": 8,
+    "address": "0xfd2e95937a9a1b4a87b8c47fd3e9acc123314c0e",
+    "mintable": false,
+    "ethereum_address": "0xb316c4057202cfa2c94d01f06a2a930a4b0cd83b"
+}

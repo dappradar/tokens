@@ -1,0 +1,8 @@
+{
+    "symbol": "ULT",
+    "name": "Shardus (PoS)",
+    "decimals": 18,
+    "address": "0xf0059cc2b3e980065a906940fbce5f9db7ae40a7",
+    "mintable": false,
+    "ethereum_address": "0x09617f6fd6cf8a71278ec86e23bbab29c04353a7"
+}

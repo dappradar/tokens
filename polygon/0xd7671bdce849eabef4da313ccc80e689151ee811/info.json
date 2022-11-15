@@ -1,0 +1,8 @@
+{
+    "symbol": "BID",
+    "name": "Bidao (PoS)",
+    "decimals": 18,
+    "address": "0xd7671bdce849eabef4da313ccc80e689151ee811",
+    "mintable": false,
+    "ethereum_address": "0x25e1474170c4c0aa64fa98123bdc8db49d7802fa"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "eSGD",
+    "name": "Telcoin SGD (PoS)",
+    "decimals": 6,
+    "address": "0x0c635cc3a5452addeea69aaf30fc007cb2c4029d",
+    "mintable": false,
+    "ethereum_address": "0x9e93edbdb7c95e89fd7b6e6dd61c1b8f0a32fed4"
+}

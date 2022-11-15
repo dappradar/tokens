@@ -1,0 +1,8 @@
+{
+    "symbol": "HOGE",
+    "name": "hoge.finance (PoS)",
+    "decimals": 9,
+    "address": "0xdd539b42daddc0ca55fb3ac2260240e61414d92b",
+    "mintable": false,
+    "ethereum_address": "0xfad45e47083e4607302aa43c65fb3106f1cd7607"
+}

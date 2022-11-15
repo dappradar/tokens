@@ -1,0 +1,8 @@
+{
+    "symbol": "GMEE",
+    "name": "GAMEE (PoS)",
+    "decimals": 18,
+    "address": "0xcf32822ff397ef82425153a9dcb726e5ff61dca7",
+    "mintable": false,
+    "ethereum_address": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373"
+}

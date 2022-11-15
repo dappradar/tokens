@@ -1,0 +1,8 @@
+{
+    "symbol": "mUSDC",
+    "name": "mushrooming USD Coin (PoS)",
+    "decimals": 6,
+    "address": "0x6998f006c8b5bd288dcb8e00c0060927d517aa58",
+    "mintable": false,
+    "ethereum_address": "0x23b197dc671a55f256199cf7e8bee77ea2bdc16d"
+}

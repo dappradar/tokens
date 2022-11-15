@@ -1,0 +1,8 @@
+{
+    "symbol": "CFi",
+    "name": "CyberFi Token (PoS)",
+    "decimals": 18,
+    "address": "0xecf8f2fa183b1c4d2a269bf98a54fce86c812d3e",
+    "mintable": false,
+    "ethereum_address": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4"
+}

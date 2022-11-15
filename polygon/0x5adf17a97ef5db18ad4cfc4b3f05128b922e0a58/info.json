@@ -1,0 +1,8 @@
+{
+    "symbol": "ETHS",
+    "name": "Ether Stone",
+    "decimals": 18,
+    "address": "0x5adf17a97ef5db18ad4cfc4b3f05128b922e0a58",
+    "mintable": false,
+    "ethereum_address": "0x11a207b158ddd17027e2dd5b1261a0a8012f6550"
+}

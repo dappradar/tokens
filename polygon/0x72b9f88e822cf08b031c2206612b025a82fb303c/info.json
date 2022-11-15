@@ -1,0 +1,8 @@
+{
+    "symbol": "DBD",
+    "name": "Day By Day Token (PoS)",
+    "decimals": 18,
+    "address": "0x72b9f88e822cf08b031c2206612b025a82fb303c",
+    "mintable": false,
+    "ethereum_address": "0xa5f1dbb0e55bc31f32c6d032bee330288490e722"
+}

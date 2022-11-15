@@ -1,0 +1,8 @@
+{
+    "symbol": "HQT",
+    "name": "HyperQuant Token (PoS)",
+    "decimals": 18,
+    "address": "0xab815a0321f57d753b7ed3a5657bd44dbc978200",
+    "mintable": false,
+    "ethereum_address": "0x3e1d5a855ad9d948373ae68e4fe1f094612b1322"
+}

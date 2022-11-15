@@ -1,0 +1,8 @@
+{
+    "symbol": "KEEP",
+    "name": "KEEP Token (PoS)",
+    "decimals": 18,
+    "address": "0x42f37a1296b2981f7c3caced84c5096b2eb0c72c",
+    "mintable": false,
+    "ethereum_address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "vCASH",
+    "name": "Virtual Cash (PoS)",
+    "decimals": 18,
+    "address": "0x7621ee0ce0f686b88dd70551b05f90dd3c04d6e9",
+    "mintable": true,
+    "ethereum_address": "0x532d7ebe4556216490c9d03460214b58e4933454"
+}

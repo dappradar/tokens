@@ -1,0 +1,8 @@
+{
+    "symbol": "cUSDT",
+    "name": "Compound USDT (PoS)",
+    "decimals": 8,
+    "address": "0x61b3c650154f9525dad3c1010de959fc6e2218f3",
+    "mintable": false,
+    "ethereum_address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "$JUMP",
+    "name": "JUMP (PoS)",
+    "decimals": 18,
+    "address": "0xed558bb8881163afdc9f3bdba5f43fd527c39af8",
+    "mintable": false,
+    "ethereum_address": "0xe650b007529f445eae83bc931abaa9bb1efeca6f"
+}

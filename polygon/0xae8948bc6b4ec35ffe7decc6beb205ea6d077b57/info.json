@@ -1,0 +1,8 @@
+{
+    "symbol": "SHEESHA",
+    "name": "Sheesha Finance (PoS)",
+    "decimals": 18,
+    "address": "0xae8948bc6b4ec35ffe7decc6beb205ea6d077b57",
+    "mintable": false,
+    "ethereum_address": "0x232fb065d9d24c34708eedbf03724f2e95abe768"
+}

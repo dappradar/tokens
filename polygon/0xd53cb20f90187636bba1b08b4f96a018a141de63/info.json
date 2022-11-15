@@ -1,0 +1,8 @@
+{
+    "symbol": "XGMTS",
+    "name": "X Guardian Marks the Spot (PoS)",
+    "decimals": 18,
+    "address": "0xd53cb20f90187636bba1b08b4f96a018a141de63",
+    "mintable": false,
+    "ethereum_address": "0x2950f509ce6db2294e9a7f61b1e3d96bcd5b1138"
+}

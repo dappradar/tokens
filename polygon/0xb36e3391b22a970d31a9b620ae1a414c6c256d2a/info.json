@@ -1,0 +1,8 @@
+{
+    "symbol": "STX",
+    "name": "Stox (PoS)",
+    "decimals": 18,
+    "address": "0xb36e3391b22a970d31a9b620ae1a414c6c256d2a",
+    "mintable": false,
+    "ethereum_address": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45"
+}

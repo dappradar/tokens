@@ -1,0 +1,8 @@
+{
+    "symbol": "PSLIP",
+    "name": "Pinkslip Finance (PoS)",
+    "decimals": 18,
+    "address": "0xdc92de2cdbe69fea9b1e4939d934f7f5195bb1c9",
+    "mintable": false,
+    "ethereum_address": "0x36ce7a52cda404b8fa87a98d0d17ec7dd0b144ed"
+}

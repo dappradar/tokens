@@ -1,0 +1,8 @@
+{
+    "symbol": "DSLA",
+    "name": "DSLA (PoS)",
+    "decimals": 18,
+    "address": "0xa0e390e9cea0d0e8cd40048ced9fa9ea10d71639",
+    "mintable": false,
+    "ethereum_address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "ORBR",
+    "name": "Orbler (PoS)",
+    "decimals": 18,
+    "address": "0xc2fbfab885b9c98ad51edf3b03e2510ff97471b0",
+    "mintable": false,
+    "ethereum_address": "0xda30f261a962d5aae94c9ecd170544600d193766"
+}

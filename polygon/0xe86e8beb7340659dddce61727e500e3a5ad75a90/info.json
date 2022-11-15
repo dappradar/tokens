@@ -1,0 +1,8 @@
+{
+    "symbol": "ZUT",
+    "name": "ZeroUtility (PoS)",
+    "decimals": 18,
+    "address": "0xe86e8beb7340659dddce61727e500e3a5ad75a90",
+    "mintable": false,
+    "ethereum_address": "0x83f873388cd14b83a9f47fabde3c9850b5c74548"
+}

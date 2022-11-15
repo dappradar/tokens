@@ -1,0 +1,8 @@
+{
+    "symbol": "BROT",
+    "name": "brotDAO (PoS)",
+    "decimals": 18,
+    "address": "0xceb082ab7c63d68476797223a84f49e0284e9b29",
+    "mintable": true,
+    "ethereum_address": "0xc6287874391410c77e3fd73748c735f9381b8859"
+}

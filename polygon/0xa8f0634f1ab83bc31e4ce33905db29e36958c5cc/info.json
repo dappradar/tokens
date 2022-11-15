@@ -1,0 +1,8 @@
+{
+    "symbol": "FOL",
+    "name": "Folder Coin (PoS)",
+    "decimals": 18,
+    "address": "0xa8f0634f1ab83bc31e4ce33905db29e36958c5cc",
+    "mintable": false,
+    "ethereum_address": "0xa8580f3363684d76055bdc6660caefe8709744e1"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "MEGA",
+    "name": "Megaverse (PoS)",
+    "decimals": 18,
+    "address": "0xd87958d9cc146abe382ee20d1ef278321e61ade9",
+    "mintable": false,
+    "ethereum_address": "0xcf9b27399447f92462dad69491edba304a063591"
+}

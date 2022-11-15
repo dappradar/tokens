@@ -1,0 +1,8 @@
+{
+    "symbol": "CNTR",
+    "name": "Centaur Token (PoS)",
+    "decimals": 18,
+    "address": "0xdae89da41a96956e9e70320ac9c0dd077070d3a5",
+    "mintable": false,
+    "ethereum_address": "0x03042482d64577a7bdb282260e2ea4c8a89c064b"
+}

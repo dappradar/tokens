@@ -1,0 +1,8 @@
+{
+    "symbol": "BTU",
+    "name": "BTU Protocol (PoS)",
+    "decimals": 18,
+    "address": "0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc",
+    "mintable": false,
+    "ethereum_address": "0xb683d83a532e2cb7dfa5275eed3698436371cc9f"
+}

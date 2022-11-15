@@ -1,0 +1,8 @@
+{
+    "symbol": "ECX",
+    "name": "ECX Token (PoS)",
+    "decimals": 18,
+    "address": "0x90b9597bbfdcbc86253d27d6b9a13079c5155f9f",
+    "mintable": false,
+    "ethereum_address": "0x9c8071c501c8226ab906a68d9ef9da6e0bd3a8ba"
+}

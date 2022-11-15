@@ -1,0 +1,8 @@
+{
+    "symbol": "WSB",
+    "name": "Wallstreetbets (PoS)",
+    "decimals": 18,
+    "address": "0x02dbed2afc1359443497dc9e8e6514bc1e90383e",
+    "mintable": false,
+    "ethereum_address": "0x8df586aa346c3d9d1c99a21316a2735d71355ec8"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "FEI",
+    "name": "Fei USD (PoS)",
+    "decimals": 18,
+    "address": "0xc7031408c7978da9aca03308cd104cb54e7a2eb3",
+    "mintable": false,
+    "ethereum_address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca"
+}

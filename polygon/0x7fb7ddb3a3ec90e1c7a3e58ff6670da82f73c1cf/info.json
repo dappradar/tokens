@@ -1,0 +1,8 @@
+{
+    "symbol": "VEMP",
+    "name": "vEmpire Gamer Token (PoS)",
+    "decimals": 18,
+    "address": "0x7fb7ddb3a3ec90e1c7a3e58ff6670da82f73c1cf",
+    "mintable": false,
+    "ethereum_address": "0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec"
+}

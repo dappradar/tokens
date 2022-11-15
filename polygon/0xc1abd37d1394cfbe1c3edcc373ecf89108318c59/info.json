@@ -1,0 +1,8 @@
+{
+    "symbol": "SKYBIT",
+    "name": "SKYBIT (PoS)",
+    "decimals": 18,
+    "address": "0xc1abd37d1394cfbe1c3edcc373ecf89108318c59",
+    "mintable": false,
+    "ethereum_address": "0xd96839b061ffd785272383e9da5838a0cc478077"
+}

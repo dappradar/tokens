@@ -1,0 +1,8 @@
+{
+    "symbol": "eJPY",
+    "name": "Telcoin JPY (PoS)",
+    "decimals": 6,
+    "address": "0x70e5eca2e596245825ab7631230f09b3bec19b26",
+    "mintable": false,
+    "ethereum_address": "0x1bf114223570c8caa32b1c2c5ed5552aae10403c"
+}

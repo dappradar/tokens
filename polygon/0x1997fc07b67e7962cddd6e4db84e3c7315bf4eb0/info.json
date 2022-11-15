@@ -1,0 +1,8 @@
+{
+    "symbol": "OT-cDAI-29DEC2022",
+    "name": "OT Compound Dai 29DEC2022 (PoS)",
+    "decimals": 8,
+    "address": "0x1997fc07b67e7962cddd6e4db84e3c7315bf4eb0",
+    "mintable": false,
+    "ethereum_address": "0x3d4e7f52efafb9e0c70179b688fc3965a75bcfea"
+}

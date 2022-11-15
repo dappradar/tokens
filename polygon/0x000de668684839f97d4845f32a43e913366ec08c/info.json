@@ -1,0 +1,8 @@
+{
+    "symbol": "BOND",
+    "name": "BOND (PoS)",
+    "decimals": 8,
+    "address": "0x000de668684839f97d4845f32a43e913366ec08c",
+    "mintable": false,
+    "ethereum_address": "0x5dc02ea99285e17656b8350722694c35154db1e8"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "DAFI",
+    "name": "DAFI Token (PoS)",
+    "decimals": 18,
+    "address": "0x638df98ad8069a15569da5a6b01181804c47e34c",
+    "mintable": false,
+    "ethereum_address": "0xfc979087305a826c2b2a0056cfaba50aad3e6439"
+}

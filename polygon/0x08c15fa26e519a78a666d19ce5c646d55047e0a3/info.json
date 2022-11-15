@@ -1,0 +1,8 @@
+{
+    "symbol": "DF",
+    "name": "dForce (PoS)",
+    "decimals": 18,
+    "address": "0x08c15fa26e519a78a666d19ce5c646d55047e0a3",
+    "mintable": false,
+    "ethereum_address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0"
+}

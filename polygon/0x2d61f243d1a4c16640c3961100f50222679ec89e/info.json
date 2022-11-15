@@ -1,0 +1,8 @@
+{
+    "symbol": "Nsure",
+    "name": "Nsure Network Token (PoS)",
+    "decimals": 18,
+    "address": "0x2d61f243d1a4c16640c3961100f50222679ec89e",
+    "mintable": false,
+    "ethereum_address": "0x20945ca1df56d237fd40036d47e866c7dccd2114"
+}

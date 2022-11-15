@@ -1,0 +1,8 @@
+{
+    "symbol": "VALX",
+    "name": "Validator (PoS)",
+    "decimals": 18,
+    "address": "0x01fbde1616f1a793bc2b2dcc1cd15dd4264bcf77",
+    "mintable": false,
+    "ethereum_address": "0xff2d6d023bdca01ea08e12cfe3d2c7bc082e52e2"
+}

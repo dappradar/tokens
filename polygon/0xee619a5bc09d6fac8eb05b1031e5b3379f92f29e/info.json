@@ -1,0 +1,8 @@
+{
+    "symbol": "BLACK",
+    "name": "Bitcoin Black (PoS)",
+    "decimals": 18,
+    "address": "0xee619a5bc09d6fac8eb05b1031e5b3379f92f29e",
+    "mintable": false,
+    "ethereum_address": "0xf7ae0daa230bf3fb3c0e5e01e7a6e0a142c6cf7e"
+}

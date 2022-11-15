@@ -1,0 +1,8 @@
+{
+    "symbol": "XIO",
+    "name": "XIO Network (PoS)",
+    "decimals": 18,
+    "address": "0x9c81077ffdd65b7e3833dd576aa94bf4b49b00f0",
+    "mintable": false,
+    "ethereum_address": "0x0f7f961648ae6db43c75663ac7e5414eb79b5704"
+}

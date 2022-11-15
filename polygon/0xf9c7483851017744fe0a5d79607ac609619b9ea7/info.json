@@ -1,0 +1,8 @@
+{
+    "symbol": "MPOND",
+    "name": "Marlin Bridge Token (PoS)",
+    "decimals": 18,
+    "address": "0xf9c7483851017744fe0a5d79607ac609619b9ea7",
+    "mintable": false,
+    "ethereum_address": "0x7e88aeaef1163bc6fa1d30cc360a3d5388e161ab"
+}

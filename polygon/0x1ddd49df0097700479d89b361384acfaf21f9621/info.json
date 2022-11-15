@@ -1,0 +1,8 @@
+{
+    "symbol": "YUAN",
+    "name": "Yuán 猿 (PoS)",
+    "decimals": 9,
+    "address": "0x1ddd49df0097700479d89b361384acfaf21f9621",
+    "mintable": false,
+    "ethereum_address": "0x4f8cc34bfdd972bdbeaf4cc5118fba1382abb550"
+}

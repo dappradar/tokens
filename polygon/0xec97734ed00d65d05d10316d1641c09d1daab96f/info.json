@@ -1,0 +1,8 @@
+{
+    "symbol": "TODL",
+    "name": "Cryptoodles Toodle Token (PoS)",
+    "decimals": 18,
+    "address": "0xec97734ed00d65d05d10316d1641c09d1daab96f",
+    "mintable": false,
+    "ethereum_address": "0x98933f2396dbaabf812b6e6d27da4df109c4c55f"
+}

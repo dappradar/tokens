@@ -1,0 +1,8 @@
+{
+    "symbol": "OOG",
+    "name": "OverOneGold (PoS)",
+    "decimals": 18,
+    "address": "0xec24c04868da7abba292c2ba46fe77788a3f5f74",
+    "mintable": false,
+    "ethereum_address": "0xb72a91ac402eec1977a6b2bd02d3f0aa1a261b93"
+}

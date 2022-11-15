@@ -1,0 +1,8 @@
+{
+    "symbol": "LMLT",
+    "name": "Limelight (PoS)",
+    "decimals": 18,
+    "address": "0x1f435c17d7ff631218827f9ba43a696650a9d512",
+    "mintable": false,
+    "ethereum_address": "0x5ea1dd3f3f3685c32d771b2e89a70d9c5ccf8a0c"
+}

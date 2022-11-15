@@ -1,0 +1,8 @@
+{
+    "symbol": "MUSKETS",
+    "name": "Musketeer (PoS)",
+    "decimals": 18,
+    "address": "0x46ca31e0439dbf5d0d9c0338be4912dd35d45a51",
+    "mintable": false,
+    "ethereum_address": "0xbc93d1aba134cc81f431de04f2d9f46fc5d6d6bc"
+}

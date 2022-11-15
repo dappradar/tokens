@@ -1,0 +1,8 @@
+{
+    "symbol": "BAC",
+    "name": "BAC (PoS)",
+    "decimals": 18,
+    "address": "0xcde5e3d90631cacb842fa86f62dd0fc08a3ce43d",
+    "mintable": false,
+    "ethereum_address": "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "KWIK",
+    "name": "Kwikswap (PoS)",
+    "decimals": 18,
+    "address": "0x8df74088b3aecfd0cb97bcfd053b173782f01e3a",
+    "mintable": false,
+    "ethereum_address": "0x286c0936c7eaf6651099ab5dab9ee5a6cb5d229d"
+}

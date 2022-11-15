@@ -1,0 +1,8 @@
+{
+    "symbol": "AC",
+    "name": "ArtCube (PoS)",
+    "decimals": 18,
+    "address": "0x2ab21969b89dde3432b4110696eda6a28926574d",
+    "mintable": false,
+    "ethereum_address": "0x145b543f614f073579fb5e9c221a57c400612322"
+}

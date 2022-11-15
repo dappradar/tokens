@@ -1,0 +1,8 @@
+{
+    "symbol": "DAO",
+    "name": "DAO Maker (PoS)",
+    "decimals": 18,
+    "address": "0x048c83a1176a1d3d12cb8c305179d360b1e4c958",
+    "mintable": false,
+    "ethereum_address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad"
+}

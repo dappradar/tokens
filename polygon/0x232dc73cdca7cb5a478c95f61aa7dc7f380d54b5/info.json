@@ -1,0 +1,8 @@
+{
+    "symbol": "PREY",
+    "name": "Prey (PoS)",
+    "decimals": 18,
+    "address": "0x232dc73cdca7cb5a478c95f61aa7dc7f380d54b5",
+    "mintable": false,
+    "ethereum_address": "0x71ad3c0d535bbc60f699cc320e2f5cde315a9781"
+}

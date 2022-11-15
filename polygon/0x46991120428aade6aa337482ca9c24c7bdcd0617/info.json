@@ -1,0 +1,8 @@
+{
+    "symbol": "BIGX",
+    "name": "The Originals X (PoS)",
+    "decimals": 18,
+    "address": "0x46991120428aade6aa337482ca9c24c7bdcd0617",
+    "mintable": false,
+    "ethereum_address": "0xb912aab9fa7bcf2331b3d42fa1ca4c674350dbbc"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "TAIYAKI",
+    "name": "TAIYAKI (PoS)",
+    "decimals": 18,
+    "address": "0x1a5c71ddf3d71cbb0c0bc312ff712a52cbe29cd2",
+    "mintable": true,
+    "ethereum_address": "0x4f9f3504d6c3670672692fcbcaeb409b0cfb40b2"
+}

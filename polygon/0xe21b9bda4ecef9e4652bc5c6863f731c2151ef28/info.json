@@ -1,0 +1,8 @@
+{
+    "symbol": "KTON",
+    "name": "Darwinia Commitment Token (PoS)",
+    "decimals": 18,
+    "address": "0xe21b9bda4ecef9e4652bc5c6863f731c2151ef28",
+    "mintable": false,
+    "ethereum_address": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff"
+}

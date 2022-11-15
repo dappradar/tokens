@@ -1,0 +1,8 @@
+{
+    "symbol": "BCDT",
+    "name": "Blockchain Certified Data Token (PoS)",
+    "decimals": 18,
+    "address": "0xe7789178ddc4edb3b038115b1826c66640c57ecc",
+    "mintable": false,
+    "ethereum_address": "0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5"
+}

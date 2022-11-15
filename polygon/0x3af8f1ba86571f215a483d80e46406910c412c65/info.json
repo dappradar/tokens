@@ -1,0 +1,8 @@
+{
+    "symbol": "LEAG",
+    "name": "LeagueDAO Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0x3af8f1ba86571f215a483d80e46406910c412c65",
+    "mintable": false,
+    "ethereum_address": "0x7b39917f9562c8bc83c7a6c2950ff571375d505d"
+}

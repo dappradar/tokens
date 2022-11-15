@@ -1,0 +1,8 @@
+{
+    "symbol": "SWC",
+    "name": "SW Capital (PoS)",
+    "decimals": 18,
+    "address": "0x01ae14b9643a720dc3181abfa05e65c528b5a30f",
+    "mintable": false,
+    "ethereum_address": "0x8dca21c5c8165886ea1fa800ff9321ec74fde2c0"
+}

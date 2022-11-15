@@ -1,0 +1,8 @@
+{
+    "symbol": "IX",
+    "name": "Intella X (PoS)",
+    "decimals": 18,
+    "address": "0x372404b27b9edb4f4a0145ffaeafc340e0f6381c",
+    "mintable": false,
+    "ethereum_address": "0x372404b27b9edb4f4a0145ffaeafc340e0f6381c"
+}

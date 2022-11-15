@@ -1,0 +1,8 @@
+{
+    "symbol": "PBX",
+    "name": "Paribus (PoS)",
+    "decimals": 18,
+    "address": "0x28d8c443819ce8e854859b2bba747579ab6060a5",
+    "mintable": false,
+    "ethereum_address": "0xd528cf2e081f72908e086f8800977df826b5a483"
+}

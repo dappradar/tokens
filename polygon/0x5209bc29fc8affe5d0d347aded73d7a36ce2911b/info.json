@@ -1,0 +1,8 @@
+{
+    "symbol": "X",
+    "name": "X (PoS)",
+    "decimals": 18,
+    "address": "0x5209bc29fc8affe5d0d347aded73d7a36ce2911b",
+    "mintable": false,
+    "ethereum_address": "0x7e9f4e9edea00d1453491cfdc46b8299f4fd4ea5"
+}

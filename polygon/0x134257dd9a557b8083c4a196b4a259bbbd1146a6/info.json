@@ -1,0 +1,8 @@
+{
+    "symbol": "BET",
+    "name": "EarnBet Token (PoS)",
+    "decimals": 4,
+    "address": "0x134257dd9a557b8083c4a196b4a259bbbd1146a6",
+    "mintable": false,
+    "ethereum_address": "0xfdd4e938bb067280a52ac4e02aaf1502cc882ba6"
+}

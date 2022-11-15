@@ -1,0 +1,8 @@
+{
+    "symbol": "MBC",
+    "name": "Marblecoin (PoS)",
+    "decimals": 18,
+    "address": "0xcbb2da0127042546ceff56da69faf3f2ba6d1c51",
+    "mintable": false,
+    "ethereum_address": "0x8888889213dd4da823ebdd1e235b09590633c150"
+}

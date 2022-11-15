@@ -1,0 +1,8 @@
+{
+    "symbol": "$ITG",
+    "name": "iTrust Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0xda246d2a734376f4a71d6ea23a9e5001c9c7320b",
+    "mintable": false,
+    "ethereum_address": "0xf88b137cfa667065955abd17525e89edcf4d6426"
+}

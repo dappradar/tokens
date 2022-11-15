@@ -1,0 +1,8 @@
+{
+    "symbol": "CRT",
+    "name": "CrypToads (PoS)",
+    "decimals": 18,
+    "address": "0x24792302477ec0e95dee67ffd01549774ce55bf5",
+    "mintable": false,
+    "ethereum_address": "0xc9d326b30b142c19d9415de4747d71574f5aa9d2"
+}

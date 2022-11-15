@@ -1,0 +1,8 @@
+{
+    "symbol": "DSU",
+    "name": "Digital Standard Unit (PoS)",
+    "decimals": 18,
+    "address": "0x777211c3c0b03d9ff2aaa288a016b1a3b64ddb8c",
+    "mintable": false,
+    "ethereum_address": "0x605d26fbd5be761089281d5cec2ce86eea667109"
+}

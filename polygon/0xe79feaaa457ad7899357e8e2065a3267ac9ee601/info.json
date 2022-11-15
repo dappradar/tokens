@@ -1,0 +1,8 @@
+{
+    "symbol": "WCHI",
+    "name": "Wrapped CHI (PoS)",
+    "decimals": 8,
+    "address": "0xe79feaaa457ad7899357e8e2065a3267ac9ee601",
+    "mintable": false,
+    "ethereum_address": "0x6dc02164d75651758ac74435806093e421b64605"
+}

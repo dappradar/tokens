@@ -1,0 +1,8 @@
+{
+    "symbol": "STORJ",
+    "name": "StorjToken (PoS)",
+    "decimals": 8,
+    "address": "0xd72357daca2cf11a5f155b9ff7880e595a3f5792",
+    "mintable": false,
+    "ethereum_address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac"
+}

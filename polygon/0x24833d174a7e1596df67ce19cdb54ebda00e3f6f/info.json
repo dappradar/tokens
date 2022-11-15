@@ -1,0 +1,8 @@
+{
+    "symbol": "WILD",
+    "name": "Wild Credit (PoS)",
+    "decimals": 18,
+    "address": "0x24833d174a7e1596df67ce19cdb54ebda00e3f6f",
+    "mintable": false,
+    "ethereum_address": "0x08a75dbc7167714ceac1a8e43a8d643a4edd625a"
+}

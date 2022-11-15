@@ -1,0 +1,8 @@
+{
+    "symbol": "UOS",
+    "name": "Ultra Token (PoS)",
+    "decimals": 4,
+    "address": "0x1dce4a8b459a50f450ee91fb5e6c86d161aa22f8",
+    "mintable": false,
+    "ethereum_address": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c"
+}

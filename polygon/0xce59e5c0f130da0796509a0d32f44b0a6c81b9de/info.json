@@ -1,0 +1,8 @@
+{
+    "symbol": "LABRA",
+    "name": "Labra (PoS)",
+    "decimals": 9,
+    "address": "0xce59e5c0f130da0796509a0d32f44b0a6c81b9de",
+    "mintable": false,
+    "ethereum_address": "0x106d3c66d22d2dd0446df23d7f5960752994d600"
+}

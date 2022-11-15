@@ -1,0 +1,8 @@
+{
+    "symbol": "NFTI",
+    "name": "Scalara NFT Index (PoS)",
+    "decimals": 18,
+    "address": "0xc75ea0c71023c14952f3c7b9101ecbbaa14aa27a",
+    "mintable": false,
+    "ethereum_address": "0x525ef76138bf76118d786dbedeae5f87aabf4a81"
+}

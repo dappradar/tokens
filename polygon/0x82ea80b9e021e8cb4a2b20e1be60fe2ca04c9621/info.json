@@ -1,0 +1,8 @@
+{
+    "symbol": "MATCH",
+    "name": "Matching Cards (PoS)",
+    "decimals": 18,
+    "address": "0x82ea80b9e021e8cb4a2b20e1be60fe2ca04c9621",
+    "mintable": false,
+    "ethereum_address": "0x9217c19e72e4ab9e1015ebe9098285a6ef1761c3"
+}

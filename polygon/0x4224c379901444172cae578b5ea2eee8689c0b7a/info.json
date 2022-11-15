@@ -1,0 +1,8 @@
+{
+    "symbol": "BAL",
+    "name": "Balance token (PoS)",
+    "decimals": 0,
+    "address": "0x4224c379901444172cae578b5ea2eee8689c0b7a",
+    "mintable": false,
+    "ethereum_address": "0xe7049114562c759d5e9d1d25783773ccd61c0a65"
+}

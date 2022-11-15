@@ -1,0 +1,8 @@
+{
+    "symbol": "SPCY",
+    "name": "Sapiency (PoS)",
+    "decimals": 18,
+    "address": "0x87c830b6d732c3209db97f61b379f359570d6a49",
+    "mintable": false,
+    "ethereum_address": "0x15f503f23d4d2716e0817714709b5dcf868013ee"
+}

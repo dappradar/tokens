@@ -1,0 +1,8 @@
+{
+    "symbol": "ZEUZ",
+    "name": "ZEUZ (PoS)",
+    "decimals": 18,
+    "address": "0x2f3cce940815daace6d8f773a1a4f8c6cb22ae00",
+    "mintable": false,
+    "ethereum_address": "0xff729170f0c793cc1a28ea3c30d88c219743d0a6"
+}

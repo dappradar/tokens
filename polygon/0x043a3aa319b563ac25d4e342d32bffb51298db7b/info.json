@@ -1,0 +1,8 @@
+{
+    "symbol": "SWG",
+    "name": "Swirge (PoS)",
+    "decimals": 18,
+    "address": "0x043a3aa319b563ac25d4e342d32bffb51298db7b",
+    "mintable": false,
+    "ethereum_address": "0x92ef4ffbfe0df030837b65d7fccfe1abd6549579"
+}

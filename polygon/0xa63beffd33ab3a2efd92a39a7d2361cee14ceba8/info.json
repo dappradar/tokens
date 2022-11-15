@@ -1,0 +1,8 @@
+{
+    "symbol": "OGN",
+    "name": "OriginToken (PoS)",
+    "decimals": 18,
+    "address": "0xa63beffd33ab3a2efd92a39a7d2361cee14ceba8",
+    "mintable": false,
+    "ethereum_address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26"
+}

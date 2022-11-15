@@ -1,0 +1,8 @@
+{
+    "symbol": "FLX",
+    "name": "Flex Ungovernance Token (PoS)",
+    "decimals": 18,
+    "address": "0x0f6d1c52ba0bb9e68601632a74d9f4d07afb555f",
+    "mintable": false,
+    "ethereum_address": "0x6243d8cea23066d098a15582d81a598b4e8391f4"
+}

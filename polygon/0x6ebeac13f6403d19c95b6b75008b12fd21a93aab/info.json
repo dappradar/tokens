@@ -1,0 +1,8 @@
+{
+    "symbol": "DERC721",
+    "name": "Dummy ERC721",
+    "decimals": 0,
+    "address": "0x6ebeac13f6403d19c95b6b75008b12fd21a93aab",
+    "mintable": false,
+    "ethereum_address": "0x71b821aa52a49f32eed535fca6eb5aa130085978"
+}

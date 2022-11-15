@@ -1,0 +1,8 @@
+{
+    "symbol": "SCLP",
+    "name": "ScallopX (PoS)",
+    "decimals": 18,
+    "address": "0x2fc711518aae7c87d7002566c5d43b0e5d2b1932",
+    "mintable": false,
+    "ethereum_address": "0x3f6d1649a1366b0e82173d33e365953f9f1cc84c"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "BEPRO",
+    "name": "BetProtocolToken (PoS)",
+    "decimals": 18,
+    "address": "0x07cc1cc3628cc1615120df781ef9fc8ec2feae09",
+    "mintable": false,
+    "ethereum_address": "0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a"
+}

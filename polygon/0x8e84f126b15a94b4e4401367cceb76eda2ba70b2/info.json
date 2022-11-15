@@ -1,0 +1,8 @@
+{
+    "symbol": "SHIFU",
+    "name": "Metashifu (PoS)",
+    "decimals": 18,
+    "address": "0x8e84f126b15a94b4e4401367cceb76eda2ba70b2",
+    "mintable": false,
+    "ethereum_address": "0xb7d2cb2afa61fcdb4bfb1b8ae3cec72c654f7c83"
+}

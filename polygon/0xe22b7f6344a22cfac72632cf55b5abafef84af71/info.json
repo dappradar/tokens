@@ -1,0 +1,8 @@
+{
+    "symbol": "MARTE",
+    "name": "Marte (PoS)",
+    "decimals": 4,
+    "address": "0xe22b7f6344a22cfac72632cf55b5abafef84af71",
+    "mintable": false,
+    "ethereum_address": "0x78a0ee7ad08e2c746518387bea867be0199514b8"
+}

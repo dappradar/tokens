@@ -1,0 +1,8 @@
+{
+    "symbol": "GROK",
+    "name": "Grok (PoS)",
+    "decimals": 18,
+    "address": "0x00b9cb712e4d1b32171548bd5dfe656028250711",
+    "mintable": false,
+    "ethereum_address": "0x21d486f6b7eb7b556978c5a0c96c79a08eb841de"
+}

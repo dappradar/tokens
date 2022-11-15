@@ -1,0 +1,8 @@
+{
+    "symbol": "CRST",
+    "name": "Coorest (PoS)",
+    "decimals": 18,
+    "address": "0x91f0484f9b65dc5187e414dae5ed37ea7a4b8af4",
+    "mintable": false,
+    "ethereum_address": "0x776aaca47ee579ff63f6c00a921377eb21359e59"
+}

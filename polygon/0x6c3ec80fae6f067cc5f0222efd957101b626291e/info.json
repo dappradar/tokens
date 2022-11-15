@@ -1,0 +1,8 @@
+{
+    "symbol": "TDAO",
+    "name": "ThunderDAO (PoS)",
+    "decimals": 18,
+    "address": "0x6c3ec80fae6f067cc5f0222efd957101b626291e",
+    "mintable": false,
+    "ethereum_address": "0x13bb3586478f7725b0e7b404c97939cc2cbc530d"
+}

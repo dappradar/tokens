@@ -1,0 +1,8 @@
+{
+    "symbol": "TBTC",
+    "name": "tBTC (PoS)",
+    "decimals": 18,
+    "address": "0x50a4a434247089848991dd8f09b889d4e2870ab6",
+    "mintable": false,
+    "ethereum_address": "0x8daebade922df735c38c80c7ebd708af50815faa"
+}

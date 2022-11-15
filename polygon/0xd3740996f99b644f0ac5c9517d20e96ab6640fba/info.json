@@ -1,0 +1,8 @@
+{
+    "symbol": "THRK",
+    "name": "Thrack (PoS)",
+    "decimals": 18,
+    "address": "0xd3740996f99b644f0ac5c9517d20e96ab6640fba",
+    "mintable": false,
+    "ethereum_address": "0x75ed4b6f60d7d28e599e1430c4d4114c5fcd4885"
+}

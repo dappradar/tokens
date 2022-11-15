@@ -1,0 +1,8 @@
+{
+    "symbol": "BAO",
+    "name": "BaoToken (PoS)",
+    "decimals": 18,
+    "address": "0xc81278a52ad0e1485b7c3cdf79079220ddd68b7d",
+    "mintable": false,
+    "ethereum_address": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "MARVIN",
+    "name": "Marvin Coin (PoS)",
+    "decimals": 18,
+    "address": "0x268c4a88208b5b22993d1e56d5fc039a28d1a18c",
+    "mintable": false,
+    "ethereum_address": "0x4bb12e64be9310d61f9a7950f4c3de50eb4c9807"
+}

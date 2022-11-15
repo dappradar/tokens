@@ -1,0 +1,8 @@
+{
+    "symbol": "VRA",
+    "name": "VERA (PoS)",
+    "decimals": 18,
+    "address": "0x0769c9a377a285dbcb5a66326fa90ae330e5f6d3",
+    "mintable": false,
+    "ethereum_address": "0xf411903cbc70a74d22900a5de66a2dda66507255"
+}

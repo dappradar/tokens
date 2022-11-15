@@ -1,0 +1,8 @@
+{
+    "symbol": "Solid",
+    "name": "Solid (PoS)",
+    "decimals": 18,
+    "address": "0x498e0a753840075c4925442d4d8863eee49d61e2",
+    "mintable": false,
+    "ethereum_address": "0x5011d48d4265b6fb8228600a111b2faa1fda3139"
+}

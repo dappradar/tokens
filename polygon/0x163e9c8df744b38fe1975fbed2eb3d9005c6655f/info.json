@@ -1,0 +1,8 @@
+{
+    "symbol": "PAY",
+    "name": "TenX Pay Token (PoS)",
+    "decimals": 18,
+    "address": "0x163e9c8df744b38fe1975fbed2eb3d9005c6655f",
+    "mintable": false,
+    "ethereum_address": "0xb97048628db6b661d4c2aa833e95dbe1a905b280"
+}

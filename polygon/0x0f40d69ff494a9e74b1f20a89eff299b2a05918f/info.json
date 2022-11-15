@@ -1,0 +1,8 @@
+{
+    "symbol": "BNTY",
+    "name": "Bounty0x Token (PoS)",
+    "decimals": 18,
+    "address": "0x0f40d69ff494a9e74b1f20a89eff299b2a05918f",
+    "mintable": false,
+    "ethereum_address": "0xd2d6158683aee4cc838067727209a0aaf4359de3"
+}

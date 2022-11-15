@@ -1,0 +1,8 @@
+{
+    "symbol": "PARK",
+    "name": "TrailerPark (PoS)",
+    "decimals": 18,
+    "address": "0xd6cc9119650b5591dc44a761754afc83f259ab41",
+    "mintable": false,
+    "ethereum_address": "0x6a2523c3eb9159fe4321ca70c06cbc04b3732a63"
+}

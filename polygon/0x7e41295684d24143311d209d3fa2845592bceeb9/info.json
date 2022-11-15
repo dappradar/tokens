@@ -1,0 +1,8 @@
+{
+    "symbol": "AWG",
+    "name": "AurusGOLD (PoS)",
+    "decimals": 18,
+    "address": "0x7e41295684d24143311d209d3fa2845592bceeb9",
+    "mintable": false,
+    "ethereum_address": "0x696acc2de564b48682d71d0847b3632f87c9a402"
+}

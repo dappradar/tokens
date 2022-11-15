@@ -1,0 +1,8 @@
+{
+    "symbol": "ANT",
+    "name": "Aragon Network Token (PoS)",
+    "decimals": 18,
+    "address": "0x2b8504ab5efc246d0ec5ec7e74565683227497de",
+    "mintable": false,
+    "ethereum_address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e"
+}

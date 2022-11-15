@@ -1,0 +1,8 @@
+{
+    "symbol": "RFuel",
+    "name": "Rio Fuel Token (PoS)",
+    "decimals": 18,
+    "address": "0x147697003255510f6431a44443e67b227109832e",
+    "mintable": false,
+    "ethereum_address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5"
+}

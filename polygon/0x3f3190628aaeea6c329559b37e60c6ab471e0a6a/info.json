@@ -1,0 +1,8 @@
+{
+    "symbol": "TWR.BRNZ",
+    "name": "Bronze TOWER Chest (PoS)",
+    "decimals": 18,
+    "address": "0x3f3190628aaeea6c329559b37e60c6ab471e0a6a",
+    "mintable": false,
+    "ethereum_address": "0x0bb9a88920b6b4dd59c87afb5ee29d6e1c6c8942"
+}

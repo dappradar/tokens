@@ -1,0 +1,8 @@
+{
+    "symbol": "CRT",
+    "name": "Cryptopia Token (PoS)",
+    "decimals": 18,
+    "address": "0x7348565f0a5077252d310392c3cecd8db87a7704",
+    "mintable": false,
+    "ethereum_address": "0xabdd22dfe5db2be20262050523470b650e91f246"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "POLS",
+    "name": "PolkastarterToken (PoS)",
+    "decimals": 18,
+    "address": "0x8dc302e2141da59c934d900886dbf1518fd92cd4",
+    "mintable": false,
+    "ethereum_address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa"
+}

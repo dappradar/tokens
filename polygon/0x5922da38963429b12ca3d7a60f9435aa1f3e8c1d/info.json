@@ -1,0 +1,8 @@
+{
+    "symbol": "NORI",
+    "name": "NORI (PoS)",
+    "decimals": 18,
+    "address": "0x5922da38963429b12ca3d7a60f9435aa1f3e8c1d",
+    "mintable": false,
+    "ethereum_address": "0xfadedfe89b5a530c0a7f69be442e190751a13093"
+}

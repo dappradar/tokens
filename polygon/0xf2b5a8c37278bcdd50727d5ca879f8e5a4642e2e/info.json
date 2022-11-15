@@ -1,0 +1,8 @@
+{
+    "symbol": "MEME",
+    "name": "MEME (PoS)",
+    "decimals": 8,
+    "address": "0xf2b5a8c37278bcdd50727d5ca879f8e5a4642e2e",
+    "mintable": false,
+    "ethereum_address": "0xd5525d397898e5502075ea5e830d8914f6f0affe"
+}

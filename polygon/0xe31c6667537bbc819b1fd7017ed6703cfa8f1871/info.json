@@ -1,0 +1,8 @@
+{
+    "symbol": "KOL",
+    "name": "Kollect (PoS)",
+    "decimals": 18,
+    "address": "0xe31c6667537bbc819b1fd7017ed6703cfa8f1871",
+    "mintable": false,
+    "ethereum_address": "0x1cc30e2eac975416060ec6fe682041408420d414"
+}

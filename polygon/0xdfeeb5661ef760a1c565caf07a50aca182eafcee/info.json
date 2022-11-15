@@ -1,0 +1,8 @@
+{
+    "symbol": "MUA",
+    "name": "MUAN (PoS)",
+    "decimals": 18,
+    "address": "0xdfeeb5661ef760a1c565caf07a50aca182eafcee",
+    "mintable": false,
+    "ethereum_address": "0xd7f8032777c50afd2e7afa41912a4d8038127271"
+}

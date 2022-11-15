@@ -1,0 +1,8 @@
+{
+    "symbol": "veCRV",
+    "name": "veCRV-Stake-DAO (PoS)",
+    "decimals": 18,
+    "address": "0x9613282539b6d0e3cb1edc843a43da7768ac3838",
+    "mintable": false,
+    "ethereum_address": "0x478bbc744811ee8310b461514bdc29d03739084d"
+}

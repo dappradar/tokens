@@ -1,0 +1,8 @@
+{
+    "symbol": "ZORA",
+    "name": "Zoracles (PoS)",
+    "decimals": 9,
+    "address": "0x2f9679f1db7e1a3ffd659e1880339e18b482f17a",
+    "mintable": false,
+    "ethereum_address": "0xd8e3fb3b08eba982f2754988d70d57edc0055ae6"
+}

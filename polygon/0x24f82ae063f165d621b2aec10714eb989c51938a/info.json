@@ -1,0 +1,8 @@
+{
+    "symbol": "PIXEL",
+    "name": "Pixel (PoS)",
+    "decimals": 4,
+    "address": "0x24f82ae063f165d621b2aec10714eb989c51938a",
+    "mintable": false,
+    "ethereum_address": "0x1e906717de2e4a4600f13b6909736b0346bdde3e"
+}

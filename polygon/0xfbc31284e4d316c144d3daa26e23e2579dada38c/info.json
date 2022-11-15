@@ -1,0 +1,8 @@
+{
+    "symbol": "ChargeV2",
+    "name": "ChargeV2 (PoS)",
+    "decimals": 18,
+    "address": "0xfbc31284e4d316c144d3daa26e23e2579dada38c",
+    "mintable": false,
+    "ethereum_address": "0xcc91875714f044a1033b9d3215719bb8ff3f26c8"
+}

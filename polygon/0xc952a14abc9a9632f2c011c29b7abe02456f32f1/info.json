@@ -1,0 +1,8 @@
+{
+    "symbol": "WPUNKS",
+    "name": "Wrapped Cryptopunks (PoS)",
+    "decimals": 0,
+    "address": "0xc952a14abc9a9632f2c011c29b7abe02456f32f1",
+    "mintable": false,
+    "ethereum_address": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6"
+}

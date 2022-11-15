@@ -1,0 +1,8 @@
+{
+    "symbol": "eCOP",
+    "name": "Telcoin COP (PoS)",
+    "decimals": 6,
+    "address": "0x0ed7a0c386943c419c42d6ffa04a99b2d6770540",
+    "mintable": false,
+    "ethereum_address": "0x539984b488e31ab0ecd6d381e9a75fb136f893c3"
+}

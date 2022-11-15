@@ -1,0 +1,8 @@
+{
+    "symbol": "BCM",
+    "name": "Blockchain Mind (PoS)",
+    "decimals": 18,
+    "address": "0x29b9c200b27683fea3512911dafaf0afd60da4e3",
+    "mintable": false,
+    "ethereum_address": "0x9620366a3e732f484b2dc63103bb0eef0dde1f33"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "eDKK",
+    "name": "Telcoin DKK (PoS)",
+    "decimals": 6,
+    "address": "0x29ce9e571b8e3b2b19e4742c632ec37458921039",
+    "mintable": false,
+    "ethereum_address": "0xd06f1620a2c95b2d47cd8788a5ef6785a67f3187"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "TRAC",
+    "name": "Trace Token (PoS)",
+    "decimals": 18,
+    "address": "0xa7b98d63a137bf402b4570799ac4cad0bb1c4b1c",
+    "mintable": false,
+    "ethereum_address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f"
+}

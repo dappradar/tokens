@@ -1,0 +1,8 @@
+{
+    "symbol": "IgnisLite",
+    "name": "IgnisLite (PoS)",
+    "decimals": 18,
+    "address": "0xebbb74174d1a22729b9a9cddb28c18ca07be0314",
+    "mintable": false,
+    "ethereum_address": "0x9aa9f330ab322e8a6f044c46a109b5910fa373ce"
+}

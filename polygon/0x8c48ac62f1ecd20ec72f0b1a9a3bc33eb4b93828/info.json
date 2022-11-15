@@ -1,0 +1,8 @@
+{
+    "symbol": "EBOX",
+    "name": "ethbox Token (PoS)",
+    "decimals": 18,
+    "address": "0x8c48ac62f1ecd20ec72f0b1a9a3bc33eb4b93828",
+    "mintable": false,
+    "ethereum_address": "0x33840024177a7daca3468912363bed8b425015c5"
+}

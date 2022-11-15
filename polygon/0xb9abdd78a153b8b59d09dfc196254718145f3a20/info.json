@@ -1,0 +1,8 @@
+{
+    "symbol": "RTH",
+    "name": "Rotharium (PoS)",
+    "decimals": 18,
+    "address": "0xb9abdd78a153b8b59d09dfc196254718145f3a20",
+    "mintable": false,
+    "ethereum_address": "0x3fd8f39a962efda04956981c31ab89fab5fb8bc8"
+}

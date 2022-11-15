@@ -1,0 +1,8 @@
+{
+    "symbol": "mALCX",
+    "name": "mushrooming Alchemix (PoS)",
+    "decimals": 18,
+    "address": "0x2bb8ff0b289f1670415713b75331cc927d0c5cea",
+    "mintable": false,
+    "ethereum_address": "0x076950237f8c0d27ac25694c9078f96e535723bc"
+}

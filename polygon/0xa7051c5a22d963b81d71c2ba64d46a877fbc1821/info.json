@@ -1,0 +1,8 @@
+{
+    "symbol": "EROWAN",
+    "name": "SifChain (erowan) (PoS)",
+    "decimals": 18,
+    "address": "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821",
+    "mintable": false,
+    "ethereum_address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe"
+}

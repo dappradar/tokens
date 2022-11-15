@@ -1,0 +1,8 @@
+{
+    "symbol": "AMMO",
+    "name": "Ammunition (PoS)",
+    "decimals": 18,
+    "address": "0x9c72573a47b0d81ef6048c320bf5563e1606a04c",
+    "mintable": false,
+    "ethereum_address": "0x41d4e9880d6ae03f6e152a52afc3ecf82063a08b"
+}

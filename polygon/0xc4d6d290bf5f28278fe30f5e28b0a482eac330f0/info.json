@@ -1,0 +1,8 @@
+{
+    "symbol": "AMAS",
+    "name": "Amasa Token (PoS)",
+    "decimals": 18,
+    "address": "0xc4d6d290bf5f28278fe30f5e28b0a482eac330f0",
+    "mintable": false,
+    "ethereum_address": "0x65a8fba02f641a13bb7b01d5e1129b0521004f52"
+}

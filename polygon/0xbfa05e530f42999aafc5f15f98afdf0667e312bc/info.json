@@ -1,0 +1,8 @@
+{
+    "symbol": "GS",
+    "name": "Gen Shards (PoS)",
+    "decimals": 18,
+    "address": "0xbfa05e530f42999aafc5f15f98afdf0667e312bc",
+    "mintable": false,
+    "ethereum_address": "0xe0b9a2c3e9f40cf74b2c7f591b2b0cca055c3112"
+}

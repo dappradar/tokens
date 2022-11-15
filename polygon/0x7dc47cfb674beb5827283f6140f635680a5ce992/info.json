@@ -1,0 +1,8 @@
+{
+    "symbol": "BOLLY",
+    "name": "Bollycoin (PoS)",
+    "decimals": 18,
+    "address": "0x7dc47cfb674beb5827283f6140f635680a5ce992",
+    "mintable": true,
+    "ethereum_address": "0x6bd361e10c1afed0d95259e7c0115f3a60e4ea99"
+}

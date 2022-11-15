@@ -1,0 +1,8 @@
+{
+    "symbol": "DRGSTKN",
+    "name": "DragosToken (PoS)",
+    "decimals": 18,
+    "address": "0x03ba9cae06bfa79c444a31964f10cd12cdf5cd79",
+    "mintable": false,
+    "ethereum_address": "0x631c8a96ecd923928e01d49f44542e665acba509"
+}

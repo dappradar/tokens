@@ -1,0 +1,8 @@
+{
+    "symbol": "ONE",
+    "name": "onEthereum (PoS)",
+    "decimals": 18,
+    "address": "0x057097bd91aa32aa10f5a42ba49637480963dc31",
+    "mintable": false,
+    "ethereum_address": "0xc1330acbbce97cb9695b7ee161c0f95b875a8b0f"
+}

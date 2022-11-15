@@ -1,0 +1,8 @@
+{
+    "symbol": "XCAD",
+    "name": "XCAD Token (PoS)",
+    "decimals": 18,
+    "address": "0xa55870278d6389ec5b524553d03c04f5677c061e",
+    "mintable": false,
+    "ethereum_address": "0x7659ce147d0e714454073a5dd7003544234b6aa0"
+}

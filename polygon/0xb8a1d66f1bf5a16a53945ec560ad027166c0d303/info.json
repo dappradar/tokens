@@ -1,0 +1,8 @@
+{
+    "symbol": "SYBTC",
+    "name": "Set Yield wBTC (PoS)",
+    "decimals": 18,
+    "address": "0xb8a1d66f1bf5a16a53945ec560ad027166c0d303",
+    "mintable": false,
+    "ethereum_address": "0x8dba46033e872feeb7480b4f5031916d85317494"
+}

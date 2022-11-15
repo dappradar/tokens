@@ -1,0 +1,8 @@
+{
+    "symbol": "INDEX",
+    "name": "Index (PoS)",
+    "decimals": 18,
+    "address": "0xfbd8a3b908e764dbcd51e27992464b4432a1132b",
+    "mintable": false,
+    "ethereum_address": "0x0954906da0bf32d5479e25f46056d22f08464cab"
+}

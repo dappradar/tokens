@@ -1,0 +1,8 @@
+{
+    "symbol": "BANX",
+    "name": "BANX (PoS)",
+    "decimals": 18,
+    "address": "0x288e8ad3d61e6f931290a5df1ae31f16b8274770",
+    "mintable": false,
+    "ethereum_address": "0x0e2e120f5e18f2d0a1afd0fab02b09aa37a17f7e"
+}

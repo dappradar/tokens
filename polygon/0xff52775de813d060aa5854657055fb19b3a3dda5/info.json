@@ -1,0 +1,8 @@
+{
+    "symbol": "Staked IMX",
+    "name": "xIMX (PoS)",
+    "decimals": 18,
+    "address": "0xff52775de813d060aa5854657055fb19b3a3dda5",
+    "mintable": false,
+    "ethereum_address": "0x363b2deac84f0100d63c7427335f8350f596bf59"
+}

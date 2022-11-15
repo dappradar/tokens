@@ -1,0 +1,8 @@
+{
+    "symbol": "MLN",
+    "name": "Melon Token (PoS)",
+    "decimals": 18,
+    "address": "0xa9f37d84c856fda3812ad0519dad44fa0a3fe207",
+    "mintable": false,
+    "ethereum_address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892"
+}

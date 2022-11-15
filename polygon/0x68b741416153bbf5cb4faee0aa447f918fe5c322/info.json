@@ -1,0 +1,8 @@
+{
+    "symbol": "ION",
+    "name": "Ion (PoS)",
+    "decimals": 6,
+    "address": "0x68b741416153bbf5cb4faee0aa447f918fe5c322",
+    "mintable": false,
+    "ethereum_address": "0xee59b43149cead680aedf8778163ce8cb8c8a6fb"
+}

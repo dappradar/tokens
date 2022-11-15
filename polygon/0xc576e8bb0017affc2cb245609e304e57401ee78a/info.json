@@ -1,0 +1,8 @@
+{
+    "symbol": "TBUX",
+    "name": "TrumpBux",
+    "decimals": 18,
+    "address": "0xc576e8bb0017affc2cb245609e304e57401ee78a",
+    "mintable": false,
+    "ethereum_address": "0x9d29bd441e9da3eff48568aea1348383544547e7"
+}

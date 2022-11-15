@@ -1,0 +1,8 @@
+{
+    "symbol": "IPV6",
+    "name": "IPv6Token.com (PoS)",
+    "decimals": 18,
+    "address": "0x06a0462e6b25793f306828c20033a7db6e926394",
+    "mintable": false,
+    "ethereum_address": "0xf44217cadef3316e01c5d7b2a2401b5b7ab82e8b"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "CUM",
+    "name": "CumCoin (PoS)",
+    "decimals": 18,
+    "address": "0x0f92d459b20d21f6bf9e02056ea9165d3f78ba62",
+    "mintable": false,
+    "ethereum_address": "0x4ecebfe9b26cd2949202bc0c74e8b5748115fe20"
+}

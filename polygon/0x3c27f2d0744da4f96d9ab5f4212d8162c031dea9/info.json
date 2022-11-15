@@ -1,0 +1,8 @@
+{
+    "symbol": "DPR",
+    "name": "Deeper Network (PoS)",
+    "decimals": 18,
+    "address": "0x3c27f2d0744da4f96d9ab5f4212d8162c031dea9",
+    "mintable": false,
+    "ethereum_address": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1"
+}

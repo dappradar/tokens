@@ -1,0 +1,8 @@
+{
+    "symbol": "NBC",
+    "name": "National Bank of Coin (PoS)",
+    "decimals": 18,
+    "address": "0x4fb19d9cc639c556db433e7cb63722ceb2289af0",
+    "mintable": false,
+    "ethereum_address": "0x96e12ec9e0d333a52f87713ee03f23fb715fc228"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "AUDT",
+    "name": "Auditchain (PoS)",
+    "decimals": 18,
+    "address": "0x91c5a5488c0decde1eacd8a4f10e0942fb925067",
+    "mintable": true,
+    "ethereum_address": "0xb90cb79b72eb10c39cbdf86e50b1c89f6a235f2e"
+}

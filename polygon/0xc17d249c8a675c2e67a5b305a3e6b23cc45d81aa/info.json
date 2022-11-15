@@ -1,0 +1,8 @@
+{
+    "symbol": "CGT",
+    "name": "CACHE Gold (PoS)",
+    "decimals": 8,
+    "address": "0xc17d249c8a675c2e67a5b305a3e6b23cc45d81aa",
+    "mintable": false,
+    "ethereum_address": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0"
+}

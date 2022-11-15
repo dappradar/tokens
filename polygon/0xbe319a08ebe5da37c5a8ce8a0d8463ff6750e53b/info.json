@@ -1,0 +1,8 @@
+{
+    "symbol": "ARDU",
+    "name": "Circolo Arduino Token (PoS)",
+    "decimals": 18,
+    "address": "0xbe319a08ebe5da37c5a8ce8a0d8463ff6750e53b",
+    "mintable": false,
+    "ethereum_address": "0x3d58f7b1b6f0262031c319265bd57e4752e3fa1e"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "MCF",
+    "name": "MCF token (PoS)",
+    "decimals": 10,
+    "address": "0x15e5c5c8cefa0aafebef55b1a43db5d2c9a4b6ae",
+    "mintable": false,
+    "ethereum_address": "0xe33ae4e795114279721047484e5ad5cc7df24fcb"
+}

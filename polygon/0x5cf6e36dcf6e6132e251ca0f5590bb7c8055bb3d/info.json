@@ -1,0 +1,8 @@
+{
+    "symbol": "HyFi",
+    "name": "hyfi.token (PoS)",
+    "decimals": 18,
+    "address": "0x5cf6e36dcf6e6132e251ca0f5590bb7c8055bb3d",
+    "mintable": false,
+    "ethereum_address": "0x79a1ca1768fe91867be916efa2b1630c7fc83422"
+}

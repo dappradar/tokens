@@ -1,0 +1,8 @@
+{
+    "symbol": "SV2X",
+    "name": "SatoMotive Token (PoS)",
+    "decimals": 18,
+    "address": "0x9b9026901999e612bc396bb285e8fbe3dcc7b78e",
+    "mintable": false,
+    "ethereum_address": "0x37810173b70e86b8435f8c28590e8faceff59044"
+}

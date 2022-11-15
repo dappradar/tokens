@@ -1,0 +1,8 @@
+{
+    "symbol": "USD1",
+    "name": "USD One (PoS)",
+    "decimals": 6,
+    "address": "0x1e3f0771b3fe83871d7674b2d3b4b335c1ec1fb2",
+    "mintable": false,
+    "ethereum_address": "0xcae88502870d399b7d8c1898b0c9a5bdc93b1286"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "METW",
+    "name": "MetaWorld (PoS)",
+    "decimals": 18,
+    "address": "0x1b042246d67c44a745dc8bad735c84059a1fa0a7",
+    "mintable": false,
+    "ethereum_address": "0x18cdc8ecad3da54aca6be823b1ea29f514d4856d"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "BTCV",
+    "name": "BTC Volatility Index (PoS)",
+    "decimals": 18,
+    "address": "0xe52f979590067637120004d188771b4ae48807ee",
+    "mintable": true,
+    "ethereum_address": "0x51b0bcbeff204b39ce792d1e16767fe6f7631970"
+}

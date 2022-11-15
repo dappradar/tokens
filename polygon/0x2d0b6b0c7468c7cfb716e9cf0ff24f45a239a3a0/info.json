@@ -1,0 +1,8 @@
+{
+    "symbol": "BTL",
+    "name": "Betbeetle (PoS)",
+    "decimals": 18,
+    "address": "0x2d0b6b0c7468c7cfb716e9cf0ff24f45a239a3a0",
+    "mintable": false,
+    "ethereum_address": "0xb9a8695a234b6e8f9e65d299df8f94234540fc05"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "TIP",
+    "name": "Tipcoin (PoS)",
+    "decimals": 18,
+    "address": "0x098eabed893edba2b7a1855130f1b1fb181f132c",
+    "mintable": false,
+    "ethereum_address": "0x7d7df208e470a328c5768779a04ba456f1618bc4"
+}

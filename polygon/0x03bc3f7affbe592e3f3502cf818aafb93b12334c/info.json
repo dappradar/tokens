@@ -1,0 +1,8 @@
+{
+    "symbol": "JUL",
+    "name": "JULSwap (PoS)",
+    "decimals": 18,
+    "address": "0x03bc3f7affbe592e3f3502cf818aafb93b12334c",
+    "mintable": false,
+    "ethereum_address": "0x5580ab97f226c324c671746a1787524aef42e415"
+}

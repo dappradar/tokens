@@ -1,0 +1,8 @@
+{
+    "symbol": "KISHU",
+    "name": "Kishu Inu (PoS)",
+    "decimals": 9,
+    "address": "0xa3d595823beede02cc755ab4e22ad009a70cb590",
+    "mintable": false,
+    "ethereum_address": "0xa2b4c0af19cc16a6cfacce81f192b024d625817d"
+}

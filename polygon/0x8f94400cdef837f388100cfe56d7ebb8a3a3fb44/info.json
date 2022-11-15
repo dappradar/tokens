@@ -1,0 +1,8 @@
+{
+    "symbol": "OKB",
+    "name": "OKB (PoS)",
+    "decimals": 18,
+    "address": "0x8f94400cdef837f388100cfe56d7ebb8a3a3fb44",
+    "mintable": false,
+    "ethereum_address": "0x75231f58b43240c9718dd58b4967c5114342a86c"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "PECO",
+    "name": "Wrapped PECO (PoS)",
+    "decimals": 18,
+    "address": "0x13607b1ca022368c81f2f2709b181ee8e0f42dd6",
+    "mintable": true,
+    "ethereum_address": "0x9d3ee6b64e69ebe12a4bf0b01d031cb80f556ee4"
+}

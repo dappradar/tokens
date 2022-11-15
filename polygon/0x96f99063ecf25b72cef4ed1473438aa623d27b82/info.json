@@ -1,0 +1,8 @@
+{
+    "symbol": "ETHMNY",
+    "name": "Ethereum Money (PoS)",
+    "decimals": 2,
+    "address": "0x96f99063ecf25b72cef4ed1473438aa623d27b82",
+    "mintable": false,
+    "ethereum_address": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "ODEX",
+    "name": "One DEX (PoS)",
+    "decimals": 18,
+    "address": "0x5865a027cb72dbe273814c41c18d128549237aa1",
+    "mintable": false,
+    "ethereum_address": "0xa960d2ba7000d58773e7fa5754dec3bb40a069d5"
+}

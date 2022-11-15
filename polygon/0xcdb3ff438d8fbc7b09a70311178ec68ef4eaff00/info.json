@@ -1,0 +1,8 @@
+{
+    "symbol": "mFB",
+    "name": "Wrapped Mirror FB Token (PoS)",
+    "decimals": 18,
+    "address": "0xcdb3ff438d8fbc7b09a70311178ec68ef4eaff00",
+    "mintable": false,
+    "ethereum_address": "0x0e99cc0535bb6251f6679fa6e65d6d3b430e840b"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "COOK",
+    "name": "Cook Token (PoS)",
+    "decimals": 18,
+    "address": "0x35bb0db8210a2a6a333ef81af92e9ebe4aadc456",
+    "mintable": false,
+    "ethereum_address": "0xff75ced57419bcaebe5f05254983b013b0646ef5"
+}

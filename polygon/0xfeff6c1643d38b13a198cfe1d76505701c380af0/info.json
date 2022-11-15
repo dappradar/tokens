@@ -1,0 +1,8 @@
+{
+    "symbol": "DIP",
+    "name": "Etherisc DIP (PoS)",
+    "decimals": 18,
+    "address": "0xfeff6c1643d38b13a198cfe1d76505701c380af0",
+    "mintable": false,
+    "ethereum_address": "0xc719d010b63e5bbf2c0551872cd5316ed26acd83"
+}

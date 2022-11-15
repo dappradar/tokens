@@ -1,0 +1,8 @@
+{
+    "symbol": "EDGT",
+    "name": "EdgeTest (PoS)",
+    "decimals": 18,
+    "address": "0x24f8a7bb3190039b4cf0f96cd72e2ea3a2d82256",
+    "mintable": true,
+    "ethereum_address": "0x9d7e326b8c87e48b84de6d300d7bee3ce42efc37"
+}

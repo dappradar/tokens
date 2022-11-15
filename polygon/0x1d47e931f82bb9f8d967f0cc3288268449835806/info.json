@@ -1,0 +1,8 @@
+{
+    "symbol": "PENDLE",
+    "name": "Pendle (PoS)",
+    "decimals": 18,
+    "address": "0x1d47e931f82bb9f8d967f0cc3288268449835806",
+    "mintable": false,
+    "ethereum_address": "0x808507121b80c02388fad14726482e061b8da827"
+}

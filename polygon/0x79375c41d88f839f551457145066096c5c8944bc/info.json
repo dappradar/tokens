@@ -1,0 +1,8 @@
+{
+    "symbol": "SG",
+    "name": "SocialGood (PoS)",
+    "decimals": 18,
+    "address": "0x79375c41d88f839f551457145066096c5c8944bc",
+    "mintable": false,
+    "ethereum_address": "0xddf7fd345d54ff4b40079579d4c4670415dbfd0a"
+}

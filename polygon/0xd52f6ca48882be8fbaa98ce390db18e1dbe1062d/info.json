@@ -1,0 +1,8 @@
+{
+    "symbol": "ORE",
+    "name": "pTokens ORE (PoS)",
+    "decimals": 18,
+    "address": "0xd52f6ca48882be8fbaa98ce390db18e1dbe1062d",
+    "mintable": false,
+    "ethereum_address": "0x4f640f2529ee0cf119a2881485845fa8e61a782a"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "GARD",
+    "name": "HASHGARD (PoS)",
+    "decimals": 18,
+    "address": "0xf89250e83fa2f33058385c98c7c44e723b040359",
+    "mintable": false,
+    "ethereum_address": "0x5c64031c62061865e5fd0f53d3cdaef80f72e99d"
+}

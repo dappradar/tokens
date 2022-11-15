@@ -1,0 +1,8 @@
+{
+    "symbol": "BRIBE",
+    "name": "BribeToken (PoS)",
+    "decimals": 18,
+    "address": "0xa9e0cde4be86f5df7e2888753e5f663a41220469",
+    "mintable": false,
+    "ethereum_address": "0x679fa6dc913acab6def33ec469fc6e421bc794f5"
+}

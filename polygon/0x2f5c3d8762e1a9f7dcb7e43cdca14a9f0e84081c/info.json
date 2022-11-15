@@ -1,0 +1,8 @@
+{
+    "symbol": "aAmmUniUNIWETH",
+    "name": "Aave AMM Market UniUNIWETH (PoS)",
+    "decimals": 18,
+    "address": "0x2f5c3d8762e1a9f7dcb7e43cdca14a9f0e84081c",
+    "mintable": false,
+    "ethereum_address": "0x3d26dcd840fcc8e4b2193ace8a092e4a65832f9f"
+}

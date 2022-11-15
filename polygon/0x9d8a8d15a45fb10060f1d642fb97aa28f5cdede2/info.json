@@ -1,0 +1,8 @@
+{
+    "symbol": "DOGEN",
+    "name": "Dogen (PoS)",
+    "decimals": 18,
+    "address": "0x9d8a8d15a45fb10060f1d642fb97aa28f5cdede2",
+    "mintable": false,
+    "ethereum_address": "0x17eb50fdd2995696ee82912a80a9766fcbb0ecca"
+}

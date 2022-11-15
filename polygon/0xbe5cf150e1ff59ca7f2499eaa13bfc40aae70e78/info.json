@@ -1,0 +1,8 @@
+{
+    "symbol": "GLCH",
+    "name": "Glitch (PoS)",
+    "decimals": 18,
+    "address": "0xbe5cf150e1ff59ca7f2499eaa13bfc40aae70e78",
+    "mintable": false,
+    "ethereum_address": "0x038a68ff68c393373ec894015816e33ad41bd564"
+}

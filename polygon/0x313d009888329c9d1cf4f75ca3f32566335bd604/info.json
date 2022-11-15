@@ -1,0 +1,8 @@
+{
+    "symbol": "LEND",
+    "name": "EthLend Token",
+    "decimals": 18,
+    "address": "0x313d009888329c9d1cf4f75ca3f32566335bd604",
+    "mintable": false,
+    "ethereum_address": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03"
+}

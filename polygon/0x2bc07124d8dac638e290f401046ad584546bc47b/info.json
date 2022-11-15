@@ -1,0 +1,8 @@
+{
+    "symbol": "TOWER",
+    "name": "TOWER (PoS)",
+    "decimals": 18,
+    "address": "0x2bc07124d8dac638e290f401046ad584546bc47b",
+    "mintable": false,
+    "ethereum_address": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b"
+}

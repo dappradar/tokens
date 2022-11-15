@@ -1,0 +1,8 @@
+{
+    "symbol": "cvxFXS",
+    "name": "Convex FXS (PoS)",
+    "decimals": 18,
+    "address": "0xe145524abf229cce1d536623d32bf4794bb02a61",
+    "mintable": false,
+    "ethereum_address": "0xfeef77d3f69374f66429c91d732a244f074bdf74"
+}

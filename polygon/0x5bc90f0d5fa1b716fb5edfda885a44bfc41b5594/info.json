@@ -1,0 +1,8 @@
+{
+    "symbol": "BCP",
+    "name": "BitcashPay (PoS)",
+    "decimals": 8,
+    "address": "0x5bc90f0d5fa1b716fb5edfda885a44bfc41b5594",
+    "mintable": false,
+    "ethereum_address": "0xe047705117eb07e712c3d684f5b18e74577e83ac"
+}

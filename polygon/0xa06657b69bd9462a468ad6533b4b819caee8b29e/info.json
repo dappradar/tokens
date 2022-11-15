@@ -1,0 +1,8 @@
+{
+    "symbol": "CANDI",
+    "name": "CANDI (PoS)",
+    "decimals": 18,
+    "address": "0xa06657b69bd9462a468ad6533b4b819caee8b29e",
+    "mintable": false,
+    "ethereum_address": "0x3aa1bd53318a73d2fc41a1dd5de1aa9a0206a5d8"
+}

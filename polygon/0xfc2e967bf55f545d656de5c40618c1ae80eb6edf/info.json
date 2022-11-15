@@ -1,0 +1,8 @@
+{
+    "symbol": "BANK",
+    "name": "Float Bank (PoS)",
+    "decimals": 18,
+    "address": "0xfc2e967bf55f545d656de5c40618c1ae80eb6edf",
+    "mintable": false,
+    "ethereum_address": "0x24a6a37576377f63f194caa5f518a60f45b42921"
+}

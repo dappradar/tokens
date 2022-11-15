@@ -1,0 +1,8 @@
+{
+    "symbol": "mWBTC",
+    "name": "mushrooming Wrapped BTC (PoS)",
+    "decimals": 8,
+    "address": "0x652e36ecfa0e4f7e435f6d38688d68a3be65639c",
+    "mintable": false,
+    "ethereum_address": "0xb06661a221ab2ec615531f9632d6dc5d2984179a"
+}

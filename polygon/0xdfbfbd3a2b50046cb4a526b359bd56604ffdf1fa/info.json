@@ -1,0 +1,8 @@
+{
+    "symbol": "eTWD",
+    "name": "Telcoin TWD (PoS)",
+    "decimals": 6,
+    "address": "0xdfbfbd3a2b50046cb4a526b359bd56604ffdf1fa",
+    "mintable": false,
+    "ethereum_address": "0x4a61f857d79a927d927c762bb26d884e9e70b02a"
+}

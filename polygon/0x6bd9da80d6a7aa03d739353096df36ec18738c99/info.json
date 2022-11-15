@@ -1,0 +1,8 @@
+{
+    "symbol": "sUKH",
+    "name": "sUKHI (PoS)",
+    "decimals": 18,
+    "address": "0x6bd9da80d6a7aa03d739353096df36ec18738c99",
+    "mintable": false,
+    "ethereum_address": "0x538429c057c8695c62194028c57b540c4bf13a6c"
+}

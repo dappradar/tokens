@@ -1,0 +1,8 @@
+{
+    "symbol": "SIFI",
+    "name": "simian.finance (PoS)",
+    "decimals": 9,
+    "address": "0x41d36d3bd6297fe288e31c75de8b7453de9daf90",
+    "mintable": false,
+    "ethereum_address": "0x4afb0aac9b862946837b2444566b8a914d6d0d97"
+}

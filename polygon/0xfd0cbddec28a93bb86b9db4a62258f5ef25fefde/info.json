@@ -1,0 +1,8 @@
+{
+    "symbol": "BITT",
+    "name": "BITTOKEN (PoS)",
+    "decimals": 18,
+    "address": "0xfd0cbddec28a93bb86b9db4a62258f5ef25fefde",
+    "mintable": false,
+    "ethereum_address": "0x9f9913853f749b3fe6d6d4e16a1cc3c1656b6d51"
+}

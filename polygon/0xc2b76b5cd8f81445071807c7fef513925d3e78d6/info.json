@@ -1,0 +1,8 @@
+{
+    "symbol": "SYF",
+    "name": "Stablecoin Yield Fund (PoS)",
+    "decimals": 18,
+    "address": "0xc2b76b5cd8f81445071807c7fef513925d3e78d6",
+    "mintable": false,
+    "ethereum_address": "0x5c8507d4aa2a0ebe7fa79fcf689fbb07f8007700"
+}

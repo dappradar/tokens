@@ -1,0 +1,8 @@
+{
+    "symbol": "PRUF",
+    "name": "PRüF Network (PoS)",
+    "decimals": 18,
+    "address": "0xadf72d32e511ee00c6e0ff5d62cd5c7c40a6adea",
+    "mintable": false,
+    "ethereum_address": "0xa49811140e1d6f653dec28037be0924c811c4538"
+}

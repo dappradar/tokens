@@ -1,0 +1,8 @@
+{
+    "symbol": "BLES",
+    "name": "Blind Boxes Token (PoS)",
+    "decimals": 18,
+    "address": "0x1b599beb7b1f50807dd58fd7e8ffcf073b435e71",
+    "mintable": false,
+    "ethereum_address": "0xe796d6ca1ceb1b022ece5296226bf784110031cd"
+}

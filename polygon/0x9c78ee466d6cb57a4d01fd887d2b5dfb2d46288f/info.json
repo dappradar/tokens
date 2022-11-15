@@ -1,0 +1,8 @@
+{
+    "symbol": "MUST",
+    "name": "Must (PoS)",
+    "decimals": 18,
+    "address": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f",
+    "mintable": false,
+    "ethereum_address": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "LOOKS",
+    "name": "LooksRare Token (PoS)",
+    "decimals": 18,
+    "address": "0xc3d8222c2f1223df5db3a0ee845eafc3f67e76a3",
+    "mintable": false,
+    "ethereum_address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e"
+}

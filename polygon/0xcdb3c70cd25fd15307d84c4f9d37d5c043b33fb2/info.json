@@ -1,0 +1,8 @@
+{
+    "symbol": "SPELL",
+    "name": "Spell Token (PoS)",
+    "decimals": 18,
+    "address": "0xcdb3c70cd25fd15307d84c4f9d37d5c043b33fb2",
+    "mintable": false,
+    "ethereum_address": "0x090185f2135308bad17527004364ebcc2d37e5f6"
+}

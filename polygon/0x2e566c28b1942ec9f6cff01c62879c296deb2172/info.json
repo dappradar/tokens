@@ -1,0 +1,8 @@
+{
+    "symbol": "SAC",
+    "name": "Sable Coin (PoS)",
+    "decimals": 18,
+    "address": "0x2e566c28b1942ec9f6cff01c62879c296deb2172",
+    "mintable": false,
+    "ethereum_address": "0x3e27a81e83567ad1a24ae67deec3dada8ce2c3ec"
+}

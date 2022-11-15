@@ -1,0 +1,8 @@
+{
+    "symbol": "mAAPL",
+    "name": "Wrapped Mirror AAPL Token (PoS)",
+    "decimals": 18,
+    "address": "0x7e4e3923005ac2942745480d96751ca9dec5c9b6",
+    "mintable": false,
+    "ethereum_address": "0xd36932143f6ebdedd872d5fb0651f4b72fd15a84"
+}

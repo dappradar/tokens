@@ -1,0 +1,8 @@
+{
+    "symbol": "MNTL",
+    "name": "AssetMantle (PoS)",
+    "decimals": 6,
+    "address": "0x38a536a31ba4d8c1bcca016abbf786ecd25877e8",
+    "mintable": false,
+    "ethereum_address": "0x2c4f1df9c7de0c59778936c9b145ff56813f3295"
+}

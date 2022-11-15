@@ -1,0 +1,8 @@
+{
+    "symbol": "ZKS",
+    "name": "Zks (PoS)",
+    "decimals": 18,
+    "address": "0x70b7b259001c1af1583fc466c27f49105f38fbfd",
+    "mintable": false,
+    "ethereum_address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6"
+}

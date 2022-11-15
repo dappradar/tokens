@@ -1,0 +1,8 @@
+{
+    "symbol": "TPSC",
+    "name": "Terrapass Coin (PoS)",
+    "decimals": 18,
+    "address": "0x0a2a95978ce57395dbf33696d34e222e1eacde4e",
+    "mintable": false,
+    "ethereum_address": "0x88d8da2a8d0fa5b1f4e38030ac486ade0afa2798"
+}

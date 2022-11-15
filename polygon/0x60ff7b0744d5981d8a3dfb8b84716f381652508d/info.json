@@ -1,0 +1,8 @@
+{
+    "symbol": "ANME",
+    "name": "Anime Coin (PoS)",
+    "decimals": 18,
+    "address": "0x60ff7b0744d5981d8a3dfb8b84716f381652508d",
+    "mintable": false,
+    "ethereum_address": "0x5c77583c1d729c94baac79579c26ff70c46145b5"
+}

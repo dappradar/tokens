@@ -1,0 +1,8 @@
+{
+    "symbol": "TRSH",
+    "name": "TRASH (PoS)",
+    "decimals": 18,
+    "address": "0xa73eacb2955ff636f8fe16f6be35fc11d8d61f9e",
+    "mintable": false,
+    "ethereum_address": "0x0f46eba0bafe2739d9f3c43a48bb84bee1f6644f"
+}

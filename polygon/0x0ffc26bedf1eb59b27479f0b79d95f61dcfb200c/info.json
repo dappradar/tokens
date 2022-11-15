@@ -1,0 +1,8 @@
+{
+    "symbol": "APYS",
+    "name": "APYSwap (PoS)",
+    "decimals": 18,
+    "address": "0x0ffc26bedf1eb59b27479f0b79d95f61dcfb200c",
+    "mintable": false,
+    "ethereum_address": "0xf7413489c474ca4399eee604716c72879eea3615"
+}

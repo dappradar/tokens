@@ -1,0 +1,8 @@
+{
+    "symbol": "WURST",
+    "name": "Wurstcoin (PoS)",
+    "decimals": 18,
+    "address": "0xd71951630e7afb497ee6f9d9b4510a8614869a59",
+    "mintable": false,
+    "ethereum_address": "0x67e74603df95cabbebc6795478c2402a01ea1517"
+}

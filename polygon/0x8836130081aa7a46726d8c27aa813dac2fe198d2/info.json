@@ -1,0 +1,8 @@
+{
+    "symbol": "DEFI",
+    "name": "DEFICHAIN (PoS)",
+    "decimals": 18,
+    "address": "0x8836130081aa7a46726d8c27aa813dac2fe198d2",
+    "mintable": false,
+    "ethereum_address": "0xf4466988679563b9111853d0a34a081302e74a7e"
+}

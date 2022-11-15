@@ -1,0 +1,8 @@
+{
+    "symbol": "QUICK",
+    "name": "Quickswap (PoS)",
+    "decimals": 18,
+    "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+    "mintable": false,
+    "ethereum_address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f"
+}

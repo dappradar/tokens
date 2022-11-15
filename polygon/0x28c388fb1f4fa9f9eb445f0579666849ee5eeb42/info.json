@@ -1,0 +1,8 @@
+{
+    "symbol": "BEL",
+    "name": "Bella (PoS)",
+    "decimals": 18,
+    "address": "0x28c388fb1f4fa9f9eb445f0579666849ee5eeb42",
+    "mintable": false,
+    "ethereum_address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14"
+}

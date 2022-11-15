@@ -1,0 +1,8 @@
+{
+    "symbol": "PRO",
+    "name": "Proton Gaming (PoS)",
+    "decimals": 6,
+    "address": "0xef274c75cc3d32c989ffbf9476e0212a1caf1836",
+    "mintable": false,
+    "ethereum_address": "0xd31879454548b3684cab394b38ae90060ee15c25"
+}

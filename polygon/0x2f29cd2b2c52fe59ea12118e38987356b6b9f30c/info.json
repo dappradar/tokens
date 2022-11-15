@@ -1,0 +1,8 @@
+{
+    "symbol": "SINS",
+    "name": "SINS Token (PoS)",
+    "decimals": 18,
+    "address": "0x2f29cd2b2c52fe59ea12118e38987356b6b9f30c",
+    "mintable": false,
+    "ethereum_address": "0xd96e64205c261ed36bb15b424bfec58c2a5510d4"
+}

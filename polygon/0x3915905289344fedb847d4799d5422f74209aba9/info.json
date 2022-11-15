@@ -1,0 +1,8 @@
+{
+    "symbol": "ETHPA",
+    "name": "ETH Price Action Candlestick Set (PoS)",
+    "decimals": 18,
+    "address": "0x3915905289344fedb847d4799d5422f74209aba9",
+    "mintable": false,
+    "ethereum_address": "0x09e4bdfb273245063ef5e800d891eff7d04f9b83"
+}

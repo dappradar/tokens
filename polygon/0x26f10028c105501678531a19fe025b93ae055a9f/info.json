@@ -1,0 +1,8 @@
+{
+    "symbol": "COIN",
+    "name": "coin_artist (PoS)",
+    "decimals": 18,
+    "address": "0x26f10028c105501678531a19fe025b93ae055a9f",
+    "mintable": false,
+    "ethereum_address": "0x87b008e57f640d94ee44fd893f0323af933f9195"
+}

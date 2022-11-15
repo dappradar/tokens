@@ -1,0 +1,8 @@
+{
+    "symbol": "CELR",
+    "name": "CelerToken (PoS)",
+    "decimals": 18,
+    "address": "0x91a4635f620766145c099e15889bd2766906a559",
+    "mintable": false,
+    "ethereum_address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667"
+}

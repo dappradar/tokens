@@ -1,0 +1,8 @@
+{
+    "symbol": "XCM",
+    "name": "CoinMetro Token (PoS)",
+    "decimals": 18,
+    "address": "0xc1a8fc059963d448acf153b9caa622bd47e8650d",
+    "mintable": false,
+    "ethereum_address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25"
+}

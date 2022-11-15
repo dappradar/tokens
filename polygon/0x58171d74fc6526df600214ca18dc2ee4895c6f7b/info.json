@@ -1,0 +1,8 @@
+{
+    "symbol": "GAUF",
+    "name": "GaugeField (PoS)",
+    "decimals": 18,
+    "address": "0x58171d74fc6526df600214ca18dc2ee4895c6f7b",
+    "mintable": false,
+    "ethereum_address": "0x8ce7386fe7688417885adebcbfc01a5445226b2c"
+}

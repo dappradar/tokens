@@ -1,0 +1,8 @@
+{
+    "symbol": "METASHOT",
+    "name": "Metashot (PoS)",
+    "decimals": 18,
+    "address": "0xf30fbc3a1c030688411c8fcd4bb74ae60bedabbb",
+    "mintable": false,
+    "ethereum_address": "0x53d15f4429596deaf4ad66e19195b62dbc423ba7"
+}

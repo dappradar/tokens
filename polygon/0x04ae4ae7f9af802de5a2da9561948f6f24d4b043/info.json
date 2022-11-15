@@ -1,0 +1,8 @@
+{
+    "symbol": "BTT",
+    "name": "BoughtThe.top (PoS)",
+    "decimals": 18,
+    "address": "0x04ae4ae7f9af802de5a2da9561948f6f24d4b043",
+    "mintable": false,
+    "ethereum_address": "0x910ace1b34df96c8ead1088f279fe114be301286"
+}

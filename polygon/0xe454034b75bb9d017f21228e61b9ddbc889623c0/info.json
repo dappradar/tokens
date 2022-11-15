@@ -1,0 +1,8 @@
+{
+    "symbol": "MDSIM",
+    "name": "Neonious Token (PoS)",
+    "decimals": 18,
+    "address": "0xe454034b75bb9d017f21228e61b9ddbc889623c0",
+    "mintable": false,
+    "ethereum_address": "0xda48c42517affb3bf3fc13ce26561092e1a61a80"
+}

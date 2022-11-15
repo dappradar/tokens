@@ -1,0 +1,8 @@
+{
+    "symbol": "FOHO",
+    "name": "FohoCoin (PoS)",
+    "decimals": 8,
+    "address": "0x37f04a77ee865ba30ddbf2db6945182d202425e7",
+    "mintable": false,
+    "ethereum_address": "0xdd2e93924bdd4e20c3cf4a8736e5955224fa450e"
+}

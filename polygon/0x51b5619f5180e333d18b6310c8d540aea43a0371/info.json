@@ -1,0 +1,8 @@
+{
+    "symbol": "VHC",
+    "name": "Vault Hill City (PoS)",
+    "decimals": 18,
+    "address": "0x51b5619f5180e333d18b6310c8d540aea43a0371",
+    "mintable": false,
+    "ethereum_address": "0x60e14651d0df26d114e5b55be970b76ec9f3ef74"
+}

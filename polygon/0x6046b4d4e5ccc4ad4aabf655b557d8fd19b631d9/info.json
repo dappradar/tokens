@@ -1,0 +1,8 @@
+{
+    "symbol": "INFC",
+    "name": "InfiniCoin (PoS)",
+    "decimals": 2,
+    "address": "0x6046b4d4e5ccc4ad4aabf655b557d8fd19b631d9",
+    "mintable": false,
+    "ethereum_address": "0x742a56a727dac07e0889920b8887d482325f659b"
+}

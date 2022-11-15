@@ -1,0 +1,8 @@
+{
+    "symbol": "ELIOT",
+    "name": "Eliot (PoS)",
+    "decimals": 18,
+    "address": "0xb83a45bbb5699ae47b39c32b20a145b28b446fca",
+    "mintable": false,
+    "ethereum_address": "0xf17e3bd04465f2b60ab31a42414fb7474e52d62d"
+}

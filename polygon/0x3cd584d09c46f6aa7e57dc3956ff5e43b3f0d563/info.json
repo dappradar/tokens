@@ -1,0 +1,8 @@
+{
+    "symbol": "BCNT",
+    "name": "Bincentive Token (PoS)",
+    "decimals": 18,
+    "address": "0x3cd584d09c46f6aa7e57dc3956ff5e43b3f0d563",
+    "mintable": false,
+    "ethereum_address": "0x9669890e48f330acd88b78d63e1a6b3482652cd9"
+}

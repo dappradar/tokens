@@ -1,0 +1,8 @@
+{
+    "symbol": "CNJ",
+    "name": "Conjure (PoS)",
+    "decimals": 18,
+    "address": "0x2b76f9e7becc7b4381eeb1894385045b1aa7fbab",
+    "mintable": false,
+    "ethereum_address": "0x00a55375002f3cda400383f479e7cd57bad029a9"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "REGEN",
+    "name": "Regen Network (PoS)",
+    "decimals": 6,
+    "address": "0xec482de9569a5ea3dd9779039b79e53f15791fde",
+    "mintable": false,
+    "ethereum_address": "0xeee10b3736d5978924f392ed67497cfae795128b"
+}

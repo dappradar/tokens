@@ -1,0 +1,8 @@
+{
+    "symbol": "ENFTI",
+    "name": "Ember NFT Index (PoS)",
+    "decimals": 18,
+    "address": "0xe50c778924604b2aa3e66fb5c2d378d5fc15fcd5",
+    "mintable": false,
+    "ethereum_address": "0x3c6591cedd3d60c022f6da4f83b36d23a633b512"
+}

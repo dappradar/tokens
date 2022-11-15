@@ -1,0 +1,8 @@
+{
+    "symbol": "QUO",
+    "name": "Quoxent (PoS)",
+    "decimals": 18,
+    "address": "0x9b0162d3b3b4e73fe7dbb10b141e03539199a8f2",
+    "mintable": false,
+    "ethereum_address": "0xefd720c94659f2ccb767809347245f917a145ed8"
+}

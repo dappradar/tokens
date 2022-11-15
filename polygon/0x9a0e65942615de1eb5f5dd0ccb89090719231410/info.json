@@ -1,0 +1,8 @@
+{
+    "symbol": "XD",
+    "name": "Data Transaction Token (PoS)",
+    "decimals": 18,
+    "address": "0x9a0e65942615de1eb5f5dd0ccb89090719231410",
+    "mintable": false,
+    "ethereum_address": "0x24dcc881e7dd730546834452f21872d5cb4b5293"
+}

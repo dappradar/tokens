@@ -1,0 +1,8 @@
+{
+    "symbol": "KIT",
+    "name": "DexKit (PoS)",
+    "decimals": 18,
+    "address": "0x4d0def42cf57d6f27cd4983042a55dce1c9f853c",
+    "mintable": false,
+    "ethereum_address": "0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4"
+}

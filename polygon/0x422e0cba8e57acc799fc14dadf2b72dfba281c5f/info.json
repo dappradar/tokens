@@ -1,0 +1,8 @@
+{
+    "symbol": "FBIRD",
+    "name": "Firebird DAO (PoS)",
+    "decimals": 18,
+    "address": "0x422e0cba8e57acc799fc14dadf2b72dfba281c5f",
+    "mintable": false,
+    "ethereum_address": "0x299e6062fc7e68f517746ab40cd915c0e9410935"
+}

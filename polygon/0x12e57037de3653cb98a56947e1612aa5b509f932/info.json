@@ -1,0 +1,8 @@
+{
+    "symbol": "bForge",
+    "name": "Bridged Forge Token (PoS)",
+    "decimals": 18,
+    "address": "0x12e57037de3653cb98a56947e1612aa5b509f932",
+    "mintable": false,
+    "ethereum_address": "0xf3a9757743e7e5ea6604e794b3db89dd09a53303"
+}

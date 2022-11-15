@@ -1,0 +1,8 @@
+{
+    "symbol": "FRONT",
+    "name": "Frontier Token (PoS)",
+    "decimals": 18,
+    "address": "0xa3ed22eee92a3872709823a6970069e12a4540eb",
+    "mintable": false,
+    "ethereum_address": "0xf8c3527cc04340b208c854e985240c02f7b7793f"
+}

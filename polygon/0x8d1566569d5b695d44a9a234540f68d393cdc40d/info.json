@@ -1,0 +1,8 @@
+{
+    "symbol": "GAME",
+    "name": "GAME Credits (PoS)",
+    "decimals": 18,
+    "address": "0x8d1566569d5b695d44a9a234540f68d393cdc40d",
+    "mintable": false,
+    "ethereum_address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437"
+}

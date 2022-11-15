@@ -1,0 +1,8 @@
+{
+    "symbol": "XCHF",
+    "name": "CryptoFranc (PoS)",
+    "decimals": 18,
+    "address": "0x23a72dfa62cd95c08ee116a285ae4f05cbeccd18",
+    "mintable": false,
+    "ethereum_address": "0xb4272071ecadd69d933adcd19ca99fe80664fc08"
+}

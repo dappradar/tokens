@@ -1,0 +1,8 @@
+{
+    "symbol": "TBOT",
+    "name": "TBOT (PoS)",
+    "decimals": 18,
+    "address": "0xd3e3741530e274e97cdba6b40e5d9f92f4d86be9",
+    "mintable": false,
+    "ethereum_address": "0xa4f2fdb0a5842d62bbaa5b903f09687b85e4bf59"
+}

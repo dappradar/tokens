@@ -1,0 +1,8 @@
+{
+    "symbol": "TSX",
+    "name": "TradeStars TSX (PoS)",
+    "decimals": 18,
+    "address": "0xf11de26883eb2ebf9877a01703ddc1eb619094e6",
+    "mintable": false,
+    "ethereum_address": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd"
+}

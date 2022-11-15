@@ -1,0 +1,8 @@
+{
+    "symbol": "SMT",
+    "name": "Swarm Markets (PoS)",
+    "decimals": 18,
+    "address": "0xe631dabef60c37a37d70d3b4f812871df663226f",
+    "mintable": false,
+    "ethereum_address": "0xb17548c7b510427baac4e267bea62e800b247173"
+}

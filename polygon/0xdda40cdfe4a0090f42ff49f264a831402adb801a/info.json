@@ -1,0 +1,8 @@
+{
+    "symbol": "DOGIRA",
+    "name": "Dogira (PoS)",
+    "decimals": 9,
+    "address": "0xdda40cdfe4a0090f42ff49f264a831402adb801a",
+    "mintable": false,
+    "ethereum_address": "0xd8c1232fcd219286e341271385bd70601503b3d7"
+}

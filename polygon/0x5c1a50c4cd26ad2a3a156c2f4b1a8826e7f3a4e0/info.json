@@ -1,0 +1,8 @@
+{
+    "symbol": "BITEPT",
+    "name": "BITE POINT (PoS)",
+    "decimals": 18,
+    "address": "0x5c1a50c4cd26ad2a3a156c2f4b1a8826e7f3a4e0",
+    "mintable": true,
+    "ethereum_address": "0x1a31c79c54214537cd893a572314996bb6fe472c"
+}

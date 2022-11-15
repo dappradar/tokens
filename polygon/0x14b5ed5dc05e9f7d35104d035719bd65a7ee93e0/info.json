@@ -1,0 +1,8 @@
+{
+    "symbol": "1PLCO2",
+    "name": "1PLANET Carbon Credit (PoS)",
+    "decimals": 18,
+    "address": "0x14b5ed5dc05e9f7d35104d035719bd65a7ee93e0",
+    "mintable": true,
+    "ethereum_address": "0x2e8891aa76743ee96547acb764a69b87872423f8"
+}

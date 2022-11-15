@@ -1,0 +1,8 @@
+{
+    "symbol": "RGT",
+    "name": "Rari Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0x3b9db434f08003a89554cdb43b3e0b1f8734bde7",
+    "mintable": false,
+    "ethereum_address": "0xd291e7a03283640fdc51b121ac401383a46cc623"
+}

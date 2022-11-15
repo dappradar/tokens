@@ -1,0 +1,8 @@
+{
+    "symbol": "BMI",
+    "name": "Bridge Mutual (PoS)",
+    "decimals": 18,
+    "address": "0x1a47e3316282d57df146f87c58a1fb4b26992bbf",
+    "mintable": false,
+    "ethereum_address": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688"
+}

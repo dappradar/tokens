@@ -1,0 +1,8 @@
+{
+    "symbol": "SIPHER",
+    "name": "Sipher Token (PoS)",
+    "decimals": 18,
+    "address": "0x2eca05abf0adf9f208e973d4682503fb6ae8f942",
+    "mintable": false,
+    "ethereum_address": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511"
+}

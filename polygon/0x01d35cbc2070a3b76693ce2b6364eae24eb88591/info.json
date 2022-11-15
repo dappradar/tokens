@@ -1,0 +1,8 @@
+{
+    "symbol": "PGEN",
+    "name": "Polygen (PoS)",
+    "decimals": 18,
+    "address": "0x01d35cbc2070a3b76693ce2b6364eae24eb88591",
+    "mintable": false,
+    "ethereum_address": "0xf6719e1a8fcbb1b9c290019e37e004966a8916c9"
+}

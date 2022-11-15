@@ -1,0 +1,8 @@
+{
+    "symbol": "CELL",
+    "name": "Cellframe Token (PoS)",
+    "decimals": 18,
+    "address": "0x1d545d7ff917e08d7bf26320343b16bdf51fdbb6",
+    "mintable": false,
+    "ethereum_address": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099"
+}

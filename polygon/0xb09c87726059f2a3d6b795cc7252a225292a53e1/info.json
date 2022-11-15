@@ -1,0 +1,8 @@
+{
+    "symbol": "USDS",
+    "name": "StableUSD (PoS)",
+    "decimals": 6,
+    "address": "0xb09c87726059f2a3d6b795cc7252a225292a53e1",
+    "mintable": false,
+    "ethereum_address": "0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe"
+}

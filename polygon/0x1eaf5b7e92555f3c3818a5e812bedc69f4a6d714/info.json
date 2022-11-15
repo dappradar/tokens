@@ -1,0 +1,8 @@
+{
+    "symbol": "TIM",
+    "name": "Time Treat (PoS)",
+    "decimals": 18,
+    "address": "0x1eaf5b7e92555f3c3818a5e812bedc69f4a6d714",
+    "mintable": false,
+    "ethereum_address": "0x29a504e00f821bd514b177160e7c25254b87bbd0"
+}

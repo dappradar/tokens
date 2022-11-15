@@ -1,0 +1,8 @@
+{
+    "symbol": "DUGG",
+    "name": "Dugg (PoS)",
+    "decimals": 18,
+    "address": "0x4e0dd84d8d5cbd7753407d82824a344ce380fcde",
+    "mintable": false,
+    "ethereum_address": "0x20ba4069294db3429d249fc4bc59b25b860a9ad1"
+}

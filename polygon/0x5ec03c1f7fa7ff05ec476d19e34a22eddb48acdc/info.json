@@ -1,0 +1,8 @@
+{
+    "symbol": "ZED",
+    "name": "ZED RUN (PoS)",
+    "decimals": 18,
+    "address": "0x5ec03c1f7fa7ff05ec476d19e34a22eddb48acdc",
+    "mintable": true,
+    "ethereum_address": "0x5ec03c1f7fa7ff05ec476d19e34a22eddb48acdc"
+}

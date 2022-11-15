@@ -1,0 +1,8 @@
+{
+    "symbol": "CE",
+    "name": "Crypto Excellence (PoS)",
+    "decimals": 18,
+    "address": "0x5dc70fae21c9e21d47e1be6cb01bbeb0c4d12ca3",
+    "mintable": false,
+    "ethereum_address": "0x8f12dfc7981de79a8a34070a732471f2d335eece"
+}

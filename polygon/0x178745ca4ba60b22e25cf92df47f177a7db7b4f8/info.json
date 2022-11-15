@@ -1,0 +1,8 @@
+{
+    "symbol": "CXD",
+    "name": "CXD Token (PoS)",
+    "decimals": 18,
+    "address": "0x178745ca4ba60b22e25cf92df47f177a7db7b4f8",
+    "mintable": false,
+    "ethereum_address": "0xefa815c439c1697dbb6b88d1434153f67697e0b8"
+}

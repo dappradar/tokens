@@ -1,0 +1,8 @@
+{
+    "symbol": "GOAL",
+    "name": "GOAL (PoS)",
+    "decimals": 18,
+    "address": "0x468ac716493c51184162681130035b61baff040b",
+    "mintable": true,
+    "ethereum_address": "0x03ce691aaab3d433078f251af6a6470179170396"
+}

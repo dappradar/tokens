@@ -1,0 +1,8 @@
+{
+    "symbol": "VENICE",
+    "name": "Venice Coin (PoS)",
+    "decimals": 18,
+    "address": "0xc4b00de48c795666c2b0ad0ed4b9ac7e22fd10e1",
+    "mintable": false,
+    "ethereum_address": "0xf6d4fbc3b86811df25d829a14dae0269a3ee5462"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "KTX",
+    "name": "KwikTrust (PoS)",
+    "decimals": 18,
+    "address": "0x60e6895184448f3e8ef509d083e3cc3ac31f82fd",
+    "mintable": false,
+    "ethereum_address": "0x6ca8f7f73599834fee845ef884562bb5479318a0"
+}

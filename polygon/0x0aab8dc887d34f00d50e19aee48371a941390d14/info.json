@@ -1,0 +1,8 @@
+{
+    "symbol": "POWR",
+    "name": "PowerLedger (PoS)",
+    "decimals": 6,
+    "address": "0x0aab8dc887d34f00d50e19aee48371a941390d14",
+    "mintable": false,
+    "ethereum_address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269"
+}

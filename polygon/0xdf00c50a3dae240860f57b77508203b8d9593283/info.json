@@ -1,0 +1,8 @@
+{
+    "symbol": "ICE",
+    "name": "IceToken (PoS)",
+    "decimals": 18,
+    "address": "0xdf00c50a3dae240860f57b77508203b8d9593283",
+    "mintable": false,
+    "ethereum_address": "0xf16e81dce15b08f326220742020379b855b87df9"
+}

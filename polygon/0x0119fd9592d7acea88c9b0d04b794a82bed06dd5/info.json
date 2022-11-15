@@ -1,0 +1,8 @@
+{
+    "symbol": "NFY",
+    "name": "Non-Fungible Yearn (PoS)",
+    "decimals": 0,
+    "address": "0x0119fd9592d7acea88c9b0d04b794a82bed06dd5",
+    "mintable": false,
+    "ethereum_address": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc"
+}

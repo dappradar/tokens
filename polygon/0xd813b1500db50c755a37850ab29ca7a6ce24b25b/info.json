@@ -1,0 +1,8 @@
+{
+    "symbol": "SWEE",
+    "name": "Swee Token (PoS)",
+    "decimals": 18,
+    "address": "0xd813b1500db50c755a37850ab29ca7a6ce24b25b",
+    "mintable": false,
+    "ethereum_address": "0x83d7d7315b918bc002376f73fcd07ea0708e44ef"
+}

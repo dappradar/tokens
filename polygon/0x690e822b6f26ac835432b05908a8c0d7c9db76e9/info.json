@@ -1,0 +1,8 @@
+{
+    "symbol": "WAIFU",
+    "name": "WaifuToken (PoS)",
+    "decimals": 18,
+    "address": "0x690e822b6f26ac835432b05908a8c0d7c9db76e9",
+    "mintable": false,
+    "ethereum_address": "0x50d812bd2728e1bd7c7f57d97819e0bdc486d6ff"
+}

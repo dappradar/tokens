@@ -1,0 +1,8 @@
+{
+    "symbol": "csMATIC",
+    "name": "ClayStack Staked MATIC (PoS)",
+    "decimals": 18,
+    "address": "0x7ed6390f38d554b8518ef30b925b46972e768af8",
+    "mintable": false,
+    "ethereum_address": "0x38b7bf4eecf3eb530b1529c9401fc37d2a71a912"
+}

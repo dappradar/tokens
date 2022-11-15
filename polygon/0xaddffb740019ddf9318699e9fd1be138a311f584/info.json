@@ -1,0 +1,8 @@
+{
+    "symbol": "DEM",
+    "name": "Democracy (PoS)",
+    "decimals": 18,
+    "address": "0xaddffb740019ddf9318699e9fd1be138a311f584",
+    "mintable": false,
+    "ethereum_address": "0xc589d3d92ae2b4461e9bb2e689b36c4e3c9c4fa3"
+}

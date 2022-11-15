@@ -1,0 +1,8 @@
+{
+    "symbol": "IOV",
+    "name": "Starname (PoS)",
+    "decimals": 6,
+    "address": "0x6ec60377b874782408ea493becccce39347a911a",
+    "mintable": false,
+    "ethereum_address": "0x3de8006b2c571ebc19a5d3a85a0940a7a9339470"
+}

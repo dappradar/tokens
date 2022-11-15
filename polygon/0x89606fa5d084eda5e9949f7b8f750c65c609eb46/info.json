@@ -1,0 +1,8 @@
+{
+    "symbol": "ECR",
+    "name": "Epicenter Token (PoS)",
+    "decimals": 18,
+    "address": "0x89606fa5d084eda5e9949f7b8f750c65c609eb46",
+    "mintable": false,
+    "ethereum_address": "0x62de7d65739d2ac81c12cc30bbb1223c88753c23"
+}

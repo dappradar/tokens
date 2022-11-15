@@ -1,0 +1,8 @@
+{
+    "symbol": "BURNING DAO",
+    "name": "BURNS (PoS)",
+    "decimals": 18,
+    "address": "0x61c147570165c53cf5e60a0b5e6a9e8791619eb9",
+    "mintable": false,
+    "ethereum_address": "0x9b1cc775292a42fbe9a224d076819b539507d029"
+}

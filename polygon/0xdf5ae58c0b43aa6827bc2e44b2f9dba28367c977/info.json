@@ -1,0 +1,8 @@
+{
+    "symbol": "SQ",
+    "name": "square (PoS)",
+    "decimals": 18,
+    "address": "0xdf5ae58c0b43aa6827bc2e44b2f9dba28367c977",
+    "mintable": false,
+    "ethereum_address": "0x141ef611a1d4b2599b747b865b7bafaca15d228c"
+}

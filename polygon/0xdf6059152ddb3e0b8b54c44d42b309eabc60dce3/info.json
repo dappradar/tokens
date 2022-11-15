@@ -1,0 +1,8 @@
+{
+    "symbol": "HOG",
+    "name": "Hog (PoS)",
+    "decimals": 18,
+    "address": "0xdf6059152ddb3e0b8b54c44d42b309eabc60dce3",
+    "mintable": false,
+    "ethereum_address": "0xc9b358f21e215ff79054328e986c404169d64659"
+}

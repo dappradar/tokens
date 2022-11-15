@@ -1,0 +1,8 @@
+{
+    "symbol": "BSL",
+    "name": "BankSocial (PoS)",
+    "decimals": 8,
+    "address": "0xe439273659b86e33716bcf7ad22408b541df50b1",
+    "mintable": false,
+    "ethereum_address": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac"
+}

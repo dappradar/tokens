@@ -1,0 +1,8 @@
+{
+    "symbol": "USDT-LP",
+    "name": "USDT-LP (PoS)",
+    "decimals": 18,
+    "address": "0xa15a8e5743d15ba1b2fd857c4e1937dbf1727bd6",
+    "mintable": false,
+    "ethereum_address": "0xe0437beb5bb7cf980e90983f6029033d710bd1da"
+}

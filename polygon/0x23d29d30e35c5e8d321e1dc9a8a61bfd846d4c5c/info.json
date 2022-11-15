@@ -1,0 +1,8 @@
+{
+    "symbol": "HEX",
+    "name": "HEX (PoS)",
+    "decimals": 8,
+    "address": "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c",
+    "mintable": false,
+    "ethereum_address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+}

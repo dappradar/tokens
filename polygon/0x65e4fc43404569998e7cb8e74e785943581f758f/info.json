@@ -1,0 +1,8 @@
+{
+    "symbol": "mUNI",
+    "name": "mushrooming Uniswap (PoS)",
+    "decimals": 18,
+    "address": "0x65e4fc43404569998e7cb8e74e785943581f758f",
+    "mintable": false,
+    "ethereum_address": "0x41e0c2a507415e25005b1713f5f68ad6648fcf43"
+}

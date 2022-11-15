@@ -1,0 +1,8 @@
+{
+    "symbol": "LKR",
+    "name": "Polkalokr (PoS)",
+    "decimals": 18,
+    "address": "0x6f83ffedfd8774d09329d92bf3647654ee171dfa",
+    "mintable": false,
+    "ethereum_address": "0x80ce3027a70e0a928d9268994e9b85d03bd4cdcf"
+}

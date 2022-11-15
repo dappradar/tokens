@@ -1,0 +1,8 @@
+{
+    "symbol": "TestT",
+    "name": "TestToken (PoS)",
+    "decimals": 18,
+    "address": "0x316e14e526695c7197e64c42be801416737cd241",
+    "mintable": false,
+    "ethereum_address": "0x120b782376e5bcdd11949124e1f5af4bf0cbcdda"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "WSATT",
+    "name": "+Wrapped Smart Advertising Transaction Token (PoS)",
+    "decimals": 18,
+    "address": "0x4b6d775b7ea8e66499cb80777e65b895474f5c86",
+    "mintable": false,
+    "ethereum_address": "0x70a6395650b47d94a77de4cfedf9629f6922e645"
+}

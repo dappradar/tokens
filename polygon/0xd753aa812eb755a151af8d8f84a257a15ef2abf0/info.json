@@ -1,0 +1,8 @@
+{
+    "symbol": "eTHB",
+    "name": "Telcoin THB (PoS)",
+    "decimals": 6,
+    "address": "0xd753aa812eb755a151af8d8f84a257a15ef2abf0",
+    "mintable": false,
+    "ethereum_address": "0x87be8fbf7b17e9edbbf3bd78b77f336dc75a7576"
+}

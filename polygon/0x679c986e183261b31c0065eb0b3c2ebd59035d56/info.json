@@ -1,0 +1,8 @@
+{
+    "symbol": "ZIK",
+    "name": "Ziktalk (PoS)",
+    "decimals": 18,
+    "address": "0x679c986e183261b31c0065eb0b3c2ebd59035d56",
+    "mintable": false,
+    "ethereum_address": "0x88303fed02b31db9c7a9eafb711da9ef4a03e5d3"
+}

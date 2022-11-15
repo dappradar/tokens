@@ -1,0 +1,8 @@
+{
+    "symbol": "BEST",
+    "name": "Bitpanda Ecosystem Token (PoS)",
+    "decimals": 8,
+    "address": "0x260b8153838068f5e4a832bc471e50af087d9417",
+    "mintable": false,
+    "ethereum_address": "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "KFT",
+    "name": "Knit Finance (PoS)",
+    "decimals": 18,
+    "address": "0xdf6843eeaec6213625bc85e6e2c3aea0782a9748",
+    "mintable": false,
+    "ethereum_address": "0xef53462838000184f35f7d991452e5f25110b207"
+}

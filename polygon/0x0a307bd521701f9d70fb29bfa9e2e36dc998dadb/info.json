@@ -1,0 +1,8 @@
+{
+    "symbol": "CNW",
+    "name": "CoinWealth (PoS)",
+    "decimals": 6,
+    "address": "0x0a307bd521701f9d70fb29bfa9e2e36dc998dadb",
+    "mintable": false,
+    "ethereum_address": "0x433fce7dfbec729a79999eaf056cb073b2153eba"
+}

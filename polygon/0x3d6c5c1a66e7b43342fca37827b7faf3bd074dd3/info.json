@@ -1,0 +1,8 @@
+{
+    "symbol": "YSEC",
+    "name": "YearnSecure (PoS)",
+    "decimals": 18,
+    "address": "0x3d6c5c1a66e7b43342fca37827b7faf3bd074dd3",
+    "mintable": false,
+    "ethereum_address": "0xeea9ae787f3a620072d13b2cdc8cabffb9c0ab96"
+}

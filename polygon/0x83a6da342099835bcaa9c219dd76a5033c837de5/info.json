@@ -1,0 +1,8 @@
+{
+    "symbol": "BASv2",
+    "name": "BASv2 (PoS)",
+    "decimals": 18,
+    "address": "0x83a6da342099835bcaa9c219dd76a5033c837de5",
+    "mintable": false,
+    "ethereum_address": "0x106538cc16f938776c7c180186975bca23875287"
+}

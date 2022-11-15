@@ -1,0 +1,8 @@
+{
+    "symbol": "UERII",
+    "name": "UERII (PoS)",
+    "decimals": 18,
+    "address": "0xd566c529b33ecf15170f600d4b1ab12468c8efc6",
+    "mintable": false,
+    "ethereum_address": "0xc1abb8c93be6811affc70675b0432926c4bfbb5d"
+}

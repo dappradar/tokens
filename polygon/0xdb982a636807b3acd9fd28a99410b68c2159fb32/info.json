@@ -1,0 +1,8 @@
+{
+    "symbol": "THEOS",
+    "name": "THEOS (PoS)",
+    "decimals": 18,
+    "address": "0xdb982a636807b3acd9fd28a99410b68c2159fb32",
+    "mintable": false,
+    "ethereum_address": "0x9e10f61749c4952c320412a6b26901605ff6da1d"
+}

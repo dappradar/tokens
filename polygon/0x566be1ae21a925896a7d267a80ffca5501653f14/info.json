@@ -1,0 +1,8 @@
+{
+    "symbol": "PRESAIL",
+    "name": "Presail (PoS)",
+    "decimals": 18,
+    "address": "0x566be1ae21a925896a7d267a80ffca5501653f14",
+    "mintable": false,
+    "ethereum_address": "0x232a6d2b6ea24676209905f77d5706e395c271c1"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "ONE",
+    "name": "Menlo One (PoS)",
+    "decimals": 18,
+    "address": "0x6dc1ed4402a9db4956e077876e72d3ac7ba7f47f",
+    "mintable": false,
+    "ethereum_address": "0x4d807509aece24c0fa5a102b6a3b059ec6e14392"
+}

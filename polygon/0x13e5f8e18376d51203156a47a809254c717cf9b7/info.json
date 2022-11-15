@@ -1,0 +1,8 @@
+{
+    "symbol": "VADER",
+    "name": "Vader (PoS)",
+    "decimals": 18,
+    "address": "0x13e5f8e18376d51203156a47a809254c717cf9b7",
+    "mintable": false,
+    "ethereum_address": "0x2602278ee1882889b946eb11dc0e810075650983"
+}

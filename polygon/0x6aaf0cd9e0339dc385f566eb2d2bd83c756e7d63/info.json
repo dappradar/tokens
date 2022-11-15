@@ -1,0 +1,8 @@
+{
+    "symbol": "malUSD",
+    "name": "mushrooming Alchemix USD (PoS)",
+    "decimals": 18,
+    "address": "0x6aaf0cd9e0339dc385f566eb2d2bd83c756e7d63",
+    "mintable": false,
+    "ethereum_address": "0x5dedec994c11ab5f9908f33aed2947f33b67a449"
+}

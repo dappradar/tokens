@@ -1,0 +1,8 @@
+{
+    "symbol": "UCD",
+    "name": "UniCandy (PoS)",
+    "decimals": 18,
+    "address": "0x546c825f0109353ab4315139e82674f0d86e39d8",
+    "mintable": false,
+    "ethereum_address": "0xb1db366890eeb8f28c2813c6a6084353e0b90713"
+}

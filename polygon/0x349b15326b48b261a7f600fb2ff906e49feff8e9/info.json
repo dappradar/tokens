@@ -1,0 +1,8 @@
+{
+    "symbol": "MNFT",
+    "name": "MultiNFT Token (PoS)",
+    "decimals": 18,
+    "address": "0x349b15326b48b261a7f600fb2ff906e49feff8e9",
+    "mintable": false,
+    "ethereum_address": "0x349b15326b48b261a7f600fb2ff906e49feff8e9"
+}

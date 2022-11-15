@@ -1,0 +1,8 @@
+{
+    "symbol": "CHERRY",
+    "name": "CHERRY (PoS)",
+    "decimals": 4,
+    "address": "0xbe32718f77aa63d95658ddd8ef472039c71eb704",
+    "mintable": false,
+    "ethereum_address": "0x4ecb692b0fedecd7b486b4c99044392784877e8c"
+}

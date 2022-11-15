@@ -1,0 +1,8 @@
+{
+    "symbol": "DRAGOS",
+    "name": "Dragos (PoS)",
+    "decimals": 0,
+    "address": "0x113f79788fe1d9f1b4ccd4b841afbb878b9d9ecd",
+    "mintable": false,
+    "ethereum_address": "0xb0858ac51bca73c11ba3203712e319b7c45b0896"
+}

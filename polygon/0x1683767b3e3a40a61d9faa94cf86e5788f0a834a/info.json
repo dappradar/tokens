@@ -1,0 +1,8 @@
+{
+    "symbol": "BRND",
+    "name": "Brand Tokens (PoS)",
+    "decimals": 18,
+    "address": "0x1683767b3e3a40a61d9faa94cf86e5788f0a834a",
+    "mintable": false,
+    "ethereum_address": "0x41a6bfd5fc91b9822774d549674cc90512b3a54a"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "FLOAT",
+    "name": "Float Protocol: FLOAT (PoS)",
+    "decimals": 18,
+    "address": "0xf0ae1efde60bab0a830673747138f12367858e8d",
+    "mintable": false,
+    "ethereum_address": "0xb05097849bca421a3f51b249ba6cca4af4b97cb9"
+}

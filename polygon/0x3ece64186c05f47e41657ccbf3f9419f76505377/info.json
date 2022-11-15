@@ -1,0 +1,8 @@
+{
+    "symbol": "FLOKII",
+    "name": "Floki Kishu Inu (PoS)",
+    "decimals": 9,
+    "address": "0x3ece64186c05f47e41657ccbf3f9419f76505377",
+    "mintable": false,
+    "ethereum_address": "0xff4db8e71a8e2655e9295c2c817ac86e65767db1"
+}

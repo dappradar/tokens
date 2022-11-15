@@ -1,0 +1,8 @@
+{
+    "symbol": "oLTC",
+    "name": "BoringDAO LTC (PoS)",
+    "decimals": 18,
+    "address": "0xf9f8d3bcad8958ffef131bab376cffac0d16551b",
+    "mintable": false,
+    "ethereum_address": "0x07c44b5ac257c2255aa0933112c3b75a6bff3cb1"
+}

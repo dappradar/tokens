@@ -1,0 +1,8 @@
+{
+    "symbol": "CIV",
+    "name": "Civilization (PoS)",
+    "decimals": 18,
+    "address": "0x42f6bdcfd82547e89f1069bf375aa60e6c6c063d",
+    "mintable": false,
+    "ethereum_address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d"
+}

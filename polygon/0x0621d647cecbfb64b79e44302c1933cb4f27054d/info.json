@@ -1,0 +1,8 @@
+{
+    "symbol": "AMP",
+    "name": "Amp Token (PoS)",
+    "decimals": 18,
+    "address": "0x0621d647cecbfb64b79e44302c1933cb4f27054d",
+    "mintable": false,
+    "ethereum_address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
+}

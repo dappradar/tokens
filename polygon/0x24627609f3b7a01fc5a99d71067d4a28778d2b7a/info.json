@@ -1,0 +1,8 @@
+{
+    "symbol": "SPIRIT",
+    "name": "SpiritCoin (PoS)",
+    "decimals": 15,
+    "address": "0x24627609f3b7a01fc5a99d71067d4a28778d2b7a",
+    "mintable": false,
+    "ethereum_address": "0x88647c0a3a3349b9dc9e69d7385a9393a15245dc"
+}

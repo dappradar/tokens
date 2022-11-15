@@ -1,0 +1,8 @@
+{
+    "symbol": "SPT",
+    "name": "Superpro test token (PoS)",
+    "decimals": 18,
+    "address": "0xad80bcb723fb848f819ab9ef8ef456a50cf9a885",
+    "mintable": false,
+    "ethereum_address": "0x361b3cb1414a3c503db46cd79ae2005f4156e4e5"
+}

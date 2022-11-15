@@ -1,0 +1,8 @@
+{
+    "symbol": "wNXM",
+    "name": "Wrapped NXM (PoS)",
+    "decimals": 18,
+    "address": "0x0539f01d9ed66c3133a0b0fab83f4fa69b3608e8",
+    "mintable": false,
+    "ethereum_address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde"
+}

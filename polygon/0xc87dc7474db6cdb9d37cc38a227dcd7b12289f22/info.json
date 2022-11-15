@@ -1,0 +1,8 @@
+{
+    "symbol": "VNDC",
+    "name": "VNDC (PoS)",
+    "decimals": 0,
+    "address": "0xc87dc7474db6cdb9d37cc38a227dcd7b12289f22",
+    "mintable": false,
+    "ethereum_address": "0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de"
+}

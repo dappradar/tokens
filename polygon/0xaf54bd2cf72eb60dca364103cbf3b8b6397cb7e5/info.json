@@ -1,0 +1,8 @@
+{
+    "symbol": "SVERSE",
+    "name": "Skyverse (PoS)",
+    "decimals": 18,
+    "address": "0xaf54bd2cf72eb60dca364103cbf3b8b6397cb7e5",
+    "mintable": false,
+    "ethereum_address": "0x8da22d70aeaedb26b1ab70dd300932eabec23077"
+}

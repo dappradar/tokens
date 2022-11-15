@@ -1,0 +1,8 @@
+{
+    "symbol": "MOONEY",
+    "name": "MOONEY (PoS)",
+    "decimals": 18,
+    "address": "0x74ac7664abb1c8fa152d41bb60e311a663a41c7e",
+    "mintable": false,
+    "ethereum_address": "0x20d4db1946859e2adb0e5acc2eac58047ad41395"
+}

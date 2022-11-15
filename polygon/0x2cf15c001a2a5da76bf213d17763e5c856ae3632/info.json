@@ -1,0 +1,8 @@
+{
+    "symbol": "TAR",
+    "name": "Tartarus (PoS)",
+    "decimals": 8,
+    "address": "0x2cf15c001a2a5da76bf213d17763e5c856ae3632",
+    "mintable": false,
+    "ethereum_address": "0xc567bca531992352166252ea5121e535432e81ed"
+}

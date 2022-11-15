@@ -1,0 +1,8 @@
+{
+    "symbol": "RUSH",
+    "name": "HashRush (PoS)",
+    "decimals": 8,
+    "address": "0x8e8f8df6dce311a011a5b09788dda689a82d9f37",
+    "mintable": false,
+    "ethereum_address": "0xcfcd43d7ee21416a71c2eb9888587d52716fc77a"
+}

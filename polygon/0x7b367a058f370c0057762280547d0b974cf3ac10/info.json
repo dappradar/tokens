@@ -1,0 +1,8 @@
+{
+    "symbol": "PAR",
+    "name": "PAR Stablecoin (PoS)",
+    "decimals": 18,
+    "address": "0x7b367a058f370c0057762280547d0b974cf3ac10",
+    "mintable": false,
+    "ethereum_address": "0x68037790a0229e9ce6eaa8a99ea92964106c4703"
+}

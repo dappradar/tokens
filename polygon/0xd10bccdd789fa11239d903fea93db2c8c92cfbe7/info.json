@@ -1,0 +1,8 @@
+{
+    "symbol": "GP",
+    "name": "GP (PoS)",
+    "decimals": 18,
+    "address": "0xd10bccdd789fa11239d903fea93db2c8c92cfbe7",
+    "mintable": false,
+    "ethereum_address": "0x38ec27c6f05a169e7ed03132bca7d0cfee93c2c5"
+}

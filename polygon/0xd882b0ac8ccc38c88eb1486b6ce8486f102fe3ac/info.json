@@ -1,0 +1,8 @@
+{
+    "symbol": "SPWN",
+    "name": "BitSpawn Token (PoS)",
+    "decimals": 18,
+    "address": "0xd882b0ac8ccc38c88eb1486b6ce8486f102fe3ac",
+    "mintable": false,
+    "ethereum_address": "0xe516d78d784c77d479977be58905b3f2b1111126"
+}

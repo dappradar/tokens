@@ -1,0 +1,8 @@
+{
+    "symbol": "ADCO",
+    "name": "Adaptech Design Co (PoS)",
+    "decimals": 18,
+    "address": "0xd8a805447b1ce5bae810f029df5536a57f71b91c",
+    "mintable": false,
+    "ethereum_address": "0x83cc32d627c66e70c69f86f13ad836fea07d7407"
+}

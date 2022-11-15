@@ -1,0 +1,8 @@
+{
+    "symbol": "GTCOIN",
+    "name": "Game tree Coin (PoS)",
+    "decimals": 18,
+    "address": "0x31dde6bc4f1e44a71f9740a7e29a485912f0a3ba",
+    "mintable": false,
+    "ethereum_address": "0x34596145f09994b5abc4600b9f870292e888762b"
+}

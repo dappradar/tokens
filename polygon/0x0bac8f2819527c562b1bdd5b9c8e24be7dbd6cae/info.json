@@ -1,0 +1,8 @@
+{
+    "symbol": "Time",
+    "name": "Time (PoS)",
+    "decimals": 18,
+    "address": "0x0bac8f2819527c562b1bdd5b9c8e24be7dbd6cae",
+    "mintable": false,
+    "ethereum_address": "0xc2ce8d7ca631555fc7dacf744326f70586a12898"
+}

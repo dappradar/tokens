@@ -1,0 +1,8 @@
+{
+    "symbol": "MPC",
+    "name": "META PROTOCOL (PoS)",
+    "decimals": 18,
+    "address": "0x8cf12b53845a42a8b00da199e8ef007ce76b9cce",
+    "mintable": false,
+    "ethereum_address": "0x32cd285092e36db875302c9ae86ef2f573bb8bad"
+}

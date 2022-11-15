@@ -1,0 +1,8 @@
+{
+    "symbol": "URANIUM",
+    "name": "URANIUM (PoS)",
+    "decimals": 18,
+    "address": "0x2ecf35111dc4894f43feab1683a9845cd1b4e0c4",
+    "mintable": false,
+    "ethereum_address": "0xeea6d30798300f4e1d8cd819c8db3b4e6d1e29f6"
+}

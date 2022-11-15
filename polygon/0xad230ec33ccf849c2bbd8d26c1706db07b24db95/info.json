@@ -1,0 +1,8 @@
+{
+    "symbol": "LAND",
+    "name": "Land (PoS)",
+    "decimals": 18,
+    "address": "0xad230ec33ccf849c2bbd8d26c1706db07b24db95",
+    "mintable": false,
+    "ethereum_address": "0x3258cd8134b6b28e814772dd91d5ecceea512818"
+}

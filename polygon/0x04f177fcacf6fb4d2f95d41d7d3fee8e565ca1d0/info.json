@@ -1,0 +1,8 @@
+{
+    "symbol": "DMT",
+    "name": "Dragon Master Token (PoS)",
+    "decimals": 18,
+    "address": "0x04f177fcacf6fb4d2f95d41d7d3fee8e565ca1d0",
+    "mintable": false,
+    "ethereum_address": "0x8c0b5d2b6f128944695c03a53ed899e6035f6d75"
+}

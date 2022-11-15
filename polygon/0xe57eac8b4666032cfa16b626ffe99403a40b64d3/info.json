@@ -1,0 +1,8 @@
+{
+    "symbol": "ANX",
+    "name": "AnimeToken (PoS)",
+    "decimals": 18,
+    "address": "0xe57eac8b4666032cfa16b626ffe99403a40b64d3",
+    "mintable": false,
+    "ethereum_address": "0x8dadc5124714bed53fbc603478de7d4bfee1ff2a"
+}

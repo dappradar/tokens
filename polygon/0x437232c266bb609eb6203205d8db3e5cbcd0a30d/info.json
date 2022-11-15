@@ -1,0 +1,8 @@
+{
+    "symbol": "UNITS",
+    "name": "Shiba Units (PoS)",
+    "decimals": 18,
+    "address": "0x437232c266bb609eb6203205d8db3e5cbcd0a30d",
+    "mintable": false,
+    "ethereum_address": "0x5cf46995a3730ab3f20ff26480d12b1aa76263ee"
+}

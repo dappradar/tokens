@@ -1,0 +1,8 @@
+{
+    "symbol": "CK",
+    "name": "CryptoKitties (PoS)",
+    "decimals": 0,
+    "address": "0x7183688c9d484ac0324bfa5f20a8408bd26011f5",
+    "mintable": false,
+    "ethereum_address": "0x06012c8cf97bead5deae237070f9587f8e7a266d"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "P125",
+    "name": "P125 Token (PoS)",
+    "decimals": 18,
+    "address": "0x83000597e8420ad7e9edd410b2883df1b83823cf",
+    "mintable": false,
+    "ethereum_address": "0xa9033952ac045168243a1a50c889516445247618"
+}

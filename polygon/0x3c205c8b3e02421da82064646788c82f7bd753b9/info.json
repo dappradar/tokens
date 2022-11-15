@@ -1,0 +1,8 @@
+{
+    "symbol": "UFI",
+    "name": "PureFi Token (PoS)",
+    "decimals": 18,
+    "address": "0x3c205c8b3e02421da82064646788c82f7bd753b9",
+    "mintable": false,
+    "ethereum_address": "0xcda4e840411c00a614ad9205caec807c7458a0e3"
+}

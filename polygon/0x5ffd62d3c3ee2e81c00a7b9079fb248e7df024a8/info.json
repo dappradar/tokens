@@ -1,0 +1,8 @@
+{
+    "symbol": "GNO",
+    "name": "Gnosis Token (PoS)",
+    "decimals": 18,
+    "address": "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8",
+    "mintable": false,
+    "ethereum_address": "0x6810e776880c02933d47db1b9fc05908e5386b96"
+}

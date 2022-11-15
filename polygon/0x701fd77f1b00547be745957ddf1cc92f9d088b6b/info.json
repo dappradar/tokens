@@ -1,0 +1,8 @@
+{
+    "symbol": "POZ",
+    "name": "Pozzle Planet (PoS)",
+    "decimals": 18,
+    "address": "0x701fd77f1b00547be745957ddf1cc92f9d088b6b",
+    "mintable": false,
+    "ethereum_address": "0x099945992a6678a724a64ce96b3d348259d17e45"
+}

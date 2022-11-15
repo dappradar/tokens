@@ -1,0 +1,8 @@
+{
+    "symbol": "TWO",
+    "name": "2048 (PoS)",
+    "decimals": 18,
+    "address": "0x36a01c7f348f4a2acd8b06b15991a25bb6b09791",
+    "mintable": false,
+    "ethereum_address": "0xf2c6024111254249571e404a88f2f4f5e577afaf"
+}

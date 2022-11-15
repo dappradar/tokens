@@ -1,0 +1,8 @@
+{
+    "symbol": "BOLT",
+    "name": "Bolt (PoS)",
+    "decimals": 18,
+    "address": "0x53c0855f38f418e7c13f6e1ecd9b7997b286a481",
+    "mintable": true,
+    "ethereum_address": "0x82e44dea409779446513bad6d327a1c22943ac0e"
+}

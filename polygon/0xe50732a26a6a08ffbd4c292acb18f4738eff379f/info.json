@@ -1,0 +1,8 @@
+{
+    "symbol": "eISK",
+    "name": "Telcoin ISK (PoS)",
+    "decimals": 6,
+    "address": "0xe50732a26a6a08ffbd4c292acb18f4738eff379f",
+    "mintable": false,
+    "ethereum_address": "0x4924452173761b77c8eba0edd9d76de8a8baa4bb"
+}

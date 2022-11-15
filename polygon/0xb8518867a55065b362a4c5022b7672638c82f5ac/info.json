@@ -1,0 +1,8 @@
+{
+    "symbol": "BFC",
+    "name": "Bifrost (PoS)",
+    "decimals": 18,
+    "address": "0xb8518867a55065b362a4c5022b7672638c82f5ac",
+    "mintable": false,
+    "ethereum_address": "0x0c7d5ae016f806603cb1782bea29ac69471cab9c"
+}

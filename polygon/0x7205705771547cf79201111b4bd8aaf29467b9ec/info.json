@@ -1,0 +1,8 @@
+{
+    "symbol": "RPL",
+    "name": "Rocket Pool (PoS)",
+    "decimals": 18,
+    "address": "0x7205705771547cf79201111b4bd8aaf29467b9ec",
+    "mintable": false,
+    "ethereum_address": "0xb4efd85c19999d84251304bda99e90b92300bd93"
+}

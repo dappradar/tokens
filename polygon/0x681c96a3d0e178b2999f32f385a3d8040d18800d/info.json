@@ -1,0 +1,8 @@
+{
+    "symbol": "ERAD",
+    "name": "Eranauts Governance (PoS)",
+    "decimals": 18,
+    "address": "0x681c96a3d0e178b2999f32f385a3d8040d18800d",
+    "mintable": false,
+    "ethereum_address": "0x2aca4d387a0de9848bb45322082d0b0ff051f203"
+}

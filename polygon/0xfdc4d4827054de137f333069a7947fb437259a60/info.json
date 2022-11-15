@@ -1,0 +1,8 @@
+{
+    "symbol": "STN",
+    "name": "Smart Trade Networks (PoS)",
+    "decimals": 18,
+    "address": "0xfdc4d4827054de137f333069a7947fb437259a60",
+    "mintable": false,
+    "ethereum_address": "0xafddf3b87d590eef8a449f7e7b70d72e9b065b88"
+}

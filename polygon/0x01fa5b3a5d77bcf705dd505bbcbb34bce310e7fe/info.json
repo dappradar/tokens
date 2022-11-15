@@ -1,0 +1,8 @@
+{
+    "symbol": "AXI",
+    "name": "Axioms (PoS)",
+    "decimals": 18,
+    "address": "0x01fa5b3a5d77bcf705dd505bbcbb34bce310e7fe",
+    "mintable": false,
+    "ethereum_address": "0x73ee6d7e6b203125add89320e9f343d65ec7c39a"
+}

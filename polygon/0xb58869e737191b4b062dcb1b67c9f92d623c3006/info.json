@@ -1,0 +1,8 @@
+{
+    "symbol": "TWR.GOLD",
+    "name": "Gold TOWER Chest (PoS)",
+    "decimals": 18,
+    "address": "0xb58869e737191b4b062dcb1b67c9f92d623c3006",
+    "mintable": false,
+    "ethereum_address": "0x9b253a5655997e3896e518111f3595c0bd6fed1c"
+}

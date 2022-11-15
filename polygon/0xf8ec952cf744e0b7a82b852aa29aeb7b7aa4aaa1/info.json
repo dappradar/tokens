@@ -1,0 +1,8 @@
+{
+    "symbol": "eHUF",
+    "name": "Telcoin HUF (PoS)",
+    "decimals": 6,
+    "address": "0xf8ec952cf744e0b7a82b852aa29aeb7b7aa4aaa1",
+    "mintable": false,
+    "ethereum_address": "0x9a90573252ce466c211dc8e989f1407f40f99b8d"
+}

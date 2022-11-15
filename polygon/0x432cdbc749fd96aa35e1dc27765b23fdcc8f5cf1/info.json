@@ -1,0 +1,8 @@
+{
+    "symbol": "NIFTSY",
+    "name": "NIFTSY (PoS)",
+    "decimals": 18,
+    "address": "0x432cdbc749fd96aa35e1dc27765b23fdcc8f5cf1",
+    "mintable": false,
+    "ethereum_address": "0x7728cd70b3dd86210e2bd321437f448231b81733"
+}

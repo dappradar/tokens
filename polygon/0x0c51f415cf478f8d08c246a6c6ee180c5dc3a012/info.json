@@ -1,0 +1,8 @@
+{
+    "symbol": "HOT",
+    "name": "HOLO (PoS)",
+    "decimals": 18,
+    "address": "0x0c51f415cf478f8d08c246a6c6ee180c5dc3a012",
+    "mintable": false,
+    "ethereum_address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
+}

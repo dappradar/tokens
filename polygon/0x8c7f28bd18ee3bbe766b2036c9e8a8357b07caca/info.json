@@ -1,0 +1,8 @@
+{
+    "symbol": "CHLITEST",
+    "name": "ChilliTest Token (PoS)",
+    "decimals": 18,
+    "address": "0x8c7f28bd18ee3bbe766b2036c9e8a8357b07caca",
+    "mintable": false,
+    "ethereum_address": "0x8c7f28bd18ee3bbe766b2036c9e8a8357b07caca"
+}

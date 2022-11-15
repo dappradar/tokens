@@ -1,0 +1,8 @@
+{
+    "symbol": "DIP",
+    "name": "Dipper Network (PoS)",
+    "decimals": 12,
+    "address": "0x1a6030f2882e38186d21fd9996d1803d9dbf0936",
+    "mintable": false,
+    "ethereum_address": "0x97af10d3fc7c70f67711bf715d8397c6da79c1ab"
+}

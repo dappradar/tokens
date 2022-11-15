@@ -1,0 +1,8 @@
+{
+    "symbol": "PLU",
+    "name": "Pluton (PoS)",
+    "decimals": 18,
+    "address": "0x7dc0cb65ec6019330a6841e9c274f2ee57a6ca6c",
+    "mintable": false,
+    "ethereum_address": "0xd8912c10681d8b21fd3742244f44658dba12264e"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "CTC",
+    "name": "CryptoTabCoin (PoS)",
+    "decimals": 18,
+    "address": "0xb95e2384d8db81d8776a0f2b2eb994b4e9f1dd1f",
+    "mintable": true,
+    "ethereum_address": "0xb95e2384d8db81d8776a0f2b2eb994b4e9f1dd1f"
+}

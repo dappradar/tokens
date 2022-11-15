@@ -1,0 +1,8 @@
+{
+    "symbol": "DogeDao",
+    "name": "DogeDao (PoS)",
+    "decimals": 18,
+    "address": "0x40077808b346681c7032cdf6a2920ab9980eab91",
+    "mintable": false,
+    "ethereum_address": "0x044f613cdfffbac8bba42283dd8d97b81c8b3f3c"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "ETM",
+    "name": "ethersmart (PoS)",
+    "decimals": 18,
+    "address": "0xaf95c20c60b49ad88024d8e77858900d9f2c98bc",
+    "mintable": false,
+    "ethereum_address": "0xf3eb8b90c763b8b2b53e7819ac27eca8f94c8ec2"
+}

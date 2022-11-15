@@ -1,0 +1,8 @@
+{
+    "symbol": "PIGX",
+    "name": "PIGX (PoS)",
+    "decimals": 18,
+    "address": "0x0ef2603cd156e1934e19d0b07cd64f415e1e7940",
+    "mintable": false,
+    "ethereum_address": "0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f"
+}

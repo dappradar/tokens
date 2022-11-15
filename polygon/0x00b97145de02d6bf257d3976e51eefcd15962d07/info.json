@@ -1,0 +1,8 @@
+{
+    "symbol": "BLD",
+    "name": "Bloodshed Bears Blood Token (PoS)",
+    "decimals": 18,
+    "address": "0x00b97145de02d6bf257d3976e51eefcd15962d07",
+    "mintable": true,
+    "ethereum_address": "0x51f708d12188feaff20bdfedc4fd6bbbc28086bc"
+}

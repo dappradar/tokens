@@ -1,0 +1,8 @@
+{
+    "symbol": "PLSH",
+    "name": "Plush (PoS)",
+    "decimals": 18,
+    "address": "0x33044d2c29686795228b89b11d2d34727b8df9bc",
+    "mintable": false,
+    "ethereum_address": "0x26a22c97dd308657ada714d9ee0c08233b05fd48"
+}

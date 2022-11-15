@@ -1,0 +1,8 @@
+{
+    "symbol": "FORT",
+    "name": "Forta (PoS)",
+    "decimals": 18,
+    "address": "0x9ff62d1fc52a907b6dcba8077c2ddca6e6a9d3e1",
+    "mintable": false,
+    "ethereum_address": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29"
+}

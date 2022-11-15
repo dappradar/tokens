@@ -1,0 +1,8 @@
+{
+    "symbol": "MNE",
+    "name": "Mireneum token (PoS)",
+    "decimals": 8,
+    "address": "0x8e600198218aeaeb6a4b4f84771df8b38930ddce",
+    "mintable": false,
+    "ethereum_address": "0x426ca1ea2406c07d75db9585f22781c096e3d0e0"
+}

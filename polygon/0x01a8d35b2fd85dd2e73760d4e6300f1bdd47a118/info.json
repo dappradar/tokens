@@ -1,0 +1,8 @@
+{
+    "symbol": "GRTFUL",
+    "name": "GratitudeCoin (PoS)",
+    "decimals": 18,
+    "address": "0x01a8d35b2fd85dd2e73760d4e6300f1bdd47a118",
+    "mintable": false,
+    "ethereum_address": "0x6563b5d8925ad3684bdb5923d56b0b24044eb90f"
+}

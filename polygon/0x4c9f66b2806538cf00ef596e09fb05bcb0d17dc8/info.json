@@ -1,0 +1,8 @@
+{
+    "symbol": "MNTO",
+    "name": "Minato (PoS)",
+    "decimals": 18,
+    "address": "0x4c9f66b2806538cf00ef596e09fb05bcb0d17dc8",
+    "mintable": false,
+    "ethereum_address": "0x97a9bac06f90940bce9caec2b880ff17707519e4"
+}

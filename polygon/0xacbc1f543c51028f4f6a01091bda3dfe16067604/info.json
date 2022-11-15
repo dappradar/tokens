@@ -1,0 +1,8 @@
+{
+    "symbol": "CVPA",
+    "name": "Cryptovoxels Parcel (PoS)",
+    "decimals": 0,
+    "address": "0xacbc1f543c51028f4f6a01091bda3dfe16067604",
+    "mintable": false,
+    "ethereum_address": "0x79986af15539de2db9a5086382daeda917a9cf0c"
+}

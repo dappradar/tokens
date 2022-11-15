@@ -1,0 +1,8 @@
+{
+    "symbol": "CHSB",
+    "name": "SwissBorg (PoS)",
+    "decimals": 18,
+    "address": "0x67ce67ec4fcd4aca0fcb738dd080b2a21ff69d75",
+    "mintable": false,
+    "ethereum_address": "0xba9d4199fab4f26efe3551d490e3821486f135ba"
+}

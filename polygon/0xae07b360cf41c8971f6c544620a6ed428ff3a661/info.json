@@ -1,0 +1,8 @@
+{
+    "symbol": "GEO",
+    "name": "GeoDB Coin (PoS)",
+    "decimals": 18,
+    "address": "0xae07b360cf41c8971f6c544620a6ed428ff3a661",
+    "mintable": false,
+    "ethereum_address": "0x147faf8de9d8d8daae129b187f0d02d819126750"
+}

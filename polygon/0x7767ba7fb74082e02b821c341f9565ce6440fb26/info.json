@@ -1,0 +1,8 @@
+{
+    "symbol": "ROX",
+    "name": "Roxel DAO (PoS)",
+    "decimals": 18,
+    "address": "0x7767ba7fb74082e02b821c341f9565ce6440fb26",
+    "mintable": false,
+    "ethereum_address": "0xf4284a849c918ef676f54ed938703f2eeed3e058"
+}

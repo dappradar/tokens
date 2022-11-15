@@ -1,0 +1,8 @@
+{
+    "symbol": "MB21",
+    "name": "B21 Token (PoS)",
+    "decimals": 18,
+    "address": "0xad356bf748b9c320a5ddd4baaffa3f323eeb5546",
+    "mintable": false,
+    "ethereum_address": "0x6faa826af0568d1866fca570da79b318ef114dab"
+}

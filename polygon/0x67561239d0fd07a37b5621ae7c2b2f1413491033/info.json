@@ -1,0 +1,8 @@
+{
+    "symbol": "PRTN",
+    "name": "PROTEIN (PoS)",
+    "decimals": 18,
+    "address": "0x67561239d0fd07a37b5621ae7c2b2f1413491033",
+    "mintable": false,
+    "ethereum_address": "0xfec2fa7edd428171103e8f81911af5be9d31eeba"
+}

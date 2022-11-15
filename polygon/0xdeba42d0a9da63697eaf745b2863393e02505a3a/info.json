@@ -1,0 +1,8 @@
+{
+    "symbol": "wFM",
+    "name": "Wrapped Fishermen (PoS)",
+    "decimals": 18,
+    "address": "0xdeba42d0a9da63697eaf745b2863393e02505a3a",
+    "mintable": false,
+    "ethereum_address": "0xce113e6e2386197917d70d58ddde148bfa4f58ca"
+}

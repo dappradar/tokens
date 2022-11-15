@@ -1,0 +1,8 @@
+{
+    "symbol": "SPN",
+    "name": "Sportzchain (PoS)",
+    "decimals": 18,
+    "address": "0xa3c53b53fe43083aa31c6f32ffe90c4d91b44391",
+    "mintable": false,
+    "ethereum_address": "0x32ea3dc70e2962334864a9665254d2433e4ddbfd"
+}

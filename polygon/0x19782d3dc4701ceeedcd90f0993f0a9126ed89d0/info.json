@@ -1,0 +1,8 @@
+{
+    "symbol": "REN",
+    "name": "REN (PoS)",
+    "decimals": 18,
+    "address": "0x19782d3dc4701ceeedcd90f0993f0a9126ed89d0",
+    "mintable": false,
+    "ethereum_address": "0x408e41876cccdc0f92210600ef50372656052a38"
+}

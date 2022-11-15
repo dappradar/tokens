@@ -1,0 +1,8 @@
+{
+    "symbol": "LGCY",
+    "name": "LGCY Network (PoS)",
+    "decimals": 18,
+    "address": "0x834dfb4df4425bdec02f2a1cafdf0cc39c3c0a59",
+    "mintable": false,
+    "ethereum_address": "0xae697f994fc5ebc000f8e22ebffee04612f98a0d"
+}

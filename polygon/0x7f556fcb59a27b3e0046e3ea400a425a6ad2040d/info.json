@@ -1,0 +1,8 @@
+{
+    "symbol": "CROWD",
+    "name": "The Crowd (PoS)",
+    "decimals": 18,
+    "address": "0x7f556fcb59a27b3e0046e3ea400a425a6ad2040d",
+    "mintable": false,
+    "ethereum_address": "0x7ce217b011ab060196128ab86a27be7763802fbc"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "GOB",
+    "name": "Goons of Balatroon (PoS)",
+    "decimals": 18,
+    "address": "0xa4e0463b51bfe80c7556b7590ef43ec15d6c369c",
+    "mintable": false,
+    "ethereum_address": "0xd6929179d752d5d25c5efe2d9729eb77d7138a80"
+}

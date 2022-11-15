@@ -1,0 +1,8 @@
+{
+    "symbol": "OPT",
+    "name": "Outernet Players Token (PoS)",
+    "decimals": 18,
+    "address": "0x8338bd2dbcc83f1f0190be068779aca296380209",
+    "mintable": false,
+    "ethereum_address": "0x0fab50cfef9919ca35d0831b376d4d96b033230e"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "AQR",
+    "name": "AqarChain (PoS)",
+    "decimals": 18,
+    "address": "0x7467afa7c48132e8f8c90a919fc2eba041207195",
+    "mintable": false,
+    "ethereum_address": "0x7467afa7c48132e8f8c90a919fc2eba041207195"
+}

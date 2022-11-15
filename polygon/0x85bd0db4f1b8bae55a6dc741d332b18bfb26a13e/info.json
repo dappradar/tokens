@@ -1,0 +1,8 @@
+{
+    "symbol": "XYR",
+    "name": "AllyFocus (PoS)",
+    "decimals": 18,
+    "address": "0x85bd0db4f1b8bae55a6dc741d332b18bfb26a13e",
+    "mintable": false,
+    "ethereum_address": "0x56910520988c1d3edfdeae2acbe965d819b2e26d"
+}

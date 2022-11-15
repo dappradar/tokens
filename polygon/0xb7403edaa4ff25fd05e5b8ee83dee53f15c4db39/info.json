@@ -1,0 +1,8 @@
+{
+    "symbol": "UNO",
+    "name": "UnoRe (PoS)",
+    "decimals": 18,
+    "address": "0xb7403edaa4ff25fd05e5b8ee83dee53f15c4db39",
+    "mintable": false,
+    "ethereum_address": "0x474021845c4643113458ea4414bdb7fb74a01a77"
+}

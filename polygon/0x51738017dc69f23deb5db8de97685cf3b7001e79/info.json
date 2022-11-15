@@ -1,0 +1,8 @@
+{
+    "symbol": "VAI",
+    "name": "VAIOT Token (PoS)",
+    "decimals": 18,
+    "address": "0x51738017dc69f23deb5db8de97685cf3b7001e79",
+    "mintable": true,
+    "ethereum_address": "0x51738017dc69f23deb5db8de97685cf3b7001e79"
+}

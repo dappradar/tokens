@@ -1,0 +1,8 @@
+{
+    "symbol": "CHADLINK",
+    "name": "Chad Link Set (PoS)",
+    "decimals": 18,
+    "address": "0x134d934bc4c05c11e19b03342e5e01abc4c5f27c",
+    "mintable": false,
+    "ethereum_address": "0x19f4a2f8e21915376f1429c26a3a9b9b1db5ff5a"
+}

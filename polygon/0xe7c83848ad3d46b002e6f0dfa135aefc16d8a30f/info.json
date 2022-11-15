@@ -1,0 +1,8 @@
+{
+    "symbol": "$CATNORRIS",
+    "name": "CatNorris Revenge (PoS)",
+    "decimals": 9,
+    "address": "0xe7c83848ad3d46b002e6f0dfa135aefc16d8a30f",
+    "mintable": false,
+    "ethereum_address": "0x920fbc929bb5940fc44dd722577d542caa0cd6d8"
+}

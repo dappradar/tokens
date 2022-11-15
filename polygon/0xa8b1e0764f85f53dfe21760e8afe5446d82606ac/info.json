@@ -1,0 +1,8 @@
+{
+    "symbol": "BAND",
+    "name": "BandToken (PoS)",
+    "decimals": 18,
+    "address": "0xa8b1e0764f85f53dfe21760e8afe5446d82606ac",
+    "mintable": false,
+    "ethereum_address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55"
+}

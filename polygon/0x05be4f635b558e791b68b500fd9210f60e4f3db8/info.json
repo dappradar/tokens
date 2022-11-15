@@ -1,0 +1,8 @@
+{
+    "symbol": "AGAIN",
+    "name": "AGAIN (PoS)",
+    "decimals": 18,
+    "address": "0x05be4f635b558e791b68b500fd9210f60e4f3db8",
+    "mintable": false,
+    "ethereum_address": "0xc01a327e30b0fbf32861333f238b5c36a60abc09"
+}

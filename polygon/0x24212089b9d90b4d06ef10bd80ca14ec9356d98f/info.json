@@ -1,0 +1,8 @@
+{
+    "symbol": "ANTS",
+    "name": "FireAnts (PoS)",
+    "decimals": 18,
+    "address": "0x24212089b9d90b4d06ef10bd80ca14ec9356d98f",
+    "mintable": false,
+    "ethereum_address": "0xa9fbb83a2689f4ff86339a4b96874d718673b627"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "MOAR",
+    "name": "MOAR Finance (PoS)",
+    "decimals": 18,
+    "address": "0x34cba1561424b192f263883ba2b8ccbbc12bb13f",
+    "mintable": false,
+    "ethereum_address": "0x187eff9690e1f1a61d578c7c492296eaab82701a"
+}

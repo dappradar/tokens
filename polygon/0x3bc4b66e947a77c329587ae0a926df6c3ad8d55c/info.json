@@ -1,0 +1,8 @@
+{
+    "symbol": "PUMPI",
+    "name": "#Perpetual Uni Motion Propulsion Inu (PoS)",
+    "decimals": 18,
+    "address": "0x3bc4b66e947a77c329587ae0a926df6c3ad8d55c",
+    "mintable": false,
+    "ethereum_address": "0xeca448eefdda835845eb33b9df04f8e164d250c7"
+}

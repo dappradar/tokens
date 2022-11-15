@@ -1,0 +1,8 @@
+{
+    "symbol": "renDGB",
+    "name": "renDGB (PoS)",
+    "decimals": 8,
+    "address": "0x6d54d243f144e16b6489a295f100146e11286ec0",
+    "mintable": false,
+    "ethereum_address": "0xe3cb486f3f5c639e98ccbaf57d95369375687f80"
+}

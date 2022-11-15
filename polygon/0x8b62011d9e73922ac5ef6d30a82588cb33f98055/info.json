@@ -1,0 +1,8 @@
+{
+    "symbol": "FGP",
+    "name": "FingerPrint (PoS)",
+    "decimals": 18,
+    "address": "0x8b62011d9e73922ac5ef6d30a82588cb33f98055",
+    "mintable": false,
+    "ethereum_address": "0xd9a8cfe21c232d485065cb62a96866799d4645f7"
+}

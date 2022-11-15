@@ -1,0 +1,8 @@
+{
+    "symbol": "USDK",
+    "name": "USDK (PoS)",
+    "decimals": 18,
+    "address": "0xd07a7fac2857901e4bec0d89bbdae764723aab86",
+    "mintable": false,
+    "ethereum_address": "0x1c48f86ae57291f7686349f12601910bd8d470bb"
+}

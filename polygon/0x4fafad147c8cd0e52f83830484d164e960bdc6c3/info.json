@@ -1,0 +1,8 @@
+{
+    "symbol": "QWLA",
+    "name": "Qawalla Token (PoS)",
+    "decimals": 18,
+    "address": "0x4fafad147c8cd0e52f83830484d164e960bdc6c3",
+    "mintable": false,
+    "ethereum_address": "0x1d96fd43ee07aa79f8fd003cbdf404fb5ce41ad2"
+}

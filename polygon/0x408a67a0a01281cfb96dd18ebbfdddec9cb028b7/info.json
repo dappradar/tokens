@@ -1,0 +1,8 @@
+{
+    "symbol": "ZPUMP",
+    "name": "ZILLAPUMP (PoS)",
+    "decimals": 9,
+    "address": "0x408a67a0a01281cfb96dd18ebbfdddec9cb028b7",
+    "mintable": false,
+    "ethereum_address": "0x4ca60bff981785d9b6cf3433914eeff60d5d8cd8"
+}

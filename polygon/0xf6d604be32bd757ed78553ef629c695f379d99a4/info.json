@@ -1,0 +1,8 @@
+{
+    "symbol": "HBC",
+    "name": "Heartbreak Coin (PoS)",
+    "decimals": 18,
+    "address": "0xf6d604be32bd757ed78553ef629c695f379d99a4",
+    "mintable": false,
+    "ethereum_address": "0x2d163701bf3920ff1b1ad0e3b1d0e0d5747cf067"
+}

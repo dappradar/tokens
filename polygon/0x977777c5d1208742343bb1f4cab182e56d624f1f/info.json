@@ -1,0 +1,8 @@
+{
+    "symbol": "NBU",
+    "name": "Nimbus (PoS)",
+    "decimals": 18,
+    "address": "0x977777c5d1208742343bb1f4cab182e56d624f1f",
+    "mintable": false,
+    "ethereum_address": "0xeb58343b36c7528f23caae63a150240241310049"
+}

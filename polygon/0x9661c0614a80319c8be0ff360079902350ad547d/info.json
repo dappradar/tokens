@@ -1,0 +1,8 @@
+{
+    "symbol": "WOWS",
+    "name": "Wolves Of Wall Street (PoS)",
+    "decimals": 18,
+    "address": "0x9661c0614a80319c8be0ff360079902350ad547d",
+    "mintable": false,
+    "ethereum_address": "0x672ef7e4fe230b5ca1466c5fdd40588d30fdf90a"
+}

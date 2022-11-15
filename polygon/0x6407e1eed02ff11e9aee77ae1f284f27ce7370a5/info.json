@@ -1,0 +1,8 @@
+{
+    "symbol": "STHT",
+    "name": "StreetHeat (PoS)",
+    "decimals": 18,
+    "address": "0x6407e1eed02ff11e9aee77ae1f284f27ce7370a5",
+    "mintable": false,
+    "ethereum_address": "0xb0811ffee3c09a38b49fbe99ecfd8b9e420fdaa3"
+}

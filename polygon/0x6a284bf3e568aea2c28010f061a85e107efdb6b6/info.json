@@ -1,0 +1,8 @@
+{
+    "symbol": "TAG",
+    "name": "TAGBOND (PoS)",
+    "decimals": 18,
+    "address": "0x6a284bf3e568aea2c28010f061a85e107efdb6b6",
+    "mintable": false,
+    "ethereum_address": "0xcc4ae94372da236e9b113132e0c46c68704246b9"
+}

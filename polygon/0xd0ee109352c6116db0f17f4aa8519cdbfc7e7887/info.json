@@ -1,0 +1,8 @@
+{
+    "symbol": "DEP",
+    "name": "DEAPCOIN (PoS)",
+    "decimals": 18,
+    "address": "0xd0ee109352c6116db0f17f4aa8519cdbfc7e7887",
+    "mintable": false,
+    "ethereum_address": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163"
+}

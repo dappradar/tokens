@@ -1,0 +1,8 @@
+{
+    "symbol": "FODL",
+    "name": "Fodl (PoS)",
+    "decimals": 18,
+    "address": "0x5314ba045a459f63906aa7c76d9f337dcb7d6995",
+    "mintable": false,
+    "ethereum_address": "0x4c2e59d098df7b6cbae0848d66de2f8a4889b9c3"
+}

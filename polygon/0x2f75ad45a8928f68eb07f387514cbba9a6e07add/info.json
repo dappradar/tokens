@@ -1,0 +1,8 @@
+{
+    "symbol": "DROPIE",
+    "name": "DROPIE.IO (PoS)",
+    "decimals": 18,
+    "address": "0x2f75ad45a8928f68eb07f387514cbba9a6e07add",
+    "mintable": false,
+    "ethereum_address": "0x449f50b4d95c4309fa442a6930f341c26a4d8fba"
+}

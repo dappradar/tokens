@@ -1,0 +1,8 @@
+{
+    "symbol": "VEST",
+    "name": "DAO Invest (PoS)",
+    "decimals": 18,
+    "address": "0x381caf412b45dac0f62fbeec89de306d3eabe384",
+    "mintable": false,
+    "ethereum_address": "0x1f19f83fc9a25f3c861260143e36c17706257986"
+}

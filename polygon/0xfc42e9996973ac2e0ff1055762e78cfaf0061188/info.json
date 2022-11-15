@@ -1,0 +1,8 @@
+{
+    "symbol": "PTF",
+    "name": "Power Trade Fuel (PoS)",
+    "decimals": 18,
+    "address": "0xfc42e9996973ac2e0ff1055762e78cfaf0061188",
+    "mintable": false,
+    "ethereum_address": "0xbe38a889d67467b665e30e20ee5604a6f5696e38"
+}

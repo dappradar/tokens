@@ -1,0 +1,8 @@
+{
+    "symbol": "MYT",
+    "name": "Mytrade Token (PoS)",
+    "decimals": 18,
+    "address": "0x4535e52cdf3ab787b379b7b72b5990767e6747e4",
+    "mintable": false,
+    "ethereum_address": "0x0bf0d26a527384bcc4072a6e2bca3fc79e49fa2d"
+}

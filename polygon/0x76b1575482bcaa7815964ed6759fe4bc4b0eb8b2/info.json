@@ -1,0 +1,8 @@
+{
+    "symbol": "BDI",
+    "name": "BasketDAO DeFi Index (PoS)",
+    "decimals": 18,
+    "address": "0x76b1575482bcaa7815964ed6759fe4bc4b0eb8b2",
+    "mintable": false,
+    "ethereum_address": "0x0309c98b1bffa350bcb3f9fb9780970ca32a5060"
+}

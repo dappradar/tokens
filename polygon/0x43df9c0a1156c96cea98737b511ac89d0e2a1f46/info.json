@@ -1,0 +1,8 @@
+{
+    "symbol": "GOVI",
+    "name": "GOVI (PoS)",
+    "decimals": 18,
+    "address": "0x43df9c0a1156c96cea98737b511ac89d0e2a1f46",
+    "mintable": false,
+    "ethereum_address": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107"
+}

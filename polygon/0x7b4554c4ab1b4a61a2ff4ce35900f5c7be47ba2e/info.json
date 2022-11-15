@@ -1,0 +1,8 @@
+{
+    "symbol": "AKV",
+    "name": "Akiverse Governance (PoS)",
+    "decimals": 18,
+    "address": "0x7b4554c4ab1b4a61a2ff4ce35900f5c7be47ba2e",
+    "mintable": false,
+    "ethereum_address": "0x46c04976bd3d60e2f4cbf083e705e957b76a666e"
+}

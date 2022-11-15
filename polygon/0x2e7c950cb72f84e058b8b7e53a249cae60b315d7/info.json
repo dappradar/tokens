@@ -1,0 +1,8 @@
+{
+    "symbol": "BZZ",
+    "name": "BZZ (PoS)",
+    "decimals": 16,
+    "address": "0x2e7c950cb72f84e058b8b7e53a249cae60b315d7",
+    "mintable": false,
+    "ethereum_address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb"
+}

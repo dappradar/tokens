@@ -1,0 +1,8 @@
+{
+    "symbol": "TXL",
+    "name": "Tixl Token (PoS)",
+    "decimals": 18,
+    "address": "0x6ee244034336f0135dcef9a5755d03a9f51dd114",
+    "mintable": false,
+    "ethereum_address": "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41"
+}

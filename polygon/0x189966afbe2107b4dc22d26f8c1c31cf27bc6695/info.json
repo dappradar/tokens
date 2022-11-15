@@ -1,0 +1,8 @@
+{
+    "symbol": "HOP",
+    "name": "Hop (PoS)",
+    "decimals": 18,
+    "address": "0x189966afbe2107b4dc22d26f8c1c31cf27bc6695",
+    "mintable": false,
+    "ethereum_address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
+}

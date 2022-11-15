@@ -1,0 +1,8 @@
+{
+    "symbol": "LOG",
+    "name": "LoganCoin (PoS)",
+    "decimals": 18,
+    "address": "0x2f128a29f2b070a68d92777ebbc0b1e8b1d5bcd0",
+    "mintable": false,
+    "ethereum_address": "0x7fdf5d604a5597a20950f0744342647098154abe"
+}

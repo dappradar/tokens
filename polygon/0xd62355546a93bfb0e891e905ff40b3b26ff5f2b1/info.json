@@ -1,0 +1,8 @@
+{
+    "symbol": "KIMCHI",
+    "name": "KIMCHI.finance (PoS)",
+    "decimals": 18,
+    "address": "0xd62355546a93bfb0e891e905ff40b3b26ff5f2b1",
+    "mintable": false,
+    "ethereum_address": "0x1e18821e69b9faa8e6e75dffe54e7e25754beda0"
+}

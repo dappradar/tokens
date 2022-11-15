@@ -1,0 +1,8 @@
+{
+    "symbol": "aUST",
+    "name": "Wrapped Anchor UST Token (PoS)",
+    "decimals": 18,
+    "address": "0x522a3bd54d5d6a9cc67592e31cc1a745630daf50",
+    "mintable": false,
+    "ethereum_address": "0xa8de3e3c934e2a1bb08b010104ccabbd4d6293ab"
+}

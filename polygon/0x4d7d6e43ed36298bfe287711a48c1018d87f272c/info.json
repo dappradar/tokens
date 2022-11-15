@@ -1,0 +1,8 @@
+{
+    "symbol": "DOG",
+    "name": "The Doge NFT (PoS)",
+    "decimals": 18,
+    "address": "0x4d7d6e43ed36298bfe287711a48c1018d87f272c",
+    "mintable": false,
+    "ethereum_address": "0xbaac2b4491727d78d2b78815144570b9f2fe8899"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "EDOGE",
+    "name": "EtherDoge (PoS)",
+    "decimals": 18,
+    "address": "0x303b2d090e5ae3a9aafae3551f2ff3837820c296",
+    "mintable": false,
+    "ethereum_address": "0x8a7b7b9b2f7d0c63f66171721339705a6188a7d5"
+}

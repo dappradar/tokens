@@ -1,0 +1,8 @@
+{
+    "symbol": "THX",
+    "name": "THX Network (PoS)",
+    "decimals": 18,
+    "address": "0x2934b36ca9a4b31e633c5be670c8c8b28b6aa015",
+    "mintable": false,
+    "ethereum_address": "0xe632ea2ef2cfd8fc4a2731c76f99078aef6a4b31"
+}

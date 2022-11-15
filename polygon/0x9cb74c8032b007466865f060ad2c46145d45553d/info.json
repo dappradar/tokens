@@ -1,0 +1,8 @@
+{
+    "symbol": "IDEX",
+    "name": "IDEX Token (PoS)",
+    "decimals": 18,
+    "address": "0x9cb74c8032b007466865f060ad2c46145d45553d",
+    "mintable": false,
+    "ethereum_address": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae"
+}

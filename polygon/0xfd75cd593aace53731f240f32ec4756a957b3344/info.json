@@ -1,0 +1,8 @@
+{
+    "symbol": "LITH",
+    "name": "Lith Token (PoS)",
+    "decimals": 18,
+    "address": "0xfd75cd593aace53731f240f32ec4756a957b3344",
+    "mintable": false,
+    "ethereum_address": "0xf8a4a419c2d7140e49ef952a7e7ae1bd4a8b6b9c"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "LFI",
+    "name": "LunaFi (PoS)",
+    "decimals": 18,
+    "address": "0x77d97db5615dfe8a2d16b38eaa3f8f34524a0a74",
+    "mintable": false,
+    "ethereum_address": "0xb28f803a8772e6584a65ab6dfc535ae6fef8a0b2"
+}

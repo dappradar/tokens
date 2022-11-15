@@ -1,0 +1,8 @@
+{
+    "symbol": "PIL",
+    "name": "Pilgrim (PoS)",
+    "decimals": 18,
+    "address": "0x286785b843859b6e82f927a75a92cc4e8abe0c44",
+    "mintable": false,
+    "ethereum_address": "0x5bd46d83ab0db4427f89f01f9dd0a0b9ab266148"
+}

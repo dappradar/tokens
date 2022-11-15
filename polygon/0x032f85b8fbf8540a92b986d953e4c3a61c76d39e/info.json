@@ -1,0 +1,8 @@
+{
+    "symbol": "TCPTCP",
+    "name": "The Crypto Prophecies (PoS)",
+    "decimals": 18,
+    "address": "0x032f85b8fbf8540a92b986d953e4c3a61c76d39e",
+    "mintable": false,
+    "ethereum_address": "0x06576eb3b212d605b797dc15523d9dc9f4f66db4"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "OFT",
+    "name": "Orient (PoS)",
+    "decimals": 18,
+    "address": "0x8ca5ed20346c5d8a21a849d59c64f0884a532882",
+    "mintable": false,
+    "ethereum_address": "0xc0a25a24cce412e2fb407c08e3785437fee9ad1d"
+}

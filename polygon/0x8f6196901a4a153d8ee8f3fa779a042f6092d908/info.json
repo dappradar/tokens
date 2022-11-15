@@ -1,0 +1,8 @@
+{
+    "symbol": "SALE",
+    "name": "DxSale.Network (PoS)",
+    "decimals": 18,
+    "address": "0x8f6196901a4a153d8ee8f3fa779a042f6092d908",
+    "mintable": false,
+    "ethereum_address": "0xf063fe1ab7a291c5d06a86e14730b00bf24cb589"
+}

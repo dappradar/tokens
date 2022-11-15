@@ -1,0 +1,8 @@
+{
+    "symbol": "PAXG",
+    "name": "Paxos Gold (PoS)",
+    "decimals": 18,
+    "address": "0x553d3d295e0f695b9228246232edf400ed3560b5",
+    "mintable": false,
+    "ethereum_address": "0x45804880de22913dafe09f4980848ece6ecbaf78"
+}

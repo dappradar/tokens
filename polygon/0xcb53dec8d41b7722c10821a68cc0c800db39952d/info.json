@@ -1,0 +1,8 @@
+{
+    "symbol": "IOEN",
+    "name": "IOEN (PoS)",
+    "decimals": 18,
+    "address": "0xcb53dec8d41b7722c10821a68cc0c800db39952d",
+    "mintable": false,
+    "ethereum_address": "0x0be7a490a8a9518826d56da9414dce0a3ba36a0a"
+}

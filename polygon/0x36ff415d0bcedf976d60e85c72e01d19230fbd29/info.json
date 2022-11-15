@@ -1,0 +1,8 @@
+{
+    "symbol": "HOBO",
+    "name": "HoboNickels (PoS)",
+    "decimals": 8,
+    "address": "0x36ff415d0bcedf976d60e85c72e01d19230fbd29",
+    "mintable": false,
+    "ethereum_address": "0x6ee2abfbf98d85c7090b5459103334a3638649c4"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "LSV",
+    "name": "Litecoin SV (PoS)",
+    "decimals": 18,
+    "address": "0xb6d5d0e2bad865750bc2cb21bbae636c3bad6581",
+    "mintable": false,
+    "ethereum_address": "0xee059f0ca1507e4e20c689b20cff71b5e924f7bd"
+}

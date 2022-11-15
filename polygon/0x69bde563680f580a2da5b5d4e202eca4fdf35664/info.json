@@ -1,0 +1,8 @@
+{
+    "symbol": "LOVE",
+    "name": "Love (PoS)",
+    "decimals": 18,
+    "address": "0x69bde563680f580a2da5b5d4e202eca4fdf35664",
+    "mintable": false,
+    "ethereum_address": "0x12e57f85b847bade37f37cde3442f00dc33b9982"
+}

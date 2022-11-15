@@ -1,0 +1,8 @@
+{
+    "symbol": "CENT",
+    "name": "Centaurify (PoS)",
+    "decimals": 18,
+    "address": "0x7b9c2d37fc0b45a5ec022d2023f18685fda832e7",
+    "mintable": false,
+    "ethereum_address": "0x08ba718f288c3b12b01146816bef9fa03cc635bc"
+}

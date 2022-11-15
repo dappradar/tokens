@@ -1,0 +1,8 @@
+{
+    "symbol": "SMTS",
+    "name": "Smatoos Reward Platform Token (PoS)",
+    "decimals": 18,
+    "address": "0x479f35c7373793256b7510e03d3145a7ee67fe8d",
+    "mintable": false,
+    "ethereum_address": "0xdc97fdaadcbc1c77525b8a1c981865bd2e0425aa"
+}

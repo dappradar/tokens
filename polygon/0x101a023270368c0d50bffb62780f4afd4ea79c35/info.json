@@ -1,0 +1,8 @@
+{
+    "symbol": "ANKR",
+    "name": "Ankr (PoS)",
+    "decimals": 18,
+    "address": "0x101a023270368c0d50bffb62780f4afd4ea79c35",
+    "mintable": false,
+    "ethereum_address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4"
+}

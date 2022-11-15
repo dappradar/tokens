@@ -1,0 +1,8 @@
+{
+    "symbol": "SOS",
+    "name": "SOS (PoS)",
+    "decimals": 18,
+    "address": "0x8c059898ca6274750b6bf1cf38f2848347c490cc",
+    "mintable": false,
+    "ethereum_address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0"
+}

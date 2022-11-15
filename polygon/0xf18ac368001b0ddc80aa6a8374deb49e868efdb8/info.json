@@ -1,0 +1,8 @@
+{
+    "symbol": "INV",
+    "name": "Inverse DAO (PoS)",
+    "decimals": 18,
+    "address": "0xf18ac368001b0ddc80aa6a8374deb49e868efdb8",
+    "mintable": false,
+    "ethereum_address": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68"
+}

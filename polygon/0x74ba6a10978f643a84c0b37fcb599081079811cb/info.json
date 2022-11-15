@@ -1,0 +1,8 @@
+{
+    "symbol": "DCASH",
+    "name": "Diabolo (PoS)",
+    "decimals": 10,
+    "address": "0x74ba6a10978f643a84c0b37fcb599081079811cb",
+    "mintable": false,
+    "ethereum_address": "0xcf8f32e032f432b02393636b2092a6bef975fbf9"
+}

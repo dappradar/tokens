@@ -1,0 +1,8 @@
+{
+    "symbol": "DHP",
+    "name": "dHealth (PoS)",
+    "decimals": 18,
+    "address": "0x194dd5b6b7225c9d2f2e2b2af7a4ffc8e77fd479",
+    "mintable": false,
+    "ethereum_address": "0xc40f23a3e9613e012944f7957edce97899fa920d"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "GEEQ",
+    "name": "Geeq (PoS)",
+    "decimals": 18,
+    "address": "0x3ea044a788ff278d4150ce1741c888ffed6ce44f",
+    "mintable": false,
+    "ethereum_address": "0x6b9f031d718dded0d681c20cb754f97b3bb81b78"
+}

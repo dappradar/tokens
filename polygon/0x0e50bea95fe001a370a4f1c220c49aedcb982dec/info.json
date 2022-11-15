@@ -1,0 +1,8 @@
+{
+    "symbol": "ERN",
+    "name": "Ethernity Chain (PoS)",
+    "decimals": 18,
+    "address": "0x0e50bea95fe001a370a4f1c220c49aedcb982dec",
+    "mintable": false,
+    "ethereum_address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505"
+}

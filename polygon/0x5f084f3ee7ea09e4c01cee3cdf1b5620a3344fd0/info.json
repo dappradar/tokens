@@ -1,0 +1,8 @@
+{
+    "symbol": "KIF",
+    "name": "KittenFinance (PoS)",
+    "decimals": 18,
+    "address": "0x5f084f3ee7ea09e4c01cee3cdf1b5620a3344fd0",
+    "mintable": false,
+    "ethereum_address": "0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "GAM",
+    "name": "YourGamify Token (PoS)",
+    "decimals": 18,
+    "address": "0x0fdfee86a85cf73c1eced1e2f8d8a358c5c7127d",
+    "mintable": false,
+    "ethereum_address": "0x05e4de681283bdf7c35ef7de4b87e465e80a6216"
+}

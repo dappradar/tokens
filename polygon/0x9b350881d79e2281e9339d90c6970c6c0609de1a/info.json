@@ -1,0 +1,8 @@
+{
+    "symbol": "LMARK",
+    "name": "Lets Benchmark (PoS)",
+    "decimals": 18,
+    "address": "0x9b350881d79e2281e9339d90c6970c6c0609de1a",
+    "mintable": false,
+    "ethereum_address": "0xe52ec57a831ec6ab522d3e57a73c0c01c1fa58f9"
+}

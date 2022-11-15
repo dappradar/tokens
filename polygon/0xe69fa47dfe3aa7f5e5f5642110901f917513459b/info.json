@@ -1,0 +1,8 @@
+{
+    "symbol": "DRGN",
+    "name": "Dragon (PoS)",
+    "decimals": 18,
+    "address": "0xe69fa47dfe3aa7f5e5f5642110901f917513459b",
+    "mintable": false,
+    "ethereum_address": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e"
+}

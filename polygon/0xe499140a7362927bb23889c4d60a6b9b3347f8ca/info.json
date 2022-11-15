@@ -1,0 +1,8 @@
+{
+    "symbol": "MCC",
+    "name": "MultiChainCapital (PoS)",
+    "decimals": 9,
+    "address": "0xe499140a7362927bb23889c4d60a6b9b3347f8ca",
+    "mintable": false,
+    "ethereum_address": "0x1a7981d87e3b6a95c1516eb820e223fe979896b3"
+}

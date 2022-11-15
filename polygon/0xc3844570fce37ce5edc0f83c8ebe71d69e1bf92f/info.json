@@ -1,0 +1,8 @@
+{
+    "symbol": "MSOT",
+    "name": "BTour Chain (PoS)",
+    "decimals": 18,
+    "address": "0xc3844570fce37ce5edc0f83c8ebe71d69e1bf92f",
+    "mintable": false,
+    "ethereum_address": "0xe5ef42d0e5e4aa6b36c613d00db8dad303d505f3"
+}

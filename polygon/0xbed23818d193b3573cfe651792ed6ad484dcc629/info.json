@@ -1,0 +1,8 @@
+{
+    "symbol": "TARA",
+    "name": "Taraxa Coin (PoS)",
+    "decimals": 18,
+    "address": "0xbed23818d193b3573cfe651792ed6ad484dcc629",
+    "mintable": false,
+    "ethereum_address": "0xf001937650bb4f62b57521824b2c20f5b91bea05"
+}

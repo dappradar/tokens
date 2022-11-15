@@ -1,0 +1,8 @@
+{
+    "symbol": "WIVA",
+    "name": "WIVA (PoS)",
+    "decimals": 18,
+    "address": "0x784641e51c300120a8d15bfdb3b45375d4352748",
+    "mintable": false,
+    "ethereum_address": "0xa00055e6ee4d1f4169096ecb682f70caa8c29987"
+}

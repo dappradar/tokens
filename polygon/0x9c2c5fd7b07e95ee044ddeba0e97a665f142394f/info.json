@@ -1,0 +1,8 @@
+{
+    "symbol": "1INCH",
+    "name": "1Inch (PoS)",
+    "decimals": 18,
+    "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+    "mintable": false,
+    "ethereum_address": "0x111111111117dc0aa78b770fa6a738034120c302"
+}

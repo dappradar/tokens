@@ -1,0 +1,8 @@
+{
+    "symbol": "BURN",
+    "name": "BurningDAO (PoS)",
+    "decimals": 18,
+    "address": "0x6562ba24d787dbb6739786a3df06553018ec029f",
+    "mintable": false,
+    "ethereum_address": "0xfe9205d6943087b3317d5cf3d393c67d9e15fec5"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "XTM",
+    "name": "Torum (PoS)",
+    "decimals": 18,
+    "address": "0xe1c42be9699ff4e11674819c1885d43bd92e9d15",
+    "mintable": false,
+    "ethereum_address": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe"
+}

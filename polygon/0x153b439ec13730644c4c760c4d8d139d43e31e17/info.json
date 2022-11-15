@@ -1,0 +1,8 @@
+{
+    "symbol": "JPYC",
+    "name": "JPY Coin (PoS)",
+    "decimals": 18,
+    "address": "0x153b439ec13730644c4c760c4d8d139d43e31e17",
+    "mintable": false,
+    "ethereum_address": "0xe0ad308f1ca43df578df4b0644fd4d76e7571c59"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "PSP",
+    "name": "ParaSwap (PoS)",
+    "decimals": 18,
+    "address": "0x42d61d766b85431666b39b89c43011f24451bff6",
+    "mintable": false,
+    "ethereum_address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5"
+}

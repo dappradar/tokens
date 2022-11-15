@@ -1,0 +1,8 @@
+{
+    "symbol": "DAPP",
+    "name": "360APP (PoS)",
+    "decimals": 18,
+    "address": "0x24274de25578f97984f66be0cc0762138757c935",
+    "mintable": false,
+    "ethereum_address": "0x5d0fa08aeb173ade44b0cf7f31d506d8e04f0ac8"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "FORS",
+    "name": "Forsan Coin (PoS)",
+    "decimals": 18,
+    "address": "0x56a25375e6930114fe0b428df5ccdc753db99898",
+    "mintable": false,
+    "ethereum_address": "0xa5bd86e212097f95415aff92b7f0752bae39f7e5"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "X0",
+    "name": "X0swap Token (PoS)",
+    "decimals": 18,
+    "address": "0xf2b06a76de5ad7efe46683e10a43666236126c03",
+    "mintable": false,
+    "ethereum_address": "0x4dfe67781d8b177f5a8536ad817bb9eb2c052f48"
+}

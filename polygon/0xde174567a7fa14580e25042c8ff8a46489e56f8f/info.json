@@ -1,0 +1,8 @@
+{
+    "symbol": "AMMO",
+    "name": "Ammolite (PoS)",
+    "decimals": 18,
+    "address": "0xde174567a7fa14580e25042c8ff8a46489e56f8f",
+    "mintable": false,
+    "ethereum_address": "0xbcb6112292a9ee9c9ca876e6eab0fee7622445f1"
+}

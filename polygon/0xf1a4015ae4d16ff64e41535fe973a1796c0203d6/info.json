@@ -1,0 +1,8 @@
+{
+    "symbol": "WILD",
+    "name": "Wilder (PoS)",
+    "decimals": 18,
+    "address": "0xf1a4015ae4d16ff64e41535fe973a1796c0203d6",
+    "mintable": false,
+    "ethereum_address": "0x2a3bff78b79a009976eea096a51a948a3dc00e34"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "IQ",
+    "name": "Everipedia IQ (PoS)",
+    "decimals": 18,
+    "address": "0xb9638272ad6998708de56bbc0a290a1de534a578",
+    "mintable": false,
+    "ethereum_address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9"
+}

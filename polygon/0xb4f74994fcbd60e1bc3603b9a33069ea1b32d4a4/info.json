@@ -1,0 +1,8 @@
+{
+    "symbol": "OGUC",
+    "name": "Only Graded Coin (PoS)",
+    "decimals": 18,
+    "address": "0xb4f74994fcbd60e1bc3603b9a33069ea1b32d4a4",
+    "mintable": false,
+    "ethereum_address": "0xb4f74994fcbd60e1bc3603b9a33069ea1b32d4a4"
+}

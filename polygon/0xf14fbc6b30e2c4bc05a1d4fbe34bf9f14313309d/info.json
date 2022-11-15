@@ -1,0 +1,8 @@
+{
+    "symbol": "AKT",
+    "name": "Akash Network (PoS)",
+    "decimals": 6,
+    "address": "0xf14fbc6b30e2c4bc05a1d4fbe34bf9f14313309d",
+    "mintable": false,
+    "ethereum_address": "0xc727f87871ee12bbcedd2973746d1deb7529aad6"
+}

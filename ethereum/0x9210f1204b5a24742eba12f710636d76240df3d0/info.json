@@ -1,0 +1,6 @@
+{
+    "symbol": "bb-a-USDC",
+    "name": "Balancer Aave Boosted Pool (USDC)",
+    "decimals": 18,
+    "address": "0x9210f1204b5a24742eba12f710636d76240df3d0"
+}

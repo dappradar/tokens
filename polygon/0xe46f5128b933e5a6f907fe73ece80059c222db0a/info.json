@@ -1,0 +1,8 @@
+{
+    "symbol": "MOOV",
+    "name": "dotmoovs (PoS)",
+    "decimals": 18,
+    "address": "0xe46f5128b933e5a6f907fe73ece80059c222db0a",
+    "mintable": false,
+    "ethereum_address": "0x24ec2ca132abf8f6f8a6e24a1b97943e31f256a7"
+}

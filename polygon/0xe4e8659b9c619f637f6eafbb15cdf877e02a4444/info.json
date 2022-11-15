@@ -1,0 +1,8 @@
+{
+    "symbol": "OHM",
+    "name": "Olympus (PoS)",
+    "decimals": 9,
+    "address": "0xe4e8659b9c619f637f6eafbb15cdf877e02a4444",
+    "mintable": false,
+    "ethereum_address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5"
+}

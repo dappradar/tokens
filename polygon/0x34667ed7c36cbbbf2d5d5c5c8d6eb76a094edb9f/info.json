@@ -1,0 +1,8 @@
+{
+    "symbol": "GENE",
+    "name": "GenomesDAO (PoS)",
+    "decimals": 18,
+    "address": "0x34667ed7c36cbbbf2d5d5c5c8d6eb76a094edb9f",
+    "mintable": false,
+    "ethereum_address": "0x21413c119b0c11c5d96ae1bd328917bc5c8ed67e"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "AFTR",
+    "name": "Afrofuture (PoS)",
+    "decimals": 8,
+    "address": "0x228a22bf6da9353abbe37a31cf85c02dfc432456",
+    "mintable": false,
+    "ethereum_address": "0x56dfa98f363edb99240b63f8a5141d8b64cfaf6e"
+}

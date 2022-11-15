@@ -1,0 +1,8 @@
+{
+    "symbol": "uETH",
+    "name": "microETH (PoS)",
+    "decimals": 18,
+    "address": "0x40eebe8541ac5a232e5897226aa3491677bfa9dd",
+    "mintable": false,
+    "ethereum_address": "0xbb7be7cc5abb65d3a29d7982236481ddf4f10b09"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "VFNFT",
+    "name": "Valorem (PoS)",
+    "decimals": 0,
+    "address": "0xeca84ae6261fd1ab3b93d5fcfc9ab8da5fd716fb",
+    "mintable": true,
+    "ethereum_address": "0x2909abf857dc69ee29c7f199254285161f14e0b4"
+}

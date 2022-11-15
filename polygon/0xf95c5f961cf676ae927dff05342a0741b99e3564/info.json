@@ -1,0 +1,8 @@
+{
+    "symbol": "NGL",
+    "name": "Gold Fever Native Gold (PoS)",
+    "decimals": 18,
+    "address": "0xf95c5f961cf676ae927dff05342a0741b99e3564",
+    "mintable": false,
+    "ethereum_address": "0x2653891204f463fb2a2f4f412564b19e955166ae"
+}

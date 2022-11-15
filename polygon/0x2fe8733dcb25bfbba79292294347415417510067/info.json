@@ -1,0 +1,8 @@
+{
+    "symbol": "XED",
+    "name": "Exeedme (PoS)",
+    "decimals": 18,
+    "address": "0x2fe8733dcb25bfbba79292294347415417510067",
+    "mintable": false,
+    "ethereum_address": "0xee573a945b01b788b9287ce062a0cfc15be9fd86"
+}

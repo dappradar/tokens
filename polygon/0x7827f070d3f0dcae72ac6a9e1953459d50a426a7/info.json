@@ -1,0 +1,8 @@
+{
+    "symbol": "FOTO",
+    "name": "FOTO (PoS)",
+    "decimals": 18,
+    "address": "0x7827f070d3f0dcae72ac6a9e1953459d50a426a7",
+    "mintable": false,
+    "ethereum_address": "0xf6ea0e60cee427b90aa36f327ee61d1d4cabc49f"
+}

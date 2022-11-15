@@ -1,0 +1,8 @@
+{
+    "symbol": "OONE",
+    "name": "OnlyOne (PoS)",
+    "decimals": 18,
+    "address": "0x28db8bb4942b658be293076e879e48fcb2df1dec",
+    "mintable": false,
+    "ethereum_address": "0x5fed56eabf87255151d15c952256198af2a1ee74"
+}

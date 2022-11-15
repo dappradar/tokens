@@ -1,0 +1,8 @@
+{
+    "symbol": "VGTG",
+    "name": "VGTGToken (PoS)",
+    "decimals": 18,
+    "address": "0x0c5ebed5cb5bd838bdc43e1583d9d054f3d7be6c",
+    "mintable": false,
+    "ethereum_address": "0xe61eecfdba2ad1669cee138f1919d08ced070b83"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "JUNO",
+    "name": "Junø (PoS)",
+    "decimals": 6,
+    "address": "0xc6bdb9dd7f33ff11efdd3a84b2c1c99b8cc93052",
+    "mintable": false,
+    "ethereum_address": "0x413e8196e7d6d2c02a6bccc46366f881017ea479"
+}

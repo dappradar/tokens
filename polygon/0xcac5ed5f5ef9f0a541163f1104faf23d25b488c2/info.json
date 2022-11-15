@@ -1,0 +1,8 @@
+{
+    "symbol": "APE$",
+    "name": "APE Punk (PoS)",
+    "decimals": 18,
+    "address": "0xcac5ed5f5ef9f0a541163f1104faf23d25b488c2",
+    "mintable": false,
+    "ethereum_address": "0x26ea1f595f6567b7050fbba24f6a66e19db4d560"
+}

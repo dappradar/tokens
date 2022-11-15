@@ -1,0 +1,8 @@
+{
+    "symbol": "LOAD",
+    "name": "LOAD (PoS)",
+    "decimals": 8,
+    "address": "0x81c88f5cff4fd506df906cb32f8b02218701b0c7",
+    "mintable": false,
+    "ethereum_address": "0xa883e72c12473ded50a5fbffa60e4000fa5fe3c8"
+}

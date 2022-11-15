@@ -1,0 +1,8 @@
+{
+    "symbol": "MPOND",
+    "name": "Marlin Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0x240c82fdd68c7991e77f4222da2a9ef9a7aafa67",
+    "mintable": false,
+    "ethereum_address": "0x28c29ed8d3288d20719f828d75b1445d1ae4df84"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "UNQT",
+    "name": "Unique Utility Token (PoS)",
+    "decimals": 18,
+    "address": "0x3beeff1b01122f11149b11604a2bc4f9e33d77af",
+    "mintable": false,
+    "ethereum_address": "0xa80f2c8f61c56546001f5fc2eb8d6e4e72c45d4c"
+}

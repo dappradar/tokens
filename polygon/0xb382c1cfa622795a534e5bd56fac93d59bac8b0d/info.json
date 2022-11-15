@@ -1,0 +1,8 @@
+{
+    "symbol": "KIRO",
+    "name": "Kirobo (PoS)",
+    "decimals": 18,
+    "address": "0xb382c1cfa622795a534e5bd56fac93d59bac8b0d",
+    "mintable": false,
+    "ethereum_address": "0xb1191f691a355b43542bea9b8847bc73e7abb137"
+}

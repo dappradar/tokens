@@ -1,0 +1,8 @@
+{
+    "symbol": "XRUN",
+    "name": "XRUN (PoS)",
+    "decimals": 18,
+    "address": "0xe3951a8548d88e8b25859abbbfb57add1b6f4891",
+    "mintable": false,
+    "ethereum_address": "0x5833dbb0749887174b254ba4a5df747ff523a905"
+}

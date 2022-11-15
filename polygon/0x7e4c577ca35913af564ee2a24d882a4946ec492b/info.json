@@ -1,0 +1,8 @@
+{
+    "symbol": "MOONED",
+    "name": "MoonEdge (PoS)",
+    "decimals": 18,
+    "address": "0x7e4c577ca35913af564ee2a24d882a4946ec492b",
+    "mintable": true,
+    "ethereum_address": "0x7e4c577ca35913af564ee2a24d882a4946ec492b"
+}

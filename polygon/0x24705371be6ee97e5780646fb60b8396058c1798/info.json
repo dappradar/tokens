@@ -1,0 +1,8 @@
+{
+    "symbol": "DOBE",
+    "name": "Dobermann (PoS)",
+    "decimals": 18,
+    "address": "0x24705371be6ee97e5780646fb60b8396058c1798",
+    "mintable": false,
+    "ethereum_address": "0xe7ab45162f5979f09b0bda1cc7dfc97c270ea3d5"
+}

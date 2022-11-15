@@ -1,0 +1,8 @@
+{
+    "symbol": "eCNY",
+    "name": "Telcoin CNY (PoS)",
+    "decimals": 6,
+    "address": "0x48a6888ec6836c91792db8ef37098db47c849066",
+    "mintable": false,
+    "ethereum_address": "0x4dd124573e9df5824d09afa8ee0b4d620a90765a"
+}

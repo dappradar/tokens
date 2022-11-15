@@ -1,0 +1,8 @@
+{
+    "symbol": "PHTK",
+    "name": "PhunToken (PoS)",
+    "decimals": 18,
+    "address": "0x322584098ea29e2127a81322b417ebba356d8f22",
+    "mintable": false,
+    "ethereum_address": "0x1fee5588cb1de19c70b6ad5399152d8c643fae7b"
+}

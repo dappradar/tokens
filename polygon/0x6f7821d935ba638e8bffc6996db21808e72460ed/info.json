@@ -1,0 +1,8 @@
+{
+    "symbol": "BIG",
+    "name": "The Originals (PoS)",
+    "decimals": 18,
+    "address": "0x6f7821d935ba638e8bffc6996db21808e72460ed",
+    "mintable": false,
+    "ethereum_address": "0xc0b2cbd7b8db0d82cfb5ed37a231b910bd072edf"
+}

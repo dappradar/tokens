@@ -1,0 +1,8 @@
+{
+    "symbol": "IOTX",
+    "name": "IoTeX Network (PoS)",
+    "decimals": 18,
+    "address": "0xf6372cdb9c1d3674e83842e3800f2a62ac9f3c66",
+    "mintable": false,
+    "ethereum_address": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69"
+}

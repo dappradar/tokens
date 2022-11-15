@@ -1,0 +1,6 @@
+{
+    "symbol": "STKABPT",
+    "name": "Staked Aave Balance",
+    "decimals": 18,
+    "address": "0xa1116930326d21fb917d5a27f1e9943a9595fb47"
+}

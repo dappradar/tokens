@@ -1,0 +1,8 @@
+{
+    "symbol": "GENESIS",
+    "name": "Genesis (PoS)",
+    "decimals": 18,
+    "address": "0x51869836681bce74a514625c856afb697a013797",
+    "mintable": true,
+    "ethereum_address": "0x6b6f09997ebfa93f4e111c33825da3b938462ff1"
+}

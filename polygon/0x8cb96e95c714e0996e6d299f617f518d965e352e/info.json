@@ -1,0 +1,8 @@
+{
+    "symbol": "GTF",
+    "name": "GLOBALTRUSTFUND TOKEN (PoS)",
+    "decimals": 8,
+    "address": "0x8cb96e95c714e0996e6d299f617f518d965e352e",
+    "mintable": false,
+    "ethereum_address": "0x87befc1d367190f2b9cbe9b689e0e5ca658e3b71"
+}

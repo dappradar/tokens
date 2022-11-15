@@ -1,0 +1,8 @@
+{
+    "symbol": "RAD",
+    "name": "Radicle (PoS)",
+    "decimals": 18,
+    "address": "0x2f81e176471cc57fdc76f7d332fb4511bf2bebdd",
+    "mintable": false,
+    "ethereum_address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3"
+}

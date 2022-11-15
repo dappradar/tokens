@@ -1,0 +1,8 @@
+{
+    "symbol": "MEE",
+    "name": "MEE Token (PoS)",
+    "decimals": 18,
+    "address": "0xf4cbd4a7143e221eb983d292c0d13275f12c8172",
+    "mintable": false,
+    "ethereum_address": "0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106"
+}

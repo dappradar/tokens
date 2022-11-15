@@ -1,0 +1,8 @@
+{
+    "symbol": "MCO2",
+    "name": "Moss Carbon Credit (PoS)",
+    "decimals": 18,
+    "address": "0xaa7dbd1598251f856c12f63557a4c4397c253cea",
+    "mintable": false,
+    "ethereum_address": "0xfc98e825a2264d890f9a1e68ed50e1526abccacd"
+}

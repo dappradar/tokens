@@ -1,0 +1,8 @@
+{
+    "symbol": "cft",
+    "name": "CryptoFT (PoS)",
+    "decimals": 18,
+    "address": "0x06df66c8ba674d6332293b8d34a469327d8ce000",
+    "mintable": false,
+    "ethereum_address": "0x07834b06b5756056e065c0bd1639761ab8297513"
+}

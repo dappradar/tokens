@@ -1,0 +1,8 @@
+{
+    "symbol": "DRINK",
+    "name": "Beverage Token (PoS)",
+    "decimals": 18,
+    "address": "0x366a39a2f73de32df17cc9bdd027aa054f6ba9cb",
+    "mintable": false,
+    "ethereum_address": "0x9257fb8fab616867cee67c3289547403617b1938"
+}

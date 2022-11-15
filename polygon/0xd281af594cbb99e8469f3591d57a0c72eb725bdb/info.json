@@ -1,0 +1,8 @@
+{
+    "symbol": "MNFT",
+    "name": "MarvelousNFT (PoS)",
+    "decimals": 18,
+    "address": "0xd281af594cbb99e8469f3591d57a0c72eb725bdb",
+    "mintable": false,
+    "ethereum_address": "0x33be7644c0e489b3a0c639d103392d4f3e338158"
+}

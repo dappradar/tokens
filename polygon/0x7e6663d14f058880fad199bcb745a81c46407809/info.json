@@ -1,0 +1,8 @@
+{
+    "symbol": "DOD",
+    "name": "DefiOptions (PoS)",
+    "decimals": 18,
+    "address": "0x7e6663d14f058880fad199bcb745a81c46407809",
+    "mintable": false,
+    "ethereum_address": "0xfc7e3cfa47fbf90310ec203f46fee1af2771548c"
+}

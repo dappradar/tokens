@@ -1,0 +1,8 @@
+{
+    "symbol": "MBZ",
+    "name": "MovieBizCoin (PoS)",
+    "decimals": 8,
+    "address": "0xf932a6f93432517192c71db155be3d9c7402fbba",
+    "mintable": false,
+    "ethereum_address": "0xd8b110beee01e74dba9be687fc247c550a41cffe"
+}

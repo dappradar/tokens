@@ -1,0 +1,8 @@
+{
+    "symbol": "CPC",
+    "name": "Cashpayz Token (PoS)",
+    "decimals": 8,
+    "address": "0xe0b4af6c2e9cb2e43dfe5a357a00ced16da4547b",
+    "mintable": false,
+    "ethereum_address": "0x28ea81fac7b1719138cbf61267198155b433e00e"
+}

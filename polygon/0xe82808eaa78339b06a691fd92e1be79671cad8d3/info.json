@@ -1,0 +1,8 @@
+{
+    "symbol": "PLOT",
+    "name": "PLOT (PoS)",
+    "decimals": 18,
+    "address": "0xe82808eaa78339b06a691fd92e1be79671cad8d3",
+    "mintable": false,
+    "ethereum_address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb"
+}

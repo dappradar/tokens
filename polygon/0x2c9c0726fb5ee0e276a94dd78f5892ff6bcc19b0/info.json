@@ -1,0 +1,8 @@
+{
+    "symbol": "AUR",
+    "name": "Aurix Exchange (PoS)",
+    "decimals": 18,
+    "address": "0x2c9c0726fb5ee0e276a94dd78f5892ff6bcc19b0",
+    "mintable": false,
+    "ethereum_address": "0x6e98e5401adcb0d76f4debfc3d794b3031f48790"
+}

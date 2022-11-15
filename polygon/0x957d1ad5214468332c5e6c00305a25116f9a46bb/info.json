@@ -1,0 +1,8 @@
+{
+    "symbol": "NOIA",
+    "name": "NOIA Token (PoS)",
+    "decimals": 18,
+    "address": "0x957d1ad5214468332c5e6c00305a25116f9a46bb",
+    "mintable": false,
+    "ethereum_address": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca"
+}

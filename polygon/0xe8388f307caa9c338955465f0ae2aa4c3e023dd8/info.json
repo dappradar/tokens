@@ -1,0 +1,8 @@
+{
+    "symbol": "xHDX",
+    "name": "xHDX (PoS)",
+    "decimals": 12,
+    "address": "0xe8388f307caa9c338955465f0ae2aa4c3e023dd8",
+    "mintable": false,
+    "ethereum_address": "0x6fcb6408499a7c0f242e32d77eb51ffa1dd28a7e"
+}

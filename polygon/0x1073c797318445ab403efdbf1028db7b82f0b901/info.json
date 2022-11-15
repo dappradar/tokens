@@ -1,0 +1,8 @@
+{
+    "symbol": "MASH",
+    "name": "MasterNet (PoS)",
+    "decimals": 8,
+    "address": "0x1073c797318445ab403efdbf1028db7b82f0b901",
+    "mintable": false,
+    "ethereum_address": "0xa0d440c6da37892dc06ee7930b2eede0634fd681"
+}

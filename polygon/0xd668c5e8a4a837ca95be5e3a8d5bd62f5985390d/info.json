@@ -1,0 +1,8 @@
+{
+    "symbol": "DATA",
+    "name": "Streamr DATAcoin (PoS)",
+    "decimals": 18,
+    "address": "0xd668c5e8a4a837ca95be5e3a8d5bd62f5985390d",
+    "mintable": false,
+    "ethereum_address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023"
+}

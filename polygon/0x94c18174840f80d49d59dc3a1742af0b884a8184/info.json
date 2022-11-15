@@ -1,0 +1,8 @@
+{
+    "symbol": "SWAM",
+    "name": "SwapMatic Token (PoS)",
+    "decimals": 18,
+    "address": "0x94c18174840f80d49d59dc3a1742af0b884a8184",
+    "mintable": false,
+    "ethereum_address": "0x368306eb52c8313fd398418c8220ddd560940e68"
+}

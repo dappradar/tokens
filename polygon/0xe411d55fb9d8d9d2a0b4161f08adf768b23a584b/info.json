@@ -1,0 +1,8 @@
+{
+    "symbol": "PYLNT",
+    "name": "PYLNT (PoS)",
+    "decimals": 18,
+    "address": "0xe411d55fb9d8d9d2a0b4161f08adf768b23a584b",
+    "mintable": false,
+    "ethereum_address": "0xd8924385cd46e6af6f377871c732bde2f8e9dd18"
+}

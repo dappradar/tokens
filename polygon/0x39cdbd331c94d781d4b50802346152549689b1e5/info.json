@@ -1,0 +1,8 @@
+{
+    "symbol": "iETHV",
+    "name": "Inverse ETH Volatility Index (PoS)",
+    "decimals": 18,
+    "address": "0x39cdbd331c94d781d4b50802346152549689b1e5",
+    "mintable": true,
+    "ethereum_address": "0x3a707d56d538e85b783e8ce12b346e7fb6511f90"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "TESINU",
+    "name": "Tesla Inu (PoS)",
+    "decimals": 9,
+    "address": "0xd68468a1c2255ff4b13279752d68b5915bd84860",
+    "mintable": false,
+    "ethereum_address": "0xff69e48af1174da7f15d0c771861c33d3f19ed8a"
+}

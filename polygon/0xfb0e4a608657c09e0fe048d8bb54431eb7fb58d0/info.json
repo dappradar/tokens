@@ -1,0 +1,8 @@
+{
+    "symbol": "acBTC",
+    "name": "ACoconut BTC (PoS)",
+    "decimals": 18,
+    "address": "0xfb0e4a608657c09e0fe048d8bb54431eb7fb58d0",
+    "mintable": false,
+    "ethereum_address": "0xef6e45af9a422c5469928f927ca04ed332322e2e"
+}

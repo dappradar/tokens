@@ -1,0 +1,8 @@
+{
+    "symbol": "OPIUM",
+    "name": "Opium Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0xe8f157e041df3b28151b667364e9c90789da7923",
+    "mintable": false,
+    "ethereum_address": "0x888888888889c00c67689029d7856aac1065ec11"
+}

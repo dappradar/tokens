@@ -1,0 +1,8 @@
+{
+    "symbol": "DoTxUNI-V2",
+    "name": "DoTx Uniswap V2 (PoS)",
+    "decimals": 18,
+    "address": "0x421e0acea8cd9d4aa2bcedb407726b6a4bffb664",
+    "mintable": false,
+    "ethereum_address": "0x5488ed7f9a99684d0e9eccd3847860c734017575"
+}

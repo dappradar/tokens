@@ -1,0 +1,8 @@
+{
+    "symbol": "stMATIC",
+    "name": "Staked MATIC (PoS)",
+    "decimals": 18,
+    "address": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",
+    "mintable": false,
+    "ethereum_address": "0x9ee91f9f426fa633d227f7a9b000e28b9dfd8599"
+}

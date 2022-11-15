@@ -1,0 +1,8 @@
+{
+    "symbol": "Titan",
+    "name": "TitanSwap (PoS)",
+    "decimals": 18,
+    "address": "0x79ddc6ca9b76aa14dcfbd02bf75db588f5486df8",
+    "mintable": false,
+    "ethereum_address": "0x3a8cccb969a61532d1e6005e2ce12c200caece87"
+}

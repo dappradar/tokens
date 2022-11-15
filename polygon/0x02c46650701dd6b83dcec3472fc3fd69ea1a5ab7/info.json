@@ -1,0 +1,8 @@
+{
+    "symbol": "DVF",
+    "name": "DeversiFi Token (PoS)",
+    "decimals": 18,
+    "address": "0x02c46650701dd6b83dcec3472fc3fd69ea1a5ab7",
+    "mintable": false,
+    "ethereum_address": "0xdddddd4301a082e62e84e43f474f044423921918"
+}

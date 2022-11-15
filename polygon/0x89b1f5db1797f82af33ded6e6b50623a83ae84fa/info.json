@@ -1,0 +1,8 @@
+{
+    "symbol": "iBTCV",
+    "name": "Inverse BTC Volatility Index (PoS)",
+    "decimals": 18,
+    "address": "0x89b1f5db1797f82af33ded6e6b50623a83ae84fa",
+    "mintable": true,
+    "ethereum_address": "0x2590f1fd14ef8bb0a46c7a889c4cbc146510f9c3"
+}

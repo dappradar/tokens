@@ -1,0 +1,8 @@
+{
+    "symbol": "MUNCH",
+    "name": "Munchkin (PoS)",
+    "decimals": 18,
+    "address": "0xae8a6947c285c43018fd07e44c01ac8b0b405d45",
+    "mintable": false,
+    "ethereum_address": "0x76ce25898b6749c36a38ebb49c4f7fb83e62e5cc"
+}

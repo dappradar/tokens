@@ -1,0 +1,8 @@
+{
+    "symbol": "PINU",
+    "name": "Piccolo Inu (PoS)",
+    "decimals": 9,
+    "address": "0x298018eeec6d4a38aa33ab73bf4954b9d1af68fc",
+    "mintable": false,
+    "ethereum_address": "0x3a1311b8c404629e38f61d566cefefed083b9670"
+}

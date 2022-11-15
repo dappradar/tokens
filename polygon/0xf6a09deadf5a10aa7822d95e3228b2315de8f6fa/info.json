@@ -1,0 +1,8 @@
+{
+    "symbol": "MM",
+    "name": "Mintopoly Money (PoS)",
+    "decimals": 8,
+    "address": "0xf6a09deadf5a10aa7822d95e3228b2315de8f6fa",
+    "mintable": false,
+    "ethereum_address": "0xf6a09deadf5a10aa7822d95e3228b2315de8f6fa"
+}

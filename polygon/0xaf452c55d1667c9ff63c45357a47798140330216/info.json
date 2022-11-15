@@ -1,0 +1,8 @@
+{
+    "symbol": "ITGR",
+    "name": "Integral (PoS)",
+    "decimals": 18,
+    "address": "0xaf452c55d1667c9ff63c45357a47798140330216",
+    "mintable": false,
+    "ethereum_address": "0xd502f487e1841fdc805130e13eae80c61186bc98"
+}

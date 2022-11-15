@@ -1,0 +1,8 @@
+{
+    "symbol": "LCX",
+    "name": "LCX (PoS)",
+    "decimals": 18,
+    "address": "0xe8a51d0dd1b4525189dda2187f90ddf0932b5482",
+    "mintable": false,
+    "ethereum_address": "0x037a54aab062628c9bbae1fdb1583c195585fe41"
+}

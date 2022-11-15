@@ -1,0 +1,8 @@
+{
+    "symbol": "PAGE",
+    "name": "Page (PoS)",
+    "decimals": 8,
+    "address": "0x9cee70895726b0ea14e6019c961daf32222a7c2f",
+    "mintable": false,
+    "ethereum_address": "0x60e683c6514edd5f758a55b6f393bebbafaa8d5e"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "MAPS",
+    "name": "Maps.me Token (PoS)",
+    "decimals": 6,
+    "address": "0x7b9fd890072508f66978e1cb9d4f802dcc2c4fdf",
+    "mintable": false,
+    "ethereum_address": "0x2b915b505c017abb1547aa5ab355fbe69865cc6d"
+}

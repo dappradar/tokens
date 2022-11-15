@@ -1,0 +1,8 @@
+{
+    "symbol": "ANKO",
+    "name": "AnkoCoin (PoS)",
+    "decimals": 18,
+    "address": "0x058af2e730fb5ee7e1d7ecbc5079be1aabd30513",
+    "mintable": false,
+    "ethereum_address": "0x10345d3bfad41aee695ec0e7ca5c39abb44a9a21"
+}

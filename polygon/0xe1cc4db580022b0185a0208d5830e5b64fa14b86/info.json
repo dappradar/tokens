@@ -1,0 +1,8 @@
+{
+    "symbol": "MDC",
+    "name": "Medici Token (PoS)",
+    "decimals": 18,
+    "address": "0xe1cc4db580022b0185a0208d5830e5b64fa14b86",
+    "mintable": false,
+    "ethereum_address": "0x96f5094998a20008839487369012bb4d3c56eafc"
+}

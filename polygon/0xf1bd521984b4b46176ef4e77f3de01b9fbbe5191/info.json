@@ -1,0 +1,8 @@
+{
+    "symbol": "CARDS",
+    "name": "CARD.STARTER (PoS)",
+    "decimals": 18,
+    "address": "0xf1bd521984b4b46176ef4e77f3de01b9fbbe5191",
+    "mintable": false,
+    "ethereum_address": "0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9"
+}

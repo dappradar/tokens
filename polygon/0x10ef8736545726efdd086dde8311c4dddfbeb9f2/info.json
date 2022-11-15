@@ -1,0 +1,8 @@
+{
+    "symbol": "BITS",
+    "name": "BITS (PoS)",
+    "decimals": 18,
+    "address": "0x10ef8736545726efdd086dde8311c4dddfbeb9f2",
+    "mintable": false,
+    "ethereum_address": "0xfd37968269ebde4c2129eb8b0f05924c77bd82f6"
+}

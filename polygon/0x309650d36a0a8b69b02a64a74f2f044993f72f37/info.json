@@ -1,0 +1,8 @@
+{
+    "symbol": "DENA",
+    "name": "Decentralized Nations (PoS)",
+    "decimals": 18,
+    "address": "0x309650d36a0a8b69b02a64a74f2f044993f72f37",
+    "mintable": false,
+    "ethereum_address": "0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da"
+}

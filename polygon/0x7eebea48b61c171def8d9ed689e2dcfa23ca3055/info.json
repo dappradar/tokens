@@ -1,0 +1,8 @@
+{
+    "symbol": "EMVI",
+    "name": "Ember Metaverse Index (PoS)",
+    "decimals": 18,
+    "address": "0x7eebea48b61c171def8d9ed689e2dcfa23ca3055",
+    "mintable": false,
+    "ethereum_address": "0xc4797eda62a675790cf8b7e1f17d16fa9917a248"
+}

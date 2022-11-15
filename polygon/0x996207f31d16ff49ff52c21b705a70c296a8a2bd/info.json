@@ -1,0 +1,8 @@
+{
+    "symbol": "BPROTO",
+    "name": "!Butterfly Protocol Registry Token (PoS)",
+    "decimals": 0,
+    "address": "0x996207f31d16ff49ff52c21b705a70c296a8a2bd",
+    "mintable": false,
+    "ethereum_address": "0x5ff749b95e00f17bd754895abb502fd1c66f56f8"
+}

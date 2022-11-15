@@ -1,0 +1,8 @@
+{
+    "symbol": "SGT",
+    "name": "SharedStake Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0xdd418748fecfc870b7322b1d11402814f5ee55ab",
+    "mintable": false,
+    "ethereum_address": "0x84810bcf08744d5862b8181f12d17bfd57d3b078"
+}

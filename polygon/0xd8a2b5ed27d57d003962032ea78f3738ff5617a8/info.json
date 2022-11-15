@@ -1,0 +1,8 @@
+{
+    "symbol": "AKRO",
+    "name": "Akropolis (PoS)",
+    "decimals": 18,
+    "address": "0xd8a2b5ed27d57d003962032ea78f3738ff5617a8",
+    "mintable": false,
+    "ethereum_address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
+}

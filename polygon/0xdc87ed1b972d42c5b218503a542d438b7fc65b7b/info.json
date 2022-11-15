@@ -1,0 +1,8 @@
+{
+    "symbol": "SPOR",
+    "name": "ShroomTopia SPOR Token (PoS)",
+    "decimals": 18,
+    "address": "0xdc87ed1b972d42c5b218503a542d438b7fc65b7b",
+    "mintable": true,
+    "ethereum_address": "0x80b70ec7ed638b5f7b4ecf0edbe6c2feebde9d02"
+}

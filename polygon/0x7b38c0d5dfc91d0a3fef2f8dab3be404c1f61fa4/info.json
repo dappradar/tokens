@@ -1,0 +1,8 @@
+{
+    "symbol": "RSR",
+    "name": "Reserve Rights (PoS)",
+    "decimals": 18,
+    "address": "0x7b38c0d5dfc91d0a3fef2f8dab3be404c1f61fa4",
+    "mintable": false,
+    "ethereum_address": "0x8762db106b2c2a0bccb3a80d1ed41273552616e8"
+}

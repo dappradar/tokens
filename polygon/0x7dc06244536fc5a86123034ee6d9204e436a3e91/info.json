@@ -1,0 +1,8 @@
+{
+    "symbol": "CTRO",
+    "name": "CRIPTORO COIN (PoS)",
+    "decimals": 10,
+    "address": "0x7dc06244536fc5a86123034ee6d9204e436a3e91",
+    "mintable": false,
+    "ethereum_address": "0xb3ab2b676a1efdb16a227e151dc31f5bd3856744"
+}

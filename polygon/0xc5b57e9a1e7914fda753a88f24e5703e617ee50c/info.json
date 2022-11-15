@@ -1,0 +1,8 @@
+{
+    "symbol": "POP",
+    "name": "Popcorn (PoS)",
+    "decimals": 18,
+    "address": "0xc5b57e9a1e7914fda753a88f24e5703e617ee50c",
+    "mintable": false,
+    "ethereum_address": "0xd0cd466b34a24fcb2f87676278af2005ca8a78c4"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "AWW",
+    "name": "Amun Wrapped Weth (PoS)",
+    "decimals": 18,
+    "address": "0x229f692ada2f4405789d5aeeac832877e4c0750e",
+    "mintable": true,
+    "ethereum_address": "0x229f692ada2f4405789d5aeeac832877e4c0750e"
+}

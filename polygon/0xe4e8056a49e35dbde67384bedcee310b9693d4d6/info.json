@@ -1,0 +1,8 @@
+{
+    "symbol": "50MM",
+    "name": "50MM (PoS)",
+    "decimals": 18,
+    "address": "0xe4e8056a49e35dbde67384bedcee310b9693d4d6",
+    "mintable": false,
+    "ethereum_address": "0x3239ebfa182b04dfca2a15ccf81af97c024ce0e0"
+}

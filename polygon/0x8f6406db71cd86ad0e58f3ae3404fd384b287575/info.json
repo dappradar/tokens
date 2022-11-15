@@ -1,0 +1,8 @@
+{
+    "symbol": "FREDX",
+    "name": "FRED Energy ERC-20 (PoS)",
+    "decimals": 18,
+    "address": "0x8f6406db71cd86ad0e58f3ae3404fd384b287575",
+    "mintable": false,
+    "ethereum_address": "0xd8e2b153e94daec5fe657a49ff59bb68fa67f126"
+}

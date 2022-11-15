@@ -1,0 +1,8 @@
+{
+    "symbol": "Yf-DAI",
+    "name": "YfDAI.finance (PoS)",
+    "decimals": 18,
+    "address": "0x7e7ff932fab08a0af569f93ce65e7b8b23698ad8",
+    "mintable": false,
+    "ethereum_address": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577"
+}

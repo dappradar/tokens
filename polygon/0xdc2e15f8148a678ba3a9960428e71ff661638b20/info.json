@@ -1,0 +1,8 @@
+{
+    "symbol": "FLOKI",
+    "name": "Floki Inu (PoS)",
+    "decimals": 9,
+    "address": "0xdc2e15f8148a678ba3a9960428e71ff661638b20",
+    "mintable": false,
+    "ethereum_address": "0xb1f4b66104353ec63d8d59d3da42c0b4fb06e7f3"
+}

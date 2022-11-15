@@ -1,0 +1,8 @@
+{
+    "symbol": "PLEXUS",
+    "name": "Plexus Coin (PoS)",
+    "decimals": 18,
+    "address": "0x0b6643f87c37280f5006808ad4766c34fbf0996c",
+    "mintable": false,
+    "ethereum_address": "0xcfed2d8316d794426a4699a719bcf18cecf36787"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "URUS",
+    "name": "Aurox Token (PoS)",
+    "decimals": 18,
+    "address": "0xa3e6ac447c6a65e738adbda36034b54e2bc9603b",
+    "mintable": false,
+    "ethereum_address": "0x6c5fbc90e4d78f70cc5025db005b39b03914fc0c"
+}

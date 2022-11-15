@@ -1,0 +1,8 @@
+{
+    "symbol": "POOLZ",
+    "name": "$Poolz Finance (PoS)",
+    "decimals": 18,
+    "address": "0xa052efcdd44f02073b1fdc42bf06017a0234ae03",
+    "mintable": false,
+    "ethereum_address": "0x69a95185ee2a045cdc4bcd1b1df10710395e4e23"
+}

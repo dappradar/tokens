@@ -1,0 +1,8 @@
+{
+    "symbol": "WGMI",
+    "name": "WGMI (PoS)",
+    "decimals": 18,
+    "address": "0x1b9f699c6cb0aa6079f326a11d3c960680eab5d9",
+    "mintable": false,
+    "ethereum_address": "0x20f6a313cb250062331fe70b9567e3ee5f01888b"
+}

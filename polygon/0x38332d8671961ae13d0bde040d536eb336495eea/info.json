@@ -1,0 +1,8 @@
+{
+    "symbol": "RTK",
+    "name": "Ruletka (PoS)",
+    "decimals": 18,
+    "address": "0x38332d8671961ae13d0bde040d536eb336495eea",
+    "mintable": false,
+    "ethereum_address": "0x1f6deadcb526c4710cf941872b86dcdfbbbd9211"
+}

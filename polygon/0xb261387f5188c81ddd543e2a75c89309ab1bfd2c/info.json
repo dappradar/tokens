@@ -1,0 +1,8 @@
+{
+    "symbol": "mNFLX",
+    "name": "Wrapped Mirror NFLX Token (PoS)",
+    "decimals": 18,
+    "address": "0xb261387f5188c81ddd543e2a75c89309ab1bfd2c",
+    "mintable": false,
+    "ethereum_address": "0xc8d674114bac90148d11d3c1d33c61835a0f9dcd"
+}

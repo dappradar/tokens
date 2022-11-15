@@ -1,0 +1,8 @@
+{
+    "symbol": "POA20",
+    "name": "POA ERC20 on Foundation (PoS)",
+    "decimals": 18,
+    "address": "0xfc192e1943289d6731ae72850da167f4c194ab91",
+    "mintable": false,
+    "ethereum_address": "0x6758b7d441a9739b98552b373703d8d3d14f9e62"
+}

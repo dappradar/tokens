@@ -1,0 +1,8 @@
+{
+    "symbol": "HOPR",
+    "name": "Hopr (PoS)",
+    "decimals": 18,
+    "address": "0x6ccbf3627b2c83afef05bf2f035e7f7b210fe30d",
+    "mintable": false,
+    "ethereum_address": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da"
+}

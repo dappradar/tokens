@@ -1,0 +1,8 @@
+{
+    "symbol": "ZDR",
+    "name": "Zloadr Token (PoS)",
+    "decimals": 18,
+    "address": "0xd31de8ed2d7457124f69bf71e44b31e704dc416e",
+    "mintable": false,
+    "ethereum_address": "0xbdfa65533074b0b23ebc18c7190be79fa74b30c2"
+}

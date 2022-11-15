@@ -1,0 +1,8 @@
+{
+    "symbol": "ED",
+    "name": "Etherdieum (PoS)",
+    "decimals": 8,
+    "address": "0x7dadd73f6ae9e4ce0ba50d8818ebd8a7ec578b11",
+    "mintable": false,
+    "ethereum_address": "0x502d9bd338486432c3eddfd3d578e9dc9f0e6372"
+}

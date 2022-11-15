@@ -1,0 +1,8 @@
+{
+    "symbol": "NXN",
+    "name": "Nexen (PoS)",
+    "decimals": 18,
+    "address": "0x4e6a6ce59ca7aa0cbc52dbd81ab2dea89d7eccf2",
+    "mintable": false,
+    "ethereum_address": "0xbec8d5c639778652dc2440da996a6bcf43f07746"
+}

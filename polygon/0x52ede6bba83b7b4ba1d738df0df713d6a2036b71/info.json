@@ -1,0 +1,8 @@
+{
+    "symbol": "0xMR",
+    "name": "0xMonero (PoS)",
+    "decimals": 18,
+    "address": "0x52ede6bba83b7b4ba1d738df0df713d6a2036b71",
+    "mintable": false,
+    "ethereum_address": "0x035df12e0f3ac6671126525f1015e47d79dfeddf"
+}

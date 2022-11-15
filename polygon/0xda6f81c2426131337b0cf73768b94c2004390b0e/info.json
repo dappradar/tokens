@@ -1,0 +1,8 @@
+{
+    "symbol": "LMAO",
+    "name": "LMAO Token (PoS)",
+    "decimals": 18,
+    "address": "0xda6f81c2426131337b0cf73768b94c2004390b0e",
+    "mintable": false,
+    "ethereum_address": "0x69ef45cf64d8360279daa974aabadb42f0683a6c"
+}

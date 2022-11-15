@@ -1,0 +1,8 @@
+{
+    "symbol": "OMCH",
+    "name": "Omniunit Cash (PoS)",
+    "decimals": 18,
+    "address": "0x349f96f489ed4e73e6c118ed2d568343c9ee7cec",
+    "mintable": false,
+    "ethereum_address": "0xaedb08ffbda65c9843875669fbcb544bcab63feb"
+}

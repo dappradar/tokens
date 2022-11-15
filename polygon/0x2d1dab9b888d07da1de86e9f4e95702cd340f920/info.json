@@ -1,0 +1,8 @@
+{
+    "symbol": "VNN",
+    "name": "VINU Network (PoS)",
+    "decimals": 18,
+    "address": "0x2d1dab9b888d07da1de86e9f4e95702cd340f920",
+    "mintable": false,
+    "ethereum_address": "0x3442fbf264b6d723e01775a710850dcef6e6847c"
+}

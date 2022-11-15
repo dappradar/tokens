@@ -1,0 +1,8 @@
+{
+    "symbol": "eILS",
+    "name": "Telcoin ILS (PoS)",
+    "decimals": 6,
+    "address": "0x52224f462cf0a26d19b979a3f7d2765d52312760",
+    "mintable": false,
+    "ethereum_address": "0x2b26c778529081b8851cbfdb4e51d42fd1274938"
+}

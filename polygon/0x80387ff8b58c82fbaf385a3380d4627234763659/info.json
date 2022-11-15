@@ -1,0 +1,8 @@
+{
+    "symbol": "NOID",
+    "name": "CannaSwap (PoS)",
+    "decimals": 18,
+    "address": "0x80387ff8b58c82fbaf385a3380d4627234763659",
+    "mintable": false,
+    "ethereum_address": "0x42624903735dc6396643200242f7f7b6c7b619ea"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "TestL",
+    "name": "L (PoS)",
+    "decimals": 18,
+    "address": "0xa05399ef2743b1b9dc391574212003bf12dcf96f",
+    "mintable": false,
+    "ethereum_address": "0xc19984187f9f66e6c4e5ddbc915c16c8d392d16f"
+}

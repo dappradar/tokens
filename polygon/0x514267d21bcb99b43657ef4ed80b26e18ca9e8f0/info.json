@@ -1,0 +1,8 @@
+{
+    "symbol": "NFTK",
+    "name": "NFTWiki Token (PoS)",
+    "decimals": 18,
+    "address": "0x514267d21bcb99b43657ef4ed80b26e18ca9e8f0",
+    "mintable": false,
+    "ethereum_address": "0xccb4dfdb4f95697ab5c389185f0ba9042a78576f"
+}

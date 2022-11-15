@@ -1,0 +1,8 @@
+{
+    "symbol": "$SLIVER",
+    "name": "Lucky Races Sliver (PoS)",
+    "decimals": 18,
+    "address": "0xa95b410743e8c2f7b64f1373d3ca2b3454864a94",
+    "mintable": true,
+    "ethereum_address": "0xf5112170ec586385333fbfa15e4a7a4aa9f82cfc"
+}

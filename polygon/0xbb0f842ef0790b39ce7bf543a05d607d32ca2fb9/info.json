@@ -1,0 +1,8 @@
+{
+    "symbol": "AZK",
+    "name": "Azekwoh (PoS)",
+    "decimals": 18,
+    "address": "0xbb0f842ef0790b39ce7bf543a05d607d32ca2fb9",
+    "mintable": false,
+    "ethereum_address": "0x57f3dbb5f0d03cb33b7783055619bef1eec56fd4"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "FLDX",
+    "name": "FullDex (PoS)",
+    "decimals": 16,
+    "address": "0xe5d6364efcdcb90ed92cf6f776dd0b6165168a7e",
+    "mintable": false,
+    "ethereum_address": "0x6a30ef92f921836f3743a4a9d27e6cf2c8670b9b"
+}

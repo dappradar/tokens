@@ -1,0 +1,8 @@
+{
+    "symbol": "AXS",
+    "name": "Axie Infinity Shard (PoS)",
+    "decimals": 18,
+    "address": "0x334d7ae7f1d21ceb74537391558ce57bbf3ccf73",
+    "mintable": false,
+    "ethereum_address": "0xf5d669627376ebd411e34b98f19c868c8aba5ada"
+}

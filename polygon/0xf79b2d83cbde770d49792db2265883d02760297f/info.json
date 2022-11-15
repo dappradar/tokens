@@ -1,0 +1,8 @@
+{
+    "symbol": "YOLO",
+    "name": "Yolo Utility (PoS)",
+    "decimals": 18,
+    "address": "0xf79b2d83cbde770d49792db2265883d02760297f",
+    "mintable": false,
+    "ethereum_address": "0x6b29497eab483081ffe3969c040638184cad4e95"
+}

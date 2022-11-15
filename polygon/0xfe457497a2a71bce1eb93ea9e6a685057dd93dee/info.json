@@ -1,0 +1,8 @@
+{
+    "symbol": "BNSD",
+    "name": "bns.finance (PoS)",
+    "decimals": 18,
+    "address": "0xfe457497a2a71bce1eb93ea9e6a685057dd93dee",
+    "mintable": false,
+    "ethereum_address": "0x668dbf100635f593a3847c0bdaf21f0a09380188"
+}

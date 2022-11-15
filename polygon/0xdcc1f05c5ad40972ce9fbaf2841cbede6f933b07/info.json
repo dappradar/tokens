@@ -1,0 +1,8 @@
+{
+    "symbol": "MYCE",
+    "name": "MYCE PLATFORM (PoS)",
+    "decimals": 18,
+    "address": "0xdcc1f05c5ad40972ce9fbaf2841cbede6f933b07",
+    "mintable": false,
+    "ethereum_address": "0xe9966c1184f8552fcb16f65addba9dd08fe8f4ea"
+}

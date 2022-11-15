@@ -1,0 +1,6 @@
+{
+    "symbol": "sETHBTC",
+    "name": "Synth ETH / BTC",
+    "decimals": 18,
+    "address": "0x104edf1da359506548bfc7c25ba1e28c16a70235"
+}

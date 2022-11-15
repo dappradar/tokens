@@ -1,0 +1,8 @@
+{
+    "symbol": "BYTES",
+    "name": "BYTES (PoS)",
+    "decimals": 18,
+    "address": "0x6735d8de3b8f81a08727a1860cc9a68e8ed93b96",
+    "mintable": false,
+    "ethereum_address": "0x7d647b1a0dcd5525e9c6b3d14be58f27674f8c95"
+}

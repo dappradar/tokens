@@ -1,0 +1,8 @@
+{
+    "symbol": "UM",
+    "name": "Continuum (PoS)",
+    "decimals": 18,
+    "address": "0x3b1a0c9252ee7403093ff55b4a5886d49a3d837a",
+    "mintable": true,
+    "ethereum_address": "0xb19dd661f076998e3b0456935092a233e12c2280"
+}

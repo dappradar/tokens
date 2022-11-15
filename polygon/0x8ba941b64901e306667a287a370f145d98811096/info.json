@@ -1,0 +1,8 @@
+{
+    "symbol": "CTI",
+    "name": "ClinTex (PoS)",
+    "decimals": 18,
+    "address": "0x8ba941b64901e306667a287a370f145d98811096",
+    "mintable": false,
+    "ethereum_address": "0x8c18d6a985ef69744b9d57248a45c0861874f244"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "AXN",
+    "name": "Axion (PoS)",
+    "decimals": 18,
+    "address": "0x221afac78d2725d090499b973bb42fc93cca2ef5",
+    "mintable": false,
+    "ethereum_address": "0x71f85b2e46976bd21302b64329868fd15eb0d127"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "eSKK",
+    "name": "Telcoin SKK (PoS)",
+    "decimals": 6,
+    "address": "0x47312dac3c2cf6c94bd22399f28cf632ddeafa3a",
+    "mintable": false,
+    "ethereum_address": "0x51965895c621f99458e62de24128a5365f998f2d"
+}

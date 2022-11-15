@@ -1,0 +1,8 @@
+{
+    "symbol": "BFED",
+    "name": "Fedoragold Coin (PoS)",
+    "decimals": 8,
+    "address": "0x1cf8f3158e1807ab2d3d22b6655e75a32379f8cc",
+    "mintable": false,
+    "ethereum_address": "0xfc8e8eec4423c0260d18f34685acff832dec63f8"
+}

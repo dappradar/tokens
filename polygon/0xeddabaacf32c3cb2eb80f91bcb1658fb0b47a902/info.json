@@ -1,0 +1,8 @@
+{
+    "symbol": "CORN",
+    "name": "GIRABRACORN (PoS)",
+    "decimals": 18,
+    "address": "0xeddabaacf32c3cb2eb80f91bcb1658fb0b47a902",
+    "mintable": false,
+    "ethereum_address": "0xfaf6f622af7ccef845495b98b193a9923d1dbc3a"
+}

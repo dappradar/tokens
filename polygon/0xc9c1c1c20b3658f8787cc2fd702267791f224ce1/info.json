@@ -1,0 +1,8 @@
+{
+    "symbol": "FTM",
+    "name": "Fantom Token (PoS)",
+    "decimals": 18,
+    "address": "0xc9c1c1c20b3658f8787cc2fd702267791f224ce1",
+    "mintable": false,
+    "ethereum_address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "rETH",
+    "name": "Rocket Pool ETH (PoS)",
+    "decimals": 18,
+    "address": "0x0266f4f08d82372cf0fcbccc0ff74309089c74d1",
+    "mintable": false,
+    "ethereum_address": "0xae78736cd615f374d3085123a210448e74fc6393"
+}

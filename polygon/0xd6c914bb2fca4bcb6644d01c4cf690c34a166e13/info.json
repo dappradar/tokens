@@ -1,0 +1,8 @@
+{
+    "symbol": "ViFi",
+    "name": "Vibrant Finance (PoS)",
+    "decimals": 18,
+    "address": "0xd6c914bb2fca4bcb6644d01c4cf690c34a166e13",
+    "mintable": false,
+    "ethereum_address": "0x8a99e2dae13e4df4a6aa2a9db2d6a7901ed0107d"
+}

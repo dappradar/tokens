@@ -1,0 +1,8 @@
+{
+    "symbol": "GNBU",
+    "name": "Nimbus Governance Token (PoS)",
+    "decimals": 18,
+    "address": "0x68de9750059aed98c9a200ee661a5316b5c7f941",
+    "mintable": false,
+    "ethereum_address": "0x639ae8f3eed18690bf451229d14953a5a5627b72"
+}

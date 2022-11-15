@@ -1,0 +1,8 @@
+{
+    "symbol": "ERC20",
+    "name": "ERC20 (PoS)",
+    "decimals": 18,
+    "address": "0x9300169b33a02f968e5c2a00607e0ece26248752",
+    "mintable": false,
+    "ethereum_address": "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "PERP",
+    "name": "PERP (PoS)",
+    "decimals": 18,
+    "address": "0x263534a4fe3cb249df46810718b7b612a30ebbff",
+    "mintable": false,
+    "ethereum_address": "0xbc396689893d065f41bc2c6ecbee5e0085233447"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "DEFI5",
+    "name": "DEFI Top 5 Tokens Index (PoS)",
+    "decimals": 18,
+    "address": "0x42435f467d33e5c4146a4e8893976ef12bbce762",
+    "mintable": false,
+    "ethereum_address": "0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41"
+}

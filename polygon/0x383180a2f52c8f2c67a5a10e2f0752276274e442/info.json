@@ -1,0 +1,8 @@
+{
+    "symbol": "CHIZ",
+    "name": "SRSC Chiz Token (PoS)",
+    "decimals": 18,
+    "address": "0x383180a2f52c8f2c67a5a10e2f0752276274e442",
+    "mintable": false,
+    "ethereum_address": "0x5c761c1a21637362374204000e383204d347064c"
+}

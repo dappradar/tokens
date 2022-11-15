@@ -1,0 +1,8 @@
+{
+    "symbol": "SRN",
+    "name": "SIRIN (PoS)",
+    "decimals": 18,
+    "address": "0xb37dc3620b3ed0d09bbd43bcb9cef277a6a0f49b",
+    "mintable": false,
+    "ethereum_address": "0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25"
+}

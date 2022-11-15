@@ -1,0 +1,8 @@
+{
+    "symbol": "BANANA",
+    "name": "Banana (PoS)",
+    "decimals": 18,
+    "address": "0xbc91347e80886453f3f8bbd6d7ac07c122d87735",
+    "mintable": false,
+    "ethereum_address": "0x94e496474f1725f1c1824cb5bdb92d7691a4f03a"
+}

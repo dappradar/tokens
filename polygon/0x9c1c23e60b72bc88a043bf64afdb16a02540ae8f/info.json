@@ -1,0 +1,8 @@
+{
+    "symbol": "Ring",
+    "name": "Darwinia (PoS)",
+    "decimals": 18,
+    "address": "0x9c1c23e60b72bc88a043bf64afdb16a02540ae8f",
+    "mintable": false,
+    "ethereum_address": "0x9469d013805bffb7d3debe5e7839237e535ec483"
+}

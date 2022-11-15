@@ -1,0 +1,8 @@
+{
+    "symbol": "iUSDT",
+    "name": "yfii Tether USD (PoS)",
+    "decimals": 6,
+    "address": "0x6a3e4008af5dcfc416e1b17130783daee13ab694",
+    "mintable": false,
+    "ethereum_address": "0x72cf258c852dc485a853370171d46b9d29fd3184"
+}

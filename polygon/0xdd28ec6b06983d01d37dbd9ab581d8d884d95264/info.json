@@ -1,0 +1,8 @@
+{
+    "symbol": "SUMMER",
+    "name": "Summer Token (PoS)",
+    "decimals": 18,
+    "address": "0xdd28ec6b06983d01d37dbd9ab581d8d884d95264",
+    "mintable": false,
+    "ethereum_address": "0x4d4f3715050571a447fffa2cd4cf091c7014ca5c"
+}

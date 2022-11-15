@@ -1,0 +1,8 @@
+{
+    "symbol": "BLANK",
+    "name": "GoBlank Token (PoS)",
+    "decimals": 18,
+    "address": "0xf4c83080e80ae530d6f8180572cbbf1ac9d5d435",
+    "mintable": false,
+    "ethereum_address": "0x41a3dba3d677e573636ba691a70ff2d606c29666"
+}

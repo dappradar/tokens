@@ -1,0 +1,8 @@
+{
+    "symbol": "LUDUS",
+    "name": "Ludus (PoS)",
+    "decimals": 18,
+    "address": "0xd132d531367d5907d0844988a71b9fad32d14368",
+    "mintable": false,
+    "ethereum_address": "0x03fdcadc09559262f40f5ea61c720278264eb1da"
+}

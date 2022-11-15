@@ -1,0 +1,8 @@
+{
+    "symbol": "MBM",
+    "name": "Mobilum Token (PoS)",
+    "decimals": 18,
+    "address": "0x5a98291b9a7643448f5366fe4a4918f7cb566912",
+    "mintable": false,
+    "ethereum_address": "0x281f5b914b0d589f8193cd5e711c6920874e00c8"
+}

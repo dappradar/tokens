@@ -1,0 +1,8 @@
+{
+    "symbol": "WETH",
+    "name": "Wrapped Ether (PoS)",
+    "decimals": 18,
+    "address": "0x8b47b31aaabfc6280f43c77a04f80eb2f57d032b",
+    "mintable": false,
+    "ethereum_address": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8"
+}

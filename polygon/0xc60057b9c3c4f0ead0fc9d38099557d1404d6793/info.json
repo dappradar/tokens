@@ -1,0 +1,8 @@
+{
+    "symbol": "REN",
+    "name": "MIREN (PoS)",
+    "decimals": 18,
+    "address": "0xc60057b9c3c4f0ead0fc9d38099557d1404d6793",
+    "mintable": false,
+    "ethereum_address": "0xe6b055abb1c40b6c0bf3a4ae126b6b8dbe6c5f3f"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "rFIS",
+    "name": "StaFi (PoS)",
+    "decimals": 18,
+    "address": "0xa3983552d08ab820002a38baf51c5f3777c0d287",
+    "mintable": false,
+    "ethereum_address": "0xc82eb6dea0c93edb8b697b89ad1b13d19469d635"
+}

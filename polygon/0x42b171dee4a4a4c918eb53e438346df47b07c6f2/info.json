@@ -1,0 +1,8 @@
+{
+    "symbol": "MOI",
+    "name": "MOI (PoS)",
+    "decimals": 18,
+    "address": "0x42b171dee4a4a4c918eb53e438346df47b07c6f2",
+    "mintable": false,
+    "ethereum_address": "0xce78fe539ef8b6c77b5726113c7b2e78f71dc6ab"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "RNB",
+    "name": "Rentible (PoS)",
+    "decimals": 18,
+    "address": "0x4d53d5cf63ed51dda047b363f3a6f62677d37613",
+    "mintable": false,
+    "ethereum_address": "0x2a039b1d9bbdccbb91be28691b730ca893e5e743"
+}

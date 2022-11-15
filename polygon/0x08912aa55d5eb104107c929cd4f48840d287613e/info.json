@@ -1,0 +1,8 @@
+{
+    "symbol": "dcaps",
+    "name": "Dogecaps (PoS)",
+    "decimals": 9,
+    "address": "0x08912aa55d5eb104107c929cd4f48840d287613e",
+    "mintable": false,
+    "ethereum_address": "0x0bafa383ea3726982fcf0507f63c9c3d02f28eec"
+}

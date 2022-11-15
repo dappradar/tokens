@@ -1,0 +1,8 @@
+{
+    "symbol": "GCR",
+    "name": "Galaxy Credit (PoS)",
+    "decimals": 18,
+    "address": "0xbb6a2269b53927b0957d77acb18d85d96cd4f3f6",
+    "mintable": false,
+    "ethereum_address": "0x58669e51d77a4aabc8273718ab8c41e442d4777f"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "VDT",
+    "name": "Vendetta (PoS)",
+    "decimals": 18,
+    "address": "0x47d6dd2ac466950debac53ca90d6bf37cb65f373",
+    "mintable": false,
+    "ethereum_address": "0x5922c10653143f7eb8c0733563ede65e2e4e618e"
+}

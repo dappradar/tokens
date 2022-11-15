@@ -1,0 +1,8 @@
+{
+    "symbol": "KSPC",
+    "name": "Kona Summit Platform Coin (PoS)",
+    "decimals": 18,
+    "address": "0x07b64f5ca7c9227e03e43b92d3b20de7a4c1c869",
+    "mintable": false,
+    "ethereum_address": "0xea6b6a4b813d1436a75883fcc789121e4b3f0465"
+}

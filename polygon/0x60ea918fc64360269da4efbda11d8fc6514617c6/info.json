@@ -1,0 +1,8 @@
+{
+    "symbol": "SUKU",
+    "name": "SUKU (PoS)",
+    "decimals": 18,
+    "address": "0x60ea918fc64360269da4efbda11d8fc6514617c6",
+    "mintable": false,
+    "ethereum_address": "0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7"
+}

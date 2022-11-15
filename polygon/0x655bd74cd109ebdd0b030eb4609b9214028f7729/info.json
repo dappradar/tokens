@@ -1,0 +1,8 @@
+{
+    "symbol": "OUSD",
+    "name": "Origin Dollar (PoS)",
+    "decimals": 18,
+    "address": "0x655bd74cd109ebdd0b030eb4609b9214028f7729",
+    "mintable": false,
+    "ethereum_address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86"
+}

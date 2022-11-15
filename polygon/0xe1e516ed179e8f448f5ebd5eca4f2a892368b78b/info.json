@@ -1,0 +1,8 @@
+{
+    "symbol": "RPC",
+    "name": "Ripio Coin (PoS)",
+    "decimals": 18,
+    "address": "0xe1e516ed179e8f448f5ebd5eca4f2a892368b78b",
+    "mintable": false,
+    "ethereum_address": "0xed025a9fe4b30bcd68460bca42583090c2266468"
+}

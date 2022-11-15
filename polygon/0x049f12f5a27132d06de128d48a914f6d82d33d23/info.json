@@ -1,0 +1,8 @@
+{
+    "symbol": "JulD",
+    "name": "JulSwap (PoS)",
+    "decimals": 18,
+    "address": "0x049f12f5a27132d06de128d48a914f6d82d33d23",
+    "mintable": false,
+    "ethereum_address": "0x93effd08e3e5a4b1b40c26137e63876b2501ffa4"
+}

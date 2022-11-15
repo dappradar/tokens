@@ -1,0 +1,8 @@
+{
+    "symbol": "BLUE",
+    "name": "Ethereum Blue (PoS)",
+    "decimals": 8,
+    "address": "0xe7f960685aba7327ada3b161ea252703c87be0bf",
+    "mintable": false,
+    "ethereum_address": "0x539efe69bcdd21a83efd9122571a64cc25e0282b"
+}

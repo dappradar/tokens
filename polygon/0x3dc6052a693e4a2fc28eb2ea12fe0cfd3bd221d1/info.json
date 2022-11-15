@@ -1,0 +1,8 @@
+{
+    "symbol": "IRIS",
+    "name": "IRISnet (PoS)",
+    "decimals": 6,
+    "address": "0x3dc6052a693e4a2fc28eb2ea12fe0cfd3bd221d1",
+    "mintable": false,
+    "ethereum_address": "0x76c4a2b59523eae19594c630aab43288dbb1463f"
+}

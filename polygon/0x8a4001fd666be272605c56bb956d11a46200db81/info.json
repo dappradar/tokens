@@ -1,0 +1,8 @@
+{
+    "symbol": "GREEN",
+    "name": "Green Token (PoS)",
+    "decimals": 8,
+    "address": "0x8a4001fd666be272605c56bb956d11a46200db81",
+    "mintable": false,
+    "ethereum_address": "0x5e68801a5dda8671051006eb2920ffe9cd553544"
+}

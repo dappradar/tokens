@@ -1,0 +1,8 @@
+{
+    "symbol": "DGX",
+    "name": "Digix Gold Token (PoS)",
+    "decimals": 9,
+    "address": "0xed29195ecd25da21e8942884c5faebafd4e07dab",
+    "mintable": false,
+    "ethereum_address": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf"
+}

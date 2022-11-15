@@ -1,0 +1,8 @@
+{
+    "symbol": "SHOPX",
+    "name": "SPLYT SHOPX (PoS)",
+    "decimals": 18,
+    "address": "0x7886a4ebdda9f1861d6a081cd794b3e79c375011",
+    "mintable": false,
+    "ethereum_address": "0x7bef710a5759d197ec0bf621c3df802c2d60d848"
+}

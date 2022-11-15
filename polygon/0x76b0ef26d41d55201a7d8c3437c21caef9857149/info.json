@@ -1,0 +1,8 @@
+{
+    "symbol": "CLIK",
+    "name": "CLIK (PoS)",
+    "decimals": 18,
+    "address": "0x76b0ef26d41d55201a7d8c3437c21caef9857149",
+    "mintable": false,
+    "ethereum_address": "0xf273e3bc6acdf27c01b8b1c35d39c33b067153dd"
+}

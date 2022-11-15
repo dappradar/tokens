@@ -1,0 +1,8 @@
+{
+    "symbol": "IMX",
+    "name": "Immutable X (PoS)",
+    "decimals": 18,
+    "address": "0x183070c90b34a63292cc908ce1b263cb56d49a7f",
+    "mintable": false,
+    "ethereum_address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff"
+}

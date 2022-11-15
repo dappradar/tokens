@@ -1,0 +1,8 @@
+{
+    "symbol": "PCOIN",
+    "name": "Polylend Token (PoS)",
+    "decimals": 18,
+    "address": "0x86589a8fa4945657a41ed013633ff26ca9a26a2b",
+    "mintable": false,
+    "ethereum_address": "0x12393ba26e2c5dafeb81c803d0be7beb50971cc1"
+}

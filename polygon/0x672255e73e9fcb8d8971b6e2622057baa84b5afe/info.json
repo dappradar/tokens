@@ -1,0 +1,8 @@
+{
+    "symbol": "PLAY",
+    "name": "Herocoin (PoS)",
+    "decimals": 18,
+    "address": "0x672255e73e9fcb8d8971b6e2622057baa84b5afe",
+    "mintable": false,
+    "ethereum_address": "0xe477292f1b3268687a29376116b0ed27a9c76170"
+}

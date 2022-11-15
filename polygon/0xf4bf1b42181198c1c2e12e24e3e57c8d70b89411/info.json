@@ -1,0 +1,8 @@
+{
+    "symbol": "TANKS",
+    "name": "Tanks (PoS)",
+    "decimals": 18,
+    "address": "0xf4bf1b42181198c1c2e12e24e3e57c8d70b89411",
+    "mintable": false,
+    "ethereum_address": "0xf604d1e51122592e0babe63ac334c0e647222f2d"
+}

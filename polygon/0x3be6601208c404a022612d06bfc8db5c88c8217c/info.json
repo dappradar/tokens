@@ -1,0 +1,8 @@
+{
+    "symbol": "MOE",
+    "name": "MOE Token (PoS)",
+    "decimals": 18,
+    "address": "0x3be6601208c404a022612d06bfc8db5c88c8217c",
+    "mintable": true,
+    "ethereum_address": "0x6d9cf12482b14888453b63a0821b7b0e854f59a2"
+}

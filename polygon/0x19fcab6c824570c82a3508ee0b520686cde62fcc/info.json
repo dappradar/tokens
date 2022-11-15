@@ -1,0 +1,8 @@
+{
+    "symbol": "GFEE",
+    "name": "FeelGrid Token (PoS)",
+    "decimals": 18,
+    "address": "0x19fcab6c824570c82a3508ee0b520686cde62fcc",
+    "mintable": false,
+    "ethereum_address": "0xa2d17610a0106f3106d8ff0e2d88ab7b9e51b71b"
+}

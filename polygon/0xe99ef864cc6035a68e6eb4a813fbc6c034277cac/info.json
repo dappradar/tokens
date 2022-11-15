@@ -1,0 +1,8 @@
+{
+    "symbol": "SINU",
+    "name": "Scam Inu (PoS)",
+    "decimals": 18,
+    "address": "0xe99ef864cc6035a68e6eb4a813fbc6c034277cac",
+    "mintable": false,
+    "ethereum_address": "0xdb6f6c8b940110617cf66e50c271e2278c8a32df"
+}

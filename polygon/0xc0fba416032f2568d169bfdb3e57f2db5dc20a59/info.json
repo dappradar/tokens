@@ -1,0 +1,8 @@
+{
+    "symbol": "APCG",
+    "name": "ALL Pay Coin (PoS)",
+    "decimals": 18,
+    "address": "0xc0fba416032f2568d169bfdb3e57f2db5dc20a59",
+    "mintable": false,
+    "ethereum_address": "0x434cb4fc4b952872967914d430878eee53ebd502"
+}

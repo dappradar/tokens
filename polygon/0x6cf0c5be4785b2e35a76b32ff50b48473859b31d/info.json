@@ -1,0 +1,8 @@
+{
+    "symbol": "SCOOP",
+    "name": "Scoop Token (PoS)",
+    "decimals": 18,
+    "address": "0x6cf0c5be4785b2e35a76b32ff50b48473859b31d",
+    "mintable": false,
+    "ethereum_address": "0xb226dc40b282020697fadbb2482bc879e5c7c6c8"
+}

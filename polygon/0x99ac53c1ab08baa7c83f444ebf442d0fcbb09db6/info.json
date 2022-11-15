@@ -1,0 +1,8 @@
+{
+    "symbol": "GFX",
+    "name": "GamyFi (PoS)",
+    "decimals": 18,
+    "address": "0x99ac53c1ab08baa7c83f444ebf442d0fcbb09db6",
+    "mintable": false,
+    "ethereum_address": "0xe4fa3c576c31696322e8d7165c5965d5a1f6a1a5"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "PWERC",
+    "name": "PWER Credits (PoS)",
+    "decimals": 18,
+    "address": "0xd555c8247e63f18b90c749c6cc959a054e7b27ee",
+    "mintable": false,
+    "ethereum_address": "0xac5403b3674860b34ca717c0ecb5fcd950324291"
+}

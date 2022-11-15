@@ -1,0 +1,8 @@
+{
+    "symbol": "eCZK",
+    "name": "Telcoin CZK (PoS)",
+    "decimals": 6,
+    "address": "0x2e2317996149b04cd5a90e208a022fb8d7a745ba",
+    "mintable": false,
+    "ethereum_address": "0x3bc74839d550c5353f5d9da162a39b62afc5f1f5"
+}

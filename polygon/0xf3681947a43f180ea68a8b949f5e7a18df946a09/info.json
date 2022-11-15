@@ -1,0 +1,8 @@
+{
+    "symbol": "DOWS",
+    "name": "Shadows Network (PoS)",
+    "decimals": 18,
+    "address": "0xf3681947a43f180ea68a8b949f5e7a18df946a09",
+    "mintable": false,
+    "ethereum_address": "0x661ab0ed68000491d98c796146bcf28c20d7c559"
+}

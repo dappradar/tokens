@@ -1,0 +1,8 @@
+{
+    "symbol": "WHEYV2",
+    "name": "WheyTokenV2 (PoS)",
+    "decimals": 18,
+    "address": "0x0cfbbb89fd58f6b49b7bf5665397ddc84003d47c",
+    "mintable": true,
+    "ethereum_address": "0x072cfb8233680b7b196fc8ba6e1af76cbb5c49e6"
+}

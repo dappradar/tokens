@@ -1,0 +1,8 @@
+{
+    "symbol": "DONUT",
+    "name": "DONUT (PoS)",
+    "decimals": 18,
+    "address": "0xde4e5b3672c4077b69216b77d99d8ec35ec6c31a",
+    "mintable": false,
+    "ethereum_address": "0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9"
+}

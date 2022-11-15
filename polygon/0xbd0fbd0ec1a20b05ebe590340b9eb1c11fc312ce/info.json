@@ -1,0 +1,8 @@
+{
+    "symbol": "IST",
+    "name": "InStarToken (PoS)",
+    "decimals": 0,
+    "address": "0xbd0fbd0ec1a20b05ebe590340b9eb1c11fc312ce",
+    "mintable": false,
+    "ethereum_address": "0x543ecfb0d28fa40d639494957e7cba52460f490e"
+}

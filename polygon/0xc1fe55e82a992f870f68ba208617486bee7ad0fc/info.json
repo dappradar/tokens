@@ -1,0 +1,8 @@
+{
+    "symbol": "DON",
+    "name": "Donkey (PoS)",
+    "decimals": 18,
+    "address": "0xc1fe55e82a992f870f68ba208617486bee7ad0fc",
+    "mintable": false,
+    "ethereum_address": "0x217ddead61a42369a266f1fb754eb5d3ebadc88a"
+}

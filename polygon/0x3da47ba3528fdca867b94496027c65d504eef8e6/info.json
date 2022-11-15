@@ -1,0 +1,8 @@
+{
+    "symbol": "iWETH",
+    "name": "Wrapped Ether IOU (PoS)",
+    "decimals": 18,
+    "address": "0x3da47ba3528fdca867b94496027c65d504eef8e6",
+    "mintable": true,
+    "ethereum_address": "0x3da47ba3528fdca867b94496027c65d504eef8e6"
+}

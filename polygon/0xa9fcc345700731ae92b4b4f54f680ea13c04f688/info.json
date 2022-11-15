@@ -1,0 +1,8 @@
+{
+    "symbol": "BRS",
+    "name": "BRS Token (PoS)",
+    "decimals": 18,
+    "address": "0xa9fcc345700731ae92b4b4f54f680ea13c04f688",
+    "mintable": false,
+    "ethereum_address": "0xfad4fbc137b9c270ae2964d03b6d244d105e05a6"
+}

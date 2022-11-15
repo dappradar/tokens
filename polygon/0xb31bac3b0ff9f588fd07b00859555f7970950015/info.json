@@ -1,0 +1,8 @@
+{
+    "symbol": "$KING",
+    "name": "KingToken (PoS)",
+    "decimals": 18,
+    "address": "0xb31bac3b0ff9f588fd07b00859555f7970950015",
+    "mintable": false,
+    "ethereum_address": "0xd2057d71fe3f5b0dc1e3e7722940e1908fc72078"
+}

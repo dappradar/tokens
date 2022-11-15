@@ -1,0 +1,8 @@
+{
+    "symbol": "ORBS",
+    "name": "Orbs (PoS)",
+    "decimals": 18,
+    "address": "0x614389eaae0a6821dc49062d56bda3d9d45fa2ff",
+    "mintable": false,
+    "ethereum_address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "WHALE",
+    "name": "WHALE (PoS)",
+    "decimals": 4,
+    "address": "0xb9585ec9d4c97ad9ded7250bb9a199fe8eed0eca",
+    "mintable": false,
+    "ethereum_address": "0x9355372396e3f6daf13359b7b607a3374cc638e0"
+}

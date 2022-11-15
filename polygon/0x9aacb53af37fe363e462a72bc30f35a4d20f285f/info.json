@@ -1,0 +1,8 @@
+{
+    "symbol": "VIDT",
+    "name": "VIDT Datalink (PoS)",
+    "decimals": 18,
+    "address": "0x9aacb53af37fe363e462a72bc30f35a4d20f285f",
+    "mintable": false,
+    "ethereum_address": "0xfef4185594457050cc9c23980d301908fe057bb1"
+}

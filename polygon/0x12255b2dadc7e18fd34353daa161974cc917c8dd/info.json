@@ -1,0 +1,8 @@
+{
+    "symbol": "DIGG",
+    "name": "Digg (PoS)",
+    "decimals": 9,
+    "address": "0x12255b2dadc7e18fd34353daa161974cc917c8dd",
+    "mintable": false,
+    "ethereum_address": "0x798d1be841a82a273720ce31c822c61a67a601c3"
+}

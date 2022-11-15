@@ -1,0 +1,8 @@
+{
+    "symbol": "eZAR",
+    "name": "Telcoin ZAR (PoS)",
+    "decimals": 6,
+    "address": "0x5465ff3a011c30fe027c1cc2390229c83cd600a4",
+    "mintable": false,
+    "ethereum_address": "0x76b76be997249d5ee1f7344e0e0f058f139278ff"
+}

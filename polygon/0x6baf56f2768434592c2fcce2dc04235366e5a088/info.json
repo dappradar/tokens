@@ -1,0 +1,8 @@
+{
+    "symbol": "mDAI",
+    "name": "mushrooming Dai Stablecoin (PoS)",
+    "decimals": 18,
+    "address": "0x6baf56f2768434592c2fcce2dc04235366e5a088",
+    "mintable": false,
+    "ethereum_address": "0x6802377968857656fe8ae47fbece76aae588eef7"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "TKN",
+    "name": "Monolith TKN (PoS)",
+    "decimals": 8,
+    "address": "0xd98defac38214426ef58cf7996de8b373933f902",
+    "mintable": false,
+    "ethereum_address": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a"
+}

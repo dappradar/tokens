@@ -1,0 +1,8 @@
+{
+    "symbol": "BLTV",
+    "name": "BlockTV (PoS)",
+    "decimals": 18,
+    "address": "0x2c1084a041b976b96b769d1c250562864317c1aa",
+    "mintable": false,
+    "ethereum_address": "0xe08854b668958657064fa20f309f6ba7a19d5af2"
+}

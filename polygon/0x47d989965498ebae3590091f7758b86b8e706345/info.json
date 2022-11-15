@@ -1,0 +1,8 @@
+{
+    "symbol": "ROAR",
+    "name": "Roar Token (PoS)",
+    "decimals": 18,
+    "address": "0x47d989965498ebae3590091f7758b86b8e706345",
+    "mintable": false,
+    "ethereum_address": "0xcbba83a4d3f35d294a26012ac54e9ab6627da018"
+}

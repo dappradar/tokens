@@ -1,0 +1,8 @@
+{
+    "symbol": "QNT",
+    "name": "Quant (PoS)",
+    "decimals": 18,
+    "address": "0x36b77a184be8ee56f5e81c56727b20647a42e28e",
+    "mintable": false,
+    "ethereum_address": "0x4a220e6096b25eadb88358cb44068a3248254675"
+}

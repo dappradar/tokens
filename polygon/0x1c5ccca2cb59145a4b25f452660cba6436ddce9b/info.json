@@ -1,0 +1,8 @@
+{
+    "symbol": "MIR",
+    "name": "Wrapped MIR Token (PoS)",
+    "decimals": 18,
+    "address": "0x1c5ccca2cb59145a4b25f452660cba6436ddce9b",
+    "mintable": false,
+    "ethereum_address": "0x09a3ecafa817268f77be1283176b946c4ff2e608"
+}

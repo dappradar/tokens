@@ -1,0 +1,8 @@
+{
+    "symbol": "G-Bucks",
+    "name": "Troverse Galaxy Bucks (PoS)",
+    "decimals": 18,
+    "address": "0xec9e8bcfe96ee50f51cfb8102ba68fa2532b0a83",
+    "mintable": false,
+    "ethereum_address": "0x1940a7b039ab210689aafb332c5f07b523d81f36"
+}

@@ -1,0 +1,8 @@
+{
+    "symbol": "CORDBRIDGE",
+    "name": "CORD.Finance Bridge (PoS)",
+    "decimals": 18,
+    "address": "0x6c222361b1407c196f740c1bffc17d1770bfd55c",
+    "mintable": false,
+    "ethereum_address": "0x63ebe5dc670fa883e184771fcb42555cb6069bca"
+}

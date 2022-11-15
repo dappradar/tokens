@@ -1,0 +1,8 @@
+{
+    "symbol": "eXRD",
+    "name": "E-RADIX (PoS)",
+    "decimals": 18,
+    "address": "0x56b1c1e028c2e0a8852906e1ee7730ed67a3d9bb",
+    "mintable": false,
+    "ethereum_address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414"
+}

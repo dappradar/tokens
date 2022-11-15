@@ -1,0 +1,8 @@
+{
+    "symbol": "SPI",
+    "name": "Shopping.io (PoS)",
+    "decimals": 18,
+    "address": "0x068180071617528606371c31892ecbf2b70ac1d2",
+    "mintable": false,
+    "ethereum_address": "0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7"
+}

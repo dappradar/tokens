@@ -1,0 +1,8 @@
+{
+    "symbol": "TREATS",
+    "name": "Shibies Treats (PoS)",
+    "decimals": 18,
+    "address": "0x21364671fd823bbda8ba1f40a24171decbdb3d54",
+    "mintable": false,
+    "ethereum_address": "0x0b5afdc93a86062a49063ea96ae944d7f966b6ae"
+}

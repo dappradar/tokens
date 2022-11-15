@@ -1,0 +1,8 @@
+{
+    "symbol": "ACY",
+    "name": "ACY (PoS)",
+    "decimals": 18,
+    "address": "0x8b1f836491903743fe51acd13f2cc8ab95b270f6",
+    "mintable": false,
+    "ethereum_address": "0xaf9db9e362e306688af48c4acb9618c06db38ac3"
+}

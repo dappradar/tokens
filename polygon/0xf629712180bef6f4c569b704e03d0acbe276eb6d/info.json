@@ -1,0 +1,8 @@
+{
+    "symbol": "WSTA",
+    "name": "Wrapped STA (PoS)",
+    "decimals": 18,
+    "address": "0xf629712180bef6f4c569b704e03d0acbe276eb6d",
+    "mintable": false,
+    "ethereum_address": "0xedeec5691f23e4914cf0183a4196bbeb30d027a0"
+}

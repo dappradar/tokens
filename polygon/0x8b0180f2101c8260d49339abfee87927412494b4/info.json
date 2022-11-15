@@ -1,0 +1,8 @@
+{
+    "symbol": "NTT",
+    "name": "NFTicket Token (PoS)",
+    "decimals": 18,
+    "address": "0x8b0180f2101c8260d49339abfee87927412494b4",
+    "mintable": false,
+    "ethereum_address": "0x023ecaebc57fae26579ae395dcd431d63c072339"
+}

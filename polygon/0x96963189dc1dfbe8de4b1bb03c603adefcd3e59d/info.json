@@ -1,0 +1,8 @@
+{
+    "symbol": "LTO",
+    "name": "LTO Network Token (PoS)",
+    "decimals": 8,
+    "address": "0x96963189dc1dfbe8de4b1bb03c603adefcd3e59d",
+    "mintable": false,
+    "ethereum_address": "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d"
+}

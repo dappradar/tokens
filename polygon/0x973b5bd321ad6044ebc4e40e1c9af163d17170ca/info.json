@@ -1,0 +1,8 @@
+{
+    "symbol": "DVPN",
+    "name": "Sentinel (PoS)",
+    "decimals": 6,
+    "address": "0x973b5bd321ad6044ebc4e40e1c9af163d17170ca",
+    "mintable": false,
+    "ethereum_address": "0xc81978862b6ce566400579a5f8975732d42bd410"
+}

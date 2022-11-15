@@ -1,0 +1,8 @@
+{
+    "symbol": "LC",
+    "name": "Lockable (PoS)",
+    "decimals": 18,
+    "address": "0x41a7e62e231bad6026b82952c78fab6e61d96958",
+    "mintable": false,
+    "ethereum_address": "0x41a7e62e231bad6026b82952c78fab6e61d96958"
+}

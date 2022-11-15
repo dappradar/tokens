@@ -1,0 +1,8 @@
+{
+    "symbol": "FOOT",
+    "name": "Foot Guns DAO (PoS)",
+    "decimals": 18,
+    "address": "0xdd0d1d0a02865e1cb7a01ce42e70f265dc0a5775",
+    "mintable": false,
+    "ethereum_address": "0x1cd8202ea1a12dfe810df055007a9c7da04137e0"
+}

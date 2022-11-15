@@ -1,0 +1,8 @@
+{
+    "symbol": "ePLN",
+    "name": "Telcoin PLN (PoS)",
+    "decimals": 6,
+    "address": "0x420578de0b0daa8595192d3b12e09d1ea092c89d",
+    "mintable": false,
+    "ethereum_address": "0x0d30f8f4846b56b1689b24cadb2a315807a2551e"
+}

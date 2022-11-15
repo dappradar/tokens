@@ -1,0 +1,8 @@
+{
+    "symbol": "EURS",
+    "name": "STASIS EURS Token (PoS)",
+    "decimals": 2,
+    "address": "0xe111178a87a3bff0c8d18decba5798827539ae99",
+    "mintable": false,
+    "ethereum_address": "0xdb25f211ab05b1c97d595516f45794528a807ad8"
+}

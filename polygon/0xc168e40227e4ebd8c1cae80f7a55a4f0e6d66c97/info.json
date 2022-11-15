@@ -1,0 +1,8 @@
+{
+    "symbol": "DFYN",
+    "name": "DFYN Token (PoS)",
+    "decimals": 18,
+    "address": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
+    "mintable": false,
+    "ethereum_address": "0x9695e0114e12c0d3a3636fab5a18e6b737529023"
+}

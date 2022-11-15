@@ -1,0 +1,8 @@
+{
+    "symbol": "STRONG",
+    "name": "Strong (PoS)",
+    "decimals": 18,
+    "address": "0xf4487f1ff4f7e38c640aea91d7bb47aea98c09a7",
+    "mintable": false,
+    "ethereum_address": "0x990f341946a3fdb507ae7e52d17851b87168017c"
+}

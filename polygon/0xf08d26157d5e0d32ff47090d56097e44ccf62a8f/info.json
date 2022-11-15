@@ -1,0 +1,8 @@
+{
+    "symbol": "eMXN",
+    "name": "Telcoin MXN (PoS)",
+    "decimals": 6,
+    "address": "0xf08d26157d5e0d32ff47090d56097e44ccf62a8f",
+    "mintable": false,
+    "ethereum_address": "0x54d7dd52e313adc86272cc0793d504daf97fee82"
+}

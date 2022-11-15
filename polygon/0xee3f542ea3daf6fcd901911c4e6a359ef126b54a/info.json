@@ -1,0 +1,8 @@
+{
+    "symbol": "DYS",
+    "name": "DYSEUM Token (PoS)",
+    "decimals": 18,
+    "address": "0xee3f542ea3daf6fcd901911c4e6a359ef126b54a",
+    "mintable": false,
+    "ethereum_address": "0x36af5a7c234bdc7b64eb84e0adec13283bf30f3b"
+}

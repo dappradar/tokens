@@ -1,0 +1,8 @@
+{
+    "symbol": "SLAY2EARN",
+    "name": "Slay To Earn (PoS)",
+    "decimals": 18,
+    "address": "0x172ddabfb1c8ebd46de4cd69a14026376dc60510",
+    "mintable": false,
+    "ethereum_address": "0x2932624ff57f5920ce498bb343385c0332ec6e40"
+}

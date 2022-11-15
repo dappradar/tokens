@@ -1,0 +1,8 @@
+{
+    "symbol": "UBXT",
+    "name": "UpBots (PoS)",
+    "decimals": 18,
+    "address": "0xdd24e07c3c840ae6435e7c9f98e6ee6ce168d788",
+    "mintable": false,
+    "ethereum_address": "0x8564653879a18c560e7c0ea0e084c516c62f5653"
+}

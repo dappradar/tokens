@@ -1,0 +1,8 @@
+{
+    "symbol": "PLAY",
+    "name": "Play (PoS)",
+    "decimals": 4,
+    "address": "0xba69262e09671c049b898df9724167b843265969",
+    "mintable": false,
+    "ethereum_address": "0xc53a9c309ee2f3e333bd6eca806a31d0e2dca5c5"
+}

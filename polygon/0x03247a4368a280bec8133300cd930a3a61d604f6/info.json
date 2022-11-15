@@ -1,0 +1,8 @@
+{
+    "symbol": "RBAL",
+    "name": "Rebalance Token (PoS)",
+    "decimals": 18,
+    "address": "0x03247a4368a280bec8133300cd930a3a61d604f6",
+    "mintable": false,
+    "ethereum_address": "0xe5a6739b21fe84847dade7152ae6c68895dfdb38"
+}

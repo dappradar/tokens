@@ -1,0 +1,8 @@
+{
+    "symbol": "AAPX",
+    "name": "AMPnet APX Token (PoS)",
+    "decimals": 18,
+    "address": "0x3fc8bd9b0d8054cbdc174c4ed4b41a95d3c6a427",
+    "mintable": false,
+    "ethereum_address": "0xbfd815347d024f449886c171f78fa5b8e6790811"
+}

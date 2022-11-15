@@ -1,0 +1,8 @@
+{
+    "symbol": "AGA",
+    "name": "AGA Token (PoS)",
+    "decimals": 4,
+    "address": "0x033d942a6b495c4071083f4cde1f17e986fe856c",
+    "mintable": false,
+    "ethereum_address": "0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20"
+}

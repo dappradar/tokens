@@ -1,0 +1,8 @@
+{
+    "symbol": "GUILD",
+    "name": "MinersGuildReserve (PoS)",
+    "decimals": 8,
+    "address": "0x3bab4a09388a63cd1eefae24eea8b5b1d9fb8489",
+    "mintable": false,
+    "ethereum_address": "0x657223e3fdf539d92c40664db340097d5d6bd9f5"
+}

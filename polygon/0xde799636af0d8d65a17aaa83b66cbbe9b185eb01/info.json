@@ -1,0 +1,8 @@
+{
+    "symbol": "XIV",
+    "name": "INVERSE (PoS)",
+    "decimals": 18,
+    "address": "0xde799636af0d8d65a17aaa83b66cbbe9b185eb01",
+    "mintable": false,
+    "ethereum_address": "0x44f262622248027f8e2a8fb1090c4cf85072392c"
+}

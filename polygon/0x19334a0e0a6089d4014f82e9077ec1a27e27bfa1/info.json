@@ -1,0 +1,8 @@
+{
+    "symbol": "SHIBCO",
+    "name": "Shiba Cosmos (PoS)",
+    "decimals": 9,
+    "address": "0x19334a0e0a6089d4014f82e9077ec1a27e27bfa1",
+    "mintable": false,
+    "ethereum_address": "0xc5c43ad81e6c76eaa1f2dd92cb6a11ff6b6d09ea"
+}

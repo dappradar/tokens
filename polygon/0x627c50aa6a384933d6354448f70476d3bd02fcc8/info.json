@@ -1,0 +1,8 @@
+{
+    "symbol": "renBCH",
+    "name": "renBCH (PoS)",
+    "decimals": 8,
+    "address": "0x627c50aa6a384933d6354448f70476d3bd02fcc8",
+    "mintable": false,
+    "ethereum_address": "0x459086f2376525bdceba5bdda135e4e9d3fef5bf"
+}

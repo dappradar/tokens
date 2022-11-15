@@ -1,0 +1,8 @@
+{
+    "symbol": "SEED",
+    "name": "Seed (PoS)",
+    "decimals": 18,
+    "address": "0xeaecc18198a475c921b24b8a6c1c1f0f5f3f7ea0",
+    "mintable": false,
+    "ethereum_address": "0x30cf203b48edaa42c3b4918e955fed26cd012a3f"
+}

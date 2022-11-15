@@ -1,0 +1,8 @@
+{
+    "symbol": "MEMO",
+    "name": "MetaMEMO (PoS)",
+    "decimals": 18,
+    "address": "0x2710ed3f5d44268dcb89f549050718aa237c8a47",
+    "mintable": false,
+    "ethereum_address": "0xeb8eec5a2dbf6e6f4cc542ad31cce706f8f80419"
+}

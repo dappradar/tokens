@@ -1,0 +1,8 @@
+{
+    "symbol": "NIL",
+    "name": "NIL Token (PoS)",
+    "decimals": 9,
+    "address": "0x6374fce99cf93a8f07728c4adf2991b0f5e50f45",
+    "mintable": false,
+    "ethereum_address": "0x7deb93314090837fb33bb9a30d62c459bdfdc661"
+}

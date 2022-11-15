@@ -1,0 +1,8 @@
+{
+    "symbol": "sETH",
+    "name": "Synth sETH (PoS)",
+    "decimals": 18,
+    "address": "0x53c1ab7a25f1a44921de8bf479f5528845fc1254",
+    "mintable": false,
+    "ethereum_address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb"
+}

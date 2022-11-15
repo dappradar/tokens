@@ -1,0 +1,8 @@
+{
+    "symbol": "DOGPIX",
+    "name": "Doge Pixel (239, 375) (PoS)",
+    "decimals": 18,
+    "address": "0xff93b30c021beedab0f6e28a7a08bddd155b15a4",
+    "mintable": false,
+    "ethereum_address": "0x0332713aef01faedbf821473c165ae25079372e0"
+}

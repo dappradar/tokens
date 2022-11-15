@@ -1,0 +1,8 @@
+{
+    "symbol": "NCT",
+    "name": "Nectar (PoS)",
+    "decimals": 18,
+    "address": "0x4985e0b13554fb521840e893574d3848c10fcc6f",
+    "mintable": false,
+    "ethereum_address": "0x9e46a38f5daabe8683e10793b06749eef7d733d1"
+}
