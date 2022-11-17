@@ -1,0 +1,8 @@
+{
+    "symbol": "LOLO",
+    "name": "LOLO (PoS)",
+    "decimals": 18,
+    "address": "0x7060c9654786f950fd15c4d85077d8d9bb0ebf04",
+    "mintable": false,
+    "ethereum_address": "0x18405655f932c03926cf8cf41e5f0c037808f712"
+}
