@@ -1,0 +1,8 @@
+{
+    "symbol": "LM",
+    "name": "LeisureMeta (PoS)",
+    "decimals": 18,
+    "address": "0x32455b151e3bbaabba50989d8c4b3100d1cf8638",
+    "mintable": false,
+    "ethereum_address": "0x7bec98609cb6378d6f995e8f8097ee78376fbec9"
+}
