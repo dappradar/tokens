@@ -1,0 +1,8 @@
+{
+    "symbol": "D3",
+    "name": "De365 (PoS)",
+    "decimals": 8,
+    "address": "0xcc3102dfe8472bfce09461f02deaaeb39cee1e16",
+    "mintable": false,
+    "ethereum_address": "0xcf63596ca18d7e04f8d4ddc2ec5a9c860b0ad65f"
+}
