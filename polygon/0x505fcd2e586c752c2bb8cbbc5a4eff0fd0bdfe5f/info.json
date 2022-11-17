@@ -1,0 +1,8 @@
+{
+    "symbol": "XCV",
+    "name": "Collective Vesting (PoS)",
+    "decimals": 8,
+    "address": "0x505fcd2e586c752c2bb8cbbc5a4eff0fd0bdfe5f",
+    "mintable": false,
+    "ethereum_address": "0xa7b8b741d2d4c55606268b59bcdb3582a52e71e6"
+}
