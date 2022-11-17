@@ -1,0 +1,8 @@
+{
+    "symbol": "WRLD",
+    "name": "WRLD (PoS)",
+    "decimals": 18,
+    "address": "0xff2d6934fb49e3e883dc03871d081a1c21ad7984",
+    "mintable": false,
+    "ethereum_address": "0xff2d6934fb49e3e883dc03871d081a1c21ad7984"
+}
