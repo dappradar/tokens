@@ -1,0 +1,8 @@
+{
+    "symbol": "TBAC",
+    "name": "BlockAura Token 3.1 (PoS)",
+    "decimals": 8,
+    "address": "0x2bac86b95e3fc97a5ad3f47c38f59c17eac6e3eb",
+    "mintable": false,
+    "ethereum_address": "0x591975253e25101f6e6f0383e13e82b7601d8c59"
+}
