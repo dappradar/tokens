@@ -1,0 +1,8 @@
+{
+    "symbol": "CLL",
+    "name": "CryptoLiveLeak (PoS)",
+    "decimals": 18,
+    "address": "0xc8f1248b803b5ced2d5556017092e5dabffdda37",
+    "mintable": false,
+    "ethereum_address": "0x3dc9a42fa7afe57be03c58fd7f4411b1e466c508"
+}
