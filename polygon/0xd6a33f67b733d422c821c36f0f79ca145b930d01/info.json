@@ -1,0 +1,8 @@
+{
+    "symbol": "AGLA",
+    "name": "Angola Coin (PoS)",
+    "decimals": 18,
+    "address": "0xd6a33f67b733d422c821c36f0f79ca145b930d01",
+    "mintable": false,
+    "ethereum_address": "0x1f7e5118521b550bb1a9b435727c003eb033fc51"
+}
