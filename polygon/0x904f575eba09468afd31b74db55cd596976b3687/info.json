@@ -1,0 +1,8 @@
+{
+    "symbol": "SDT",
+    "name": "Seed Token (PoS)",
+    "decimals": 8,
+    "address": "0x904f575eba09468afd31b74db55cd596976b3687",
+    "mintable": false,
+    "ethereum_address": "0xd4ba663b167fec3a3eb92b06f6ce40b245b16991"
+}
