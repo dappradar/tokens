@@ -1,0 +1,8 @@
+{
+    "symbol": "RLTM",
+    "name": "RealityToken (PoS)",
+    "decimals": 18,
+    "address": "0x1b396cf90504686b7ede2760eebb053d30d1f389",
+    "mintable": false,
+    "ethereum_address": "0x1b396cf90504686b7ede2760eebb053d30d1f389"
+}
