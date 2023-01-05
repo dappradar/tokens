@@ -1,0 +1,8 @@
+{
+    "symbol": "!FOX CONVERT 2023-12-21 0.16C USDC",
+    "name": "ShapeShift DAO Convertible Bond (PoS)",
+    "decimals": 6,
+    "address": "0x97340953ba41b21cce22f483f48a7eeabee77069",
+    "mintable": false,
+    "ethereum_address": "0x2e2a42fbe7c7e2ffc031baf7442dbe1f8957770a"
+}
