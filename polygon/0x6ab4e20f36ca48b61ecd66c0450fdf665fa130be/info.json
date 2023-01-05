@@ -1,0 +1,8 @@
+{
+    "symbol": "DOLZ",
+    "name": "Dolz (PoS)",
+    "decimals": 18,
+    "address": "0x6ab4e20f36ca48b61ecd66c0450fdf665fa130be",
+    "mintable": false,
+    "ethereum_address": "0xe939f011a3d8fc0aa874c97e8156053a903d7176"
+}
