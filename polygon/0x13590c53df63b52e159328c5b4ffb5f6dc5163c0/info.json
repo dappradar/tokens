@@ -1,0 +1,8 @@
+{
+    "symbol": "FNCT",
+    "name": "FiNANCiE Token (PoS)",
+    "decimals": 18,
+    "address": "0x13590c53df63b52e159328c5b4ffb5f6dc5163c0",
+    "mintable": false,
+    "ethereum_address": "0x8af78f0c818302164f73b2365fe152c2d1fe80e1"
+}
