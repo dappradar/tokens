@@ -1,0 +1,8 @@
+{
+    "symbol": "BANANITE",
+    "name": "Bananite (PoS)",
+    "decimals": 18,
+    "address": "0xd917aa66dbab19fe947233329c6077aba179bcfd",
+    "mintable": false,
+    "ethereum_address": "0xab3d58df8d3e4c33682e66f8d4137a565fe8c6a2"
+}
