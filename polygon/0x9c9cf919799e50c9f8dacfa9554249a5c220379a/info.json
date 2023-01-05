@@ -1,0 +1,8 @@
+{
+    "symbol": "FID",
+    "name": "FID Token (PoS)",
+    "decimals": 18,
+    "address": "0x9c9cf919799e50c9f8dacfa9554249a5c220379a",
+    "mintable": false,
+    "ethereum_address": "0xdc4605fc4fbb24fd9fbb1e7b92e97f07897e7f05"
+}
