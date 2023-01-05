@@ -1,0 +1,8 @@
+{
+    "symbol": "PIRATE",
+    "name": "Pirate (PoS)",
+    "decimals": 0,
+    "address": "0x687e4d88c45eba1aefb0ace6d127d038e7235943",
+    "mintable": false,
+    "ethereum_address": "0x31fe9d95dde43cf9893b76160f63521a9e3d26b0"
+}
