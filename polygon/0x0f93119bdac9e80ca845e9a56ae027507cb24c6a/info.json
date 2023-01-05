@@ -1,0 +1,8 @@
+{
+    "symbol": "ICBT",
+    "name": "ICB Token (PoS)",
+    "decimals": 18,
+    "address": "0x0f93119bdac9e80ca845e9a56ae027507cb24c6a",
+    "mintable": false,
+    "ethereum_address": "0xfdf06c1eb3ffd195dc515fa128700a578460f504"
+}
