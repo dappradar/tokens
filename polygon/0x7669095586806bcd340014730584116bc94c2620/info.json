@@ -1,0 +1,8 @@
+{
+    "symbol": "BLXM",
+    "name": "bloXmove Token (PoS)",
+    "decimals": 18,
+    "address": "0x7669095586806bcd340014730584116bc94c2620",
+    "mintable": false,
+    "ethereum_address": "0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08"
+}
