@@ -1,0 +1,8 @@
+{
+    "symbol": "ONT",
+    "name": "OnTact (PoS)",
+    "decimals": 8,
+    "address": "0xe4adcbd654f1dc6324b5cac6400e391459752507",
+    "mintable": false,
+    "ethereum_address": "0x62843e29bac7c36f30cf86579ec322ea887f7047"
+}
