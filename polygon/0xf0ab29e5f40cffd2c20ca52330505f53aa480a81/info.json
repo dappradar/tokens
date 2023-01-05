@@ -1,0 +1,8 @@
+{
+    "symbol": "GMT",
+    "name": "GreenMetaverseToken (PoS)",
+    "decimals": 8,
+    "address": "0xf0ab29e5f40cffd2c20ca52330505f53aa480a81",
+    "mintable": false,
+    "ethereum_address": "0xe3c408bd53c31c085a1746af401a4042954ff740"
+}
