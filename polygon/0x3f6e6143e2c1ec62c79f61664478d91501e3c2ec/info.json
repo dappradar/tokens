@@ -1,0 +1,8 @@
+{
+    "symbol": "IMPT",
+    "name": "IMPT (PoS)",
+    "decimals": 18,
+    "address": "0x3f6e6143e2c1ec62c79f61664478d91501e3c2ec",
+    "mintable": false,
+    "ethereum_address": "0x04c17b9d3b29a78f7bd062a57cf44fc633e71f85"
+}
