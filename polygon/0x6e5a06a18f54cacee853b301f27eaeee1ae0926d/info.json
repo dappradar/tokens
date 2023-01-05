@@ -1,0 +1,8 @@
+{
+    "symbol": "TONCOIN",
+    "name": "Wrapped TON Coin (PoS)",
+    "decimals": 9,
+    "address": "0x6e5a06a18f54cacee853b301f27eaeee1ae0926d",
+    "mintable": false,
+    "ethereum_address": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1"
+}
