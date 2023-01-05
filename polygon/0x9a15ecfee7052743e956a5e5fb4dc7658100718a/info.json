@@ -1,0 +1,8 @@
+{
+    "symbol": "JBX",
+    "name": "Juicebox (PoS)",
+    "decimals": 18,
+    "address": "0x9a15ecfee7052743e956a5e5fb4dc7658100718a",
+    "mintable": false,
+    "ethereum_address": "0x3abf2a4f8452ccc2cf7b4c1e4663147600646f66"
+}
