@@ -1,0 +1,8 @@
+{
+    "symbol": "LITH",
+    "name": "Lithium (PoS)",
+    "decimals": 18,
+    "address": "0x08b0a0aaa047f94ad93cbe2ce5da4f3c21254898",
+    "mintable": false,
+    "ethereum_address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42"
+}
