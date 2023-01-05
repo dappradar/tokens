@@ -1,0 +1,8 @@
+{
+    "symbol": "SCI",
+    "name": "ScienceCoin (PoS)",
+    "decimals": 18,
+    "address": "0x3b87592054b6c8a7af5f208e8b1e266b4639f40e",
+    "mintable": false,
+    "ethereum_address": "0x8282c4f8debbb1d0749e870697df688f65937cbb"
+}
