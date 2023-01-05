@@ -1,0 +1,8 @@
+{
+    "symbol": "DGEN",
+    "name": "DEGEN (PoS)",
+    "decimals": 18,
+    "address": "0xdbb5da27ffcfebea8799a5832d4607714fc6aba8",
+    "mintable": false,
+    "ethereum_address": "0x45f93404ae1e4f0411a7f42bc6a5dc395792738d"
+}
