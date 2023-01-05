@@ -1,0 +1,8 @@
+{
+    "symbol": "RBC",
+    "name": "RUBIC TOKEN (PoS)",
+    "decimals": 18,
+    "address": "0x1ab2bfb59de8092928d333c0a6863ba7cf6b248b",
+    "mintable": false,
+    "ethereum_address": "0x3330bfb7332ca23cd071631837dc289b09c33333"
+}
