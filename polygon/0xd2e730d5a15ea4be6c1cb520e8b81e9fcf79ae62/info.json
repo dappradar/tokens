@@ -1,0 +1,8 @@
+{
+    "symbol": "ZAP",
+    "name": "ZapankiSwap (PoS)",
+    "decimals": 18,
+    "address": "0xd2e730d5a15ea4be6c1cb520e8b81e9fcf79ae62",
+    "mintable": true,
+    "ethereum_address": "0xd2e730d5a15ea4be6c1cb520e8b81e9fcf79ae62"
+}
