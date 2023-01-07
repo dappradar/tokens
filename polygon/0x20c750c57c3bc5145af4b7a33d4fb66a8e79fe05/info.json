@@ -1,0 +1,8 @@
+{
+    "symbol": "ORB",
+    "name": "OrbCity (PoS)",
+    "decimals": 18,
+    "address": "0x20c750c57c3bc5145af4b7a33d4fb66a8e79fe05",
+    "mintable": true,
+    "ethereum_address": "0x3c917054e03485808137eb306eafa8da0ab695cd"
+}
