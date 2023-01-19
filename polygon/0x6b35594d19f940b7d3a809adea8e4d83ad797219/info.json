@@ -1,0 +1,8 @@
+{
+    "symbol": "SUSD",
+    "name": "Stella USD (PoS)",
+    "decimals": 6,
+    "address": "0x6b35594d19f940b7d3a809adea8e4d83ad797219",
+    "mintable": false,
+    "ethereum_address": "0x4d300c472e1f23b4ba94f03e5e6b8c3167f281c6"
+}
