@@ -1,0 +1,8 @@
+{
+    "symbol": "FE1",
+    "name": "FINAL_ERC20_1 (PoS)",
+    "decimals": 18,
+    "address": "0xde6d5dc8ac4db6e9c0b93bfb4948693335092137",
+    "mintable": false,
+    "ethereum_address": "0x0207fdc3224339c6c23e946766113e3e722dd0ce"
+}
