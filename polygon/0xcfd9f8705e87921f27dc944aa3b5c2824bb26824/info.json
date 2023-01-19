@@ -1,0 +1,8 @@
+{
+    "symbol": "ST",
+    "name": "Stella (PoS)",
+    "decimals": 18,
+    "address": "0xcfd9f8705e87921f27dc944aa3b5c2824bb26824",
+    "mintable": false,
+    "ethereum_address": "0x379048a8db325c3317aa7f2a3b6d2fb537d8deb1"
+}
