@@ -1,0 +1,8 @@
+{
+    "symbol": "EGG",
+    "name": "Nestree (PoS)",
+    "decimals": 18,
+    "address": "0x3d058560e2c979b0fd142b29c220cf4da7b5d2fc",
+    "mintable": false,
+    "ethereum_address": "0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c"
+}
