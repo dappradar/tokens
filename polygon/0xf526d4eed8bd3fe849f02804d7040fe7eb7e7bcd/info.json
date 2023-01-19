@@ -1,0 +1,8 @@
+{
+    "symbol": "UCX",
+    "name": "U Token (PoS)",
+    "decimals": 18,
+    "address": "0xf526d4eed8bd3fe849f02804d7040fe7eb7e7bcd",
+    "mintable": false,
+    "ethereum_address": "0x3d3af44cf092a49280e316f09c8f20ecf97bc933"
+}
