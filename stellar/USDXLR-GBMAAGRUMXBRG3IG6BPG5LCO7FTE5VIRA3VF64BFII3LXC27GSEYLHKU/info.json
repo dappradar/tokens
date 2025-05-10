@@ -1,0 +1,10 @@
+{
+  "name": "USDXLR",
+  "symbol": "USDXLR",
+  "decimals": 7,
+  "description": "USDXLR is a yield-bearing dollar stablecoin issued by Excellar.",
+  "website": "https://excellar.finance",
+  "explorer": "https://stellar.expert/explorer/public/asset/USDXLR-GBMAAGRUMXBRG3IG6BPG5LCO7FTE5VIRA3VF64BFII3LXC27GSEYLHKU-2",
+  "type": "STELLAR",
+  "id": "USDXLR-GBMAAGRUMXBRG3IG6BPG5LCO7FTE5VIRA3VF64BFII3LXC27GSEYLHKU"
+}
