@@ -1,0 +1,8 @@
+{
+  "name": "BIRIBI",
+  "symbol": "BRB",
+  "decimals": 18,
+  "description": "Biribi is an adult on-chain roulette and risk-bearing bankroll-vault protocol on Arbitrum One. Bets and deposited capital can be lost. Withdrawals are queued and fees apply; no guaranteed yield or independent audit is claimed.",
+  "website": "https://biribi.net",
+  "explorer": "https://arbiscan.io/token/0x58871cf545f8f0df790443492a80edc414df4504"
+}
